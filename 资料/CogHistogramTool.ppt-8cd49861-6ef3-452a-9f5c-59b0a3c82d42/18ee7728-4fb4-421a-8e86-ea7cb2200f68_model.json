@@ -1,0 +1,1357 @@
+[
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.0,
+                1.0,
+                0.628
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.235,
+                0.637,
+                0.678,
+                0.711
+            ],
+            "angle": 0,
+            "content": "CogHistogramTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.793,
+                0.165,
+                0.827
+            ],
+            "angle": 0,
+            "content": "2019/12/19"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.733,
+                0.788,
+                0.87,
+                0.826
+            ],
+            "angle": 0,
+            "content": "Zhang Juan"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "学习目标"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.063,
+                0.175,
+                0.317,
+                0.214
+            ],
+            "angle": 0,
+            "content": "学员将学会正确地："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.222,
+                0.565,
+                0.258
+            ],
+            "angle": 0,
+            "content": "利用柱状图工具分析图像上是否存在某元件"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.326,
+                0.421,
+                0.361
+            ],
+            "angle": 0,
+            "content": "利用终端传送工具间的数据"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.114,
+                0.222,
+                0.565,
+                0.361
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.181,
+                0.11
+            ],
+            "angle": 0,
+            "content": "柱状图"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.106,
+                0.233,
+                0.859,
+                0.273
+            ],
+            "angle": 0,
+            "content": "柱状图是建立图像指定区域内所找到的灰度值的统计数字及平面线图"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.054,
+                0.406,
+                0.545,
+                0.527
+            ],
+            "angle": 0,
+            "content": "柱状图是在整个图像中以每种可能的像素浓度（X轴）对图像像素（Y轴）计数的平面线图。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.054,
+                0.566,
+                0.541,
+                0.648
+            ],
+            "angle": 0,
+            "content": "沿 X 轴每个像素浓度位置上图形的高度表明工具中具有该浓度的区域中像素的数量。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.054,
+                0.687,
+                0.536,
+                0.768
+            ],
+            "angle": 0,
+            "content": "X轴位置可以表示浓度组，而不是单个浓度。"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.581,
+                0.33,
+                0.929,
+                0.83
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.181,
+                0.11
+            ],
+            "angle": 0,
+            "content": "柱状图"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.063,
+                0.175,
+                0.284,
+                0.214
+            ],
+            "angle": 0,
+            "content": "柱状图可以用来："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.224,
+                0.327,
+                0.258
+            ],
+            "angle": 0,
+            "content": "探测图像中是否存在某物"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.276,
+                0.243,
+                0.308
+            ],
+            "angle": 0,
+            "content": "监视光源的输出"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.14,
+                0.321,
+                0.289,
+                0.358
+            ],
+            "angle": 0,
+            "content": "- 软件测光仪"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.371,
+                0.349,
+                0.404
+            ],
+            "angle": 0,
+            "content": "测量图像内灰度值是否一致"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.422,
+                0.555,
+                0.455
+            ],
+            "angle": 0,
+            "content": "决定图像中的灰度值分布，以便设置其他视觉对象"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.083,
+                0.064,
+                0.397,
+                0.112
+            ],
+            "angle": 0,
+            "content": "添加柱状图和连接图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.233,
+                0.476,
+                0.363
+            ],
+            "angle": 0,
+            "content": "拖放像源的输出图像（OutputImage）到柱状图的输入图像（InputImage）"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.371,
+                0.474,
+                0.449
+            ],
+            "angle": 0,
+            "content": "现在，每次您运行工具组时，输出图像成为柱状图运行的图像"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.208,
+                0.565,
+                0.24
+            ],
+            "angle": 0,
+            "content": "Tools"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.512,
+                0.264,
+                0.577,
+                0.303
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.267,
+                0.771,
+                0.302
+            ],
+            "angle": 0,
+            "content": "<ToolGroup Inputs>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.513,
+                0.31,
+                0.576,
+                0.34
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.31,
+                0.718,
+                0.343
+            ],
+            "angle": 0,
+            "content": "Image Source"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.513,
+                0.35,
+                0.576,
+                0.382
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.584,
+                0.35,
+                0.746,
+                0.387
+            ],
+            "angle": 0,
+            "content": "OutputImage"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.513,
+                0.392,
+                0.576,
+                0.431
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.394,
+                0.769,
+                0.428
+            ],
+            "angle": 0,
+            "content": "CogHistogramTool"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.513,
+                0.436,
+                0.576,
+                0.468
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.584,
+                0.437,
+                0.73,
+                0.47
+            ],
+            "angle": 0,
+            "content": "InputImage"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.513,
+                0.478,
+                0.576,
+                0.51
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.584,
+                0.478,
+                0.744,
+                0.51
+            ],
+            "angle": 0,
+            "content": "Result.Mean"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.513,
+                0.521,
+                0.576,
+                0.552
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.584,
+                0.521,
+                0.733,
+                0.552
+            ],
+            "angle": 0,
+            "content": "ResultStar"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.513,
+                0.559,
+                0.576,
+                0.596
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.584,
+                0.562,
+                0.789,
+                0.597
+            ],
+            "angle": 0,
+            "content": "<ToolGroup Outputs>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.957,
+                0.168,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.243,
+                0.11
+            ],
+            "angle": 0,
+            "content": "柱状图图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.224,
+                0.481,
+                0.3
+            ],
+            "angle": 0,
+            "content": "- 柱状图有三个与其相关的图像（工具对话框）"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.322,
+                0.481,
+                0.395
+            ],
+            "angle": 0,
+            "content": "Current.InputImage 是柱状图在下一次运行时将要分析的图像"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.224,
+                0.481,
+                0.395
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.397,
+                0.461,
+                0.427
+            ],
+            "angle": 0,
+            "content": "在本例中，图像来源于像源的输出图像"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.521,
+                0.176,
+                0.964,
+                0.857
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.97
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.168,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.243,
+                0.11
+            ],
+            "angle": 0,
+            "content": "柱状图图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.234,
+                0.481,
+                0.316
+            ],
+            "angle": 0,
+            "content": "LastRun.InputImage 是柱状图在其上最后执行发生时的图像"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.521,
+                0.176,
+                0.964,
+                0.857
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.97
+            ],
+            "angle": 0,
+            "content": "7"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.168,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.243,
+                0.11
+            ],
+            "angle": 0,
+            "content": "柱状图图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.234,
+                0.473,
+                0.317
+            ],
+            "angle": 0,
+            "content": "LastRun.Histogram 是灰度值分布的一个平面线图"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.51,
+                0.22,
+                0.654,
+                0.249
+            ],
+            "angle": 0,
+            "content": "LastRun.Histogram"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.584,
+                0.331,
+                0.713,
+                0.358
+            ],
+            "angle": 0,
+            "content": "Number of Pixels"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.576,
+                0.372,
+                0.912,
+                0.859
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "8"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.058,
+                0.136,
+                0.186,
+                0.178
+            ],
+            "angle": 0,
+            "content": "关注区域"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.032,
+                0.181,
+                0.49,
+                0.22
+            ],
+            "angle": 0,
+            "content": "默认状态下，柱状图在整个图像上运行"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.032,
+                0.24,
+                0.597,
+                0.319
+            ],
+            "angle": 0,
+            "content": "为了分析图像的单个区域，选择一个区域形状并且在 Current.InputImage 上操纵"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.032,
+                0.181,
+                0.597,
+                0.319
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.173,
+                0.563,
+                0.428,
+                0.894
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.607,
+                0.167,
+                0.964,
+                0.901
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "9"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.168,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.066,
+                0.149,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图形"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.436,
+                0.317
+            ],
+            "angle": 0,
+            "content": "可选项，更改在运行时显示的图形"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.451,
+                0.189,
+                0.977,
+                0.766
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "10"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "结果"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.318,
+                0.317
+            ],
+            "angle": 0,
+            "content": "结果显示在控件和浮动结果表格中"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.347,
+                0.316,
+                0.431
+            ],
+            "angle": 0,
+            "content": "也可在VB或者C语言代码中访问"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.233,
+                0.318,
+                0.431
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.329,
+                0.193,
+                0.446,
+                0.222
+            ],
+            "angle": 0,
+            "content": "Settings/Region"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.458,
+                0.194,
+                0.517,
+                0.221
+            ],
+            "angle": 0,
+            "content": "Graphics"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.536,
+                0.194,
+                0.587,
+                0.22
+            ],
+            "angle": 0,
+            "content": "Results"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.334,
+                0.242,
+                0.397,
+                0.266
+            ],
+            "angle": 0,
+            "content": "Statistics"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.336,
+                0.28,
+                0.571,
+                0.308
+            ],
+            "angle": 0,
+            "content": "Minimum 8"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.336,
+                0.324,
+                0.571,
+                0.351
+            ],
+            "angle": 0,
+            "content": "Maximum 182"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.336,
+                0.366,
+                0.571,
+                0.394
+            ],
+            "angle": 0,
+            "content": "Median 163"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.336,
+                0.409,
+                0.571,
+                0.437
+            ],
+            "angle": 0,
+            "content": "Mode 179"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.336,
+                0.453,
+                0.569,
+                0.481
+            ],
+            "angle": 0,
+            "content": "Mean 148.052"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.336,
+                0.496,
+                0.568,
+                0.523
+            ],
+            "angle": 0,
+            "content": "Std.Dev. 41.3156"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.336,
+                0.538,
+                0.568,
+                0.566
+            ],
+            "angle": 0,
+            "content": "Variance 1706.98"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.336,
+                0.582,
+                0.568,
+                0.61
+            ],
+            "angle": 0,
+            "content": "Samples 307200"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.336,
+                0.28,
+                0.571,
+                0.61
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.607,
+                0.242,
+                0.642,
+                0.266
+            ],
+            "angle": 0,
+            "content": "Data"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.618,
+                0.272,
+                0.942,
+                0.794
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Grey Level</td><td>Counts</td><td>Cumulative %</td></tr><tr><td>87</td><td>98</td><td>11.0</td></tr><tr><td>88</td><td>110</td><td>11.1</td></tr><tr><td>89</td><td>96</td><td>11.1</td></tr><tr><td>90</td><td>158</td><td>11.2</td></tr><tr><td>91</td><td>149</td><td>11.2</td></tr><tr><td>92</td><td>143</td><td>11.3</td></tr><tr><td>93</td><td>147</td><td>11.3</td></tr><tr><td>94</td><td>184</td><td>11.4</td></tr><tr><td>95</td><td>182</td><td>11.4</td></tr><tr><td>96</td><td>185</td><td>11.5</td></tr><tr><td>97</td><td>205</td><td>11.6</td></tr><tr><td>98</td><td>240</td><td>11.6</td></tr><tr><td>99</td><td>223</td><td>11.7</td></tr><tr><td>100</td><td>277</td><td>11.8</td></tr><tr><td>101</td><td>326</td><td>11.9</td></tr><tr><td>102</td><td>340</td><td>12.0</td></tr><tr><td>103</td><td>325</td><td>12.1</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "11"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.281,
+                0.33,
+                0.577,
+                0.409
+            ],
+            "angle": 0,
+            "content": "Thank you."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "12"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ]
+]

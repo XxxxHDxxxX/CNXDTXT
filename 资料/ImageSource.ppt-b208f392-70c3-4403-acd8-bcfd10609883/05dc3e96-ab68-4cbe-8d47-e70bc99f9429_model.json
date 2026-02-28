@@ -1,0 +1,2449 @@
+[
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.0,
+                1.0,
+                0.628
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.298,
+                0.637,
+                0.616,
+                0.713
+            ],
+            "angle": 0,
+            "content": "ImageSource"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.793,
+                0.166,
+                0.827
+            ],
+            "angle": 0,
+            "content": "2019/12/19"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.733,
+                0.788,
+                0.87,
+                0.826
+            ],
+            "angle": 0,
+            "content": "Zhang Juan"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "学习目标"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.175,
+                0.316,
+                0.214
+            ],
+            "angle": 0,
+            "content": "学员将学会正确地："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.116,
+                0.223,
+                0.358,
+                0.258
+            ],
+            "angle": 0,
+            "content": "□ 创建并配置像源采集"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.958,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.152,
+                0.113
+            ],
+            "angle": 0,
+            "content": "像源"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.235,
+                0.37,
+                0.376
+            ],
+            "angle": 0,
+            "content": "在 VisionPro 中用来从相机采集图像的工具是像源"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.406,
+                0.37,
+                0.498
+            ],
+            "angle": 0,
+            "content": "使用初始化按钮初始化采集"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.071,
+                0.235,
+                0.37,
+                0.498
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.403,
+                0.188,
+                0.969,
+                0.796
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.123
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.323,
+                0.113
+            ],
+            "angle": 0,
+            "content": "采集基础（板卡）"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.066,
+                0.214,
+                0.281,
+                0.47
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.301,
+                0.275,
+                0.942,
+                0.474
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.536,
+                0.706,
+                0.575
+            ],
+            "angle": 0,
+            "content": "- 视场（FOV）也被称作场景，是相机和镜头能够看到的物理区域"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.038,
+                0.601,
+                0.482,
+                0.637
+            ],
+            "angle": 0,
+            "content": "相机将光能转化为信号（模拟或者数字的）"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.038,
+                0.665,
+                0.427,
+                0.702
+            ],
+            "angle": 0,
+            "content": "- 信号通过板卡传送到计算机进行分析"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.038,
+                0.729,
+                0.516,
+                0.765
+            ],
+            "angle": 0,
+            "content": "灰度值以照片元素或像素的列和行进行再组合"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.037,
+                0.536,
+                0.706,
+                0.765
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.973
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.074,
+                0.154,
+                0.202,
+                0.197
+            ],
+            "angle": 0,
+            "content": "图像表现"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.051,
+                0.202,
+                0.532,
+                0.306
+            ],
+            "angle": 0,
+            "content": "- 图像以光浓度的点数（称作像素）的2维数组（表格）保存"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.051,
+                0.309,
+                0.529,
+                0.464
+            ],
+            "angle": 0,
+            "content": "- 每个像素的光浓度值或者灰度值以 0 和 255 之间的整数来表示"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.051,
+                0.202,
+                0.532,
+                0.464
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.469,
+                0.265,
+                0.518
+            ],
+            "angle": 0,
+            "content": "- 0 = 黑色"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.523,
+                0.298,
+                0.571
+            ],
+            "angle": 0,
+            "content": "• 255 = 白色"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.102,
+                0.469,
+                0.298,
+                0.571
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.051,
+                0.586,
+                0.361,
+                0.636
+            ],
+            "angle": 0,
+            "content": "- 左手图像坐标系统"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.587,
+                0.208,
+                0.911,
+                0.614
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.085,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "像源"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.234,
+                0.39,
+                0.317
+            ],
+            "angle": 0,
+            "content": "首先，选择图像是来源于图像数据库还是相机"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.347,
+                0.39,
+                0.431
+            ],
+            "angle": 0,
+            "content": "您也可以加载一个图像文件或文件夹"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.234,
+                0.39,
+                0.431
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.408,
+                0.176,
+                0.959,
+                0.881
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.085,
+                0.064,
+                0.15,
+                0.109
+            ],
+            "angle": 0,
+            "content": "像源"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.225,
+                0.162,
+                0.265
+            ],
+            "angle": 0,
+            "content": "板卡"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.267,
+                0.381,
+                0.303
+            ],
+            "angle": 0,
+            "content": "采集图像的康耐视电路板"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.335,
+                0.228,
+                0.375
+            ],
+            "angle": 0,
+            "content": "视频格式:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.375,
+                0.591,
+                0.413
+            ],
+            "angle": 0,
+            "content": "选择您要用来采集该图像的相机（及其格式）"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.445,
+                0.217,
+                0.484
+            ],
+            "angle": 0,
+            "content": "相机端口"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.485,
+                0.354,
+                0.523
+            ],
+            "angle": 0,
+            "content": "该相机连接到哪个端口"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.168,
+                0.585,
+                0.759,
+                0.854
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "7"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "运行工作"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.232,
+                0.49,
+                0.323
+            ],
+            "angle": 0,
+            "content": "在您运行工作时，它从相机采集图像并放入到LastRun.OutputImage"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.491,
+                0.173,
+                0.954,
+                0.819
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "8"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.042,
+                0.073,
+                0.121
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.307,
+                0.113
+            ],
+            "angle": 0,
+            "content": "获取更佳的图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.934,
+                0.257
+            ],
+            "angle": 0,
+            "content": "修改采集的物理设置通常是您应该做的第一件事，以便尝试提高您的图像质量"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.268,
+                0.14,
+                0.301
+            ],
+            "angle": 0,
+            "content": "灯光"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.32,
+                0.139,
+                0.352
+            ],
+            "angle": 0,
+            "content": "焦点"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.372,
+                0.138,
+                0.404
+            ],
+            "angle": 0,
+            "content": "光圈"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.494,
+                0.723,
+                0.533
+            ],
+            "angle": 0,
+            "content": "在像源配置中有好几个参数也可能有助于提高图像的质量"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "9"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.054,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.123
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.307,
+                0.113
+            ],
+            "angle": 0,
+            "content": "获取更佳的图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.234,
+                0.162,
+                0.272
+            ],
+            "angle": 0,
+            "content": "曝光"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.283,
+                0.358,
+                0.318
+            ],
+            "angle": 0,
+            "content": "电子快门，相机的曝光时间"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.354,
+                0.258,
+                0.392
+            ],
+            "angle": 0,
+            "content": "亮度和对比度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.148,
+                0.397,
+                0.532,
+                0.436
+            ],
+            "angle": 0,
+            "content": "- 对比度确定图像灰度值的“扩展”"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.148,
+                0.44,
+                0.523,
+                0.478
+            ],
+            "angle": 0,
+            "content": "- 亮度将整体灰度值调高或者调低"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.148,
+                0.397,
+                0.532,
+                0.478
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.957,
+                0.043,
+                0.972
+            ],
+            "angle": 0,
+            "content": "10"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.989
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.243,
+                0.11
+            ],
+            "angle": 0,
+            "content": "频闪和触发"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.225,
+                0.466,
+                0.307
+            ],
+            "angle": 0,
+            "content": "在运行时在像源中有几种与触发采集相关的设置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.308,
+                0.241,
+                0.343
+            ],
+            "angle": 0,
+            "content": "触发已激活:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.148,
+                0.357,
+                0.458,
+                0.423
+            ],
+            "angle": 0,
+            "content": "如果勾选，表示在每次触发时发出采集请求"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.446,
+                0.168,
+                0.485
+            ],
+            "angle": 0,
+            "content": "- 手动"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.104,
+                0.487,
+                0.205,
+                0.523
+            ],
+            "angle": 0,
+            "content": "软件触发"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.1,
+                0.537,
+                0.458,
+                0.642
+            ],
+            "angle": 0,
+            "content": "• 采集图像并将其复制到输出图像（OutputImage）缓冲区和 AcqFifoRUN 一样"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.531,
+                0.224,
+                0.596,
+                0.256
+            ],
+            "angle": 0,
+            "content": "Settings"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.612,
+                0.22,
+                0.738,
+                0.253
+            ],
+            "angle": 0,
+            "content": "Strobe & Trigger"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.754,
+                0.226,
+                0.812,
+                0.254
+            ],
+            "angle": 0,
+            "content": "Region"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.828,
+                0.226,
+                0.938,
+                0.255
+            ],
+            "angle": 0,
+            "content": "Lookup Table"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.571,
+                0.342,
+                0.665,
+                0.369
+            ],
+            "angle": 0,
+            "content": "Ise Duration:"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.553,
+                0.408,
+                0.578,
+                0.439
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.582,
+                0.41,
+                0.729,
+                0.441
+            ],
+            "angle": 0,
+            "content": "Pulse Polarity High"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.548,
+                0.486,
+                0.653,
+                0.516
+            ],
+            "angle": 0,
+            "content": "Trigger Mode"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.557,
+                0.537,
+                0.579,
+                0.566
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.54,
+                0.645,
+                0.565
+            ],
+            "angle": 0,
+            "content": "Manual"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.556,
+                0.589,
+                0.579,
+                0.618
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.592,
+                0.659,
+                0.618
+            ],
+            "angle": 0,
+            "content": "Free Run"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.556,
+                0.64,
+                0.579,
+                0.67
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.643,
+                0.702,
+                0.67
+            ],
+            "angle": 0,
+            "content": "Hardware Auto"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.556,
+                0.692,
+                0.579,
+                0.721
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.694,
+                0.744,
+                0.721
+            ],
+            "angle": 0,
+            "content": "Hardware Semi-Auto"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.556,
+                0.743,
+                0.579,
+                0.774
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.587,
+                0.746,
+                0.747,
+                0.777
+            ],
+            "angle": 0,
+            "content": "Trigger Low To High"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "11"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.243,
+                0.11
+            ],
+            "angle": 0,
+            "content": "频闪和触发"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.235,
+                0.223,
+                0.276
+            ],
+            "angle": 0,
+            "content": "硬件自动"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.29,
+                0.482,
+                0.381
+            ],
+            "angle": 0,
+            "content": "当探测到外部触发线上有信号时开始采集"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.403,
+                0.256,
+                0.44
+            ],
+            "angle": 0,
+            "content": "触发从低到高"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.147,
+                0.453,
+                0.481,
+                0.488
+            ],
+            "angle": 0,
+            "content": "- 勾选则触发信号从低到高地转变"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.148,
+                0.493,
+                0.415,
+                0.527
+            ],
+            "angle": 0,
+            "content": "- 不勾选则从高到低地转变"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.147,
+                0.453,
+                0.481,
+                0.527
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.54,
+                0.484,
+                0.632
+            ],
+            "angle": 0,
+            "content": "如果取回图像的速率低于触发的速率，可能会发生超运行错误"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.531,
+                0.223,
+                0.596,
+                0.256
+            ],
+            "angle": 0,
+            "content": "Settings"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.612,
+                0.22,
+                0.738,
+                0.253
+            ],
+            "angle": 0,
+            "content": "Strobe & Trigger"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.754,
+                0.226,
+                0.813,
+                0.255
+            ],
+            "angle": 0,
+            "content": "Region"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.828,
+                0.226,
+                0.938,
+                0.255
+            ],
+            "angle": 0,
+            "content": "Lookup Table"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.57,
+                0.342,
+                0.665,
+                0.37
+            ],
+            "angle": 0,
+            "content": "lse Duration:"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.553,
+                0.408,
+                0.578,
+                0.439
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.582,
+                0.41,
+                0.729,
+                0.441
+            ],
+            "angle": 0,
+            "content": "Pulse Polarity High"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.548,
+                0.486,
+                0.653,
+                0.516
+            ],
+            "angle": 0,
+            "content": "Trigger Mode"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.556,
+                0.537,
+                0.579,
+                0.566
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.54,
+                0.645,
+                0.566
+            ],
+            "angle": 0,
+            "content": "Manual"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.556,
+                0.589,
+                0.579,
+                0.618
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.592,
+                0.659,
+                0.618
+            ],
+            "angle": 0,
+            "content": "Free Run"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.556,
+                0.639,
+                0.579,
+                0.67
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.643,
+                0.702,
+                0.67
+            ],
+            "angle": 0,
+            "content": "Hardware Auto"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.556,
+                0.691,
+                0.579,
+                0.721
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.694,
+                0.744,
+                0.721
+            ],
+            "angle": 0,
+            "content": "Hardware Semi-Auto"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.556,
+                0.743,
+                0.579,
+                0.774
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.587,
+                0.746,
+                0.747,
+                0.777
+            ],
+            "angle": 0,
+            "content": "Trigger Low To High"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "12"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.121
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.065,
+                0.243,
+                0.11
+            ],
+            "angle": 0,
+            "content": "频闪和触发"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.234,
+                0.236,
+                0.272
+            ],
+            "angle": 0,
+            "content": "硬件半自动"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.283,
+                0.498,
+                0.36
+            ],
+            "angle": 0,
+            "content": "当您执行运行时，AcqFifo 工具激活板卡，然后等待外部的触发"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.378,
+                0.498,
+                0.454
+            ],
+            "angle": 0,
+            "content": "要采集另一个图像，再次执行运行；否则，可能会丢失下一个外部触发"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.532,
+                0.224,
+                0.596,
+                0.256
+            ],
+            "angle": 0,
+            "content": "Settings"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.612,
+                0.221,
+                0.738,
+                0.253
+            ],
+            "angle": 0,
+            "content": "Strobe & Trigger"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.754,
+                0.226,
+                0.812,
+                0.255
+            ],
+            "angle": 0,
+            "content": "Region"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.828,
+                0.226,
+                0.938,
+                0.255
+            ],
+            "angle": 0,
+            "content": "Lookup Table"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.57,
+                0.285,
+                0.595,
+                0.317
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.6,
+                0.288,
+                0.721,
+                0.315
+            ],
+            "angle": 0,
+            "content": "Strobe Enabled"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.547,
+                0.342,
+                0.666,
+                0.37
+            ],
+            "angle": 0,
+            "content": "Pulse Duration:"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.789,
+                0.338,
+                0.907,
+                0.382
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.926,
+                0.348,
+                0.95,
+                0.37
+            ],
+            "angle": 0,
+            "content": "ms"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.553,
+                0.408,
+                0.578,
+                0.439
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.584,
+                0.41,
+                0.728,
+                0.441
+            ],
+            "angle": 0,
+            "content": "Pulse Polarity High"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.549,
+                0.486,
+                0.653,
+                0.516
+            ],
+            "angle": 0,
+            "content": "Trigger Mode"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.557,
+                0.537,
+                0.579,
+                0.566
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.54,
+                0.645,
+                0.566
+            ],
+            "angle": 0,
+            "content": "Manual"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.557,
+                0.589,
+                0.579,
+                0.618
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.592,
+                0.659,
+                0.618
+            ],
+            "angle": 0,
+            "content": "Free Run"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.557,
+                0.64,
+                0.579,
+                0.67
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.643,
+                0.702,
+                0.67
+            ],
+            "angle": 0,
+            "content": "Hardware Auto"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.557,
+                0.692,
+                0.579,
+                0.721
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.585,
+                0.694,
+                0.744,
+                0.721
+            ],
+            "angle": 0,
+            "content": "Hardware Semi-Auto"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.557,
+                0.743,
+                0.579,
+                0.774
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.587,
+                0.746,
+                0.747,
+                0.777
+            ],
+            "angle": 0,
+            "content": "Trigger Low To High"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "13"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "像源设置"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.063,
+                0.176,
+                0.156,
+                0.216
+            ],
+            "angle": 0,
+            "content": "超时"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.228,
+                0.934,
+                0.309
+            ],
+            "angle": 0,
+            "content": "以毫秒为单位设置在调用采集（Acquire）或者完整采集（CompleteAcquire）时使用的超时时间"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.322,
+                0.476,
+                0.36
+            ],
+            "angle": 0,
+            "content": "超时时间通常用于处理不发生触发的情况"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.956,
+                0.043,
+                0.972
+            ],
+            "angle": 0,
+            "content": "14"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.956,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.989
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.042,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.246,
+                0.113
+            ],
+            "angle": 0,
+            "content": "其他的参数"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.064,
+                0.175,
+                0.473,
+                0.214
+            ],
+            "angle": 0,
+            "content": "最后一组参数用于专业化采集设置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.224,
+                0.182,
+                0.257
+            ],
+            "angle": 0,
+            "content": "频闪采集"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.276,
+                0.265,
+                0.309
+            ],
+            "angle": 0,
+            "content": "使用辅助灯光模块"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.327,
+                0.39,
+                0.361
+            ],
+            "angle": 0,
+            "content": "使用渐进扫描相机采集部分图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.379,
+                0.222,
+                0.412
+            ],
+            "angle": 0,
+            "content": "使用查找表单"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.957,
+                0.043,
+                0.972
+            ],
+            "angle": 0,
+            "content": "15"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.275,
+                0.11
+            ],
+            "angle": 0,
+            "content": "显示直播视频"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.175,
+                0.773,
+                0.214
+            ],
+            "angle": 0,
+            "content": "- 使用显示实时图象按钮打开直播视频显示窗口并显示活动图像"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.516,
+                0.366,
+                0.954,
+                0.825
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "16"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.15,
+                0.107
+            ],
+            "angle": 0,
+            "content": "显示"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.234,
+                0.417,
+                0.36
+            ],
+            "angle": 0,
+            "content": "可选项，使用浮动显示窗口打开不同的窗口来显示所采集的图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.39,
+                0.341,
+                0.429
+            ],
+            "angle": 0,
+            "content": "注意底部的确切信息。"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.234,
+                0.417,
+                0.429
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.424,
+                0.165,
+                0.984,
+                0.825
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.4,
+                0.851,
+                0.447,
+                0.885
+            ],
+            "angle": 0,
+            "content": "位置"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.799,
+                0.863,
+                0.87,
+                0.898
+            ],
+            "angle": 0,
+            "content": "灰度值"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "17"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.15,
+                0.109
+            ],
+            "angle": 0,
+            "content": "显示"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.423,
+                0.36
+            ],
+            "angle": 0,
+            "content": "在任何显示上，您可以右击并且选择放大、缩小、全图等等"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.473,
+                0.185,
+                0.964,
+                0.891
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "18"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.281,
+                0.33,
+                0.577,
+                0.409
+            ],
+            "angle": 0,
+            "content": "Thank you."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "19"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ]
+]

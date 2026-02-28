@@ -1,0 +1,836 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        79,
+                        260,
+                        93
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                79,
+                                258,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        79,
+                                        258,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "1、 CogCaliperResults. MapFromImage",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        105,
+                        101,
+                        500,
+                        149
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                100,
+                                501,
+                                121
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        100,
+                                        501,
+                                        121
+                                    ],
+                                    "type": "text",
+                                    "content": "Map from the image to one of the caliper 1D spaces(从原图像到投影图",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                132,
+                                233,
+                                150
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        132,
+                                        233,
+                                        150
+                                    ],
+                                    "type": "text",
+                                    "content": "像，得到边的位置信息)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        106,
+                        179,
+                        500,
+                        227
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                178,
+                                500,
+                                198
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        178,
+                                        500,
+                                        198
+                                    ],
+                                    "type": "text",
+                                    "content": "public double MapFromImage(double x,double y,CogCaliperSpaceCo",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                211,
+                                204,
+                                228
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        211,
+                                        204,
+                                        228
+                                    ],
+                                    "type": "text",
+                                    "content": "nstants toSpace)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        105,
+                        250,
+                        172,
+                        264
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                250,
+                                171,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        250,
+                                        171,
+                                        264
+                                    ],
+                                    "type": "text",
+                                    "content": "返回值为位置",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        267,
+                        282,
+                        280
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                267,
+                                283,
+                                281
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        267,
+                                        283,
+                                        281
+                                    ],
+                                    "type": "text",
+                                    "content": "2、 CogCaliperResults. MapToImage Method",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        105,
+                        281,
+                        371,
+                        295
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                107,
+                                282,
+                                371,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        282,
+                                        371,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": "从投影图像到原图片，返回其在原图像上指定位置的坐标",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        304,
+                        498,
+                        352
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                303,
+                                499,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        303,
+                                        499,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "public void MapToImage(double position,CogCaliperSpaceConstants",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                333,
+                                372,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        333,
+                                        372,
+                                        354
+                                    ],
+                                    "type": "text",
+                                    "content": "fromSpace,double t,out double x,out double y)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        104,
+                        382,
+                        500,
+                        436
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                383,
+                                499,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        383,
+                                        499,
+                                        396
+                                    ],
+                                    "type": "text",
+                                    "content": "t: 指定0.0将返回的点放置在区域的顶部(顶部是原点边)。指定1.0将返回的点放置在",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                407,
+                                496,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        407,
+                                        496,
+                                        419
+                                    ],
+                                    "type": "text",
+                                    "content": "区域的底部。该参数的默认值是0.5，它将该点放置在区域的中心。(即0返回投影起",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                421,
+                                284,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        421,
+                                        284,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": "点，1返回投影终点，0.5为区域中心)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        454,
+                        244,
+                        466
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                454,
+                                245,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        454,
+                                        245,
+                                        468
+                                    ],
+                                    "type": "text",
+                                    "content": "3、CogCaliperResults. Map Method",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        105,
+                        468,
+                        375,
+                        481
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                107,
+                                469,
+                                376,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        469,
+                                        376,
+                                        481
+                                    ],
+                                    "type": "text",
+                                    "content": "在过滤后的图像位置与结果位置和投影图像位置之间映射。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        132,
+                        491,
+                        246,
+                        507
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                133,
+                                490,
+                                246,
+                                508
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        133,
+                                        490,
+                                        246,
+                                        508
+                                    ],
+                                    "type": "text",
+                                    "content": "public double Map(",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        132,
+                        523,
+                        227,
+                        538
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                133,
+                                520,
+                                229,
+                                540
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        133,
+                                        520,
+                                        229,
+                                        540
+                                    ],
+                                    "type": "text",
+                                    "content": "double position,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        132,
+                        554,
+                        339,
+                        569
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                134,
+                                553,
+                                340,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        134,
+                                        553,
+                                        340,
+                                        572
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCaliperSpaceConstants toSpace,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        132,
+                        585,
+                        351,
+                        600
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                133,
+                                583,
+                                353,
+                                602
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        133,
+                                        583,
+                                        353,
+                                        602
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCaliperSpaceConstants fromSpace",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        133,
+                        616,
+                        141,
+                        630
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                132,
+                                618,
+                                141,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        618,
+                                        141,
+                                        632
+                                    ],
+                                    "type": "text",
+                                    "content": ")",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        656,
+                        277,
+                        669
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                656,
+                                277,
+                                671
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        656,
+                                        277,
+                                        671
+                                    ],
+                                    "type": "text",
+                                    "content": "4、CogCaliperSpaceConstants Enumeration",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        108,
+                        678,
+                        337,
+                        693
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 16,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                677,
+                                338,
+                                697
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        677,
+                                        338,
+                                        697
+                                    ],
+                                    "type": "text",
+                                    "content": "public enum CogCaliperSpaceConstants",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        105,
+                        702,
+                        342,
+                        716
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 17,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                701,
+                                343,
+                                717
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        701,
+                                        133,
+                                        717
+                                    ],
+                                    "type": "text",
+                                    "content": "Filter",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        172,
+                                        701,
+                                        343,
+                                        716
+                                    ],
+                                    "type": "text",
+                                    "content": "在此空间中，滤波图像的左边缘为零",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        106,
+                        719,
+                        314,
+                        731
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 18,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                717,
+                                314,
+                                732
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        719,
+                                        153,
+                                        732
+                                    ],
+                                    "type": "text",
+                                    "content": "Projection",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        173,
+                                        717,
+                                        314,
+                                        731
+                                    ],
+                                    "type": "text",
+                                    "content": "空间,零对应的左边缘投影图像",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        734,
+                        301,
+                        747
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 19,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                734,
+                                300,
+                                748
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        734,
+                                        136,
+                                        748
+                                    ],
+                                    "type": "text",
+                                    "content": "Result",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        173,
+                                        734,
+                                        300,
+                                        746
+                                    ],
+                                    "type": "text",
+                                    "content": "投影图像的中心为零的空间",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

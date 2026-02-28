@@ -1,0 +1,2055 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        0,
+                        720,
+                        339
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                720,
+                                339
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        720,
+                                        339
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                720,
+                                                339
+                                            ],
+                                            "type": "image",
+                                            "image_path": "fbf4b225923dca5b726b1cca5fa2009214336991e8805215ccfd59a8a2485669.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        216,
+                        363,
+                        503,
+                        406
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                216,
+                                363,
+                                503,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        363,
+                                        503,
+                                        406
+                                    ],
+                                    "type": "text",
+                                    "content": "CogTool Training"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        26,
+                        428,
+                        119,
+                        446
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                428,
+                                119,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        428,
+                                        119,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "2019/12/19"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        527,
+                        425,
+                        626,
+                        446
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                527,
+                                425,
+                                626,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        527,
+                                        425,
+                                        626,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "Zhang Juan"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        27,
+                        25,
+                        330,
+                        61
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                25,
+                                330,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        25,
+                                        330,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "Training Contents:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        26,
+                        94,
+                        316,
+                        158
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 4,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                26,
+                                94,
+                                285,
+                                114
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        94,
+                                        285,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                26,
+                                                94,
+                                                285,
+                                                114
+                                            ],
+                                            "type": "text",
+                                            "content": "a) Geometry – Creation 创建"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                26,
+                                116,
+                                300,
+                                136
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        116,
+                                        300,
+                                        136
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                26,
+                                                116,
+                                                300,
+                                                136
+                                            ],
+                                            "type": "text",
+                                            "content": "b) Geometry – Intersection 相交"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                28,
+                                138,
+                                316,
+                                158
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        28,
+                                        138,
+                                        316,
+                                        158
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                28,
+                                                138,
+                                                316,
+                                                158
+                                            ],
+                                            "type": "text",
+                                            "content": "c) Geometry - Measurement 测量"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        24,
+                        517,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                517,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        517,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        26,
+                        23,
+                        365,
+                        50
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                23,
+                                365,
+                                50
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        23,
+                                        365,
+                                        50
+                                    ],
+                                    "type": "text",
+                                    "content": "CogTool-Geometry - Creation"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        51,
+                        105,
+                        562,
+                        300
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 10,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                51,
+                                105,
+                                330,
+                                126
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        105,
+                                        330,
+                                        126
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                105,
+                                                330,
+                                                126
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogCreateCircleTool // 创建圆"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                128,
+                                344,
+                                149
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        128,
+                                        344,
+                                        149
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                128,
+                                                344,
+                                                149
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogCreateEllipseTool // 创建椭圆"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                150,
+                                398,
+                                170
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        150,
+                                        398,
+                                        170
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                150,
+                                                398,
+                                                170
+                                            ],
+                                            "type": "text",
+                                            "content": ">CogCreateGraphicLabelTool // 创建显示"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                171,
+                                497,
+                                192
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        171,
+                                        497,
+                                        192
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                171,
+                                                497,
+                                                192
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogCreateLineBisectPointsTool // 创建两点的平分线"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                193,
+                                529,
+                                213
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        193,
+                                        529,
+                                        213
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                193,
+                                                529,
+                                                213
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogCreateLineParallelTool // 以某一点创建某线的平行线"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                215,
+                                562,
+                                235
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        215,
+                                        562,
+                                        235
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                215,
+                                                562,
+                                                235
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogCreateLinePerpendicularTool // 以某一点创建某线的垂线"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                236,
+                                493,
+                                256
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        236,
+                                        493,
+                                        256
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                236,
+                                                493,
+                                                256
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogCreateLineTool // 创建线（以某点和角度创建线）"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                258,
+                                542,
+                                278
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        258,
+                                        542,
+                                        278
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                258,
+                                                542,
+                                                278
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogCreateSegmentAvgSegsTool // 创建两条线段的平均线"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                280,
+                                362,
+                                300
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        280,
+                                        362,
+                                        300
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                280,
+                                                362,
+                                                300
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogCreateSegmentTool // 创建线段"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        523
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        523
+                                    ],
+                                    "type": "text",
+                                    "content": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        41,
+                        516,
+                        135,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                516,
+                                135,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        516,
+                                        135,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        616,
+                        516,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                516,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        516,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        27,
+                        23,
+                        403,
+                        49
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                23,
+                                403,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        23,
+                                        403,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "CogTool-Geometry - Intersection"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        51,
+                        105,
+                        540,
+                        278
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 9,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                51,
+                                105,
+                                457,
+                                126
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        105,
+                                        457,
+                                        126
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                105,
+                                                457,
+                                                126
+                                            ],
+                                            "type": "text",
+                                            "content": "CogIntersectCircleCircleTool // 检测圆与圆相交"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                127,
+                                440,
+                                147
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        127,
+                                        440,
+                                        147
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                127,
+                                                440,
+                                                147
+                                            ],
+                                            "type": "text",
+                                            "content": "CogIntersectLineCircleTool // 检测线与圆相交"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                149,
+                                465,
+                                170
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        149,
+                                        465,
+                                        170
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                149,
+                                                465,
+                                                170
+                                            ],
+                                            "type": "text",
+                                            "content": "CogIntersectLineEllipseTool // 检测线与椭圆相交"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                171,
+                                429,
+                                191
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        171,
+                                        429,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                171,
+                                                429,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "CogIntersectLineLineTool // 检测线与线相交"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                192,
+                                496,
+                                213
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        192,
+                                        496,
+                                        213
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                192,
+                                                496,
+                                                213
+                                            ],
+                                            "type": "text",
+                                            "content": "CogIntersectSegmentCircleTool // 检测线段与圆相交"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                214,
+                                521,
+                                234
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        214,
+                                        521,
+                                        234
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                214,
+                                                521,
+                                                234
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogIntersectSegmentEllipseTool // 检测线段与椭圆相交"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                236,
+                                485,
+                                256
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        236,
+                                        485,
+                                        256
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                236,
+                                                485,
+                                                256
+                                            ],
+                                            "type": "text",
+                                            "content": "CogIntersectSegmentLineTool // 检测线段与线相交"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                257,
+                                540,
+                                278
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        257,
+                                        540,
+                                        278
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                257,
+                                                540,
+                                                278
+                                            ],
+                                            "type": "text",
+                                            "content": "CogIntersectSegmentSegmentTool // 检测线段与线段相交"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        523
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        523
+                                    ],
+                                    "type": "text",
+                                    "content": "4"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        27,
+                        23,
+                        422,
+                        49
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                23,
+                                422,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        23,
+                                        422,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "CogTool-Geometry - Measurement"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        51,
+                        105,
+                        558,
+                        407
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 15,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                51,
+                                105,
+                                423,
+                                126
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        105,
+                                        423,
+                                        126
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                105,
+                                                423,
+                                                126
+                                            ],
+                                            "type": "text",
+                                            "content": "CogAngleLineLineTool // 测量线与线的角度"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                129,
+                                442,
+                                147
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        129,
+                                        442,
+                                        147
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                129,
+                                                442,
+                                                147
+                                            ],
+                                            "type": "text",
+                                            "content": "CogAnglePointPointTool // 测量点与点的角度"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                150,
+                                470,
+                                169
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        150,
+                                        470,
+                                        169
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                150,
+                                                470,
+                                                169
+                                            ],
+                                            "type": "text",
+                                            "content": "CogDistanceCircleCircleTool // 测量圆与圆的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                172,
+                                458,
+                                191
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        172,
+                                        458,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                172,
+                                                458,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "CogDistanceLineCircleTool // 测量线与圆的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                193,
+                                483,
+                                212
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        193,
+                                        483,
+                                        212
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                193,
+                                                483,
+                                                212
+                                            ],
+                                            "type": "text",
+                                            "content": "CogDistanceLineEllipseTool // 测量线与椭圆的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                215,
+                                465,
+                                233
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        215,
+                                        465,
+                                        233
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                215,
+                                                465,
+                                                233
+                                            ],
+                                            "type": "text",
+                                            "content": "CogDistancePointCircleTool // 测量点到圆的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                236,
+                                490,
+                                255
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        236,
+                                        490,
+                                        255
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                236,
+                                                490,
+                                                255
+                                            ],
+                                            "type": "text",
+                                            "content": "CogDistancePointEllipseTool // 测量点到椭圆的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                258,
+                                453,
+                                277
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        258,
+                                        453,
+                                        277
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                258,
+                                                453,
+                                                277
+                                            ],
+                                            "type": "text",
+                                            "content": "CogDistancePointLineTool // 测量点到线的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                280,
+                                460,
+                                298
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        280,
+                                        460,
+                                        298
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                280,
+                                                460,
+                                                298
+                                            ],
+                                            "type": "text",
+                                            "content": "CogDistancePointToPointTool // 测量点到点的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                301,
+                                509,
+                                320
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        301,
+                                        509,
+                                        320
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                301,
+                                                509,
+                                                320
+                                            ],
+                                            "type": "text",
+                                            "content": "CogDistancePointSegmentTool // 测量点到线段的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                323,
+                                532,
+                                342
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        323,
+                                        532,
+                                        342
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                323,
+                                                532,
+                                                342
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogDistanceSegmentCircleTool // 测量线段与椭圆的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                345,
+                                540,
+                                363
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        345,
+                                        540,
+                                        363
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                345,
+                                                540,
+                                                363
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogDistanceSegmentEllipseTool // 测量线段与椭圆的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                366,
+                                503,
+                                385
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        366,
+                                        503,
+                                        385
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                366,
+                                                503,
+                                                385
+                                            ],
+                                            "type": "text",
+                                            "content": "CogDistanceLineTool // 测量线段与线的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                387,
+                                558,
+                                407
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        387,
+                                        558,
+                                        407
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                387,
+                                                558,
+                                                407
+                                            ],
+                                            "type": "text",
+                                            "content": "> CogDistanceSegmentSegmentTool // 测量线段与线段的距离"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        523
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        523
+                                    ],
+                                    "type": "text",
+                                    "content": "5"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        135,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                135,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        135,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        185,
+                        181,
+                        470,
+                        277
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                185,
+                                181,
+                                470,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        185,
+                                        181,
+                                        470,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": "Thank you."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "6"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        526
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        526
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 5
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "2.7.6"
+}

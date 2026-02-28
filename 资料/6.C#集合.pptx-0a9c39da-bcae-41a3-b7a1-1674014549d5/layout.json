@@ -1,0 +1,4831 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        0,
+                        959,
+                        306
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                959,
+                                306
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        959,
+                                        306
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                959,
+                                                306
+                                            ],
+                                            "type": "image",
+                                            "image_path": "32f5bef5bb08127c9f2b5e1e0edf0e67f9bc24fd432758824200765ba31014f6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        61,
+                        349,
+                        196,
+                        385
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                344,
+                                201,
+                                391
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        344,
+                                        201,
+                                        391
+                                    ],
+                                    "type": "text",
+                                    "content": "C# 集合",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        61,
+                        446,
+                        285,
+                        470
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                443,
+                                288,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        443,
+                                        288,
+                                        470
+                                    ],
+                                    "type": "text",
+                                    "content": "Jianjun.song | 2023/03/08",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        59,
+                        510,
+                        703,
+                        534
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                509,
+                                705,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        509,
+                                        705,
+                                        523
+                                    ],
+                                    "type": "text",
+                                    "content": "This document contains Cognex Corporation confidential information, which must be protected and used only in accordance with the",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                521,
+                                601,
+                                536
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        521,
+                                        601,
+                                        536
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2022 Cognex CorporationMutual Confidentiality Agreement entered into by Cognex Corporation and Apple Inc. dated November 1, 2014",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        778,
+                        501,
+                        928,
+                        521
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                776,
+                                498,
+                                930,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        776,
+                                        498,
+                                        930,
+                                        523
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        58,
+                        32,
+                        202,
+                        70
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                29,
+                                206,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        29,
+                                        206,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "命名空间",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        100,
+                        255,
+                        149
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 3,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                57,
+                                100,
+                                201,
+                                117
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        99,
+                                        203,
+                                        118
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                69,
+                                                99,
+                                                203,
+                                                118
+                                            ],
+                                            "type": "text",
+                                            "content": "System.Collcetions",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                132,
+                                255,
+                                149
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        131,
+                                        256,
+                                        149
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                65,
+                                                131,
+                                                256,
+                                                149
+                                            ],
+                                            "type": "text",
+                                            "content": "System.Collcetions.Generic",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        34,
+                        522,
+                        36,
+                        531
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        54,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                179,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        179,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        37,
+                        208,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                31,
+                                212,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        31,
+                                        212,
+                                        82
+                                    ],
+                                    "type": "text",
+                                    "content": "ArrayList",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        98,
+                        158,
+                        117
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                98,
+                                159,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        98,
+                                        159,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": "创建和添加元素",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        132,
+                        265,
+                        149
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                130,
+                                267,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        130,
+                                        152,
+                                        151
+                                    ],
+                                    "type": "text",
+                                    "content": "ArrayList mList",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        134,
+                                        165,
+                                        145
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "=",
+                                    "score": 0.7
+                                },
+                                {
+                                    "bbox": [
+                                        165,
+                                        130,
+                                        267,
+                                        151
+                                    ],
+                                    "type": "text",
+                                    "content": "new ArrayList();",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        165,
+                        149,
+                        180
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                163,
+                                151,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        163,
+                                        151,
+                                        184
+                                    ],
+                                    "type": "text",
+                                    "content": "mList.Add(12);",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        196,
+                        187,
+                        212
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                192,
+                                192,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        192,
+                                        192,
+                                        216
+                                    ],
+                                    "type": "text",
+                                    "content": "mList.Add(“ 张三” );",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        229,
+                        169,
+                        245
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                226,
+                                170,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        226,
+                                        170,
+                                        248
+                                    ],
+                                    "type": "text",
+                                    "content": "mList.Add(12.33);",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        261,
+                        209,
+                        277
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                259,
+                                210,
+                                280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        259,
+                                        210,
+                                        280
+                                    ],
+                                    "type": "text",
+                                    "content": "mList.AddRange(mList);",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        324,
+                        93,
+                        339
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                321,
+                                96,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        321,
+                                        96,
+                                        342
+                                    ],
+                                    "type": "text",
+                                    "content": "特点：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        355,
+                        427,
+                        403
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 10,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                355,
+                                427,
+                                372
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 8,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        354,
+                                        429,
+                                        374
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                354,
+                                                429,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 不需要初始化其大小（区别于数组创建需要固定其大小）",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                388,
+                                198,
+                                403
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 9,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        387,
+                                        199,
+                                        406
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                387,
+                                                199,
+                                                406
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 不需要区分值类型",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        36,
+                        531
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        37,
+                        208,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                31,
+                                212,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        31,
+                                        212,
+                                        82
+                                    ],
+                                    "type": "text",
+                                    "content": "ArrayList",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        98,
+                        158,
+                        116
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                99,
+                                159,
+                                117
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        99,
+                                        159,
+                                        117
+                                    ],
+                                    "type": "text",
+                                    "content": "查找和删除元素",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        130,
+                        374,
+                        180
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 4,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                130,
+                                374,
+                                149
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        131,
+                                        374,
+                                        150
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                131,
+                                                374,
+                                                150
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 使用 foreach 方法对数组中的每个元素进行遍历",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                163,
+                                247,
+                                180
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        163,
+                                        247,
+                                        181
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                163,
+                                                247,
+                                                181
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 使用下标可以拿到单个元素",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        56,
+                        196,
+                        183,
+                        214
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                193,
+                                185,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        193,
+                                        185,
+                                        216
+                                    ],
+                                    "type": "text",
+                                    "content": "mList.Contains(“ ”);",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        227,
+                        215,
+                        245
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                225,
+                                218,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        225,
+                                        218,
+                                        248
+                                    ],
+                                    "type": "text",
+                                    "content": "mList.Remove(“ 张三” );",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        260,
+                        209,
+                        278
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                257,
+                                210,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        257,
+                                        210,
+                                        279
+                                    ],
+                                    "type": "text",
+                                    "content": "mList.RemoveAt(index);",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        292,
+                        143,
+                        309
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                290,
+                                145,
+                                311
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        290,
+                                        145,
+                                        311
+                                    ],
+                                    "type": "text",
+                                    "content": "mList.Clear();",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        323,
+                        93,
+                        340
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                322,
+                                97,
+                                341
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        322,
+                                        97,
+                                        341
+                                    ],
+                                    "type": "text",
+                                    "content": "特点：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        355,
+                        280,
+                        404
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 12,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                355,
+                                280,
+                                372
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 10,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        354,
+                                        281,
+                                        373
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                354,
+                                                281,
+                                                373
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 拥有和数组类似的 foreach 遍历",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                387,
+                                184,
+                                404
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 11,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        387,
+                                        186,
+                                        405
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                387,
+                                                186,
+                                                405
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 查找值灵活方便",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        34,
+                        522,
+                        40,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.68
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                513,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        513,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        55,
+                        37,
+                        210,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                30,
+                                215,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        30,
+                                        215,
+                                        82
+                                    ],
+                                    "type": "text",
+                                    "content": "ArrayList",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        98,
+                        101,
+                        117
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                98,
+                                103,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        98,
+                                        103,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": "索引符",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        55,
+                        130,
+                        646,
+                        149
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                131,
+                                648,
+                                150
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        131,
+                                        648,
+                                        150
+                                    ],
+                                    "type": "text",
+                                    "content": "索引符 (indexer) 是一种特殊类型的属性，可以把它添加到一个类中，以提供类似于数组的访问。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        163,
+                        344,
+                        180
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                163,
+                                346,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        163,
+                                        346,
+                                        181
+                                    ],
+                                    "type": "text",
+                                    "content": "mCollection[0] --- 注意返回值属于 object 类型",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        227,
+                        93,
+                        244
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                226,
+                                97,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        226,
+                                        97,
+                                        246
+                                    ],
+                                    "type": "text",
+                                    "content": "特点：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        258,
+                        281,
+                        308
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 7,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                258,
+                                281,
+                                277
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        258,
+                                        281,
+                                        278
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                258,
+                                                281,
+                                                278
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 拥有和数组类似的 foreach 遍历",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                291,
+                                186,
+                                308
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        290,
+                                        187,
+                                        310
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                290,
+                                                187,
+                                                310
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 查找值灵活方便",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        34,
+                        522,
+                        38,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                33,
+                                521,
+                                39,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        33,
+                                        521,
+                                        39,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "5",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        54,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                179,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        179,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        32,
+                        423,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                26,
+                                430,
+                                83
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        26,
+                                        430,
+                                        83
+                                    ],
+                                    "type": "text",
+                                    "content": "键控集合 &IDictionary",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        100,
+                        122,
+                        117
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                98,
+                                124,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        98,
+                                        124,
+                                        120
+                                    ],
+                                    "type": "text",
+                                    "content": "Dictionary",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        55,
+                        130,
+                        864,
+                        213
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 5,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                55,
+                                130,
+                                552,
+                                150
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        130,
+                                        552,
+                                        151
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                57,
+                                                130,
+                                                552,
+                                                151
+                                            ],
+                                            "type": "text",
+                                            "content": " Add() 带有两个参数：一个键和一个值，储存在一起（键和值是 object 参数）",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                163,
+                                361,
+                                180
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        163,
+                                        362,
+                                        181
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                76,
+                                                163,
+                                                362,
+                                                181
+                                            ],
+                                            "type": "text",
+                                            "content": "Remove() 以一个键而不是对象引用作为参数",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                194,
+                                864,
+                                213
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        191,
+                                        865,
+                                        216
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                191,
+                                                865,
+                                                216
+                                            ],
+                                            "type": "text",
+                                            "content": " Indexer 使用一个字符串键值，而不是一个索引，用于通过 Dictionary 的继承成员来访问储存的项，这里仍需进行数据类型转换",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        56,
+                        259,
+                        466,
+                        277
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                257,
+                                467,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        257,
+                                        244,
+                                        279
+                                    ],
+                                    "type": "text",
+                                    "content": "Dictionary<string, double> dic",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        244,
+                                        262,
+                                        257,
+                                        273
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "=",
+                                    "score": 0.81
+                                },
+                                {
+                                    "bbox": [
+                                        257,
+                                        257,
+                                        467,
+                                        279
+                                    ],
+                                    "type": "text",
+                                    "content": "new Dictionary<string, double>();",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        102,
+                        292,
+                        214,
+                        309
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                102,
+                                289,
+                                217,
+                                311
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        289,
+                                        217,
+                                        311
+                                    ],
+                                    "type": "text",
+                                    "content": "dic.Add(\"2\", 123);",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        102,
+                        324,
+                        207,
+                        341
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                102,
+                                321,
+                                210,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        321,
+                                        210,
+                                        343
+                                    ],
+                                    "type": "text",
+                                    "content": "dic.Add(\"1\", 34);",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        102,
+                        356,
+                        421,
+                        373
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                102,
+                                353,
+                                422,
+                                375
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        353,
+                                        422,
+                                        375
+                                    ],
+                                    "type": "text",
+                                    "content": "foreach (KeyValuePair <string ,double> item in dic)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        102,
+                        388,
+                        112,
+                        405
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                389,
+                                116,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        389,
+                                        116,
+                                        407
+                                    ],
+                                    "type": "text",
+                                    "content": "{",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        118,
+                        420,
+                        449,
+                        437
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                118,
+                                417,
+                                450,
+                                439
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        417,
+                                        296,
+                                        439
+                                    ],
+                                    "type": "text",
+                                    "content": "Console.WriteLine(item.Key",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        296,
+                                        421,
+                                        307,
+                                        434
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^ +",
+                                    "score": 0.72
+                                },
+                                {
+                                    "bbox": [
+                                        308,
+                                        417,
+                                        450,
+                                        439
+                                    ],
+                                    "type": "text",
+                                    "content": "item.Value.ToString());",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        102,
+                        453,
+                        112,
+                        468
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                100,
+                                453,
+                                114,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        453,
+                                        114,
+                                        470
+                                    ],
+                                    "type": "text",
+                                    "content": "}",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        470,
+                        240,
+                        585,
+                        430
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                470,
+                                240,
+                                585,
+                                430
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        470,
+                                        240,
+                                        585,
+                                        430
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                470,
+                                                240,
+                                                585,
+                                                430
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3240043151ca8a3b70ded2d7d2ed60c843c9492f15ff236a13be47a07c4f01dc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        615,
+                        307,
+                        878,
+                        373
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 17,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                615,
+                                307,
+                                878,
+                                330
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 14,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        614,
+                                        306,
+                                        882,
+                                        333
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                614,
+                                                307,
+                                                631,
+                                                332
+                                            ],
+                                            "type": "text",
+                                            "content": "1.",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                640,
+                                                306,
+                                                882,
+                                                333
+                                            ],
+                                            "type": "text",
+                                            "content": "使用 KeyValuePair 遍历 keys 和 value",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                615,
+                                334,
+                                757,
+                                351
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 15,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        614,
+                                        332,
+                                        759,
+                                        353
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                614,
+                                                333,
+                                                631,
+                                                352
+                                            ],
+                                            "type": "text",
+                                            "content": "2.",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                641,
+                                                332,
+                                                759,
+                                                353
+                                            ],
+                                            "type": "text",
+                                            "content": "只遍历所有键元素",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                615,
+                                356,
+                                756,
+                                373
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 16,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        614,
+                                        355,
+                                        758,
+                                        375
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                614,
+                                                355,
+                                                631,
+                                                375
+                                            ],
+                                            "type": "text",
+                                            "content": "3.",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                642,
+                                                355,
+                                                758,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "只遍历所有值元素",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        34,
+                        522,
+                        38,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 18,
+                    "lines": [
+                        {
+                            "bbox": [
+                                33,
+                                521,
+                                39,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        33,
+                                        521,
+                                        39,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "6",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        54,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 19,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                179,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        179,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 20,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                513,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        513,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        32,
+                        239,
+                        71
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                29,
+                                243,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        29,
+                                        243,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "封箱和拆箱",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        55,
+                        99,
+                        642,
+                        149
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 3,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                55,
+                                99,
+                                642,
+                                117
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        98,
+                                        642,
+                                        118
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                98,
+                                                642,
+                                                118
+                                            ],
+                                            "type": "text",
+                                            "content": " 封箱 boxing 是把值类型转换为 System.Object 类型，或者转换为由值类型实现的接口类型",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                131,
+                                285,
+                                149
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        130,
+                                        286,
+                                        150
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                76,
+                                                130,
+                                                286,
+                                                150
+                                            ],
+                                            "type": "text",
+                                            "content": "拆箱 unboxing 是相反的转换过程",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        53,
+                        163,
+                        895,
+                        197
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                159,
+                                896,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        159,
+                                        896,
+                                        184
+                                    ],
+                                    "type": "text",
+                                    "content": "从这些示例中可以看出，封箱是在没有用户干涉的情况下进行的 ( 即不需要编写任何代码 ) ，但拆箱一个值需要进行显式转换，即需要进",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                174,
+                                469,
+                                202
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        174,
+                                        469,
+                                        202
+                                    ],
+                                    "type": "text",
+                                    "content": "行数据类型转换 ( 封箱是隐式的，所以不需要进行数据类型转换 ) 。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        53,
+                        211,
+                        880,
+                        247
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                206,
+                                880,
+                                234
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        206,
+                                        880,
+                                        234
+                                    ],
+                                    "type": "text",
+                                    "content": "封箱有两个非常重要的原因。它允许在项的类型是 object 的集合 ( 如 ArrayList) 中使用值类型。其次，有一个内部机制允许在值类型",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                224,
+                                663,
+                                249
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        224,
+                                        663,
+                                        249
+                                    ],
+                                    "type": "text",
+                                    "content": "( 例如 int 和结构 ) 上调用 object 方法。最后需要注意的是，在访问值类型内容前，必须进行拆箱。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        55,
+                        290,
+                        474,
+                        309
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                289,
+                                474,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        289,
+                                        474,
+                                        309
+                                    ],
+                                    "type": "text",
+                                    "content": " 在日常代码书写中，尽可能减少拆箱装箱的操作，耗费时间……",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        38,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        32,
+                        295,
+                        72
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                27,
+                                300,
+                                78
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        27,
+                                        300,
+                                        78
+                                    ],
+                                    "type": "text",
+                                    "content": "is & as 运算符",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        57,
+                        98,
+                        678,
+                        117
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                98,
+                                678,
+                                119
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        98,
+                                        678,
+                                        119
+                                    ],
+                                    "type": "text",
+                                    "content": "is 运算符应不是用来说明对象是某种类型，而是用来检查对象是不是给定类型，返回 true 或者 false",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        60,
+                        132,
+                        150,
+                        147
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                132,
+                                151,
+                                148
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        132,
+                                        151,
+                                        148
+                                    ],
+                                    "type": "text",
+                                    "content": "3.14 is double",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        60,
+                        227,
+                        296,
+                        244
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                227,
+                                297,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        227,
+                                        297,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "as 把一种类型转换为指定的引用类型",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        57,
+                        259,
+                        177,
+                        275
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                259,
+                                179,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        259,
+                                        179,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": "只适用于下列情况：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        291,
+                        349,
+                        403
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 9,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                291,
+                                306,
+                                308
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        290,
+                                        308,
+                                        310
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                290,
+                                                150,
+                                                310
+                                            ],
+                                            "type": "text",
+                                            "content": "1. < operand",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                150,
+                                                292,
+                                                163,
+                                                306
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": ">",
+                                            "score": 0.74
+                                        },
+                                        {
+                                            "bbox": [
+                                                163,
+                                                290,
+                                                263,
+                                                310
+                                            ],
+                                            "type": "text",
+                                            "content": "的类型是 < type",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                263,
+                                                292,
+                                                277,
+                                                306
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": ">",
+                                            "score": 0.6
+                                        },
+                                        {
+                                            "bbox": [
+                                                277,
+                                                290,
+                                                308,
+                                                310
+                                            ],
+                                            "type": "text",
+                                            "content": "类型",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                323,
+                                349,
+                                341
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        322,
+                                        350,
+                                        342
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                322,
+                                                150,
+                                                342
+                                            ],
+                                            "type": "text",
+                                            "content": "2. < operand",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                150,
+                                                325,
+                                                163,
+                                                338
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": ">",
+                                            "score": 0.74
+                                        },
+                                        {
+                                            "bbox": [
+                                                163,
+                                                322,
+                                                263,
+                                                342
+                                            ],
+                                            "type": "text",
+                                            "content": "可以隐式转换为",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                263,
+                                                325,
+                                                277,
+                                                338
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "<",
+                                            "score": 0.5
+                                        },
+                                        {
+                                            "bbox": [
+                                                277,
+                                                322,
+                                                305,
+                                                342
+                                            ],
+                                            "type": "text",
+                                            "content": "type",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                305,
+                                                324,
+                                                319,
+                                                338
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": ">",
+                                            "score": 0.64
+                                        },
+                                        {
+                                            "bbox": [
+                                                319,
+                                                322,
+                                                350,
+                                                342
+                                            ],
+                                            "type": "text",
+                                            "content": "类型",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                355,
+                                334,
+                                373
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        354,
+                                        336,
+                                        374
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                53,
+                                                354,
+                                                150,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "3. < operand",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                150,
+                                                356,
+                                                163,
+                                                370
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": ">",
+                                            "score": 0.68
+                                        },
+                                        {
+                                            "bbox": [
+                                                163,
+                                                354,
+                                                235,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "可以封箱到",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                235,
+                                                356,
+                                                248,
+                                                370
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "<",
+                                            "score": 0.52
+                                        },
+                                        {
+                                            "bbox": [
+                                                249,
+                                                354,
+                                                278,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "type",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                278,
+                                                356,
+                                                290,
+                                                370
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": ">",
+                                            "score": 0.65
+                                        },
+                                        {
+                                            "bbox": [
+                                                290,
+                                                354,
+                                                336,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "类型中",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                387,
+                                269,
+                                403
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 8,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        386,
+                                        270,
+                                        407
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                386,
+                                                270,
+                                                407
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 如果不能完成转换，返回 null",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        34,
+                        522,
+                        36,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.68
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        58,
+                        34,
+                        130,
+                        69
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                29,
+                                136,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        29,
+                                        136,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "泛型",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        98,
+                        374,
+                        116
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                99,
+                                374,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        99,
+                                        374,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": "为了更好的解决是一开始就使用强类型化的集合类。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        130,
+                        895,
+                        165
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                129,
+                                896,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        129,
+                                        896,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "这种集合类派生于 CollectionBase, 并可以拥有自己的方法，来添加、删除和访问集合的成员，但它可能把集合成员限制为派生于某种基",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                141,
+                                800,
+                                174
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        141,
+                                        800,
+                                        174
+                                    ],
+                                    "type": "text",
+                                    "content": "本类型，或者必须支持某个接口。这会带来一个问题。每次创建需要包含在集合中的新类时，就必须执行下列任务之一 :",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        179,
+                        503,
+                        227
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 5,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                179,
+                                419,
+                                196
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        179,
+                                        420,
+                                        198
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                57,
+                                                179,
+                                                420,
+                                                198
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 使用某个集合类，该类已经定义为可以包含新类型的项。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                211,
+                                503,
+                                227
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        209,
+                                        504,
+                                        230
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                209,
+                                                504,
+                                                230
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 创建一个新的集合类，它可以包含新类型的项，实现所有需要的方法。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        56,
+                        244,
+                        265,
+                        260
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                243,
+                                267,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        243,
+                                        267,
+                                        262
+                                    ],
+                                    "type": "text",
+                                    "content": "Using System.Colection.Generic;",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        276,
+                        332,
+                        293
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                274,
+                                333,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        274,
+                                        183,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": "Collection<T> items",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        184,
+                                        279,
+                                        197,
+                                        289
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "=",
+                                    "score": 0.79
+                                },
+                                {
+                                    "bbox": [
+                                        197,
+                                        274,
+                                        333,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": "new Collection<T> ();",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        308,
+                        366,
+                        325
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                306,
+                                368,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        306,
+                                        203,
+                                        327
+                                    ],
+                                    "type": "text",
+                                    "content": "ArrayList<string> mList",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        203,
+                                        311,
+                                        216,
+                                        321
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "=",
+                                    "score": 0.81
+                                },
+                                {
+                                    "bbox": [
+                                        216,
+                                        306,
+                                        368,
+                                        327
+                                    ],
+                                    "type": "text",
+                                    "content": "new ArrayList<string>();",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        340,
+                        366,
+                        356
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                337,
+                                367,
+                                361
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        337,
+                                        202,
+                                        361
+                                    ],
+                                    "type": "text",
+                                    "content": "Dictionary<K,V> things",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        202,
+                                        342,
+                                        215,
+                                        353
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "=",
+                                    "score": 0.8
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        337,
+                                        367,
+                                        361
+                                    ],
+                                    "type": "text",
+                                    "content": "new Dictionary<K,V> ();",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        371,
+                        93,
+                        387
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                369,
+                                96,
+                                390
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        369,
+                                        96,
+                                        390
+                                    ],
+                                    "type": "text",
+                                    "content": "特点：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        403,
+                        775,
+                        451
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 13,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                403,
+                                380,
+                                419
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 11,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        402,
+                                        381,
+                                        422
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                402,
+                                                381,
+                                                422
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 泛型不只设计集合，但是集合特别适合使用泛型",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                435,
+                                775,
+                                451
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 12,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        434,
+                                        777,
+                                        454
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                434,
+                                                777,
+                                                454
+                                            ],
+                                            "type": "text",
+                                            "content": "4. Dictionary 既可以迭代集合中的键也可以迭代集合汇总的值，可以使用 KeyValuePair<K,V> 来实例获取字典元素",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        34,
+                        522,
+                        38,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                33,
+                                521,
+                                39,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        33,
+                                        521,
+                                        39,
+                                        532
+                                    ],
+                                    "type": "text",
+                                    "content": "9",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        54,
+                        522,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                179,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.65
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        179,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 16,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 8
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        55,
+                        33,
+                        131,
+                        71
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                27,
+                                137,
+                                76
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        27,
+                                        137,
+                                        76
+                                    ],
+                                    "type": "text",
+                                    "content": "作业",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        25,
+                        116,
+                        959,
+                        144
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                118,
+                                959,
+                                139
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        118,
+                                        959,
+                                        139
+                                    ],
+                                    "type": "text",
+                                    "content": "•1. 创建一个集合用来存储整数（ 9 ， 6 ， 15 ， 8 ， 3 ， 5 ），请按照从小到大进行排序，并求出集合中的最大值和最小值显示到控",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        91,
+                        167,
+                        300,
+                        241
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                91,
+                                167,
+                                300,
+                                241
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        167,
+                                        300,
+                                        241
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                91,
+                                                167,
+                                                300,
+                                                241
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0f00c40f8392bc57afae91a8f4f2d82065b69ff68a54f79198625f757c8dead4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        38,
+                        295,
+                        370,
+                        319
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                295,
+                                371,
+                                318
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        295,
+                                        371,
+                                        318
+                                    ],
+                                    "type": "text",
+                                    "content": "2. 使用 Dictionary 存储以下姓名和成绩",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        74,
+                        335,
+                        150,
+                        358
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                333,
+                                151,
+                                361
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        333,
+                                        119,
+                                        361
+                                    ],
+                                    "type": "text",
+                                    "content": "张三",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        125,
+                                        336,
+                                        151,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "90",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        74,
+                        376,
+                        149,
+                        397
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                373,
+                                152,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        373,
+                                        126,
+                                        401
+                                    ],
+                                    "type": "text",
+                                    "content": "李四",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        113,
+                                        375,
+                                        152,
+                                        400
+                                    ],
+                                    "type": "text",
+                                    "content": "95",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        75,
+                        416,
+                        149,
+                        437
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                413,
+                                152,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        413,
+                                        119,
+                                        441
+                                    ],
+                                    "type": "text",
+                                    "content": "王五",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        125,
+                                        416,
+                                        152,
+                                        440
+                                    ],
+                                    "type": "text",
+                                    "content": "98",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        73,
+                        456,
+                        427,
+                        478
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                455,
+                                427,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        455,
+                                        427,
+                                        480
+                                    ],
+                                    "type": "text",
+                                    "content": "求出成绩的平均值并遍历集合显示到控制台。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        27,
+                        521,
+                        41,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                519,
+                                43,
+                                534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        519,
+                                        43,
+                                        534
+                                    ],
+                                    "type": "text",
+                                    "content": "10",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                519,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.67
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        519,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        820,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 9
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        0,
+                        959,
+                        320
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                959,
+                                320
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        959,
+                                        320
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                959,
+                                                320
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8de4048d6121faa80f10de9f7862359ef0c5b1532f052b069d958b7db47ac97c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        389,
+                        390,
+                        569,
+                        433
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                385,
+                                381,
+                                576,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        385,
+                                        381,
+                                        576,
+                                        440
+                                    ],
+                                    "type": "text",
+                                    "content": "Thank you",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        29,
+                        522,
+                        38,
+                        531
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                520,
+                                39,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        520,
+                                        39,
+                                        532
+                                    ],
+                                    "type": "text",
+                                    "content": "11",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        522,
+                                        62,
+                                        531
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.51
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 10
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.5"
+}

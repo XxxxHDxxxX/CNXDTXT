@@ -1,0 +1,1876 @@
+[
+    {
+        "type": "text",
+        "text": "COGNEX ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            466,
+            202,
+            507
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHANGE THE ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            550,
+            202,
+            735
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RULES ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            753,
+            202,
+            877
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FSE Training ",
+        "text_level": 1,
+        "bbox": [
+            550,
+            359,
+            775,
+            438
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Content Sharing Introduction ",
+        "text_level": 1,
+        "bbox": [
+            41,
+            27,
+            448,
+            88
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• VS2012 界面讲解",
+            "Machine Support 框架介绍 ",
+            "Machine Support 的简单调试",
+            "VPP 之间数据流向",
+            "• 3D 相机相关问题讲解"
+        ],
+        "bbox": [
+            63,
+            238,
+            359,
+            459
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            907,
+            950,
+            942
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "4 | Confidential $\\circledcirc$ 2018 Cognex Corporation ",
+        "bbox": [
+            53,
+            961,
+            206,
+            981
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Universal Framework + Machine Support ",
+        "text_level": 1,
+        "bbox": [
+            36,
+            27,
+            610,
+            92
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运行流程",
+        "text_level": 1,
+        "bbox": [
+            23,
+            153,
+            126,
+            192
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "• AssemblyPlus 框架的运行流程如下图所示， Fixture 表示机器部分，其由 SI 控制， Framework 相当于一个视觉服务器，对视觉部分进行处理计算 ( 例如运行 Inspection, 光源配置等），而 Machine Support 则作为 Fixture 和 Framework 的中间桥负责命令的解析和响应，解析 Fixture 传来的指令，然后确定 Framework 中某个 Inspection 的运行，再将处理得到的结果进行打包反馈给 Fixture 。",
+        "bbox": [
+            0,
+            222,
+            1000,
+            387
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6431300462af4fbb3b25d98df6718c363a2573e179796ff4cbcb4919bc4b784f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            452,
+            474,
+            825,
+            864
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            907,
+            950,
+            942
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "3 | Confidential $\\circledcirc$ 2018 Cognex Corporation ",
+        "bbox": [
+            53,
+            961,
+            206,
+            981
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MachineSupport 作用",
+        "text_level": 1,
+        "bbox": [
+            38,
+            22,
+            345,
+            90
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/02bafef999825979c59664a48aac5d3a882b700c735bfaad16c64174b8302d0b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>CognexVisionPro.Comm.xml</td><td>2018-02-08 3:57</td><td>DLL文件</td></tr><tr><td>CognexVisionPro.Vs.TexturedRangel...</td><td>2019-04-13 11:10</td><td>DLL文件</td></tr><tr><td>CognexVPE.Core.dll</td><td>2020-04-07 7:22</td><td>DLL文件</td></tr><tr><td>CognexVPE.ImageGenerator.Control...</td><td>2020-04-07 10:26</td><td>DLL文件</td></tr><tr><td>CognexVPE.InspectPro.CVL.dll</td><td>2020-04-07 7:24</td><td>DLL文件</td></tr><tr><td>Cognex.VSAlignPlusUtilities.dll</td><td>2019-04-13 11:10</td><td>DLL文件</td></tr><tr><td>Cognex.VS.Core.dll</td><td>2020-04-07 7:19</td><td>DLL文件</td></tr><tr><td>Cognex.VS FrameworkCommunicatio...</td><td>2020-09-15 14:31</td><td>DLL文件</td></tr><tr><td>Cognex.VSframeworkSetup.dll</td><td>2020-10-28 20:20</td><td>DLL文件</td></tr><tr><td>Cognex.VS.Interop.dll</td><td>2020-04-07 7:17</td><td>DLL文件</td></tr><tr><td>Cognex.VS.LightController.dll</td><td>2020-09-15 14:31</td><td>DLL文件</td></tr><tr><td>Cognex.VS.MachineSupport.dll</td><td>2021-12-10 16:43</td><td>DLL文件</td></tr><tr><td>Cognex.VS.MachineSupport.pdb</td><td>2021-12-10 16:43</td><td>Program I</td></tr><tr><td>Cognex.VS.ToolBlockUtility.dll</td><td>2020-09-15 14:31</td><td>DLL文件</td></tr><tr><td>Cognex.VS Utility.dll</td><td>2020-09-15 14:31</td><td>DLL文件</td></tr><tr><td>Cognex.VS Utility.xml</td><td>2020-09-15 14:31</td><td>XML文档</td></tr><tr><td>CognexAssemblyPlus.exe</td><td>2020-10-28 20:20</td><td>应用程序</td></tr><tr><td>CommunicationTester.exe</td><td>2018-02-22 6:51</td><td>应用程序</td></tr><tr><td>config.xml</td><td>2021-06-11 20:56</td><td>XML文档</td></tr><tr><td>Configuration_General.ini</td><td>2021-12-10 16:45</td><td>配置设置</td></tr><tr><td>Configuration_NonGeneral.ini</td><td>2021-12-09 19:07</td><td>配置设置</td></tr><tr><td>ICShowCode.ShareTilib.dll</td><td>2019-11-22 11:24</td><td>DLL文件</td></tr></table>",
+        "bbox": [
+            47,
+            179,
+            426,
+            842
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运行流程：",
+        "text_level": 1,
+        "bbox": [
+            507,
+            192,
+            594,
+            229
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " 接收并解析指令",
+            " 给指定 Inspection 输入参数赋值",
+            " 运行指定 Inspection",
+            "获取运算结果",
+            " 封装并发送指令"
+        ],
+        "bbox": [
+            509,
+            264,
+            791,
+            596
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其他功能：定义设备名称、定义 Simulator 、数据保存、数据传递、坐标计算…",
+        "bbox": [
+            506,
+            703,
+            895,
+            785
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            805,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "3 | ",
+        "bbox": [
+            53,
+            961,
+            61,
+            981
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "Confidential $\\circledcirc$ 2018 Cognex Corporation ",
+        "bbox": [
+            62,
+            961,
+            205,
+            981
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Machine Support 结构",
+        "text_level": 1,
+        "bbox": [
+            37,
+            20,
+            355,
+            90
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc122ed51f47224a689eec1f2894c9642f1066e11b23425339e6bd9abf15da7e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            42,
+            129,
+            992,
+            883
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            950,
+            942
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "17 ",
+        "bbox": [
+            54,
+            962,
+            64,
+            977
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            962,
+            210,
+            979
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Machine Support Key function ",
+        "text_level": 1,
+        "bbox": [
+            37,
+            27,
+            463,
+            88
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Init()",
+        "text_level": 1,
+        "bbox": [
+            47,
+            220,
+            93,
+            257
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a) Framework Backup （框架备份）",
+            "b) Read Machine support Setting ",
+            "c) Framework Custom Menu Setting ",
+            "d) Hardware Prepare （硬件准备）"
+        ],
+        "bbox": [
+            41,
+            272,
+            331,
+            444
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "public void Init() { //allocate resourcee } ",
+        "guess_lang": "txt",
+        "bbox": [
+            83,
+            531,
+            358,
+            712
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Shutdown() ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            225,
+            623,
+            264
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Shutdown is called once when the framework is closing. Use this function to cleanup anything initialized explicitly in the Init function. Most machines can leave this implementation empty. （当框架关闭时调用Shutdown。使用此函数 可清除在Init函数中显式初始化的任何内容。 大多数机器可以将此实现留空。） ",
+        "bbox": [
+            477,
+            272,
+            856,
+            575
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "public void Shutdown()   \n{ // If no resources were allocated, there is nothing to clean up } ",
+        "guess_lang": "txt",
+        "bbox": [
+            500,
+            592,
+            993,
+            838
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            907,
+            947,
+            940
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            54,
+            961,
+            62,
+            977
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            961,
+            210,
+            979
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Machine Support Key function ",
+        "text_level": 1,
+        "bbox": [
+            37,
+            27,
+            463,
+            88
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "} //Define RunJobParameters and add in the List ulong partID $=$ ImageSaveQueue.gOnly.NewPart(CommandData SerialNumber); RunJobParameters rjParams $=$ new RunJobParameters(CommandData.InspectionID, partID); rjParams.Inputs.Add(\"I_Method\", methodID); rjParams.Inputs.Add(\"InputCommand\", command.Command); rjParams.Inputs.Add(\"ImageID\", command.Command.Substring(0,13)+CommandData SerialNumber); vrjParams.Add(rjParams); vCMDatas.Add(CommandData); //DisplayGraphic(CommandData PoseID, CommandData.NozzleID, 1);   \n} //RunJob bool success $=$ m_framework.RunJob commanded, LightControlAction.AutoOnAndOff, true, vrjParams.ToArray(); for (int i $= 0$ ;i $<$ vrjParams.Count; i++) { errorCode $=$ (int)vrjParams.ToArray() [i].Outputs[\"ErrorCode\"]; ",
+        "bbox": [
+            70,
+            201,
+            725,
+            718
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            940
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "19 ",
+        "bbox": [
+            54,
+            961,
+            65,
+            979
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential $\\circledcirc$ 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            961,
+            210,
+            979
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Machine Support Key function ",
+        "text_level": 1,
+        "bbox": [
+            36,
+            27,
+            463,
+            88
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "bool RunJob( CommandAndInfo command, LightControlAction lightControlAction, bool shareLightingSettings, params RunJobParameters[] parameters ); ",
+        "bbox": [
+            6,
+            116,
+            852,
+            209
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RunJob 是 IFrameworkSupport 接口中重要的方法。 RunJob 同时运行一个或多个检查 job ，使用一组 RunJobParameters 对象来指定要运行的检查、存储输入、和 toolblocks.RunJob 的输出应该总是从IMachineSupport 的主体内部调用 TCPJobParser() 函数。 每次调用 TCPJobParser 只能调用一次。每个 CommandAndInfo 和 RunJobParameters 对象只能用作 RunJob ONCE 的参数。RunJob 的 4 个参数 .",
+        "bbox": [
+            20,
+            225,
+            909,
+            444
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 第一个是一个 CommandAndInfo 对象， command 。 这不应该被构造 .",
+            "• 第二个是 LightControlAction 。 这几乎总是 LightControlAction.AutoOnAndOff 或LightControlAction.NoAction ，这取决于框架是否应该管理照明。",
+            "• 第三个参数是布尔值， shareLightingSettings 。 RunJob 一次可以运行多个检测工具，每个检测工具可以有自己的光照设置。如果 shareLightingSettings 为 true ，则第一次检查的照明设置将用于所有检查。如果 shareLightingSettings 为 false ，则每次检查都将进行轮流获取图像并使用单独的照明设置。这比共享照明设置慢得多",
+            "• 第四个参数是 RunJobParameters 对象的集合。 每个 RunJobParameters 对象代表一次单独检查的运行。"
+        ],
+        "bbox": [
+            18,
+            464,
+            922,
+            838
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            907,
+            947,
+            942
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            54,
+            961,
+            62,
+            977
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            64,
+            961,
+            210,
+            981
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Machine Support Key function ",
+        "text_level": 1,
+        "bbox": [
+            37,
+            27,
+            463,
+            88
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "用 MessageManager 类向 Log 中增加信息",
+        "bbox": [
+            47,
+            196,
+            412,
+            238
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "catch ",
+        "bbox": [
+            150,
+            377,
+            209,
+            412
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Failed.\"); ",
+        "bbox": [
+            79,
+            496,
+            196,
+            535
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "{ MessageManager.gOnly.Alarm(\"Image Group } ",
+        "bbox": [
+            318,
+            416,
+            785,
+            575
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            940
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            54,
+            961,
+            62,
+            977
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            64,
+            961,
+            210,
+            981
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DS Camera ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            31,
+            194,
+            81
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/07d366b6d3e6ad12a1707a224a4161e09c74e5efce4b9115bb03702171e1e661.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            58,
+            170,
+            714,
+            892
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            950,
+            942
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "20 | Confidential $\\circledcirc$ 2018 Cognex Corporation ",
+        "bbox": [
+            54,
+            961,
+            211,
+            981
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b651ee988d806a74de544c29287dad3e394818da999b5f58a96503768fa162b1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            171,
+            187,
+            400,
+            805
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "已知：",
+        "bbox": [
+            422,
+            148,
+            478,
+            187
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "三角形ABC和CGD，其中",
+        "bbox": [
+            422,
+            190,
+            661,
+            235
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC G = c,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            423,
+            240,
+            498,
+            279
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG D = g,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            425,
+            285,
+            500,
+            325
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf {B C} = \\mathbf {b},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            425,
+            329,
+            500,
+            368
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "求AB的长度？",
+        "bbox": [
+            423,
+            368,
+            550,
+            412
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            422,
+            475,
+            459,
+            516
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            422,
+            520,
+            697,
+            562
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$A B = x \\cdot$ ",
+        "bbox": [
+            422,
+            566,
+            541,
+            607
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {x}{c} = \\frac {b}{g} \\Rightarrow x = \\frac {b * c}{g}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            420,
+            651,
+            641,
+            751
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "三角测量法",
+        "bbox": [
+            433,
+            783,
+            540,
+            825
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "DS Camera ",
+        "bbox": [
+            40,
+            31,
+            194,
+            81
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            805,
+            909,
+            947,
+            940
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            54,
+            961,
+            62,
+            977
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            961,
+            210,
+            979
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DS Camera ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            31,
+            194,
+            81
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "设置适当的超时·默认（30000ms）",
+        "bbox": [
+            91,
+            159,
+            368,
+            200
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "如果启用，则此设置（以ms为单位）应设置为大于以下三个因子的总和：",
+        "bbox": [
+            89,
+            259,
+            371,
+            333
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "采集请求和采集开始之间的最大时间(可能是由于使用编码器时启动运动的延退",
+            "扫描零件所需的最长时间（由运动速度和扫描长度控制）；",
+            "扫描完成后完成图像数据传输所需的最长时间。"
+        ],
+        "bbox": [
+            89,
+            375,
+            371,
+            640
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdbf16b6edde8371e1eb85a43c6b31bfbb5381e61aaf9d316c86fa6cd5310ea3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            388,
+            129,
+            830,
+            862
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            805,
+            909,
+            948,
+            942
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            54,
+            962,
+            62,
+            977
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential $\\circledcirc$ 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            962,
+            210,
+            979
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "DS Camera ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            31,
+            194,
+            81
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/b65ff36ec02449c762fe2392602f5cbbef69f95555ec8521287eab9750462987.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            71,
+            190,
+            594,
+            777
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            805,
+            909,
+            948,
+            938
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "20 ",
+        "bbox": [
+            54,
+            962,
+            64,
+            977
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            962,
+            210,
+            979
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "DS Camera ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            31,
+            194,
+            81
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/906d9f585e80d3361ab8c8b934cb7192000e72a315997ec00dc932f0040914c0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            63,
+            200,
+            85,
+            233
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "CogAcqFifoTool_Product ",
+        "bbox": [
+            88,
+            201,
+            235,
+            233
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/54e28ba623f9296ce3efedd06a8191991830e2689e2ae8573c86d633c3313dec.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            63,
+            250,
+            78,
+            283
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8e6895ae3baf59c92be3af104d0e289a9c2cbbbecf96dfa448c90b9e1cab76c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            79,
+            250,
+            104,
+            285
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d537e292f78f5b9ebf7ca7134ef60eef54b20403c6c0fcd93c8e15834dbfeb6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            105,
+            250,
+            129,
+            285
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a8e2cb7b35483a5b6e8ca2c5ba836346c6b22fc6f565d126704b94d40186b91.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            131,
+            250,
+            156,
+            285
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab4b131842905d89e23b0e38bfd198357e41f3efbc6e33f146c45d2490dda658.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            159,
+            250,
+            183,
+            285
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/6764b9385150bf914835e82c9b3f7e17cf9602021282bd48a80d431cdc82291f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            184,
+            250,
+            208,
+            285
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/19cc00fcc597693caf004d9df140a2189c7d8aae405e5bb33c18e4a80508a554.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            209,
+            250,
+            233,
+            285
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9d40f2667d117f69bd23696ddab6c1ed03121f49a37c06aa7830b38bd19a212.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            234,
+            250,
+            273,
+            285
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/16b83f9ef7694f3c583e8712f0c1d96ac18991ad86153e1e1ba65e6ba5035961.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            275,
+            250,
+            306,
+            285
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "bbox": [
+            69,
+            312,
+            121,
+            338
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Strobe & Trigger ",
+        "bbox": [
+            132,
+            312,
+            231,
+            338
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Image Properties ",
+        "bbox": [
+            239,
+            309,
+            337,
+            333
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Calibration Custom Properties ",
+        "bbox": [
+            346,
+            312,
+            531,
+            337
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            81,
+            357,
+            121,
+            379
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            83,
+            403,
+            139,
+            429
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/cda99be3142425f340cf050e08d03bd46646967e496e081a4a28bc6080bd8aad.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            171,
+            396,
+            286,
+            435
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            83,
+            462,
+            139,
+            490
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/62c55cb697d8e067703c74dcc6916191579d80658e2be949dfcf4365f413c484.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            171,
+            457,
+            285,
+            496
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            524,
+            121,
+            548
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e5fb0e1a5fa6e7b875727bf830977fce3b95d51988cb21390d5e6a81a417f1e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            171,
+            520,
+            285,
+            557
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            83,
+            585,
+            127,
+            611
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c9ae42c474f0832d9976eaa1026a99aeef6cd0d81c3ec5ace4b8720495f955d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            170,
+            579,
+            285,
+            618
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Output Pixel Format: ",
+        "bbox": [
+            355,
+            359,
+            476,
+            385
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            357,
+            401,
+            414,
+            424
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            805,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            54,
+            962,
+            65,
+            977
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            962,
+            210,
+            979
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "DS Camera ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            31,
+            194,
+            81
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "□X-Scale:在X方向的像素分辨率 ",
+            "□StepsPerLine：采集一个像素需要的脉冲数",
+            "□DistancePerCicle：一个周期内（四个脉冲信号）·平台移动的距离",
+            "□MeasureFiled：相机在Intensity模式下，的一个视野大小，不同的视野对应着不同的采样频率。"
+        ],
+        "bbox": [
+            93,
+            175,
+            514,
+            596
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2af739da57373406025538f612bc4ea4acb0823099ebc2fefb4fdf5e2c107d9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            522,
+            142,
+            886,
+            851
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            805,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            54,
+            962,
+            62,
+            977
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            962,
+            210,
+            979
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/2511a7f58e5637cf5aa6b314e28c9e2f42db593a92033cff810f5689b1055b9a.jpg",
+        "table_caption": [
+            "DS910B Series Technical Data "
+        ],
+        "table_footnote": [
+            "FSO = Full Scale Output | MMR $\\Bumpeq$ Midrange "
+        ],
+        "table_body": "<table><tr><td>Data</td><td>DS910B</td></tr><tr><td>Measuring Range Z-axis</td><td>8 mm</td></tr><tr><td>Start of Measuring Range</td><td>52.5 mm</td></tr><tr><td>End of Measuring Range</td><td>60.5 mm</td></tr><tr><td>Line Length Midrange (X-axis)</td><td>10 mm</td></tr><tr><td>Linearity1</td><td>± 0.17 % FSO (3 σ)</td></tr><tr><td>Resolution X-axis</td><td>1280 points/profile</td></tr><tr><td>Light Source Laser</td><td>Semiconductor laser, approx. 405 nm, 10° aperture angle, Laser class 2M: laser power 7 mW, reduced 2 mW</td></tr><tr><td>Displays</td><td>1x state / 1x laser on</td></tr><tr><td>Electromagnetic Compatibility (EMC)</td><td>According to: EN 61326-1: 2006-10 DIN EN 55011: 2007-11 (Group 1, Class B) EN 61000-6-2: 2006-03</td></tr></table>",
+        "bbox": [
+            68,
+            253,
+            686,
+            685
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "DS Camera ",
+        "bbox": [
+            40,
+            31,
+            194,
+            81
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            805,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            54,
+            962,
+            65,
+            977
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            962,
+            210,
+            979
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DS Camera ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            31,
+            193,
+            81
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/b22c6b2b9ad122fcebb40da1bae4274f8d3cb1e6be96424c74fc69a6bbb63521.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            110,
+            151,
+            400,
+            883
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            805,
+            909,
+            947,
+            942
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "20 ",
+        "bbox": [
+            54,
+            962,
+            64,
+            977
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            962,
+            210,
+            981
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "DS Camera ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            31,
+            193,
+            81
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a425d3b3cd3daddf92ae3de6dfc8e4f37b5972cf23d8a4fbb729d4468a2fe25.jpg",
+        "table_caption": [
+            "Maximum Scan Rates for Measuring Fields "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"9\">Maximum Acquiring Rate Depending on the Measuring Field Number</td></tr><tr><td></td><td>+0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td><td>+6</td><td>+7</td></tr><tr><td>0</td><td>144Hz</td><td>192Hz</td><td>192Hz</td><td>192Hz</td><td>284Hz</td><td>284Hz</td><td>284Hz</td><td>552Hz</td></tr><tr><td>8</td><td>181Hz</td><td>239Hz</td><td>239Hz</td><td>239Hz</td><td>354Hz</td><td>354Hz</td><td>354Hz</td><td>680Hz</td></tr><tr><td>16</td><td>181Hz</td><td>239Hz</td><td>239Hz</td><td>239Hz</td><td>354Hz</td><td>354Hz</td><td>354Hz</td><td>680Hz</td></tr><tr><td>24</td><td>181Hz</td><td>239Hz</td><td>239Hz</td><td>239Hz</td><td>354Hz</td><td>354Hz</td><td>354Hz</td><td>680Hz</td></tr><tr><td>32</td><td>241Hz</td><td>318Hz</td><td>318Hz</td><td>318Hz</td><td>469Hz</td><td>469Hz</td><td>469Hz</td><td>892Hz</td></tr><tr><td>40</td><td>241Hz</td><td>318Hz</td><td>318Hz</td><td>318Hz</td><td>469Hz</td><td>469Hz</td><td>469Hz</td><td>892Hz</td></tr><tr><td>48</td><td>241Hz</td><td>318Hz</td><td>318Hz</td><td>318Hz</td><td>469Hz</td><td>469Hz</td><td>469Hz</td><td>892Hz</td></tr><tr><td>56</td><td>241Hz</td><td>318Hz</td><td>318Hz</td><td>318Hz</td><td>469Hz</td><td>469Hz</td><td>469Hz</td><td>892Hz</td></tr><tr><td>64</td><td>362Hz</td><td>476Hz</td><td>476Hz</td><td>476Hz</td><td>694Hz</td><td>694Hz</td><td>694Hz</td><td>1200Hz</td></tr><tr><td>72</td><td>362Hz</td><td>476Hz</td><td>476Hz</td><td>476Hz</td><td>694Hz</td><td>694Hz</td><td>694Hz</td><td>1200Hz</td></tr><tr><td>80</td><td>362Hz</td><td>476Hz</td><td>476Hz</td><td>476Hz</td><td>694Hz</td><td>694Hz</td><td>694Hz</td><td>1200Hz</td></tr><tr><td>88</td><td>362Hz</td><td>476Hz</td><td>476Hz</td><td>476Hz</td><td>694Hz</td><td>694Hz</td><td>694Hz</td><td>1200Hz</td></tr><tr><td>96</td><td>552Hz</td><td>552Hz</td><td>1030Hz</td><td>1030Hz</td><td>1030Hz</td><td>1030Hz</td><td>1030Hz</td><td>1030Hz</td></tr><tr><td>104</td><td>680Hz</td><td>680Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td></tr><tr><td>112</td><td>892Hz</td><td>892Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td></tr><tr><td>120</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td><td>1200Hz</td></tr></table>",
+        "bbox": [
+            35,
+            200,
+            647,
+            801
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            805,
+            909,
+            947,
+            942
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            54,
+            962,
+            62,
+            977
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            962,
+            210,
+            981
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "DS Camera ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            31,
+            194,
+            81
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Recommended Shutter Times ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            201,
+            271,
+            229
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The value ofexposure (inmiliseconds) should be setdepending on the material thatis being scanned.The recommendationsareas follows: ",
+        "bbox": [
+            57,
+            235,
+            471,
+            277
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/e54a165e38ac3f109827ed9689f659e148c5f6d5912bed319591525f80b1e09e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">Recommended shutter times (approximate values)</td></tr><tr><td>Target material</td><td>Shutter Time</td></tr><tr><td>White paper/plastic</td><td>10 - 50μs</td></tr><tr><td>Colored plastic</td><td>50 - 100μs</td></tr><tr><td>Metallic surfaces</td><td>0.1 - 1ms</td></tr><tr><td>Black plastic/rubber</td><td>0.5 - 1ms</td></tr></table>",
+        "bbox": [
+            57,
+            285,
+            518,
+            440
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            805,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            54,
+            962,
+            63,
+            977
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            67,
+            962,
+            210,
+            979
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DS Camera ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            31,
+            194,
+            81
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/8077ed6a2beaa6ee6184b55b58e40f8807a334c209ee4b6e6843c00969fc43bf.jpg",
+        "table_caption": [
+            "DS910B - Measurement Specifications "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Specification</td><td>DS910B</td></tr><tr><td>Near Field of View</td><td>9.4 mm</td></tr><tr><td>Far Field of View</td><td>10.7 mm</td></tr><tr><td>Clearance Distance (CD)</td><td>53 mm</td></tr><tr><td>Measurement Range (MR)</td><td>8 mm</td></tr><tr><td>Resolution X</td><td>0.0073 mm - 0.0084 mm</td></tr><tr><td>Resolution Z</td><td>0.001 mm</td></tr></table>",
+        "bbox": [
+            64,
+            185,
+            480,
+            348
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ec77097c411be7234786a42bda17c8686dd113bcd23b4a588815c533e0bc84e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            144,
+            385,
+            398,
+            775
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            805,
+            909,
+            947,
+            940
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            54,
+            962,
+            63,
+            977
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2018 Cognex Corporation ",
+        "bbox": [
+            65,
+            962,
+            210,
+            979
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Work Hard ",
+        "text_level": 1,
+        "bbox": [
+            46,
+            561,
+            240,
+            620
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Play Hard ",
+        "text_level": 1,
+        "bbox": [
+            69,
+            642,
+            236,
+            714
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Move Fast! ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            725,
+            297,
+            781
+        ],
+        "page_idx": 20
+    }
+]

@@ -1,0 +1,618 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        26,
+                        32,
+                        72,
+                        44
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                31,
+                                73,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        31,
+                                        73,
+                                        47
+                                    ],
+                                    "type": "text",
+                                    "content": "L3 机试题",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        27,
+                        46,
+                        340,
+                        264
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                27,
+                                46,
+                                340,
+                                264
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        46,
+                                        340,
+                                        264
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                27,
+                                                46,
+                                                340,
+                                                264
+                                            ],
+                                            "type": "image",
+                                            "image_path": "562cacaa67d0e55703f6fb8237bd262e586bf5a859d4b2f03ce2fb719431d396.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        25,
+                        266,
+                        123,
+                        279
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                266,
+                                123,
+                                280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        266,
+                                        123,
+                                        280
+                                    ],
+                                    "type": "text",
+                                    "content": "视觉工程师三级机试",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        24,
+                        281,
+                        565,
+                        310
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                280,
+                                566,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        280,
+                                        443,
+                                        296
+                                    ],
+                                    "type": "text",
+                                    "content": "操作要求:每题为一个 Block，Block 重命名为 1 和 2，作业保存为 Block 格式命名方式为:姓名",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        443,
+                                        283,
+                                        451,
+                                        293
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^ +",
+                                    "score": 0.6
+                                },
+                                {
+                                    "bbox": [
+                                        451,
+                                        280,
+                                        566,
+                                        296
+                                    ],
+                                    "type": "text",
+                                    "content": "身份证号，每人作业只收",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                27,
+                                297,
+                                166,
+                                312
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        297,
+                                        166,
+                                        312
+                                    ],
+                                    "type": "text",
+                                    "content": "集一份整体的 Block。 (100 分)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        257,
+                        310,
+                        460,
+                        680
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                257,
+                                310,
+                                460,
+                                680
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        310,
+                                        460,
+                                        680
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                257,
+                                                310,
+                                                460,
+                                                680
+                                            ],
+                                            "type": "image",
+                                            "image_path": "169f723c26148e7cb8a853c4e6354ca54d4465507290372378889fad75db11a1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        27,
+                        480,
+                        257,
+                        679
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                27,
+                                480,
+                                257,
+                                679
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        480,
+                                        257,
+                                        679
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                27,
+                                                480,
+                                                257,
+                                                679
+                                            ],
+                                            "type": "image",
+                                            "image_path": "9acf05aac09db5313473082796fa9c5fc53118d3aab522ee448016d50ad37b24.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        25,
+                        687,
+                        484,
+                        700
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                687,
+                                484,
+                                700
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        687,
+                                        484,
+                                        700
+                                    ],
+                                    "type": "text",
+                                    "content": "1.请使用图片 1.idb 完成以下操作: 这个题目要求全在上图 命名为 “1” 的ToolBlock里添加工具操作！",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        25,
+                        702,
+                        567,
+                        730
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                701,
+                                567,
+                                716
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        701,
+                                        567,
+                                        716
+                                    ],
+                                    "type": "text",
+                                    "content": "1选择合适特征定位，抓取左右两个大圆并计算圆心距并输出;(15 分)2 抓取周边的3 个小圆 ABC 并将圆心互相连线;",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                24,
+                                717,
+                                217,
+                                732
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        717,
+                                        60,
+                                        732
+                                    ],
+                                    "type": "text",
+                                    "content": "(18 分)",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        717,
+                                        217,
+                                        731
+                                    ],
+                                    "type": "text",
+                                    "content": "抓圆、测距、fitLine拟合线",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        24,
+                        733,
+                        565,
+                        762
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                731,
+                                568,
+                                749
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        731,
+                                        568,
+                                        749
+                                    ],
+                                    "type": "text",
+                                    "content": "3 做圆心 01、02 的中垂线于 AB 相交于 D，过 D 做 0102 的平行线 DE，与 AC 交于 E 点，求 DE 的距离并输出; (7 分)4 计",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                746,
+                                260,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        746,
+                                        260,
+                                        764
+                                    ],
+                                    "type": "text",
+                                    "content": "算 D 点周边的最大白色斑点的面积并输出。(10 分)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        24,
+                        765,
+                        567,
+                        793
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                764,
+                                567,
+                                778
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        764,
+                                        567,
+                                        778
+                                    ],
+                                    "type": "text",
+                                    "content": "这里可以用点平分线直接拿圆心01 02的点得到一条中垂线，然后又和线 AB相交与D(也可以，01 02先拟合一条",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                27,
+                                780,
+                                220,
+                                794
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        780,
+                                        220,
+                                        794
+                                    ],
+                                    "type": "text",
+                                    "content": "直线，然后过点D做01 02连线的垂线。)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        47,
+                        795,
+                        409,
+                        809
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                796,
+                                411,
+                                810
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        796,
+                                        411,
+                                        810
+                                    ],
+                                    "type": "text",
+                                    "content": "，再创造平行线平行于0102的连线。 测距、 斑点工具筛选最大的斑点并输出。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        26,
+                        31,
+                        372,
+                        60
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                31,
+                                372,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        35,
+                                        36,
+                                        43
+                                    ],
+                                    "type": "text",
+                                    "content": "1.",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        68,
+                                        31,
+                                        372,
+                                        45
+                                    ],
+                                    "type": "text",
+                                    "content": ".这个题目要求全在上图 命名为 “2” 的ToolBlock里添加工具操作！",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                29,
+                                47,
+                                264,
+                                62
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        29,
+                                        47,
+                                        264,
+                                        62
+                                    ],
+                                    "type": "text",
+                                    "content": "最后操作完，在外层 ToolBlock 保存 ToolBlock 格式。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

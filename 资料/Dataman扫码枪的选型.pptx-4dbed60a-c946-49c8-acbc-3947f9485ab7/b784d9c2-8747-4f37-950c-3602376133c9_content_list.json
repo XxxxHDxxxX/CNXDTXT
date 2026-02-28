@@ -1,0 +1,714 @@
+[
+    {
+        "type": "text",
+        "text": "扫码枪的选型",
+        "text_level": 1,
+        "bbox": [
+            147,
+            340,
+            401,
+            420
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "V E X 020 ",
+        "text_level": 1,
+        "bbox": [
+            652,
+            64,
+            941,
+            801
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "PERFECTING VISION ",
+        "bbox": [
+            626,
+            903,
+            939,
+            935
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 扫码枪型号介绍 ",
+        "text_level": 1,
+        "bbox": [
+            45,
+            46,
+            251,
+            100
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对一个条码，你要选择哪款型号的扫码枪，首先你就要先了解 Cognex 常用扫码枪的特性与用途， iphone 项目主要分为以下两类：",
+        "bbox": [
+            42,
+            155,
+            812,
+            262
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 固定式扫码枪： DM302X( 已停产）， DM262X-1540P ， DM262X-1120/DM262X-1120F,DM50X ， DM374X （大视野）",
+            "• 手持式扫码枪： DM8050HDXM ， DM8600/ DM8600 HDX"
+        ],
+        "bbox": [
+            42,
+            274,
+            848,
+            435
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            966,
+            37,
+            983
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 固定式扫码枪参数对比",
+        "text_level": 1,
+        "bbox": [
+            75,
+            59,
+            355,
+            107
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9d3bb63852157d90b3e9730bfaff7e29af292930edec28ec41f4308ed853c15c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Dataman</td><td>DM50X</td><td>DM302X</td><td>DM262X-1120</td><td>DM262X-1120F</td><td>DM262X-1540P</td></tr><tr><td>Dataman Image</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Image Sensor</td><td>1/3 inch CMOS</td><td>1/1.8 inch CMOS</td><td>1/3 inch CMOS</td><td>1/3 inch CMOS</td><td>1/3 inch CMOS</td></tr><tr><td>Resolution</td><td>752*480(0.36MP)</td><td>1280*1024(1.31MP)</td><td>1280*960(1.23MP)</td><td>1280*960(1.23MP)</td><td>1280*960(1.23MP)</td></tr><tr><td>Algorithms</td><td>1DMax, 2DMax, PowerGrid</td><td>1DMax, 2DMax</td><td>1DMax, 2DMax, Hotbars, PowerGrid</td><td>1DMax, 2DMax, Hotbars, PowerGrid</td><td>1DMax, 2DMax, Hotbars, PowerGrid</td></tr><tr><td rowspan=\"2\">Interface modlue</td><td>Serial module: RS-232</td><td>Serial module: RS-232</td><td>Serial module: RS-232</td><td>Serial module: RS-232</td><td>Serial module: RS-232</td></tr><tr><td>No ethernet module</td><td>Ethernet module: TCP/IP, FTP, industrial protocols: Ethernet/IP, PROFINET, MC Protocol, ModBus TCP</td><td>Ethernet module: TCP/IP, FTP, industrial protocols: Ethernet/IP, PROFINET, MC Protocol, ModBus TCP</td><td>Ethernet module: TCP/IP, FTP, industrial protocols: Ethernet/IP, PROFINET, MC Protocol, ModBus TCP</td><td>Ethernet module: TCP/IP, FTP, industrial protocols: Ethernet/IP, PROFINET, MC Protocol, ModBus TCP</td></tr><tr><td>Lighting and cover</td><td>1x Red LED</td><td>Diffuse lenscoverwith red LED illumination</td><td>4x Red LED</td><td>4x polarized Red LED</td><td>2x High Powered Red LED and 2x half-polarized</td></tr><tr><td>Lens</td><td>3 Focal position M12 lens(Fixed focus)</td><td>10.3mm Liquid lens</td><td>6.2mm Liquid lens</td><td>6.2mm Liquid lens</td><td>16mm Liquid lens</td></tr><tr><td>Aimer</td><td>LED</td><td>Laser</td><td>LED</td><td>LED</td><td>LED</td></tr><tr><td>Focus</td><td>45mm-110mm</td><td>40mm-500mm</td><td>40mm-200mm</td><td>40mm-200mm</td><td>45mm-1000mm</td></tr><tr><td>min.Fov(mm)</td><td>36*23</td><td>35*26</td><td>37*26</td><td>37*26</td><td>17*13</td></tr><tr><td>max.Fov(mm)</td><td>80*51.28</td><td>332*249</td><td>160*112.43</td><td>160*112.43</td><td>301*226</td></tr><tr><td>2D min.code</td><td>6mil</td><td>5mil</td><td>3mil</td><td>3mil</td><td>2mil</td></tr><tr><td>1D min.code</td><td>4mil</td><td>7mil</td><td>2mil</td><td>2mil</td><td>2mil</td></tr></table>",
+        "bbox": [
+            74,
+            153,
+            850,
+            801
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            34,
+            966,
+            38,
+            985
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. 手持式扫码枪参数对比",
+        "text_level": 1,
+        "bbox": [
+            72,
+            53,
+            355,
+            101
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/367df5fda37ad24ea3b1655aad2e7b98b3ee841bbfee4743013d94d2b2f8ed6a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Dataman</td><td>DataMan 8050HDX</td><td>DataMan 8600</td><td>DataMan 8600 HDX</td></tr><tr><td>Dataman Image</td><td></td><td></td><td></td></tr><tr><td>Algorithms</td><td>2DMax, 1DMax, Hotbars, PowerGrid</td><td>2DMax, 1DMax, Hotbars, PowerGrid</td><td>2DMax, 1DMax, Hotbars, PowerGrid</td></tr><tr><td>Image Sensor</td><td>1/3 inch CMOS</td><td>1/1.8 inch CMOS</td><td>1/1.8 inch CMOS</td></tr><tr><td>Resolution</td><td>752 x 480(30w)</td><td>1280 x 1024(130w)</td><td>1280 x 1024(130w)</td></tr><tr><td>Trigger</td><td>Handle trigger, presentation</td><td>Handle trigger, presentation</td><td>Handle trigger, presentation</td></tr><tr><td>Status Outputs</td><td>LED, beeper</td><td>LED, beeper,shaker</td><td>LED, beeper,shaker</td></tr><tr><td>Aimer</td><td>LED aimer</td><td>LED aimer</td><td>LED aimer</td></tr><tr><td>Lens Options</td><td>Fixed focus</td><td>Liquid lens</td><td>Liquid lens</td></tr><tr><td>Depth of Field/Focus</td><td>55 mm-75 mm</td><td>0-500mm</td><td>no information</td></tr><tr><td>2D min.code</td><td>5mil</td><td>3mil</td><td>2mil</td></tr><tr><td>1D min.code</td><td>4mil</td><td>3mil</td><td>2mil</td></tr></table>",
+        "bbox": [
+            66,
+            162,
+            858,
+            805
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            35,
+            966,
+            41,
+            985
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2020 Cognex Confidential ",
+        "bbox": [
+            56,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. 扫码需求 ",
+        "text_level": 1,
+        "bbox": [
+            65,
+            81,
+            200,
+            133
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "了解了各型号扫码枪的特性后，就要了解扫码需求了，大致可以分以下几点：",
+        "bbox": [
+            66,
+            188,
+            771,
+            233
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "用于自动化设备还是手动工站？",
+            "• 条码特性，如条码大小，规格，打码方式，打码材料等",
+            "安装方式，如有多大空间可供扫码枪安装调试？",
+            "• 公司主推产品，如以前是 DM302X, 现在是 DM262X",
+            "一次性扫一个码还是多个码等"
+        ],
+        "bbox": [
+            65,
+            248,
+            600,
+            524
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合以上因素，选择合适的扫码枪",
+        "bbox": [
+            65,
+            538,
+            383,
+            583
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            988
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "扫码枪的选型",
+        "text_level": 1,
+        "bbox": [
+            79,
+            46,
+            284,
+            111
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5. 举例说明一",
+        "text_level": 1,
+        "bbox": [
+            77,
+            153,
+            235,
+            203
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6b36d92956e7a83c89fdfdd23b2f21194e9d3ad7e1c1c2abef53a904b69d9fb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            83,
+            238,
+            194,
+            420
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DM50X ",
+        "bbox": [
+            210,
+            312,
+            269,
+            344
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/74db2d737b36ab390af4c4de4a3180f87ce3acf894c2b5a2d71094dea0c7fa32.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            94,
+            435,
+            184,
+            638
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DM302X ",
+        "bbox": [
+            210,
+            514,
+            278,
+            546
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c66c7f8c7744b62df736675baff960c65b067bfe1720e56d77a43bdd053dfb46.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            87,
+            698,
+            193,
+            892
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DM262X-1540P ",
+        "bbox": [
+            210,
+            759,
+            332,
+            790
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HSG 码 : 物理尺寸 6*6mm ，条码规格 $3 2 ^ { \\times } 3 2$ ，打码方式镭雕金属码",
+        "bbox": [
+            347,
+            257,
+            977,
+            301
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 左图是 HSG 码在不同型号扫码枪下的图片效果，从图中效果可以看出扫码效果都OK，这就要根据安装调试空间和公司主推产品策略出发选择合适型号。",
+            "SA-IT-HSG 设备由于安装调试空间狭窄，所以选择了 DM50X",
+            "• DP 设备由于那时候公司主推 DM302X, 所以选择了 DM302X",
+            "• CIM 设备由于那时候公司主推 DM262X-1540P, 所以选择了DM262X-1540P"
+        ],
+        "bbox": [
+            347,
+            316,
+            962,
+            707
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            966,
+            37,
+            985
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            187,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "扫码枪的选型",
+        "text_level": 1,
+        "bbox": [
+            78,
+            46,
+            286,
+            112
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5. 举例说明二",
+        "text_level": 1,
+        "bbox": [
+            78,
+            151,
+            236,
+            201
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/17e868b6651f558ebe19319c8c4645e720baeb12bea8a3eeeb3898b3e15e3c74.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "备注：如上图所示，第一次扫ZJ 码加 1.2.3.9.10 穴 ROMEO码 ， 平 移 扫 码 枪 第 二 次 扫4.5.6.7.8 穴 ROMEO 码"
+        ],
+        "bbox": [
+            55,
+            350,
+            519,
+            596
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 看到左图的扫码需求，那就得使用大视野扫码枪 DM374X 了 , 但 DM374X 也有不同的光源和镜头，如何选择？这就得考虑安装空间及图像效果了。",
+            "• ANDA-PAMD2 设备经过现场大量验证，最后选择了 16mm 高速镜头和 Torch 光源这样一套组合。"
+        ],
+        "bbox": [
+            521,
+            242,
+            982,
+            640
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            966,
+            41,
+            985
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            187,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "扫码枪的选型",
+        "text_level": 1,
+        "bbox": [
+            79,
+            46,
+            286,
+            111
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5. 举例说明三",
+        "text_level": 1,
+        "bbox": [
+            78,
+            151,
+            237,
+            203
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/06745b0ae3acbc0598e3ea23eb92fdce0a98f5317a2d66d392494b6a7b4de76f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            83,
+            275,
+            266,
+            592
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "主板石墨码",
+        "bbox": [
+            110,
+            614,
+            220,
+            659
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "尺寸 $4 ^ { \\star } 4 \\mathsf { m m }$ ",
+        "bbox": [
+            111,
+            674,
+            226,
+            716
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "规格 $1 6 ^ { \\star } 1 6$ ",
+        "bbox": [
+            111,
+            733,
+            216,
+            775
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "手动工站需要扫这个码，那根据大小和规格，优先考虑 DM8050HDXM 这一款，然后经现场大量验证扫码 OK 后就选用这款了。",
+        "bbox": [
+            326,
+            377,
+            755,
+            542
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            966,
+            37,
+            983
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            187,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "T h a n k s ",
+        "text_level": 1,
+        "bbox": [
+            407,
+            474,
+            586,
+            542
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "© 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 8
+    }
+]

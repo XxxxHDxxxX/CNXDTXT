@@ -1,0 +1,915 @@
+[
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.0,
+                1.0,
+                0.628
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.313,
+                0.661,
+                0.673,
+                0.737
+            ],
+            "angle": 0,
+            "content": "CogFixtureTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.793,
+                0.165,
+                0.827
+            ],
+            "angle": 0,
+            "content": "2019/12/19"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.733,
+                0.788,
+                0.87,
+                0.826
+            ],
+            "angle": 0,
+            "content": "Zhang Juan"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.212,
+                0.11
+            ],
+            "angle": 0,
+            "content": "固定工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.234,
+                0.601,
+                0.317
+            ],
+            "angle": 0,
+            "content": "- 固定工具用来在您已经计算了一个坐标转换时创建一个固定坐标系统"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.1,
+                0.327,
+                0.601,
+                0.405
+            ],
+            "angle": 0,
+            "content": "在我们所举的范例中，使用 PMAlign 来查找我们的元件；它将在其结果中产生一个转换"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.639,
+                0.175,
+                0.96,
+                0.478
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.64,
+                0.564,
+                0.96,
+                0.866
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.065,
+                0.285,
+                0.11
+            ],
+            "angle": 0,
+            "content": "我们的问题是:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.232,
+                0.607,
+                0.316
+            ],
+            "angle": 0,
+            "content": "- 然后我们会创建一个游标卡尺来测量中心“标签”的宽度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.08,
+                0.414,
+                0.607,
+                0.497
+            ],
+            "angle": 0,
+            "content": "- 游标卡尺的目标区域必须相对于在图像中找到“耳”的地方移动"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.08,
+                0.232,
+                0.607,
+                0.497
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.639,
+                0.175,
+                0.96,
+                0.478
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.64,
+                0.564,
+                0.959,
+                0.866
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.957,
+                0.168,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "开始"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.232,
+                0.451,
+                0.364
+            ],
+            "angle": 0,
+            "content": "创建并配置一个像源和一个 PMAlign 工具，训练来查找支架的右“耳”"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.448,
+                0.186,
+                0.959,
+                0.681
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.273,
+                0.11
+            ],
+            "angle": 0,
+            "content": "添加固定工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.233,
+                0.415,
+                0.449
+            ],
+            "angle": 0,
+            "content": "- 然后添加一个CogFixture工具并将其输入图像（InputImage）连接到像源的输出图像（OutputImage）"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.451,
+                0.184,
+                0.493,
+                0.207
+            ],
+            "angle": 0,
+            "content": "Tools"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.448,
+                0.224,
+                0.957,
+                0.808
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.957,
+                0.168,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.112
+            ],
+            "angle": 0,
+            "content": "连接转换"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.235,
+                0.466,
+                0.329
+            ],
+            "angle": 0,
+            "content": "取 PMAlign 确定的转换并将其用作我们的固定"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.357,
+                0.466,
+                0.448
+            ],
+            "angle": 0,
+            "content": "- 连接 PMAlign 的姿态结果到固定的转换"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.235,
+                0.466,
+                0.448
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.1,
+                0.462,
+                0.468,
+                0.553
+            ],
+            "angle": 0,
+            "content": "如果您另外想添加 X、Y 轴和旋转，您可以分别连接到这些终端"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.499,
+                0.188,
+                0.964,
+                0.771
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.243,
+                0.11
+            ],
+            "angle": 0,
+            "content": "运行工具组"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.175,
+                0.549,
+                0.214
+            ],
+            "angle": 0,
+            "content": "- 运行工具组通过图像并且转换到固定工具"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.115,
+                0.331,
+                0.868,
+                0.904
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.973
+            ],
+            "angle": 0,
+            "content": "7"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.149,
+                0.11
+            ],
+            "angle": 0,
+            "content": "设置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.383,
+                0.274
+            ],
+            "angle": 0,
+            "content": "在多数应用中，即是如此"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.303,
+                0.423,
+                0.431
+            ],
+            "angle": 0,
+            "content": "在有些情况下，您可能想要在运行随后的视觉工具之前操纵转换"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.233,
+                0.423,
+                0.431
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.434,
+                0.186,
+                0.952,
+                0.748
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "8"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.083,
+                0.064,
+                0.336,
+                0.113
+            ],
+            "angle": 0,
+            "content": "添加一个游标卡尺"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.445,
+                0.318
+            ],
+            "angle": 0,
+            "content": "- 现在添加测径器并将其输入图像连接到固定的输出图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.416,
+                0.258,
+                0.456
+            ],
+            "angle": 0,
+            "content": "配置游标卡尺"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.233,
+                0.445,
+                0.456
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.499,
+                0.16,
+                0.537,
+                0.183
+            ],
+            "angle": 0,
+            "content": "Tools"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.498,
+                0.196,
+                0.938,
+                0.898
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "9"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.065,
+                0.335,
+                0.11
+            ],
+            "angle": 0,
+            "content": "使用固定工具运行"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.575,
+                0.316
+            ],
+            "angle": 0,
+            "content": "为什么在创建和配置游标卡尺之前创建并配置固定工具很重要？"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.63,
+                0.196,
+                0.947,
+                0.491
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.638,
+                0.563,
+                0.927,
+                0.863
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "10"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.281,
+                0.33,
+                0.577,
+                0.409
+            ],
+            "angle": 0,
+            "content": "Thank you."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "11"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ]
+]

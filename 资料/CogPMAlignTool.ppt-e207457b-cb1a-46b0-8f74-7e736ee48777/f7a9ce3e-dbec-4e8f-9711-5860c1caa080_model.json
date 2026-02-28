@@ -1,0 +1,6496 @@
+[
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.0,
+                1.0,
+                0.628
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.262,
+                0.636,
+                0.651,
+                0.711
+            ],
+            "angle": 0,
+            "content": "CogPMAlignTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.793,
+                0.165,
+                0.827
+            ],
+            "angle": 0,
+            "content": "2019/12/19"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.733,
+                0.788,
+                0.87,
+                0.826
+            ],
+            "angle": 0,
+            "content": "Zhang Juan"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "学习目标"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.063,
+                0.175,
+                0.316,
+                0.214
+            ],
+            "angle": 0,
+            "content": "学员将学会正确地："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.222,
+                0.636,
+                0.261
+            ],
+            "angle": 0,
+            "content": "识别 PMAlign 可能是视觉解决方案一个部分的应用"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.275,
+                0.717,
+                0.311
+            ],
+            "angle": 0,
+            "content": "□ 创建并配置一个PMAlign工具来查找不同运行条件下的图案"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.113,
+                0.222,
+                0.717,
+                0.311
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.175,
+                0.319,
+                0.793,
+                0.36
+            ],
+            "angle": 0,
+            "content": "√ 训练图案并确定自动萃取的特征对于该应用是否有效"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.175,
+                0.363,
+                0.817,
+                0.402
+            ],
+            "angle": 0,
+            "content": "✓ 评价参数设置，确定对于不同的运行条件需要哪些参数"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.177,
+                0.406,
+                0.468,
+                0.446
+            ],
+            "angle": 0,
+            "content": "✓ 优化执行时间和精确度"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.175,
+                0.319,
+                0.817,
+                0.446
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.958,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.268,
+                0.11
+            ],
+            "angle": 0,
+            "content": "PatMax®介绍"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.046,
+                0.203,
+                0.497,
+                0.246
+            ],
+            "angle": 0,
+            "content": "- PatMax® 是一种图案位置搜索技术"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.074,
+                0.256,
+                0.427,
+                0.297
+            ],
+            "angle": 0,
+            "content": "PatMax® 图案不依赖于像素格栅"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.045,
+                0.337,
+                0.565,
+                0.431
+            ],
+            "angle": 0,
+            "content": "特征是表示图像中不同区域之间界限的等高线"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.045,
+                0.459,
+                0.565,
+                0.552
+            ],
+            "angle": 0,
+            "content": "基于特征的表现可以比像素格栅表现更快捷和更准确地进行转化"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.045,
+                0.203,
+                0.565,
+                0.552
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.569,
+                0.275,
+                0.967,
+                0.637
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.956,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.277,
+                0.11
+            ],
+            "angle": 0,
+            "content": "PatMax® 功能"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.064,
+                0.166,
+                0.322,
+                0.206
+            ],
+            "angle": 0,
+            "content": "使用一个工具测量"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.208,
+                0.207,
+                0.239
+            ],
+            "angle": 0,
+            "content": "图案的位置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.243,
+                0.353,
+                0.278
+            ],
+            "angle": 0,
+            "content": "相对于原来训练图案的尺寸"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.281,
+                0.353,
+                0.317
+            ],
+            "angle": 0,
+            "content": "相对于原来训练图案的角度"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.065,
+                0.346,
+                0.266,
+                0.386
+            ],
+            "angle": 0,
+            "content": "空前的精确度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.388,
+                0.29,
+                0.42
+            ],
+            "angle": 0,
+            "content": "多达1/40像素的平移"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.424,
+                0.275,
+                0.458
+            ],
+            "angle": 0,
+            "content": "多达1/50度的旋转"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.463,
+                0.245,
+                0.497
+            ],
+            "angle": 0,
+            "content": "多达 \\(0.05\\%\\) 比例"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.064,
+                0.526,
+                0.265,
+                0.566
+            ],
+            "angle": 0,
+            "content": "速度得到提高"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.568,
+                0.307,
+                0.599
+            ],
+            "angle": 0,
+            "content": "基本图案查找速度更快"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.605,
+                0.307,
+                0.638
+            ],
+            "angle": 0,
+            "content": "角度和尺寸的确定更快"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.277,
+                0.113
+            ],
+            "angle": 0,
+            "content": "PatMax® 功能"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.063,
+                0.175,
+                0.322,
+                0.219
+            ],
+            "angle": 0,
+            "content": "对齐结果得到改善"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.228,
+                0.348,
+                0.264
+            ],
+            "angle": 0,
+            "content": "处理的图像对比度范围较广"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.279,
+                0.495,
+                0.315
+            ],
+            "angle": 0,
+            "content": "散焦、部分阻塞和预期之外的特征可以忍受"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.063,
+                0.353,
+                0.238,
+                0.398
+            ],
+            "angle": 0,
+            "content": "更易于使用"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.406,
+                0.453,
+                0.441
+            ],
+            "angle": 0,
+            "content": "在一个步骤中直接测量角度和尺寸大小"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.457,
+                0.578,
+                0.492
+            ],
+            "angle": 0,
+            "content": "图案可以在没有保真度损失的情况下在机器之间传送"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.276,
+                0.113
+            ],
+            "angle": 0,
+            "content": "PatMax® 应用"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.03,
+                0.186,
+                0.595,
+                0.748
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.604,
+                0.202,
+                0.951,
+                0.286
+            ],
+            "angle": 0,
+            "content": "基于基准点对齐打印的电路板 (对齐)"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.067,
+                0.275,
+                0.11
+            ],
+            "angle": 0,
+            "content": "PatMax® 应用"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.234,
+                0.436,
+                0.376
+            ],
+            "angle": 0,
+            "content": "定位桃汁罐头上的拉环；在平移、旋转和灯光方面的差异（探测是否存在）"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.172,
+                0.553,
+                0.237,
+                0.576
+            ],
+            "angle": 0,
+            "content": "结果：4"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.152,
+                0.582,
+                0.216,
+                0.604
+            ],
+            "angle": 0,
+            "content": "结果：3"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.124,
+                0.609,
+                0.193,
+                0.632
+            ],
+            "angle": 0,
+            "content": "结果：2"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.096,
+                0.643,
+                0.165,
+                0.666
+            ],
+            "angle": 0,
+            "content": "结果：1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.671,
+                0.228,
+                0.693
+            ],
+            "angle": 0,
+            "content": "得分： 0.97"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.697,
+                0.228,
+                0.719
+            ],
+            "angle": 0,
+            "content": "对比度： 0.94"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.723,
+                0.228,
+                0.746
+            ],
+            "angle": 0,
+            "content": "匹配错误： 0.02"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.75,
+                0.266,
+                0.774
+            ],
+            "angle": 0,
+            "content": "位置： \\(x = 351.08\\)"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.196,
+                0.78,
+                0.266,
+                0.802
+            ],
+            "angle": 0,
+            "content": "\\[\n\\mathbf {y} = 2 4 5. 9 2\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.803,
+                0.228,
+                0.827
+            ],
+            "angle": 0,
+            "content": "角度： 0.09"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.83,
+                0.22,
+                0.853
+            ],
+            "angle": 0,
+            "content": "X- 比例: 1.0"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.857,
+                0.22,
+                0.88
+            ],
+            "angle": 0,
+            "content": "Y- 比例: 1.0"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.443,
+                0.208,
+                0.952,
+                0.731
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "7"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.276,
+                0.113
+            ],
+            "angle": 0,
+            "content": "PatMax® 应用"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.202,
+                0.382,
+                0.377
+            ],
+            "angle": 0,
+            "content": "- 尽管类型有差异、灯光有变化、元件角度旋转、外形极其相似，也可以对引擎盖进行识别（整理和归类）"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.384,
+                0.202,
+                0.962,
+                0.781
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.973
+            ],
+            "angle": 0,
+            "content": "8"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.975
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.277,
+                0.109
+            ],
+            "angle": 0,
+            "content": "PatMax® 算法"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.074,
+                0.24,
+                0.201,
+                0.277
+            ],
+            "angle": 0,
+            "content": "PatQuick™"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.378,
+                0.207,
+                0.414
+            ],
+            "angle": 0,
+            "content": "速度最快"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.447,
+                0.343,
+                0.526
+            ],
+            "angle": 0,
+            "content": "对于三维或者低质量元件最佳"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.56,
+                0.305,
+                0.596
+            ],
+            "angle": 0,
+            "content": "- 承受更多图像差异"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.629,
+                0.231,
+                0.664
+            ],
+            "angle": 0,
+            "content": "例子：捡放"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.768,
+                0.343,
+                0.835
+            ],
+            "angle": 0,
+            "content": "** PatQuick™ 是 PatMax®算法的仓促部分"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.075,
+                0.378,
+                0.343,
+                0.835
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.383,
+                0.208,
+                0.484,
+                0.241
+            ],
+            "angle": 0,
+            "content": "PatMax®"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.383,
+                0.344,
+                0.538,
+                0.38
+            ],
+            "angle": 0,
+            "content": "精确度最高"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.383,
+                0.413,
+                0.618,
+                0.492
+            ],
+            "angle": 0,
+            "content": "在二维元件上表现佳"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.383,
+                0.526,
+                0.613,
+                0.561
+            ],
+            "angle": 0,
+            "content": "最适合于细微细节"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.383,
+                0.595,
+                0.589,
+                0.631
+            ],
+            "angle": 0,
+            "content": "例子：薄片对齐"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.383,
+                0.344,
+                0.618,
+                0.631
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.683,
+                0.201,
+                0.813,
+                0.247
+            ],
+            "angle": 0,
+            "content": "PatFlex"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.684,
+                0.319,
+                0.917,
+                0.398
+            ],
+            "angle": 0,
+            "content": "为高度灵活的图案设计"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.684,
+                0.409,
+                0.917,
+                0.487
+            ],
+            "angle": 0,
+            "content": "在弯曲不平的表面上表现较佳"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.684,
+                0.498,
+                0.917,
+                0.576
+            ],
+            "angle": 0,
+            "content": "- 极其灵活，但不够精确"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.684,
+                0.586,
+                0.917,
+                0.626
+            ],
+            "angle": 0,
+            "content": "例子：标签定位"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.684,
+                0.319,
+                0.917,
+                0.626
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "9"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.958,
+                0.168,
+                0.973
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.956,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.066,
+                0.148,
+                0.113
+            ],
+            "angle": 0,
+            "content": "图片"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.022,
+                0.196,
+                0.918,
+                0.948
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.958,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "10"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "图案训练"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.184,
+                0.964,
+                0.91
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "11"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "链接工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.234,
+                0.318,
+                0.274
+            ],
+            "angle": 0,
+            "content": "您需要图像，用于："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.283,
+                0.191,
+                0.317
+            ],
+            "angle": 0,
+            "content": "图案训练"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.334,
+                0.231,
+                0.368
+            ],
+            "angle": 0,
+            "content": "运行期间检查"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.474,
+                0.532,
+                0.607
+            ],
+            "angle": 0,
+            "content": "链接像源的输出图像（OutputImage）到PMAlign的输入图像（InputImage）拖放"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.234,
+                0.532,
+                0.607
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.562,
+                0.197,
+                0.608,
+                0.223
+            ],
+            "angle": 0,
+            "content": "Tools"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.56,
+                0.236,
+                0.942,
+                0.613
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "12"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.213,
+                0.11
+            ],
+            "angle": 0,
+            "content": "训练图案"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.234,
+                0.456,
+                0.276
+            ],
+            "angle": 0,
+            "content": "PMAlign 工具有三个相关的图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.371,
+                0.482,
+                0.458
+            ],
+            "angle": 0,
+            "content": "要训练我们的图案，你们需要一个Current.TrainImage"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.234,
+                0.482,
+                0.458
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.513,
+                0.188,
+                0.96,
+                0.898
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "13"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.123
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.069,
+                0.356,
+                0.117
+            ],
+            "angle": 0,
+            "content": "Current.InputImage"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.234,
+                0.477,
+                0.409
+            ],
+            "angle": 0,
+            "content": "PMAlign 工具还有一个可以是运行期间图像也可以是“抓取”作为训练图像的 Current.InputImage (Current.TrainImage)"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.519,
+                0.196,
+                0.964,
+                0.881
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "14"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.275,
+                0.113
+            ],
+            "angle": 0,
+            "content": "抓取训练图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.175,
+                0.449,
+                0.215
+            ],
+            "angle": 0,
+            "content": "在控件中按下抓取训练图像按钮"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.111,
+                0.405,
+                0.831,
+                0.773
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "15"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.975
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.084,
+                0.066,
+                0.277,
+                0.11
+            ],
+            "angle": 0,
+            "content": "PatMax® 图案"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.022,
+                0.184,
+                0.447,
+                0.752
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.465,
+                0.191,
+                0.957,
+                0.274
+            ],
+            "angle": 0,
+            "content": "在您训练一个图案时，PatMax 确定该图案中包含的所有特征"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.466,
+                0.296,
+                0.957,
+                0.378
+            ],
+            "angle": 0,
+            "content": "特征是表示图像中不同区域之间界限的等高线"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.466,
+                0.402,
+                0.957,
+                0.56
+            ],
+            "angle": 0,
+            "content": "特征通过一系列沿着等高线排列的界点  \n界点通过图像中位置（x、y）和其垂直于等高线的方向q来定义"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.465,
+                0.191,
+                0.957,
+                0.56
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "16"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.168,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.212,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图案训练"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.177,
+                0.417,
+                0.217
+            ],
+            "angle": 0,
+            "content": "PatMax® 图案训练的总指南:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.064,
+                0.249,
+                0.516,
+                0.29
+            ],
+            "angle": 0,
+            "content": "选择一个有一致特征的代表性图案"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.064,
+                0.302,
+                0.369,
+                0.335
+            ],
+            "angle": 0,
+            "content": "- 减少不必要的特征和图像噪音"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.065,
+                0.354,
+                0.265,
+                0.387
+            ],
+            "angle": 0,
+            "content": "- 只训练重要的特征"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.065,
+                0.405,
+                0.369,
+                0.438
+            ],
+            "angle": 0,
+            "content": "- 考虑遮罩，来创建代表性图案"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.064,
+                0.302,
+                0.369,
+                0.438
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.064,
+                0.489,
+                0.488,
+                0.532
+            ],
+            "angle": 0,
+            "content": "更大的图案会提供更高的精确度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.065,
+                0.543,
+                0.399,
+                0.575
+            ],
+            "angle": 0,
+            "content": "实际上，界点越多，精确度越高"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.064,
+                0.489,
+                0.488,
+                0.575
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "17"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.304,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图案区域和原点"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.234,
+                0.256,
+                0.272
+            ],
+            "angle": 0,
+            "content": "在使用图形时"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.283,
+                0.42,
+                0.369
+            ],
+            "angle": 0,
+            "content": "拖动并调整图案周围训练框的大小在适当的位置上定位原点"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.464,
+                0.186,
+                0.964,
+                0.831
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "18"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.303,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图案区域和原点"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.234,
+                0.412,
+                0.316
+            ],
+            "angle": 0,
+            "content": "下一步，定义包含要训练的图案的像素区域和图案原点"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.327,
+                0.412,
+                0.403
+            ],
+            "angle": 0,
+            "content": "使用图形或者在训练区域和原点标签中输入值"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.424,
+                0.196,
+                0.962,
+                0.715
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "19"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.123
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.081,
+                0.069,
+                0.211,
+                0.116
+            ],
+            "angle": 0,
+            "content": "模型原点"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.04,
+                0.194,
+                0.957,
+                0.316
+            ],
+            "angle": 0,
+            "content": "- 在 PatMax® 定位搜索场景中模型的实例时，模型原点可以辨别要向您报告的点"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.039,
+                0.332,
+                0.94,
+                0.453
+            ],
+            "angle": 0,
+            "content": "- 要维持最高的精确度，原点必须放置图案区域的中心"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.039,
+                0.194,
+                0.957,
+                0.453
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.078,
+                0.616,
+                0.952,
+                0.881
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "20"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.213,
+                0.11
+            ],
+            "angle": 0,
+            "content": "训练图案"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.234,
+                0.358,
+                0.272
+            ],
+            "angle": 0,
+            "content": "按下训练按钮训练图案"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.283,
+                0.344,
+                0.317
+            ],
+            "angle": 0,
+            "content": "PatMax 找到区域中的特征"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.466,
+                0.186,
+                0.96,
+                0.57
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "21"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.212,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图案特征"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.234,
+                0.39,
+                0.404
+            ],
+            "angle": 0,
+            "content": "要看看 PatMax 使用该图案已经探测到什么作为要查找的特征，需要勾选训练特征图形"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.39,
+                0.184,
+                0.964,
+                0.725
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "22"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.212,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图案特征"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.312,
+                0.274
+            ],
+            "angle": 0,
+            "content": "黄线表示粗糙特征"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.303,
+                0.318,
+                0.343
+            ],
+            "angle": 0,
+            "content": "绿线表示 精细特征"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.233,
+                0.318,
+                0.343
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.448,
+                0.188,
+                0.57,
+                0.215
+            ],
+            "angle": 0,
+            "content": "Current.TrainImage"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.443,
+                0.218,
+                0.96,
+                0.881
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "23"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.064,
+                0.212,
+                0.107
+            ],
+            "angle": 0,
+            "content": "图案特征"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.421,
+                0.316
+            ],
+            "angle": 0,
+            "content": "放大以便更近距离地查看所探测到的特征"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.451,
+                0.194,
+                0.57,
+                0.219
+            ],
+            "angle": 0,
+            "content": "CurrentTrainImage"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.448,
+                0.222,
+                0.955,
+                0.85
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "24"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.069,
+                0.234,
+                0.117
+            ],
+            "angle": 0,
+            "content": "InfoStrings"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.234,
+                0.327,
+                0.274
+            ],
+            "angle": 0,
+            "content": "寻找任何 InfoStrings"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.283,
+                0.378,
+                0.316
+            ],
+            "angle": 0,
+            "content": "这些将表示图案训练是否成功"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.104,
+                0.334,
+                0.482,
+                0.368
+            ],
+            "angle": 0,
+            "content": "它们还警告受训图案可能存在的各种问题"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.636,
+                0.194,
+                0.66
+            ],
+            "angle": 0,
+            "content": "Info:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.261,
+                0.64,
+                0.507,
+                0.668
+            ],
+            "angle": 0,
+            "content": "Pattern was trained successfully"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.173,
+                0.804,
+                0.264,
+                0.837
+            ],
+            "angle": 0,
+            "content": "Trained"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "25"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.212,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图案极性"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.779,
+                0.214
+            ],
+            "angle": 0,
+            "content": "图案极性在沿边界的每个点上定义为向黑色的方向，与磁性无关。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.263,
+                0.427,
+                0.346
+            ],
+            "angle": 0,
+            "content": "默认状态下，PatMax® 只查找与受训图案具有相同极性的图案。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.394,
+                0.477,
+                0.478
+            ],
+            "angle": 0,
+            "content": "您可以配置 PatMax® 忽略图案的极性并且只使用特征形状信息"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.536,
+                0.4,
+                0.654,
+                0.554
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.531,
+                0.558,
+                0.613,
+                0.591
+            ],
+            "angle": 0,
+            "content": "受训图案"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.691,
+                0.33,
+                0.806,
+                0.481
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.691,
+                0.496,
+                0.806,
+                0.646
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.69,
+                0.66,
+                0.805,
+                0.809
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.709,
+                0.824,
+                0.809,
+                0.855
+            ],
+            "angle": 0,
+            "content": "匹配的极性"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.823,
+                0.329,
+                0.939,
+                0.481
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.824,
+                0.495,
+                0.938,
+                0.646
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.824,
+                0.661,
+                0.936,
+                0.809
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.83,
+                0.823,
+                0.95,
+                0.854
+            ],
+            "angle": 0,
+            "content": "不匹配的极性"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "26"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "极性"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.415,
+                0.317
+            ],
+            "angle": 0,
+            "content": "勾选复选框忽略极性（允许极性变化）"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.424,
+                0.186,
+                0.961,
+                0.603
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "27"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.085,
+                0.066,
+                0.275,
+                0.11
+            ],
+            "angle": 0,
+            "content": "忽略图案极性"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.934,
+                0.261
+            ],
+            "angle": 0,
+            "content": "极性是对 \\(\\mathrm{PatMax}^{\\circledR}\\) 的一个提示, 可以使得图案更明确些。您应该使用极性, 除非对象受极性变化的影响。注意下面说明的可能模糊的对象。"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.164,
+                0.442,
+                0.206,
+                0.474
+            ],
+            "angle": 0,
+            "content": "对象"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.105,
+                0.486,
+                0.284,
+                0.658
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.12,
+                0.688,
+                0.234,
+                0.719
+            ],
+            "angle": 0,
+            "content": "PatMax 图案"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.104,
+                0.729,
+                0.285,
+                0.859
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.328,
+                0.443,
+                0.505,
+                0.474
+            ],
+            "angle": 0,
+            "content": "PatMax 使用了极性"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.347,
+                0.486,
+                0.527,
+                0.658
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.347,
+                0.698,
+                0.428,
+                0.73
+            ],
+            "angle": 0,
+            "content": "预期匹配"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.645,
+                0.443,
+                0.816,
+                0.474
+            ],
+            "angle": 0,
+            "content": "PatMax 忽略了极性"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.614,
+                0.486,
+                0.793,
+                0.658
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.588,
+                0.696,
+                0.793,
+                0.868
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.815,
+                0.532,
+                0.896,
+                0.563
+            ],
+            "angle": 0,
+            "content": "预期匹配"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.807,
+                0.765,
+                0.906,
+                0.797
+            ],
+            "angle": 0,
+            "content": "偶然的匹配"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "28"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.106,
+                0.066,
+                0.173,
+                0.11
+            ],
+            "angle": 0,
+            "content": "弹性"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.716,
+                0.163,
+                0.853,
+                0.197
+            ],
+            "angle": 0,
+            "content": "显示高级参数"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.234,
+                0.377,
+                0.404
+            ],
+            "angle": 0,
+            "content": "弹性 是一个高级参数，在查找与原来的受训图案存在一些几何形状变化的元件时很有用途"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.373,
+                0.208,
+                0.967,
+                0.831
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.041,
+                0.97
+            ],
+            "angle": 0,
+            "content": "29"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.1,
+                0.068,
+                0.166,
+                0.113
+            ],
+            "angle": 0,
+            "content": "弹性"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.038,
+                0.219,
+                0.509,
+                0.36
+            ],
+            "angle": 0,
+            "content": "弹性，是一个运行期间参数，用来指定您允许 PatMax® 忍受非线性几何形状变化的程度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.038,
+                0.378,
+                0.51,
+                0.465
+            ],
+            "angle": 0,
+            "content": "弹性以像素为单位进行测量，通常为0到8"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.038,
+                0.51,
+                0.508,
+                0.601
+            ],
+            "angle": 0,
+            "content": "在您提高弹性时，PatMax® 可能找到非预期的匹配- 精确降低"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.559,
+                0.184,
+                0.954,
+                0.854
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "30"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.095,
+                0.066,
+                0.246,
+                0.11
+            ],
+            "angle": 0,
+            "content": "“坏”图案"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.175,
+                0.611,
+                0.214
+            ],
+            "angle": 0,
+            "content": "如果您看着受训图案却不喜欢它时，该怎么办？"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.223,
+                0.182,
+                0.258
+            ],
+            "angle": 0,
+            "content": "太多细节"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.276,
+                0.182,
+                0.309
+            ],
+            "angle": 0,
+            "content": "细节不足"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.327,
+                0.182,
+                0.36
+            ],
+            "angle": 0,
+            "content": "特征遗漏"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "31"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "粒度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.369,
+                0.247,
+                0.406
+            ],
+            "angle": 0,
+            "content": "图案训练图像："
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.111,
+                0.522,
+                0.279,
+                0.803
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.137,
+                0.808,
+                0.233,
+                0.842
+            ],
+            "angle": 0,
+            "content": "粗糙定位"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.284,
+                0.249,
+                0.497,
+                0.531
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.294,
+                0.732,
+                0.391,
+                0.767
+            ],
+            "angle": 0,
+            "content": "小特征："
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.437,
+                0.627,
+                0.576,
+                0.802
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.467,
+                0.812,
+                0.562,
+                0.846
+            ],
+            "angle": 0,
+            "content": "精细定位"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.627,
+                0.227,
+                0.92,
+                0.301
+            ],
+            "angle": 0,
+            "content": "- 粒度表示 \\(\\mathrm{PatMax}^{\\text{®}}\\) 在图像中探测到哪些特征"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.627,
+                0.324,
+                0.921,
+                0.435
+            ],
+            "angle": 0,
+            "content": "在多数情况下，PatMax®为您选择的粒度范围是最佳的"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.627,
+                0.227,
+                0.921,
+                0.435
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "32"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.15,
+                0.113
+            ],
+            "angle": 0,
+            "content": "粒度"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.093,
+                0.224,
+                0.217,
+                0.382
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.116,
+                0.384,
+                0.184,
+                0.416
+            ],
+            "angle": 0,
+            "content": "精度 \\(= 1\\)"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.239,
+                0.423,
+                0.427,
+                0.67
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.266,
+                0.671,
+                0.39,
+                0.703
+            ],
+            "angle": 0,
+            "content": "图案训练图像"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.093,
+                0.711,
+                0.215,
+                0.865
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.113,
+                0.867,
+                0.192,
+                0.898
+            ],
+            "angle": 0,
+            "content": "精度 \\(= 15\\)"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.452,
+                0.226,
+                0.574,
+                0.382
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.478,
+                0.385,
+                0.547,
+                0.416
+            ],
+            "angle": 0,
+            "content": "精度 \\(= 4\\)"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.452,
+                0.711,
+                0.574,
+                0.865
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.475,
+                0.866,
+                0.555,
+                0.896
+            ],
+            "angle": 0,
+            "content": "精度 \\(= 10\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.626,
+                0.182,
+                0.967,
+                0.323
+            ],
+            "angle": 0,
+            "content": "- 粒度被描述为探测到其中特征的目的半径，以像素表示"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.626,
+                0.354,
+                0.967,
+                0.446
+            ],
+            "angle": 0,
+            "content": "- 增加粒度会减少 \\(\\mathrm{PatMax}^{\\circledR}\\) 将使用的精细特征的数量"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.626,
+                0.182,
+                0.967,
+                0.446
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "33"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.212,
+                0.113
+            ],
+            "angle": 0,
+            "content": "精度限制"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.229,
+                0.643,
+                0.266
+            ],
+            "angle": 0,
+            "content": "- PatMax® 使用精细和粗糙限制之间的精度范围"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.29,
+                0.421,
+                0.328
+            ],
+            "angle": 0,
+            "content": "使得粒度更粗糙（更高）："
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.101,
+                0.229,
+                0.643,
+                0.328
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.134,
+                0.33,
+                0.236,
+                0.363
+            ],
+            "angle": 0,
+            "content": "提高速度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.134,
+                0.371,
+                0.261,
+                0.407
+            ],
+            "angle": 0,
+            "content": "降低精确度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.133,
+                0.415,
+                0.745,
+                0.454
+            ],
+            "angle": 0,
+            "content": "探测粗糙并且减弱精细特征（可能是好的也可能是坏的）"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.484,
+                0.421,
+                0.522
+            ],
+            "angle": 0,
+            "content": "使得粒度更精细（更低）："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.134,
+                0.523,
+                0.236,
+                0.557
+            ],
+            "angle": 0,
+            "content": "降低速度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.133,
+                0.565,
+                0.311,
+                0.603
+            ],
+            "angle": 0,
+            "content": "提高线性精确度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.133,
+                0.609,
+                0.751,
+                0.647
+            ],
+            "angle": 0,
+            "content": "探测精细并且减弱粗糙特征（可能是好的也可能是坏的）"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.956,
+                0.043,
+                0.972
+            ],
+            "angle": 0,
+            "content": "34"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.085,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "人工建模"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.056,
+                0.234,
+                0.344,
+                0.37
+            ],
+            "angle": 0,
+            "content": "您也可以使用形状模型训练 PMAlign 模型"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.084,
+                0.387,
+                0.344,
+                0.531
+            ],
+            "angle": 0,
+            "content": "在找不到整体质量好的训练元件的应用场合中使用"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.359,
+                0.178,
+                0.967,
+                0.603
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "35"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.074,
+                0.132,
+                0.296,
+                0.179
+            ],
+            "angle": 0,
+            "content": "人工模型编辑器"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.233,
+                0.376,
+                0.404
+            ],
+            "angle": 0,
+            "content": "模型编辑器允许您使用图像作为向导自动萃取形状或者绘制您自己的形状"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.39,
+                0.188,
+                0.982,
+                0.898
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "36"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.211,
+                0.11
+            ],
+            "angle": 0,
+            "content": "运行期间"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.014,
+                0.158,
+                0.912,
+                0.918
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.959,
+                0.04,
+                0.97
+            ],
+            "angle": 0,
+            "content": "37"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.168,
+                0.973
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.275,
+                0.11
+            ],
+            "angle": 0,
+            "content": "运行期间参数"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.308,
+                0.272
+            ],
+            "angle": 0,
+            "content": "选择运行期间算法"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.371,
+                0.606,
+                0.41
+            ],
+            "angle": 0,
+            "content": "- 然后规定在运行期间图像中要找到的实例数量"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.509,
+                0.256,
+                0.547
+            ],
+            "angle": 0,
+            "content": "指定接受阀值"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.071,
+                0.233,
+                0.606,
+                0.547
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.091,
+                0.642,
+                0.902,
+                0.914
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "38"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "接受阈值"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.088,
+                0.224,
+                0.919,
+                0.351
+            ],
+            "angle": 0,
+            "content": "接受阈值是 \\(\\mathrm{PatMax}^{\\text {® }}\\) 用来确定匹配是否代表搜索图像之中模型的一个有效实例的分值（介于 0 和 1.0 之间）。提高接近值会减少搜索所需要的时间。"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.095,
+                0.542,
+                0.934,
+                0.88
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "39"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.855,
+                0.954,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.074,
+                0.064,
+                0.237,
+                0.113
+            ],
+            "angle": 0,
+            "content": "六种自由度"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.199,
+                0.175,
+                0.284,
+                0.212
+            ],
+            "angle": 0,
+            "content": "X平移"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.089,
+                0.212,
+                0.512,
+                0.369
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.713,
+                0.175,
+                0.796,
+                0.212
+            ],
+            "angle": 0,
+            "content": "Y平移"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.523,
+                0.212,
+                0.945,
+                0.368
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.244,
+                0.409,
+                0.297,
+                0.446
+            ],
+            "angle": 0,
+            "content": "旋转"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.091,
+                0.447,
+                0.512,
+                0.607
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.796,
+                0.409,
+                0.849,
+                0.446
+            ],
+            "angle": 0,
+            "content": "锁定"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.523,
+                0.447,
+                0.945,
+                0.607
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.23,
+                0.64,
+                0.313,
+                0.678
+            ],
+            "angle": 0,
+            "content": "X 比例"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.091,
+                0.678,
+                0.511,
+                0.838
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.716,
+                0.64,
+                0.798,
+                0.678
+            ],
+            "angle": 0,
+            "content": "Y 比例"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.524,
+                0.678,
+                0.945,
+                0.838
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.038,
+                0.852,
+                0.767,
+                0.895
+            ],
+            "angle": 0,
+            "content": "** 如果使用多种自由角度，比例也一直应用在第一位。**"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "40"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.088,
+                0.064,
+                0.181,
+                0.112
+            ],
+            "angle": 0,
+            "content": "自由度"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.233,
+                0.382,
+                0.272
+            ],
+            "angle": 0,
+            "content": "设置标称值或者值的范围"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.283,
+                0.398,
+                0.316
+            ],
+            "angle": 0,
+            "content": "使用箭头在您使用的值之间切换"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.335,
+                0.316,
+                0.368
+            ],
+            "angle": 0,
+            "content": "另外切换角度和角弧度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.387,
+                0.391,
+                0.42
+            ],
+            "angle": 0,
+            "content": "比例 X 和比例 Y 均为高级参数"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.131,
+                0.585,
+                0.837,
+                0.796
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "41"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.069,
+                0.178,
+                0.115
+            ],
+            "angle": 0,
+            "content": "自由度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.049,
+                0.187,
+                0.944,
+                0.28
+            ],
+            "angle": 0,
+            "content": "记住：告诉 PatMax® 您了解元件的哪些内容 -- 不要激活您的应用程序不需要的自由度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.047,
+                0.327,
+                0.53,
+                0.371
+            ],
+            "angle": 0,
+            "content": "- 标称值应该设置为已知元件所有的值"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.047,
+                0.377,
+                0.945,
+                0.466
+            ],
+            "angle": 0,
+            "content": "如果以不同于图像的比例做为训练图案，则设置锁定比例的标称值以反映图像的比例"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.047,
+                0.327,
+                0.945,
+                0.466
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.079,
+                0.6,
+                0.434,
+                0.734
+            ],
+            "angle": 0,
+            "content": "范例：训练图案的尺寸可能使得 PatMax® 很难确定，这是元音变音的一个特征还是图像噪音"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.547,
+                0.587,
+                0.831,
+                0.744
+            ],
+            "angle": 0,
+            "content": "按照此尺寸训练，并且将标称刻度值设置为 \\(50\\%\\)，确保整个字符被训练为所有特征"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.845,
+                0.741,
+                0.93,
+                0.854
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "42"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.094,
+                0.066,
+                0.187,
+                0.11
+            ],
+            "angle": 0,
+            "content": "自由度"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.054,
+                0.204,
+                0.537,
+                0.251
+            ],
+            "angle": 0,
+            "content": "每个自由度都会有一个从低到高的值域"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.055,
+                0.293,
+                0.313,
+                0.335
+            ],
+            "angle": 0,
+            "content": "可以激活多个自由度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.106,
+                0.338,
+                0.511,
+                0.375
+            ],
+            "angle": 0,
+            "content": "- 多个自由度可能会造成无意的匹配"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.106,
+                0.378,
+                0.797,
+                0.418
+            ],
+            "angle": 0,
+            "content": "- 在三刻度自由度中，最多只能激活两个 - 第三个会是多余的"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.106,
+                0.338,
+                0.797,
+                0.418
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.575,
+                0.708,
+                0.678
+            ],
+            "angle": 0,
+            "content": "按照此尺寸训练并且设置 \\(50 - 200\\%\\) 比例的范围可以允许："
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.153,
+                0.684,
+                0.264,
+                0.834
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.154,
+                0.852,
+                0.279,
+                0.89
+            ],
+            "angle": 0,
+            "content": "原来 - 1.00"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.373,
+                0.804,
+                0.412,
+                0.854
+            ],
+            "angle": 0,
+            "content": "e"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.374,
+                0.867,
+                0.421,
+                0.899
+            ],
+            "angle": 0,
+            "content": "0.50"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.459,
+                0.79,
+                0.491,
+                0.854
+            ],
+            "angle": 0,
+            "content": "e"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.452,
+                0.867,
+                0.504,
+                0.898
+            ],
+            "angle": 0,
+            "content": "0.67"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.536,
+                0.748,
+                0.585,
+                0.855
+            ],
+            "angle": 0,
+            "content": "e"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.535,
+                0.867,
+                0.579,
+                0.898
+            ],
+            "angle": 0,
+            "content": "1.17"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.62,
+                0.738,
+                0.675,
+                0.859
+            ],
+            "angle": 0,
+            "content": "e"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.622,
+                0.868,
+                0.667,
+                0.899
+            ],
+            "angle": 0,
+            "content": "1.33"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.713,
+                0.715,
+                0.78,
+                0.864
+            ],
+            "angle": 0,
+            "content": "e"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.718,
+                0.869,
+                0.762,
+                0.898
+            ],
+            "angle": 0,
+            "content": "1.67"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.812,
+                0.689,
+                0.889,
+                0.866
+            ],
+            "angle": 0,
+            "content": "e"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.821,
+                0.869,
+                0.867,
+                0.898
+            ],
+            "angle": 0,
+            "content": "2.00"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "43"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.11
+            ],
+            "angle": 0,
+            "content": "搜索区域"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.225,
+                0.468,
+                0.3
+            ],
+            "angle": 0,
+            "content": "默认状态，PatMax搜索整个图像寻找可能的匹配"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.322,
+                0.468,
+                0.491
+            ],
+            "angle": 0,
+            "content": "- 要让 PatMax 只在图像的一个部分中查找，使用一个区域形状（Region Shape）\n  通过键入值或者使用图形设置大小和位置"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.225,
+                0.468,
+                0.491
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.494,
+                0.197,
+                0.587,
+                0.221
+            ],
+            "angle": 0,
+            "content": "Train Params"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.604,
+                0.199,
+                0.74,
+                0.222
+            ],
+            "angle": 0,
+            "content": "Train Region & Origin"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.755,
+                0.199,
+                0.834,
+                0.22
+            ],
+            "angle": 0,
+            "content": "Run Params"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.851,
+                0.198,
+                0.949,
+                0.221
+            ],
+            "angle": 0,
+            "content": "Search Region"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.521,
+                0.246,
+                0.611,
+                0.269
+            ],
+            "angle": 0,
+            "content": "Region Mode:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.526,
+                0.275,
+                0.781,
+                0.3
+            ],
+            "angle": 0,
+            "content": "Pixel Aligned Bounding Box Adjust Mask"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.797,
+                0.271,
+                0.817,
+                0.299
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.521,
+                0.317,
+                0.617,
+                0.34
+            ],
+            "angle": 0,
+            "content": "Region Shape:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.526,
+                0.346,
+                0.701,
+                0.37
+            ],
+            "angle": 0,
+            "content": "<None=Use Entire Image>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.525,
+                0.38,
+                0.586,
+                0.402
+            ],
+            "angle": 0,
+            "content": "CogCircle"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.526,
+                0.404,
+                0.591,
+                0.425
+            ],
+            "angle": 0,
+            "content": "CogEllipse"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.526,
+                0.427,
+                0.616,
+                0.448
+            ],
+            "angle": 0,
+            "content": "CogRectangle"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.526,
+                0.449,
+                0.653,
+                0.47
+            ],
+            "angle": 0,
+            "content": "CogRectangleAffine"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.526,
+                0.472,
+                0.698,
+                0.493
+            ],
+            "angle": 0,
+            "content": "<None=UseEntireImage>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.97
+            ],
+            "angle": 0,
+            "content": "44"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.067,
+                0.149,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图形"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.234,
+                0.398,
+                0.317
+            ],
+            "angle": 0,
+            "content": "最后，选择在运行期间需要显示的图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.327,
+                0.336,
+                0.36
+            ],
+            "angle": 0,
+            "content": "记住图形的更新需要时间"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.451,
+                0.186,
+                0.964,
+                0.735
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "45"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.123
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.067,
+                0.253,
+                0.11
+            ],
+            "angle": 0,
+            "content": "运行PatMax"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.484,
+                0.317
+            ],
+            "angle": 0,
+            "content": "按下运行按钮在当前输入图像上运行 PatMax"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.415,
+                0.484,
+                0.501
+            ],
+            "angle": 0,
+            "content": "如果查找到一个实例，指定图形会出现在最后运行的输入图像上"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.233,
+                0.484,
+                0.501
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.516,
+                0.186,
+                0.964,
+                0.771
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "46"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "结果"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.234,
+                0.406,
+                0.272
+            ],
+            "angle": 0,
+            "content": "结果显示在结果标签的下面"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.371,
+                0.436,
+                0.454
+            ],
+            "angle": 0,
+            "content": "如果找到多个实例，它们将按得分降序排列返回"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.234,
+                0.436,
+                0.454
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.465,
+                0.185,
+                0.964,
+                0.655
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "47"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.251,
+                0.11
+            ],
+            "angle": 0,
+            "content": "PatMax得分"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.175,
+                0.631,
+                0.22
+            ],
+            "angle": 0,
+            "content": "得分范围从0（不匹配）到1.0（完全匹配）"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.249,
+                0.934,
+                0.34
+            ],
+            "angle": 0,
+            "content": "• 亮度、对比度和极性不影响得分。它们只可能影响图案是否探测得到。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.372,
+                0.472,
+                0.414
+            ],
+            "angle": 0,
+            "content": "在计分中需要考虑的因素包括:"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.061,
+                0.175,
+                0.934,
+                0.414
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.139,
+                0.42,
+                0.359,
+                0.46
+            ],
+            "angle": 0,
+            "content": "- 图案形状适合度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.139,
+                0.466,
+                0.44,
+                0.507
+            ],
+            "angle": 0,
+            "content": "- 在自由度范围内的适合"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.14,
+                0.513,
+                0.275,
+                0.554
+            ],
+            "angle": 0,
+            "content": "- 遗失特征"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.139,
+                0.559,
+                0.57,
+                0.602
+            ],
+            "angle": 0,
+            "content": "- 无关特征（只限于 \\(\\mathrm{PatMax}^{\\text {® }}\\) 算法）"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.139,
+                0.42,
+                0.57,
+                0.602
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "48"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "结果"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.064,
+                0.176,
+                0.16,
+                0.219
+            ],
+            "angle": 0,
+            "content": "得分"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.23,
+                0.573,
+                0.273
+            ],
+            "angle": 0,
+            "content": "结果特征与训练图案特征的匹配程度是多少"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.064,
+                0.372,
+                0.177,
+                0.412
+            ],
+            "angle": 0,
+            "content": "X、Y"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.425,
+                0.5,
+                0.466
+            ],
+            "angle": 0,
+            "content": "所找到的图案相对于指定原点的位置"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.065,
+                0.565,
+                0.161,
+                0.608
+            ],
+            "angle": 0,
+            "content": "角度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.62,
+                0.573,
+                0.723
+            ],
+            "angle": 0,
+            "content": "所找到的图案相对于原来训练的图案的角度如果使用标称角度，这始终等于标称值"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "49"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.989
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.152,
+                0.11
+            ],
+            "angle": 0,
+            "content": "结果"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.175,
+                0.473,
+                0.219
+            ],
+            "angle": 0,
+            "content": "匹配错误（只限 PatMax 算法）"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.23,
+                0.898,
+                0.27
+            ],
+            "angle": 0,
+            "content": "训练图案的形状和在搜索图像中找到的图案实例的形状之间差异度的测量"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.064,
+                0.37,
+                0.418,
+                0.413
+            ],
+            "angle": 0,
+            "content": "覆盖 (只限 PatMax 算法)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.425,
+                0.673,
+                0.465
+            ],
+            "angle": 0,
+            "content": "训练图案的所有部分也在搜索图像中存在程度的测量"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.065,
+                0.564,
+                0.417,
+                0.607
+            ],
+            "angle": 0,
+            "content": "- 杂乱 (只限 PatMax 算法)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.62,
+                0.698,
+                0.659
+            ],
+            "angle": 0,
+            "content": "找到的对象中包含有训练图案中没有的特征程度的测量"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.956,
+                0.043,
+                0.972
+            ],
+            "angle": 0,
+            "content": "50"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.956,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.855,
+                0.954,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "结果"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.064,
+                0.165,
+                0.154,
+                0.202
+            ],
+            "angle": 0,
+            "content": "比例"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.204,
+                0.494,
+                0.236
+            ],
+            "angle": 0,
+            "content": "所找到的图案的大小与原始训练图案的对比"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.24,
+                0.453,
+                0.274
+            ],
+            "angle": 0,
+            "content": "如果使用标称比例，这总是等于标称值"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.278,
+                0.231,
+                0.312
+            ],
+            "angle": 0,
+            "content": "a.k.a. 锁定比例"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.065,
+                0.383,
+                0.279,
+                0.42
+            ],
+            "angle": 0,
+            "content": "比例 \\(X\\) 、比例Y"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.421,
+                0.648,
+                0.453
+            ],
+            "angle": 0,
+            "content": "所找到的图案的大小与原始训练图案沿 X 和 Y 轴方向的对比"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.456,
+                0.453,
+                0.491
+            ],
+            "angle": 0,
+            "content": "如果使用标称比例，这总是等于标称值"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.956,
+                0.043,
+                0.972
+            ],
+            "angle": 0,
+            "content": "51"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.042,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.401,
+                0.113
+            ],
+            "angle": 0,
+            "content": "如何使得PatMax®更快"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.658,
+                0.215
+            ],
+            "angle": 0,
+            "content": "控制您能控制的并且告诉 PatMax® 您所知道的元件"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.243,
+                0.398,
+                0.282
+            ],
+            "angle": 0,
+            "content": "了解哪些参数影响执行时间"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.063,
+                0.174,
+                0.658,
+                0.282
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "52"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.304,
+                0.11
+            ],
+            "angle": 0,
+            "content": "参数和执行时间"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.224,
+                0.595,
+                0.265
+            ],
+            "angle": 0,
+            "content": "- 搜索 “体积” 越大，执行时间可能越长"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.126,
+                0.267,
+                0.571,
+                0.298
+            ],
+            "angle": 0,
+            "content": "(宽) × (高) × (角度区域) × (刻度区域)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.082,
+                0.328,
+                0.478,
+                0.371
+            ],
+            "angle": 0,
+            "content": "减小接受阈值强迫更多的探索"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.082,
+                0.393,
+                0.643,
+                0.436
+            ],
+            "angle": 0,
+            "content": "加大所要求的结果的数量使得执行时间稍长"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.082,
+                0.458,
+                0.681,
+                0.502
+            ],
+            "angle": 0,
+            "content": "减小精细粒度限制增加时间（更高细节要解析）"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.082,
+                0.523,
+                0.819,
+                0.567
+            ],
+            "angle": 0,
+            "content": "提高粗糙粒度限制减少时间（但是确保探测到必要的特征）"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.082,
+                0.589,
+                0.4,
+                0.632
+            ],
+            "angle": 0,
+            "content": "考虑极性稍微提高速度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.082,
+                0.654,
+                0.581,
+                0.697
+            ],
+            "angle": 0,
+            "content": "设置对比阈值 \\(>0.0\\)，便于更快地执行"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.081,
+                0.224,
+                0.819,
+                0.697
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "53"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.957,
+                0.168,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.368,
+                0.113
+            ],
+            "angle": 0,
+            "content": "运行期间精确度指南"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.063,
+                0.175,
+                0.658,
+                0.216
+            ],
+            "angle": 0,
+            "content": "从不要求 PatMax® 解决您已经知道或者应该知道的"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.221,
+                0.275,
+                0.258
+            ],
+            "angle": 0,
+            "content": "倾向于“考虑极性”"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.274,
+                0.34,
+                0.312
+            ],
+            "angle": 0,
+            "content": "倾向于弹性非常接近于0.0"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.326,
+                0.318,
+                0.362
+            ],
+            "angle": 0,
+            "content": "倾向于标称的 DOF 设置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.378,
+                0.655,
+                0.414
+            ],
+            "angle": 0,
+            "content": "如果您需要使用 DOF 区，根据对象变化的实际预期设置它们"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.957,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "54"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.989
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.085,
+                0.065,
+                0.273,
+                0.113
+            ],
+            "angle": 0,
+            "content": "高精确度指南"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.064,
+                0.175,
+                0.204,
+                0.214
+            ],
+            "angle": 0,
+            "content": "对象外观"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.223,
+                0.39,
+                0.258
+            ],
+            "angle": 0,
+            "content": "对象在相对几何形状上必须一致"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.276,
+                0.349,
+                0.309
+            ],
+            "angle": 0,
+            "content": "对象在相对外观上必须一致"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.327,
+                0.327,
+                0.36
+            ],
+            "angle": 0,
+            "content": "对象特征必须明显地界定"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.065,
+                0.451,
+                0.228,
+                0.489
+            ],
+            "angle": 0,
+            "content": "演示和照明"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.499,
+                0.681,
+                0.533
+            ],
+            "angle": 0,
+            "content": "最小化镜面反射、阴影、非线性变化、阻塞、不均匀对比度变化"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.956,
+                0.043,
+                0.972
+            ],
+            "angle": 0,
+            "content": "55"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.956,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.085,
+                0.065,
+                0.273,
+                0.113
+            ],
+            "angle": 0,
+            "content": "高精确度指南"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.234,
+                0.175,
+                0.272
+            ],
+            "angle": 0,
+            "content": "相机"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.119,
+                0.283,
+                0.393,
+                0.318
+            ],
+            "angle": 0,
+            "content": "使用高质量镜头将扭曲最小化"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.119,
+                0.334,
+                0.268,
+                0.367
+            ],
+            "angle": 0,
+            "content": "坚持视场的中间"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.119,
+                0.387,
+                0.227,
+                0.419
+            ],
+            "angle": 0,
+            "content": "细心地对焦"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.119,
+                0.438,
+                0.288,
+                0.47
+            ],
+            "angle": 0,
+            "content": "调整光圈避免饱和"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.119,
+                0.489,
+                0.289,
+                0.522
+            ],
+            "angle": 0,
+            "content": "根据系统校准相机"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.089,
+                0.561,
+                0.322,
+                0.601
+            ],
+            "angle": 0,
+            "content": "越大的图像越准确"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.089,
+                0.63,
+                0.335,
+                0.668
+            ],
+            "angle": 0,
+            "content": "确保精细粒度为 1.0"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.119,
+                0.679,
+                0.476,
+                0.713
+            ],
+            "angle": 0,
+            "content": "如果自动选择更大的值，您会受到警告"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.957,
+                0.043,
+                0.972
+            ],
+            "angle": 0,
+            "content": "56"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.281,
+                0.33,
+                0.577,
+                0.409
+            ],
+            "angle": 0,
+            "content": "Thank you."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "57"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ]
+]

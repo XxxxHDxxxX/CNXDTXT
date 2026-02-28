@@ -1,0 +1,346 @@
+[
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.256,
+                0.5,
+                0.342
+            ],
+            "angle": 0,
+            "content": "DataMan 触发模式"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.037,
+                0.55,
+                0.516,
+                0.958
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.657,
+                0.825,
+                0.938,
+                0.883
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.036,
+                0.023,
+                0.351,
+                0.088
+            ],
+            "angle": 0,
+            "content": "单（外部）触发"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.031,
+                0.149,
+                0.942,
+                0.891
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>触发:图像采集:</td><td>一次触发 =&gt; 一次曝光 + 采集图像(think &quot;In-Sight&quot;)</td></tr><tr><td>解码时间\n·通过设定超时时间\n自动曝光\n仅限 DM500\n可训练性?</td><td>应用:\n文档管理\n消费品包装</td></tr></table>"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.011,
+                0.844,
+                0.177,
+                0.985
+            ],
+            "angle": 0,
+            "content": "Dun it up to"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.42,
+                0.964,
+                0.544,
+                0.988
+            ],
+            "angle": 0,
+            "content": "2 - Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.783,
+                0.942,
+                0.958,
+                0.979
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.039,
+                0.023,
+                0.351,
+                0.088
+            ],
+            "angle": 0,
+            "content": "自（内部）触发"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.031,
+                0.149,
+                0.942,
+                0.891
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>触发:无\n图像采集:</td><td>无触发脉冲\n结果处理方式\n©DM100/200:每帧图像的结果独立输出\n©DM500:收集一定时间段内图像的所有结果,丢弃重复结果</td></tr><tr><td>解码时间\n◎通过设置时间间距\n自动曝光\n◎仅限DM500\n可训练性?</td><td>应用\n◎简单的扫描,就象激光读码器\n◎DM500“演示读取”</td></tr></table>"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.421,
+                0.965,
+                0.544,
+                0.988
+            ],
+            "angle": 0,
+            "content": "3 - Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.783,
+                0.942,
+                0.959,
+                0.98
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.035,
+                0.024,
+                0.217,
+                0.089
+            ],
+            "angle": 0,
+            "content": "突发模式"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.03,
+                0.149,
+                0.942,
+                0.891
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>触发:</td><td>Start</td><td>图像被缓存，直到缓存上限\n每帧图像解码在设定的超时时间内解码\n所有的图像结果被收集，丢弃重复结果</td></tr><tr><td>图像采集:</td><td></td><td></td></tr><tr><td>解码时间\n◎通过设置超时时间\n自动曝光\n◎仅限DM500\n可训练性?</td><td></td><td>应用\n◎长时间段间的动态捕捉\n◎通过相邻获取图像的变化达到提高读码率</td></tr></table>"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.011,
+                0.844,
+                0.177,
+                0.985
+            ],
+            "angle": 0,
+            "content": "Dun it up to"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.42,
+                0.965,
+                0.544,
+                0.988
+            ],
+            "angle": 0,
+            "content": "4 - Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.783,
+                0.942,
+                0.958,
+                0.98
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.034,
+                0.024,
+                0.217,
+                0.089
+            ],
+            "angle": 0,
+            "content": "连续模式"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.031,
+                0.149,
+                0.942,
+                0.878
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>触发:</td><td>Start End</td><td>周期性的图像序列\n单长脉冲\n开始/停止脉冲对\n所有的图像结果形成一个输出\n丢弃重复的结果</td></tr><tr><td>图像采集:</td><td></td><td></td></tr><tr><td>解码时间\n通过设置时间间距\n自动曝光\n仅限DM500\n可训练性?</td><td></td><td>应用\n物流-输送带上的盒子\n大面积的覆盖区域，但物件不一定移动\n线速度和解码速度的对比\n时间间距决定线速度（必须在符号在视野内获取图像）\n间距时间限定解码时间</td></tr></table>"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.011,
+                0.844,
+                0.177,
+                0.985
+            ],
+            "angle": 0,
+            "content": "Dun it up to"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.421,
+                0.965,
+                0.544,
+                0.988
+            ],
+            "angle": 0,
+            "content": "5 - Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.783,
+                0.942,
+                0.959,
+                0.98
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.036,
+                0.023,
+                0.217,
+                0.089
+            ],
+            "angle": 0,
+            "content": "手动模式"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.03,
+                0.149,
+                0.942,
+                0.91
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>触发:图像采集:</td><td>Start End</td><td>手持式读码器的主要模式取图和解码的设计以达到单个代码触发到解码输出时间最小化为目的</td></tr><tr><td>解码时间◎自动自动曝光◎是可训练性?◎自动的DPM训练</td><td>应用◎手持式DPM应用◎简单的产品演示◎需要自动曝光的索引应用</td><td></td></tr></table>"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.421,
+                0.964,
+                0.545,
+                0.988
+            ],
+            "angle": 0,
+            "content": "6 - Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.783,
+                0.942,
+                0.959,
+                0.98
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.036,
+                0.025,
+                0.241,
+                0.086
+            ],
+            "angle": 0,
+            "content": "演示模式*"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.031,
+                0.149,
+                0.942,
+                0.91
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>触发：无\n图像采集：</td><td>没有触发信号的手动模式，将单个代码触发到解码输出的时间最短化\n*不要和物流应用中的演示读取混淆!!\n！！</td></tr><tr><td>解码时间\n◎自动\n自动曝光\n◎是\n可训练性？\n◎自动的DPM训练</td><td>应用：\n◎直接工件标记代码演示，例如：医学仪器</td></tr></table>"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.421,
+                0.965,
+                0.542,
+                0.987
+            ],
+            "angle": 0,
+            "content": "7 - Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.784,
+                0.944,
+                0.956,
+                0.978
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ]
+]

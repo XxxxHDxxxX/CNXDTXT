@@ -1,0 +1,696 @@
+[
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.0,
+                1.0,
+                0.628
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.301,
+                0.674,
+                0.699,
+                0.752
+            ],
+            "angle": 0,
+            "content": "CogTool Training"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.793,
+                0.166,
+                0.827
+            ],
+            "angle": 0,
+            "content": "2019/12/19"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.733,
+                0.788,
+                0.87,
+                0.826
+            ],
+            "angle": 0,
+            "content": "Zhang Juan"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.038,
+                0.047,
+                0.459,
+                0.113
+            ],
+            "angle": 0,
+            "content": "Training Contents:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.175,
+                0.397,
+                0.212
+            ],
+            "angle": 0,
+            "content": "a) Geometry – Creation 创建"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.216,
+                0.417,
+                0.253
+            ],
+            "angle": 0,
+            "content": "b) Geometry – Intersection 相交"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.039,
+                0.257,
+                0.44,
+                0.293
+            ],
+            "angle": 0,
+            "content": "c) Geometry - Measurement 测量"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.037,
+                0.175,
+                0.44,
+                0.293
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.034,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.189,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.037,
+                0.043,
+                0.507,
+                0.093
+            ],
+            "angle": 0,
+            "content": "CogTool-Geometry - Creation"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.196,
+                0.459,
+                0.235
+            ],
+            "angle": 0,
+            "content": "> CogCreateCircleTool // 创建圆"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.238,
+                0.478,
+                0.276
+            ],
+            "angle": 0,
+            "content": "> CogCreateEllipseTool // 创建椭圆"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.279,
+                0.553,
+                0.316
+            ],
+            "angle": 0,
+            "content": ">CogCreateGraphicLabelTool // 创建显示"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.318,
+                0.691,
+                0.357
+            ],
+            "angle": 0,
+            "content": "> CogCreateLineBisectPointsTool // 创建两点的平分线"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.359,
+                0.735,
+                0.396
+            ],
+            "angle": 0,
+            "content": "> CogCreateLineParallelTool // 以某一点创建某线的平行线"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.399,
+                0.781,
+                0.436
+            ],
+            "angle": 0,
+            "content": "> CogCreateLinePerpendicularTool // 以某一点创建某线的垂线"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.438,
+                0.686,
+                0.475
+            ],
+            "angle": 0,
+            "content": "> CogCreateLineTool // 创建线（以某点和角度创建线）"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.478,
+                0.754,
+                0.516
+            ],
+            "angle": 0,
+            "content": "> CogCreateSegmentAvgSegsTool // 创建两条线段的平均线"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.519,
+                0.504,
+                0.556
+            ],
+            "angle": 0,
+            "content": "> CogCreateSegmentTool // 创建线段"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.196,
+                0.781,
+                0.556
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.957,
+                0.188,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.956,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.038,
+                0.044,
+                0.561,
+                0.092
+            ],
+            "angle": 0,
+            "content": "CogTool-Geometry - Intersection"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.196,
+                0.636,
+                0.235
+            ],
+            "angle": 0,
+            "content": "CogIntersectCircleCircleTool // 检测圆与圆相交"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.237,
+                0.612,
+                0.274
+            ],
+            "angle": 0,
+            "content": "CogIntersectLineCircleTool // 检测线与圆相交"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.277,
+                0.647,
+                0.316
+            ],
+            "angle": 0,
+            "content": "CogIntersectLineEllipseTool // 检测线与椭圆相交"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.318,
+                0.596,
+                0.354
+            ],
+            "angle": 0,
+            "content": "CogIntersectLineLineTool // 检测线与线相交"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.357,
+                0.69,
+                0.396
+            ],
+            "angle": 0,
+            "content": "CogIntersectSegmentCircleTool // 检测线段与圆相交"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.398,
+                0.724,
+                0.435
+            ],
+            "angle": 0,
+            "content": "> CogIntersectSegmentEllipseTool // 检测线段与椭圆相交"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.438,
+                0.674,
+                0.475
+            ],
+            "angle": 0,
+            "content": "CogIntersectSegmentLineTool // 检测线段与线相交"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.477,
+                0.75,
+                0.516
+            ],
+            "angle": 0,
+            "content": "CogIntersectSegmentSegmentTool // 检测线段与线段相交"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.196,
+                0.75,
+                0.516
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.189,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.038,
+                0.044,
+                0.587,
+                0.092
+            ],
+            "angle": 0,
+            "content": "CogTool-Geometry - Measurement"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.196,
+                0.588,
+                0.235
+            ],
+            "angle": 0,
+            "content": "CogAngleLineLineTool // 测量线与线的角度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.239,
+                0.615,
+                0.274
+            ],
+            "angle": 0,
+            "content": "CogAnglePointPointTool // 测量点与点的角度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.279,
+                0.653,
+                0.314
+            ],
+            "angle": 0,
+            "content": "CogDistanceCircleCircleTool // 测量圆与圆的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.319,
+                0.637,
+                0.354
+            ],
+            "angle": 0,
+            "content": "CogDistanceLineCircleTool // 测量线与圆的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.359,
+                0.672,
+                0.394
+            ],
+            "angle": 0,
+            "content": "CogDistanceLineEllipseTool // 测量线与椭圆的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.399,
+                0.647,
+                0.433
+            ],
+            "angle": 0,
+            "content": "CogDistancePointCircleTool // 测量点到圆的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.438,
+                0.681,
+                0.474
+            ],
+            "angle": 0,
+            "content": "CogDistancePointEllipseTool // 测量点到椭圆的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.479,
+                0.63,
+                0.513
+            ],
+            "angle": 0,
+            "content": "CogDistancePointLineTool // 测量点到线的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.519,
+                0.64,
+                0.553
+            ],
+            "angle": 0,
+            "content": "CogDistancePointToPointTool // 测量点到点的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.558,
+                0.708,
+                0.594
+            ],
+            "angle": 0,
+            "content": "CogDistancePointSegmentTool // 测量点到线段的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.599,
+                0.74,
+                0.634
+            ],
+            "angle": 0,
+            "content": "> CogDistanceSegmentCircleTool // 测量线段与椭圆的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.639,
+                0.75,
+                0.674
+            ],
+            "angle": 0,
+            "content": "> CogDistanceSegmentEllipseTool // 测量线段与椭圆的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.679,
+                0.699,
+                0.713
+            ],
+            "angle": 0,
+            "content": "CogDistanceLineTool // 测量线段与线的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.718,
+                0.776,
+                0.754
+            ],
+            "angle": 0,
+            "content": "> CogDistanceSegmentSegmentTool // 测量线段与线段的距离"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.196,
+                0.776,
+                0.754
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.188,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.257,
+                0.337,
+                0.654,
+                0.513
+            ],
+            "angle": 0,
+            "content": "Thank you."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.958,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.189,
+                0.975
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ]
+]

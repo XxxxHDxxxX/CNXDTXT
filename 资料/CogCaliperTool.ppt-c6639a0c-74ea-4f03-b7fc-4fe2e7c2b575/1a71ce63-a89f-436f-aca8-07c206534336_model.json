@@ -1,0 +1,3286 @@
+[
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.0,
+                1.0,
+                0.628
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.277,
+                0.635,
+                0.636,
+                0.711
+            ],
+            "angle": 0,
+            "content": "CogCaliperTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.793,
+                0.165,
+                0.827
+            ],
+            "angle": 0,
+            "content": "2019/12/19"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.734,
+                0.788,
+                0.87,
+                0.826
+            ],
+            "angle": 0,
+            "content": "Zhang Juan"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "学习目标"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.063,
+                0.175,
+                0.316,
+                0.214
+            ],
+            "angle": 0,
+            "content": "学员将学会正确地："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.222,
+                0.587,
+                0.258
+            ],
+            "angle": 0,
+            "content": "识别卡尺可能是视觉解决方案一个部分的应用"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.274,
+                0.67,
+                0.309
+            ],
+            "angle": 0,
+            "content": "□ 创建并配置一个卡尺工具来探测不同运行条件下的边线"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.113,
+                0.222,
+                0.67,
+                0.309
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.177,
+                0.319,
+                0.546,
+                0.358
+            ],
+            "angle": 0,
+            "content": "选择适当的目标区域查找边线"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.178,
+                0.363,
+                0.645,
+                0.402
+            ],
+            "angle": 0,
+            "content": "✓ 评价参数设置确定用于不同边的最佳值"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.178,
+                0.406,
+                0.769,
+                0.446
+            ],
+            "angle": 0,
+            "content": "√ 在需要其他的计分功能时进行评定并在必要时执行"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.177,
+                0.319,
+                0.769,
+                0.446
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.455,
+                0.378,
+                0.49
+            ],
+            "angle": 0,
+            "content": "□ 创建并配置几何学工具"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.066,
+                0.211,
+                0.11
+            ],
+            "angle": 0,
+            "content": "卡尺应用"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.064,
+                0.175,
+                0.297,
+                0.212
+            ],
+            "angle": 0,
+            "content": "理想用于计量应用"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.223,
+                0.244,
+                0.258
+            ],
+            "angle": 0,
+            "content": "测量元件的宽度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.276,
+                0.284,
+                0.309
+            ],
+            "angle": 0,
+            "content": "测量元件之间的距离"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.065,
+                0.348,
+                0.248,
+                0.386
+            ],
+            "angle": 0,
+            "content": "用于固定元件"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.396,
+                0.306,
+                0.429
+            ],
+            "angle": 0,
+            "content": "当元件的位置不确定时"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.042,
+                0.97
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.074,
+                0.123,
+                0.264,
+                0.168
+            ],
+            "angle": 0,
+            "content": "卡尺工具介绍"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.04,
+                0.189,
+                0.402,
+                0.228
+            ],
+            "angle": 0,
+            "content": "辨别对象中的边线和边线对子"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.04,
+                0.258,
+                0.572,
+                0.297
+            ],
+            "angle": 0,
+            "content": "报告边线对子中的边线位置和边线之间的距离"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.04,
+                0.189,
+                0.572,
+                0.297
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.129,
+                0.463,
+                0.847,
+                0.838
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.16,
+                0.11
+            ],
+            "angle": 0,
+            "content": "问题:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.406,
+                0.272
+            ],
+            "angle": 0,
+            "content": "测量该金属支架的横向宽度"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.432,
+                0.23,
+                0.959,
+                0.711
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.237,
+                0.113
+            ],
+            "angle": 0,
+            "content": "图片-设置"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.01,
+                0.194,
+                0.964,
+                0.89
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.973
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.275,
+                0.113
+            ],
+            "angle": 0,
+            "content": "定义目标区域"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.413,
+                0.317
+            ],
+            "angle": 0,
+            "content": "卡尺区域指图像中探测到边线的区域"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.415,
+                0.413,
+                0.498
+            ],
+            "angle": 0,
+            "content": "在图形上由输入图像中的蓝色方框表示"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.233,
+                0.413,
+                0.498
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.555,
+                0.197,
+                0.709,
+                0.228
+            ],
+            "angle": 0,
+            "content": "Current.InputImage"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.544,
+                0.233,
+                0.959,
+                0.79
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.957,
+                0.044,
+                0.973
+            ],
+            "angle": 0,
+            "content": "7"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.275,
+                0.113
+            ],
+            "angle": 0,
+            "content": "定义目标区域"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.059,
+                0.196,
+                0.927,
+                0.81
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "8"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.074,
+                0.067,
+                0.266,
+                0.114
+            ],
+            "angle": 0,
+            "content": "定义目标区域"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.031,
+                0.2,
+                0.177,
+                0.239
+            ],
+            "angle": 0,
+            "content": "区域标准："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.249,
+                0.191,
+                0.283
+            ],
+            "angle": 0,
+            "content": "包含目标边线"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.298,
+                0.294,
+                0.334
+            ],
+            "angle": 0,
+            "content": "边线必须与投影方向平行"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.106,
+                0.346,
+                0.28,
+                0.385
+            ],
+            "angle": 0,
+            "content": "- 可能必须旋转"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.394,
+                0.42,
+                0.431
+            ],
+            "angle": 0,
+            "content": "在可能时，不包括目标边线以外的特征"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.106,
+                0.441,
+                0.28,
+                0.48
+            ],
+            "angle": 0,
+            "content": "- 可能必须倾斜"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.497,
+                0.195,
+                0.797,
+                0.44
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.664,
+                0.518,
+                0.877,
+                0.898
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "9"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.212,
+                0.11
+            ],
+            "angle": 0,
+            "content": "卡尺参数"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.175,
+                0.424,
+                0.214
+            ],
+            "angle": 0,
+            "content": "下一步，为卡尺工具设置参数"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.313,
+                0.62,
+                0.396
+            ],
+            "angle": 0,
+            "content": "这些参数的设置要求了解工作是如何执行的在我们讲解参数的过程中，我们将解释一些“后台”操作"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.063,
+                0.175,
+                0.62,
+                0.396
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "10"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.296,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图片-运行期间"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.202,
+                0.964,
+                0.918
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "11"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "投影"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.224,
+                0.464,
+                0.262
+            ],
+            "angle": 0,
+            "content": "投影将二维图像减少到一维图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.263,
+                0.294,
+                0.295
+            ],
+            "angle": 0,
+            "content": "减少处理时间和存储"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.298,
+                0.439,
+                0.333
+            ],
+            "angle": 0,
+            "content": "维持并且在一些情况下增强边线信息"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.362,
+                0.545,
+                0.439
+            ],
+            "angle": 0,
+            "content": "沿着规定方向中的平行光线添加像素灰度值"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.224,
+                0.545,
+                0.439
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.806,
+                0.293,
+                0.898,
+                0.327
+            ],
+            "angle": 0,
+            "content": "扫描箭头"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.558,
+                0.328,
+                0.971,
+                0.758
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "12"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.077,
+                0.061,
+                0.205,
+                0.107
+            ],
+            "angle": 0,
+            "content": "边线筛选"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.04,
+                0.18,
+                0.525,
+                0.222
+            ],
+            "angle": 0,
+            "content": "- 边线筛选的目的是从输入图像中消除噪音"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.184,
+                0.329,
+                0.831,
+                0.912
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "13"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.213,
+                0.11
+            ],
+            "angle": 0,
+            "content": "边线筛选"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.234,
+                0.338,
+                0.364
+            ],
+            "angle": 0,
+            "content": "卡尺工具通过使用一个筛选算子盘旋一维投影图像来执行筛选"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.359,
+                0.275,
+                0.414,
+                0.307
+            ],
+            "angle": 0,
+            "content": "图像："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.357,
+                0.396,
+                0.449,
+                0.427
+            ],
+            "angle": 0,
+            "content": "投影图像："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.359,
+                0.508,
+                0.451,
+                0.54
+            ],
+            "angle": 0,
+            "content": "筛选算子："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.36,
+                0.598,
+                0.453,
+                0.629
+            ],
+            "angle": 0,
+            "content": "筛选输出："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.361,
+                0.711,
+                0.511,
+                0.743
+            ],
+            "angle": 0,
+            "content": "筛选输出的图形："
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.505,
+                0.246,
+                0.934,
+                0.345
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.504,
+                0.353,
+                0.934,
+                0.439
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.506,
+                0.441,
+                0.905,
+                0.541
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.508,
+                0.544,
+                0.903,
+                0.635
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.536,
+                0.641,
+                0.902,
+                0.803
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.653,
+                0.808,
+                0.762,
+                0.838
+            ],
+            "angle": 0,
+            "content": "一边线峰值"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.77,
+                0.81,
+                0.812,
+                0.834
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "14"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.213,
+                0.11
+            ],
+            "angle": 0,
+            "content": "边线筛选"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.573,
+                0.214
+            ],
+            "angle": 0,
+            "content": "- 筛选尺寸接近边线尺寸生产较强的边线峰值"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.064,
+                0.243,
+                0.475,
+                0.282
+            ],
+            "angle": 0,
+            "content": "筛选尺寸太大或者太小会减少峰值"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.063,
+                0.174,
+                0.573,
+                0.282
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.171,
+                0.439,
+                0.845,
+                0.91
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "15"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.213,
+                0.11
+            ],
+            "angle": 0,
+            "content": "设置参数"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.233,
+                0.312,
+                0.272
+            ],
+            "angle": 0,
+            "content": "设置筛选一半尺寸"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.283,
+                0.406,
+                0.402
+            ],
+            "angle": 0,
+            "content": "我们会看到一个从视觉上表示我们是否已经为图像选择了一个适当数值的图形"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.421,
+                0.236,
+                0.453
+            ],
+            "angle": 0,
+            "content": "设置对比阀值"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.475,
+                0.179,
+                0.505
+            ],
+            "angle": 0,
+            "content": "0到255"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.414,
+                0.186,
+                0.964,
+                0.793
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "16"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.213,
+                0.11
+            ],
+            "angle": 0,
+            "content": "对比阀值"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.758,
+                0.214
+            ],
+            "angle": 0,
+            "content": "对比阈值消除不满足最低对比度的边线（峰值高度或者深度）"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.084,
+                0.558,
+                0.192,
+                0.592
+            ],
+            "angle": 0,
+            "content": "+ 最低对比度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.642,
+                0.142,
+                0.668
+            ],
+            "angle": 0,
+            "content": "0.0"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.726,
+                0.186,
+                0.757
+            ],
+            "angle": 0,
+            "content": "- 最低对比度"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.176,
+                0.522,
+                0.93,
+                0.825
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "17"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.074,
+                0.059,
+                0.202,
+                0.103
+            ],
+            "angle": 0,
+            "content": "边线极性"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.19,
+                0.457,
+                0.229
+            ],
+            "angle": 0,
+            "content": "- 边线模式描述边线或者边线对子为:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.242,
+                0.135,
+                0.273
+            ],
+            "angle": 0,
+            "content": "亮到黑"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.293,
+                0.135,
+                0.324
+            ],
+            "angle": 0,
+            "content": "黑到亮"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.344,
+                0.155,
+                0.375
+            ],
+            "angle": 0,
+            "content": "任何极性"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "18"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.213,
+                0.11
+            ],
+            "angle": 0,
+            "content": "边线极性"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.406,
+                0.274
+            ],
+            "angle": 0,
+            "content": "选择单个边线或者边线对子"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.303,
+                0.331,
+                0.341
+            ],
+            "angle": 0,
+            "content": "然后指出预期的极性"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.372,
+                0.41,
+                0.454
+            ],
+            "angle": 0,
+            "content": "对于边线对子，还需要规定边线之间的预期距离"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.233,
+                0.41,
+                0.454
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.414,
+                0.186,
+                0.964,
+                0.793
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "19"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.085,
+                0.066,
+                0.213,
+                0.11
+            ],
+            "angle": 0,
+            "content": "最大结果"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.406,
+                0.316
+            ],
+            "angle": 0,
+            "content": "- 规定结果中返回的边线或者边线对子的最大数量"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.412,
+                0.186,
+                0.964,
+                0.793
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "20"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.123
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "运行"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.481,
+                0.316
+            ],
+            "angle": 0,
+            "content": "- 使用运行按钮探测当前输入图像上的边线"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.481,
+                0.184,
+                0.96,
+                0.598
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "21"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图形"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.532,
+                0.274
+            ],
+            "angle": 0,
+            "content": "使用图形表示执行游标卡尺工具的结果"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.371,
+                0.532,
+                0.41
+            ],
+            "angle": 0,
+            "content": "- 图形增加执行时间，因此要相应地使用"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.233,
+                0.532,
+                0.41
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.586,
+                0.186,
+                0.964,
+                0.835
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "22"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图形"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.477,
+                0.36
+            ],
+            "angle": 0,
+            "content": "显示找到的边线在报告的边线处的 LastRun.InputImage 中绘制绿线"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.481,
+                0.152,
+                0.862,
+                0.422
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.482,
+                0.422,
+                0.926,
+                0.862
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "23"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.086,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图形"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.484,
+                0.321
+            ],
+            "angle": 0,
+            "content": "- 其余结果图形在LastRun RegionData中显示"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.415,
+                0.482,
+                0.458
+            ],
+            "angle": 0,
+            "content": "用于解释在您的图像中发生了什么"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.233,
+                0.484,
+                0.458
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.498,
+                0.188,
+                0.964,
+                0.825
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.956,
+                0.043,
+                0.972
+            ],
+            "angle": 0,
+            "content": "24"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.066,
+                0.148,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图形"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.451,
+                0.318
+            ],
+            "angle": 0,
+            "content": "显示仿射转换图像将像素从区域添加到区域数据 (RegionData)"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.465,
+                0.285,
+                0.902,
+                0.89
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.97
+            ],
+            "angle": 0,
+            "content": "25"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "结果表格"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.623,
+                0.214
+            ],
+            "angle": 0,
+            "content": "结果按照得分从高到低的顺序显示在结果表格中"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.073,
+                0.431,
+                0.887,
+                0.603
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Settings</td><td>Region</td><td>Scoring</td><td>Graphics</td><td>Results</td><td colspan=\"3\"></td></tr><tr><td colspan=\"8\">1 Result</td></tr><tr><td>ID</td><td>Score</td><td>Edge0</td><td>Position</td><td>X</td><td>Y</td><td>ScorerContrast (0)</td><td>Contrast (EO)</td></tr><tr><td>0</td><td>0.270</td><td>0</td><td>-11.7</td><td>110.6</td><td>213.1</td><td>0.270</td><td>68.840</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "26"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.042,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "结果"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.064,
+                0.175,
+                0.147,
+                0.212
+            ],
+            "angle": 0,
+            "content": "得分"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.224,
+                0.39,
+                0.258
+            ],
+            "angle": 0,
+            "content": "根据您创建的计分函数接受得分"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.064,
+                0.347,
+                0.247,
+                0.386
+            ],
+            "angle": 0,
+            "content": "边线0/边线1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.396,
+                0.397,
+                0.431
+            ],
+            "angle": 0,
+            "content": "这是沿区域的哪一个边线（索引）"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.065,
+                0.52,
+                0.198,
+                0.558
+            ],
+            "angle": 0,
+            "content": "已测宽度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.568,
+                0.41,
+                0.602
+            ],
+            "angle": 0,
+            "content": "仅限边线对子，两边线之间的距离"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.957,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "27"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "结果"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.065,
+                0.175,
+                0.147,
+                0.212
+            ],
+            "angle": 0,
+            "content": "位置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.224,
+                0.516,
+                0.258
+            ],
+            "angle": 0,
+            "content": "沿相对于输入区域中心的搜索方向的一维测量"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.01,
+                0.401,
+                0.957,
+                0.86
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "28"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.042,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "结果"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.064,
+                0.176,
+                0.172,
+                0.212
+            ],
+            "angle": 0,
+            "content": "X、Y"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.223,
+                0.285,
+                0.258
+            ],
+            "angle": 0,
+            "content": "边线在图像中的位置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.065,
+                0.346,
+                0.197,
+                0.385
+            ],
+            "angle": 0,
+            "content": "函数得分"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.396,
+                0.41,
+                0.431
+            ],
+            "angle": 0,
+            "content": "该边线就单个计分函数所得的得分"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.956,
+                0.042,
+                0.972
+            ],
+            "angle": 0,
+            "content": "29"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.956,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.989
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.095,
+                0.064,
+                0.246,
+                0.113
+            ],
+            "angle": 0,
+            "content": "“坏”边线"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.539,
+                0.215
+            ],
+            "angle": 0,
+            "content": "当您想要探测的边线没有报告时怎么办？"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.064,
+                0.313,
+                0.119,
+                0.353
+            ],
+            "angle": 0,
+            "content": "或者"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.45,
+                0.613,
+                0.491
+            ],
+            "angle": 0,
+            "content": "当您不想探测的边线被作为结果报告时怎么办？"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.063,
+                0.174,
+                0.613,
+                0.491
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "30"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.989
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.042,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.15,
+                0.112
+            ],
+            "angle": 0,
+            "content": "计分"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.174,
+                0.934,
+                0.262
+            ],
+            "angle": 0,
+            "content": "默认状态下，单个边线只根据它们跨边线的对比度进行计分，而边线对子根据所测边线之间的距离与预期距离匹配程度来计分。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.356,
+                0.923,
+                0.446
+            ],
+            "angle": 0,
+            "content": "有时，您需要修改如何给边线计分以便可靠地返回您实际想要查找的那些。这时就需要添加其他的计分函数。"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.061,
+                0.174,
+                0.934,
+                0.446
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "31"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.855,
+                0.955,
+                0.98,
+                0.989
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.085,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "计分"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.235,
+                0.374,
+                0.327
+            ],
+            "angle": 0,
+            "content": "规定应用到该边线探测的计分方法"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.431,
+                0.374,
+                0.573
+            ],
+            "angle": 0,
+            "content": "目标是给最满足预期边线的边线对象打可能的最高分"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.235,
+                0.374,
+                0.573
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.384,
+                0.173,
+                0.958,
+                0.815
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "32"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.152,
+                0.113
+            ],
+            "angle": 0,
+            "content": "计分"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.174,
+                0.495,
+                0.214
+            ],
+            "angle": 0,
+            "content": "Xc 和 X1 之间的得分被映射到 Y1 上"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.242,
+                0.648,
+                0.28
+            ],
+            "angle": 0,
+            "content": "Xc和X1之间的得分被线性地映射Y1和Y0之间"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.061,
+                0.174,
+                0.648,
+                0.28
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.251,
+                0.436,
+                0.724,
+                0.793
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.481,
+                0.795,
+                0.641,
+                0.831
+            ],
+            "angle": 0,
+            "content": "原始得分（输入）"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "33"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.855,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "计分方法"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.232,
+                0.474,
+                0.272
+            ],
+            "angle": 0,
+            "content": "对比度- 以像素值的变化来表示"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.2,
+                0.275,
+                0.724,
+                0.317
+            ],
+            "angle": 0,
+            "content": "- 对于边线对子，对比度是两个边线的平均对比"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.344,
+                0.531,
+                0.385
+            ],
+            "angle": 0,
+            "content": "- 跨度 - 边线是否跨过投影窗口的中心"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.201,
+                0.389,
+                0.421,
+                0.428
+            ],
+            "angle": 0,
+            "content": "- 如果是，得分 \\(= 1\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.201,
+                0.432,
+                0.445,
+                0.47
+            ],
+            "angle": 0,
+            "content": "• 如果不是, 得分 \\(= 0\\)"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.201,
+                0.389,
+                0.445,
+                0.47
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "34"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.15,
+                0.112
+            ],
+            "angle": 0,
+            "content": "计分"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.174,
+                0.933,
+                0.256
+            ],
+            "angle": 0,
+            "content": "对于每个限制计算的原始得分通过所定义的计分函数转换为 0.0 到 1.0 范围间的一个最后得分"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.286,
+                0.825,
+                0.329
+            ],
+            "angle": 0,
+            "content": "- 每个边线或者边线对子的所有得分进行几何平均得到一个最后得分"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.356,
+                0.933,
+                0.439
+            ],
+            "angle": 0,
+            "content": "只报告有最高得分的边线或者边线对子, 直至达到所要求的边线或者边线对子的数量"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.061,
+                0.174,
+                0.933,
+                0.439
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.97
+            ],
+            "angle": 0,
+            "content": "35"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.281,
+                0.33,
+                0.577,
+                0.409
+            ],
+            "angle": 0,
+            "content": "Thank you."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "36"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ]
+]

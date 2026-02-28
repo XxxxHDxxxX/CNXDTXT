@@ -1,0 +1,1934 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        0,
+                        720,
+                        339
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                720,
+                                339
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        720,
+                                        339
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                720,
+                                                339
+                                            ],
+                                            "type": "image",
+                                            "image_path": "7351213f83290fdf44849af3121d91a480c53143ed23e52f12c9a08f9d33a116.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        234,
+                        353,
+                        484,
+                        394
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                234,
+                                353,
+                                484,
+                                394
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        234,
+                                        353,
+                                        484,
+                                        394
+                                    ],
+                                    "type": "text",
+                                    "content": "CogFitLineTool"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        26,
+                        428,
+                        118,
+                        446
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                428,
+                                118,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        428,
+                                        118,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "2019/12/19"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        527,
+                        425,
+                        626,
+                        446
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                527,
+                                425,
+                                626,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        527,
+                                        425,
+                                        626,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "Zhang Juan"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        58,
+                        22,
+                        333,
+                        64
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                22,
+                                333,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        22,
+                                        333,
+                                        64
+                                    ],
+                                    "type": "text",
+                                    "content": "几何学工具简介"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        27,
+                        74,
+                        151,
+                        106
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                74,
+                                151,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        74,
+                                        151,
+                                        106
+                                    ],
+                                    "type": "text",
+                                    "content": "创建工具"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        27,
+                        118,
+                        316,
+                        171
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                118,
+                                316,
+                                171
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        118,
+                                        316,
+                                        171
+                                    ],
+                                    "type": "text",
+                                    "content": "- 根据提供的输入创建指定的形状"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        60,
+                        178,
+                        185,
+                        200
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                178,
+                                185,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        178,
+                                        185,
+                                        200
+                                    ],
+                                    "type": "text",
+                                    "content": "即建立圆形"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        79,
+                        201,
+                        331,
+                        268
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                201,
+                                331,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        201,
+                                        331,
+                                        268
+                                    ],
+                                    "type": "text",
+                                    "content": "(CreateCircle) 工具将输出一个圆圈，给定 X、Y 中心点和半径"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        372,
+                        107,
+                        420,
+                        130
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                372,
+                                107,
+                                420,
+                                130
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        107,
+                                        420,
+                                        130
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                372,
+                                                107,
+                                                420,
+                                                130
+                                            ],
+                                            "type": "image",
+                                            "image_path": "d5e08ae4d0a878199584afb782f7d3d2dd4500618b88a788a565e87adeb63c7d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        424,
+                        111,
+                        565,
+                        129
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                424,
+                                111,
+                                565,
+                                129
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        424,
+                                        111,
+                                        565,
+                                        129
+                                    ],
+                                    "type": "text",
+                                    "content": "Geometry - Creation"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        422,
+                        131,
+                        678,
+                        313
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                422,
+                                131,
+                                678,
+                                313
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        422,
+                                        131,
+                                        678,
+                                        313
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                422,
+                                                131,
+                                                678,
+                                                313
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3d305f05ee11417e1f51047f899a6660eb400c68092fe12a8762f4974c214b65.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        55,
+                        66
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                55,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        55,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        25,
+                        516,
+                        31,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                516,
+                                31,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        516,
+                                        31,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        38,
+                        515,
+                        134,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                38,
+                                515,
+                                134,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        515,
+                                        134,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        53,
+                        27,
+                        307,
+                        65
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                27,
+                                307,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        27,
+                                        307,
+                                        65
+                                    ],
+                                    "type": "text",
+                                    "content": "查找和匹配工具"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        41,
+                        111,
+                        353,
+                        299
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 3,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                41,
+                                111,
+                                353,
+                                192
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        111,
+                                        353,
+                                        192
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                111,
+                                                353,
+                                                192
+                                            ],
+                                            "type": "text",
+                                            "content": "- 查找工具使用工具中包括的游标卡尺的结果创建指定的形状"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                41,
+                                245,
+                                353,
+                                299
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        245,
+                                        353,
+                                        299
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                245,
+                                                353,
+                                                299
+                                            ],
+                                            "type": "text",
+                                            "content": "匹配工具使用从其他工具的输入创建一个最佳匹配形状"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        411,
+                        123,
+                        649,
+                        239
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                411,
+                                123,
+                                649,
+                                239
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        411,
+                                        123,
+                                        649,
+                                        239
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                411,
+                                                123,
+                                                649,
+                                                239
+                                            ],
+                                            "type": "image",
+                                            "image_path": "2a744f038ad7b9ad0c197461de5dd96b05f20317c21762644604269ac72c046a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        38,
+                        515,
+                        133,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                38,
+                                515,
+                                133,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        515,
+                                        133,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        45,
+                        23,
+                        227,
+                        57
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                23,
+                                227,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        23,
+                                        227,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "FitLine 简介"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        17,
+                        69,
+                        668,
+                        109
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                69,
+                                668,
+                                109
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        69,
+                                        668,
+                                        109
+                                    ],
+                                    "type": "text",
+                                    "content": "此工具可以获取一个输入点集并返回最佳拟合这些输入点的线，同事生成最小均方根（RMSError）误差。FitLine 工具需要最少两个输入点。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        16,
+                        113,
+                        655,
+                        154
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                113,
+                                655,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        113,
+                                        655,
+                                        154
+                                    ],
+                                    "type": "text",
+                                    "content": "FitLine 编辑控件用于选择输入点，指定要忽略的一系列输入点，以及查看视觉工具结果。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        14,
+                        181,
+                        666,
+                        505
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                14,
+                                181,
+                                666,
+                                505
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        181,
+                                        666,
+                                        505
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                14,
+                                                181,
+                                                666,
+                                                505
+                                            ],
+                                            "type": "image",
+                                            "image_path": "28f4256cd4bf1bf6ae1972f7c309d338414c9f1a4ef269680b671e0d2e2f8add.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        39,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                39,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        39,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        25,
+                        516,
+                        31,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                516,
+                                31,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        516,
+                                        31,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "4"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        38,
+                        516,
+                        133,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                38,
+                                516,
+                                133,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        516,
+                                        133,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        616,
+                        516,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                516,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        516,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        50,
+                        23,
+                        213,
+                        58
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                23,
+                                213,
+                                58
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        23,
+                                        213,
+                                        58
+                                    ],
+                                    "type": "text",
+                                    "content": "设置选项卡"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        18,
+                        81,
+                        123,
+                        112
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                81,
+                                123,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        81,
+                                        123,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": ">输入点"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        13,
+                        127,
+                        702,
+                        267
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                13,
+                                127,
+                                702,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        127,
+                                        702,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "使用设置选项卡的 Input Points 网格，为此 Fit Line 工具指定输入点的数量和 "
+                                },
+                                {
+                                    "bbox": [
+                                        13,
+                                        127,
+                                        702,
+                                        267
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(x, y)"
+                                },
+                                {
+                                    "bbox": [
+                                        13,
+                                        127,
+                                        702,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": " 坐标，需要指定最少两个输入点。使用按钮添加、删除和重新排序输入点。要将输入点添加至列表，可直接输入 "
+                                },
+                                {
+                                    "bbox": [
+                                        13,
+                                        127,
+                                        702,
+                                        267
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(x, y)"
+                                },
+                                {
+                                    "bbox": [
+                                        13,
+                                        127,
+                                        702,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": " 坐标，或使用 Tool Group 编辑控件将其他工具中点结果的 "
+                                },
+                                {
+                                    "bbox": [
+                                        13,
+                                        127,
+                                        702,
+                                        267
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(x, y)"
+                                },
+                                {
+                                    "bbox": [
+                                        13,
+                                        127,
+                                        702,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": " 坐标链接至 Fit Line 工具输入参数的 "
+                                },
+                                {
+                                    "bbox": [
+                                        13,
+                                        127,
+                                        702,
+                                        267
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(x, y)"
+                                },
+                                {
+                                    "bbox": [
+                                        13,
+                                        127,
+                                        702,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": " 坐标。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        18,
+                        277,
+                        152,
+                        308
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                277,
+                                152,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        277,
+                                        152,
+                                        308
+                                    ],
+                                    "type": "text",
+                                    "content": ">忽略点数"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        14,
+                        325,
+                        698,
+                        380
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                325,
+                                698,
+                                380
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        325,
+                                        698,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "使用忽略点数文本框指定 Fit Line 工具在计算最佳拟合线时可忽略的输入点数。在确定要忽略的点时，Fit Line"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        13,
+                        389,
+                        693,
+                        444
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                13,
+                                389,
+                                693,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        389,
+                                        693,
+                                        444
+                                    ],
+                                    "type": "text",
+                                    "content": "工具会考虑所有可能的子集并保留可能得分最高的集，在此处需注意，值越大，工具需要的执行时间越长。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        39,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                39,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        39,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        24,
+                        516,
+                        31,
+                        525
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                516,
+                                31,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        516,
+                                        31,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "5"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        38,
+                        515,
+                        133,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                38,
+                                515,
+                                133,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        515,
+                                        133,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        615,
+                        515,
+                        705,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                615,
+                                515,
+                                705,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        615,
+                                        515,
+                                        705,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        51,
+                        29,
+                        213,
+                        63
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                29,
+                                213,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        29,
+                                        213,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "结果选项卡"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        5,
+                        153,
+                        707,
+                        386
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                5,
+                                153,
+                                707,
+                                386
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        5,
+                                        153,
+                                        707,
+                                        386
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                5,
+                                                153,
+                                                707,
+                                                386
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>区域</td><td>说明</td></tr><tr><td>线</td><td>显示输入图像的坐标空间以及线条的中心点和旋转角度。</td></tr><tr><td>RMS 误差</td><td>显示线条拟合的 RMS 误差</td></tr><tr><td>点</td><td>显示每个输入点的以下信息：\n· 输入点是否用于计算最佳拟合线条\n· 从点到线条的距离\n· (x, y) 坐标</td></tr></table>",
+                                            "image_path": "c924d733f0ee9a3c4935a9f7b319edb6c8b5ef12538af3acd94b9b768b76f7ee.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        66
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        25,
+                        516,
+                        31,
+                        525
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                516,
+                                31,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        516,
+                                        31,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "6"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        38,
+                        515,
+                        134,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                38,
+                                515,
+                                134,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        515,
+                                        134,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        185,
+                        176,
+                        426,
+                        225
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                185,
+                                176,
+                                426,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        185,
+                                        176,
+                                        426,
+                                        225
+                                    ],
+                                    "type": "text",
+                                    "content": "Thank you."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        24,
+                        516,
+                        33,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                516,
+                                33,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        516,
+                                        33,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "7"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        38,
+                        515,
+                        134,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                38,
+                                515,
+                                134,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        515,
+                                        134,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        705,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                705,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        705,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 6
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "2.7.6"
+}

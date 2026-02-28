@@ -1,0 +1,5387 @@
+[
+    {
+        "type": "text",
+        "text": "Framework& MachineSupport ",
+        "text_level": 1,
+        "bbox": [
+            46,
+            218,
+            374,
+            379
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C ",
+        "bbox": [
+            681,
+            68,
+            883,
+            346
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 G ",
+        "bbox": [
+            626,
+            385,
+            939,
+            551
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "N E X ",
+        "bbox": [
+            626,
+            588,
+            939,
+            666
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2020 ",
+        "bbox": [
+            626,
+            716,
+            939,
+            792
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2023/4/21 ",
+        "bbox": [
+            54,
+            781,
+            148,
+            814
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PERFECTING VISION ",
+        "bbox": [
+            626,
+            905,
+            937,
+            933
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "L3-->L4 Training --The second Part ",
+        "text_level": 1,
+        "bbox": [
+            54,
+            59,
+            608,
+            124
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/805fd2e15fbc51d74ed8d9929ddf29ee28921d578c15a91b8ffbf7519f4f9d59.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>分类</td><td>课程</td><td>培训内容</td><td>课堂</td><td>责任人</td></tr><tr><td>Vision Basic</td><td>1.视觉项目评估</td><td>整体视觉项目评估方案,相机,镜头,光源</td><td>0</td><td></td></tr><tr><td rowspan=\"5\">Vision Tools Script</td><td>1.Vision Pro 脚本的编写 &amp; 脚本调试</td><td></td><td rowspan=\"3\">1</td><td rowspan=\"3\">建鹏</td></tr><tr><td>2.工具的调用及其参数的输入输出</td><td>工具的调用及其参数的输入输出</td></tr><tr><td>3.VPP界面显示(Inspection输入输出的介绍)</td><td>VPP界面显示(Inspection输入输出)</td></tr><tr><td>4.Vision Tools Script Demo 1</td><td>练习 Vision Tools Script</td><td>1</td><td>甲文</td></tr><tr><td>5.Vision Tools Script Demo 2</td><td>练习 Vision Tools Script</td><td>1</td><td>雷过</td></tr><tr><td rowspan=\"13\">Framework</td><td>1.Framework 框架介绍</td><td>Framework 框架介绍</td><td rowspan=\"4\">1</td><td rowspan=\"4\">锦涛</td></tr><tr><td>2.创建一个新的 MachineSupport</td><td>项目启动,创建一个空的 machinesupport。</td></tr><tr><td>3.相机调用</td><td>相机的设置调用等</td></tr><tr><td>4.标定及 inspection 模块</td><td>标定及 Inspection 的添加,功能设置等</td></tr><tr><td>5.IMachineSupport 接口主要函数介绍</td><td>MS 中最重要的,要用户实现的接口介绍</td><td rowspan=\"2\">1</td><td rowspan=\"2\">建军</td></tr><tr><td>6.其他 Framework 中主要函数介绍</td><td>其他常用的 Framework 函数讲解</td></tr><tr><td rowspan=\"3\">7.通讯模块</td><td>控制 inspection 输入输出</td><td rowspan=\"6\">1</td><td rowspan=\"6\">认证</td></tr><tr><td>控制对应 Inspection 运行</td></tr><tr><td>与 SI 通讯的建立,按照 SI 指令运行 inspection,获取结果,发送坐标等结果到 SI。</td></tr><tr><td>8.Vpp 间数据传输介绍</td><td>跨 vpp 数据分享及传递</td></tr><tr><td>9.MachineSupport 自定义窗口的添加</td><td>项目自定义窗体的添加和设计。</td></tr><tr><td>10.存图模块</td><td>项目存图逻辑如 Group 模块。</td></tr><tr><td>11.从 0 开始搭建一个简单的三相机对位项目。</td><td>综合演练</td><td>1</td><td>黄海</td></tr></table>",
+        "bbox": [
+            47,
+            172,
+            873,
+            877
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            34,
+            966,
+            38,
+            985
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "© 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            187,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            57,
+            377,
+            120
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbedfb8224d91d57d8f3536ecfd567f7b3960f07ad5e3c75bed1045d919b6e24.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            15,
+            188,
+            547,
+            900
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Framework 是一个视觉服务器，是 VisionPro，机械手对位和检测设备之间的桥梁。主要包括以下功能：",
+        "bbox": [
+            545,
+            222,
+            936,
+            355
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- 获取图像",
+            "- 自动标定",
+            "- 运行inspection的toolblocks ",
+            "- 与光源控制器对接",
+            "- 设置跟机台主控程序通讯的 TCP/IP 或者串口",
+            "显示 Log 信息",
+            "- 呈现 inspection 结果给用户",
+            "- 保存图片",
+            "Offline 模拟 "
+        ],
+        "bbox": [
+            549,
+            396,
+            944,
+            811
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            34,
+            966,
+            38,
+            985
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "© 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            53,
+            379,
+            116
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Framework 文件分布如下：",
+        "text_level": 1,
+        "bbox": [
+            52,
+            146,
+            282,
+            183
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9afce9e9fced20e079686808c14da94e9dd44d101b7753a2b9fc5b004243ebfe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            56,
+            201,
+            840,
+            927
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            34,
+            966,
+            41,
+            985
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "© 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            187,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            54,
+            57,
+            377,
+            120
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b8f6d1289dcd8cd6dc1c65e97e3b7c228f2e1d4163e4bc786f455508d12cc6e.jpg",
+        "image_caption": [
+            "Framework 界面介绍："
+        ],
+        "image_footnote": [],
+        "bbox": [
+            47,
+            292,
+            733,
+            729
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            34,
+            966,
+            38,
+            983
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "© 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            47,
+            64,
+            372,
+            129
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Framework 界面介绍：",
+        "bbox": [
+            47,
+            179,
+            242,
+            218
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ea733667c9ad4f65e7e32f0134a12ead6be3df0be17fa0ed8cea9e2d9b88d2a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            140,
+            303,
+            612,
+            509
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/05934415b2a724aa6994bc9ae2b30b8a861e31aa1af9bc2d495598ee024cdb27.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            38,
+            529,
+            629,
+            905
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            35,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "© 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            54,
+            57,
+            377,
+            120
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Framework 界面介绍：",
+        "bbox": [
+            50,
+            274,
+            242,
+            312
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0a86b93a5184d12f1e9fae59e2f4d8f17ebe5eb75a2e3adee4c2062c8ea207c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            50,
+            403,
+            815,
+            851
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7 ",
+        "bbox": [
+            34,
+            966,
+            38,
+            983
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "© 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            27,
+            352,
+            83
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Framework 界面介绍：工具栏",
+        "bbox": [
+            56,
+            101,
+            313,
+            140
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/53ddb9731e14fdf811bf51447caf768e83552594f09bb73441d9883f4c68ce69.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            457,
+            88,
+            470,
+            114
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Run ",
+        "bbox": [
+            471,
+            92,
+            494,
+            111
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Camera ",
+        "bbox": [
+            505,
+            92,
+            555,
+            112
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e4a32332bd4053dc1d6295ef337983eb9ae08dc125ead1f0f264f4bcb074394.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            567,
+            92,
+            580,
+            112
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Calibration ",
+        "bbox": [
+            581,
+            92,
+            632,
+            111
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5bfcf072c3f774f3ac52c340abca0ac8e2a7166965819e155d2385c1725b8c8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            641,
+            92,
+            654,
+            112
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Inspection ",
+        "bbox": [
+            655,
+            92,
+            708,
+            112
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbaea6a8c96066d399ed261c32462ce44ab897791967ddf61059bee536f94437.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            719,
+            90,
+            733,
+            112
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Tools ",
+        "bbox": [
+            735,
+            92,
+            761,
+            112
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/199704efc1944a682ab2e8379861e8d63d8e1b745dce14d6c8676c200b2b5754.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            772,
+            92,
+            785,
+            112
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "bbox": [
+            786,
+            92,
+            826,
+            112
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Run: 控制系统 Offline/Online",
+        "bbox": [
+            184,
+            205,
+            387,
+            235
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f624b58072bce9dd51ca33a5e4045c4a8fad315642910b2d113eeab8da896e0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            396,
+            155,
+            482,
+            261
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Camera: 设置相机 IP 和其他参",
+        "bbox": [
+            184,
+            303,
+            392,
+            333
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/91ffdf5bcdf981c3b6d19646f2ea6ab3aff556d555bcbd48259165f369e4eb6b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            185,
+            335,
+            202,
+            364
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/98e98aa46e50566a044693b54d9aa9b52c2c61ad019ff9b745ec763817b91ee8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            188,
+            359,
+            525,
+            546
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a897629be7a81952f3f114fbc0d28e57c88cba2a9bb9dd41d3205d96c764675.jpg",
+        "image_caption": [
+            "Camera 1 Settings ",
+            "Camera Live Mode "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            561,
+            251,
+            752,
+            679
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Start Live ",
+        "bbox": [
+            765,
+            285,
+            795,
+            296
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Exposure Time: ",
+        "bbox": [
+            823,
+            285,
+            864,
+            296
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0f7e1d21ce59f9dbbbaf5665411bd506248380027cb62aa37bbf4ec11b180b7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            755,
+            301,
+            869,
+            677
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- Camera Type : AreaScanGigE( 面阵相机 )",
+            "DisplacementSensor(位移传感器) ",
+            "Other:USB 3.0 相机",
+            "- GigE Settings: IP Address & Bandwidth(带宽) ",
+            "- Camera Settings: Brightness(亮度), Contrast(对比度), Timeout(超时), Trigger Mode(触发模式：软 or 硬触发), Hardware Trigger Polarity(触发时是低电平 -> 高电平 or 高电平 -> 低电平); line debounce time: 线消抖时间，去除杂乱干扰信号抖动 Trigger Delay Abs: 触发延迟时间",
+            "- Flip Rotate: 图像旋转翻转 ",
+            "- Revert：恢复初始化",
+            "Edit AcqFifo：编辑取相工具（注意：不会保存）"
+        ],
+        "bbox": [
+            155,
+            575,
+            741,
+            929
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/174e684ed9db3a06c46a107f94eff78b4947035842912beea941fb565726b401.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            759,
+            688,
+            952,
+            901
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8 ",
+        "bbox": [
+            37,
+            955,
+            43,
+            970
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            69,
+            953,
+            169,
+            972
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            27,
+            353,
+            83
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Framework 界面介绍：工具栏",
+        "bbox": [
+            56,
+            101,
+            313,
+            138
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa6849c74cd7e3e2b07167d58d9977d4c064ba4144bd7e434620da8fb4da34fc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            458,
+            90,
+            470,
+            114
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Run ",
+        "bbox": [
+            471,
+            92,
+            494,
+            112
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bb9bb297c3e1935ed6e72b5fa4bff9ff788055200ba1c9564eb9cf843558b0d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            92,
+            514,
+            112
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Camera ",
+        "bbox": [
+            516,
+            92,
+            555,
+            112
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b8966513d4e88ed37b3db1000aba011db8be5cc0166be04b76a2ac5f90624e0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            567,
+            90,
+            580,
+            112
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Calibration ",
+        "bbox": [
+            581,
+            90,
+            633,
+            112
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/881d1eac22c0b36c6a6bf212fd8f5db7c95d80fc9b138e49801f04143d086c70.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            641,
+            90,
+            654,
+            114
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Inspection ",
+        "bbox": [
+            656,
+            90,
+            708,
+            114
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/614c0d1ab6da1f2f4a780946fbe327fdf6b39d3ece0d2108c15c7bd8769ccbf7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            719,
+            90,
+            733,
+            114
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tools ",
+        "bbox": [
+            735,
+            90,
+            761,
+            112
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5588865f549a41a7412333ae6f897f33c20db29e3b75083422bf8d81db6132c4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            772,
+            90,
+            785,
+            114
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "bbox": [
+            787,
+            90,
+            826,
+            114
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Calibration: 标定 ",
+        "text_level": 1,
+        "bbox": [
+            184,
+            192,
+            302,
+            222
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/15093a8ccb6911b1d61a2799c3929d701864509500f94a872878c842326d69a9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            161,
+            246,
+            429,
+            381
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- Acquisition Setup: 标定的相机取相设置 ",
+            "- Edit ToolBlock: 编辑 VPP(具体后面章节会讲)",
+            "- Autocalibration Settings: 自动标定设置"
+        ],
+        "bbox": [
+            485,
+            255,
+            790,
+            385
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb83ede6447669c6b9a79702e669511ab4e94b507b9ed7ab8bb3e5fb442ad701.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            161,
+            418,
+            405,
+            857
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Camera Motion, 如左图: ",
+        "text_level": 1,
+        "bbox": [
+            417,
+            481,
+            600,
+            512
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- Passthrough：系统不进行标定或者不在 calibration 内进行标定。为采集的图像已经含有标定信息的位移传感器或其他采图设备使用。",
+            "StaticPose: 相机静止，常规的 9 点标定 /11 点标定等 /Chardboard 标定",
+            "- MovingCameraXYTheta: 标定块不动，相机运动标定",
+            "- MovingCameraXYThetaInverse: 建立相对坐标系而使用 $(\\star)$ 。"
+        ],
+        "bbox": [
+            412,
+            538,
+            828,
+            738
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            54,
+            120
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 ",
+        "bbox": [
+            37,
+            955,
+            45,
+            970
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            69,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            27,
+            352,
+            83
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Framework 界面介绍：工具栏",
+        "bbox": [
+            56,
+            101,
+            313,
+            140
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/eda64f1cead17951a3429eaa51641dcb717747e6f5e24e5c45bc490435d243fc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            458,
+            90,
+            470,
+            114
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Run ",
+        "bbox": [
+            471,
+            92,
+            494,
+            111
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f6fba22ce7c34b72b3d8de8e95f1714e31ec20bc889e156a484f2c6707c6238.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            92,
+            514,
+            112
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Camera ",
+        "bbox": [
+            516,
+            92,
+            556,
+            112
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a937d54b45884f60e8f6e37a993d7f61ac0947f2710f8f8cde6a4a17b255f435.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            567,
+            90,
+            580,
+            112
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Calibration ",
+        "bbox": [
+            581,
+            92,
+            633,
+            111
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b96c934362e0e30a27da7433589cfe138c72f07f2f22c543428c08bdd6fc85fc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            642,
+            90,
+            655,
+            114
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Inspection ",
+        "bbox": [
+            657,
+            92,
+            709,
+            112
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/09905c11809cc125ab445ed54b9ff2d9a387579e7a1cbd889ccb6f1c9774e47c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            718,
+            90,
+            732,
+            114
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Tools ",
+        "bbox": [
+            735,
+            92,
+            761,
+            112
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/07f37df3193aca95909b8bcc0298782e92733b54bffa6a164093bb510abae7d8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            772,
+            90,
+            785,
+            112
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "bbox": [
+            787,
+            92,
+            826,
+            114
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/307d99afa14a94f0410af713d4d591affbc2d880dfce12edfc5dab1b6e3495b5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            159,
+            248,
+            383,
+            646
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RotationAndTranslation  \nRotationAndTranslation  \nRotationOnly  \nTranslationOnly1Axes  \nTranslationOnly2Axes ",
+        "bbox": [
+            233,
+            687,
+            330,
+            772
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "Physical Configuration: 默认值 0 ",
+            "- Distortion Model: 扭曲模式，此项一般选择 OneParamRadial 模式，如",
+            "- 果是真远心镜头可以选择 Telecentric 模式。",
+            "- Degrees of Freedom: 角度自由度, 分为 RotationAndTranslation(XYTheta),",
+            "- RotationOnly(OnlyTheta),TranslationOnly1Axis(Only1Axis),TranslationOnly2Axes(OnlyXY),11点标定使用",
+            "- RotationAndTranslation，9点标定使用TranslationOnly2Axes。其他两项很少使用。",
+            "- Calibration Plate Mylar 标定板规格，按照实际使用的填写，否则会导致标定的坐标系异常",
+            "- Minimum Rotation: 最小旋转角度, 最小为 5 度, 否则计算不准确。",
+            "- Align Home2D to Motion2D at Image Center: 默认不勾选。 "
+        ],
+        "bbox": [
+            393,
+            329,
+            816,
+            683
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            27,
+            352,
+            83
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Framework 界面介绍：工具栏",
+        "bbox": [
+            56,
+            101,
+            313,
+            140
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb40001d05cdb5924d788cd39a9e4793fba3e7241e224a52b8311786c2950c01.jpg",
+        "image_caption": [
+            "Inspection "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            96,
+            188,
+            386,
+            364
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Inspection 1 Settings ",
+        "bbox": [
+            43,
+            392,
+            116,
+            412
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc754e5a237cbe659a12cf0af7df0ddd227c793fad10478f15a0f095d4720e5c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            38,
+            418,
+            494,
+            809
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0120e21fdbfad5483300873756d85eb6ac1cfbfc032f081c46959ebf8ab92be.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            458,
+            90,
+            470,
+            114
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Run ",
+        "bbox": [
+            471,
+            92,
+            494,
+            111
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ecf0061fd55b31827566f866aa86475fcceca7509791f58da030f257e369efe1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            92,
+            514,
+            112
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Camera ",
+        "bbox": [
+            516,
+            92,
+            555,
+            111
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/68d8451afa60212d3a2f3afeafb9cc3e69115603d552300a773785717949b59f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            567,
+            90,
+            580,
+            112
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Calibration ",
+        "bbox": [
+            581,
+            90,
+            633,
+            112
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/b43e05b73a1a3bf68001bb89e691c629d1a69a677eef6a3645884029c6a3f861.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            639,
+            90,
+            652,
+            114
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Inspection ",
+        "bbox": [
+            654,
+            92,
+            708,
+            114
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b91727360d9b842d2ea483ddf7761850f69fe545d9d16e646c70ce6612a7faf.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            720,
+            90,
+            733,
+            114
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Tools ",
+        "bbox": [
+            735,
+            92,
+            761,
+            112
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcae33db766de55c6c6dc5867a3357909ba44a0819ddf613406e861b1258d85a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            772,
+            90,
+            785,
+            112
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "bbox": [
+            787,
+            92,
+            826,
+            114
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Inspection: ",
+        "bbox": [
+            511,
+            240,
+            590,
+            270
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acquisition Setup: 正常拍照的相机取相设置 EditToolBlock: Inspection_VPP 编辑",
+        "bbox": [
+            509,
+            287,
+            787,
+            355
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/603e57b69c2551f45633e65b668e895f53468276f19105e1c92b8756430bb0d5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            480,
+            392,
+            492,
+            414
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Inspection Settings _ Record Displays ",
+        "bbox": [
+            509,
+            392,
+            767,
+            424
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Show Record: 选择 Inspection_VPP 某个工具的图像，仅保存 / 显示在 Play1 等上 Add Record：增加 Show Record 项。",
+        "bbox": [
+            509,
+            429,
+            803,
+            525
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "11 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            972
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            953,
+            169,
+            972
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            27,
+            353,
+            83
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Framework 界面介绍：工具栏",
+        "bbox": [
+            56,
+            101,
+            313,
+            140
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Tool ",
+        "text_level": 1,
+        "bbox": [
+            205,
+            231,
+            239,
+            261
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\mathcal{A}$ Tools ",
+        "bbox": [
+            100,
+            281,
+            145,
+            311
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/19f29d966b10cc94053c0c0b885ea72aa4887f7e4e17040dc389c0e3180fa502.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            156,
+            288,
+            171,
+            309
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "bbox": [
+            173,
+            288,
+            213,
+            311
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CustomTool ",
+        "bbox": [
+            228,
+            288,
+            296,
+            309
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "S ",
+        "bbox": [
+            307,
+            288,
+            316,
+            307
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Camera Setup Tool... ",
+        "bbox": [
+            128,
+            327,
+            224,
+            350
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Calibration Info... ",
+        "bbox": [
+            128,
+            357,
+            207,
+            377
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Change Calibration Tools... ",
+        "bbox": [
+            128,
+            396,
+            252,
+            418
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Edit Autocal Template Tool... ",
+        "bbox": [
+            128,
+            427,
+            258,
+            450
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Motion Error Visualizer... ",
+        "bbox": [
+            128,
+            457,
+            242,
+            477
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Reset Autocal Calibration Scripts... ",
+        "bbox": [
+            128,
+            487,
+            285,
+            511
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Force All Tools to Release Mode... ",
+        "bbox": [
+            128,
+            518,
+            285,
+            540
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ReLoad All Inspections... ",
+        "bbox": [
+            128,
+            550,
+            240,
+            572
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Reduce Inspection Tool Size... ",
+        "bbox": [
+            128,
+            579,
+            264,
+            601
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Run Image Cleanup Now ",
+        "bbox": [
+            128,
+            618,
+            242,
+            640
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Generate Cycle Time Report... ",
+        "bbox": [
+            128,
+            657,
+            265,
+            681
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Convert VPBs to Bitmaps...",
+        "bbox": [
+            128,
+            688,
+            249,
+            709
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Version Information... ",
+        "bbox": [
+            128,
+            718,
+            226,
+            738
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Image Playback ",
+        "bbox": [
+            128,
+            757,
+            202,
+            779
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ecb9a02b3d33530fcc2f8b061ad81e2fb4b39fdc0a88e2c4a2e7d977cb2295b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            458,
+            90,
+            473,
+            114
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Run ",
+        "bbox": [
+            473,
+            92,
+            493,
+            112
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/8663b2f8a2ba04744a33b3cf4cef1b8c1f8643d8b67f64ecb3e7b186be245648.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            92,
+            518,
+            111
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Camera ",
+        "bbox": [
+            519,
+            92,
+            555,
+            109
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/520e69952dcd2f43ffb99d70298bb6878f39e40af10332fa7d104b37159126fd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            566,
+            90,
+            581,
+            112
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Calibration ",
+        "bbox": [
+            582,
+            92,
+            632,
+            112
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/02f54da32db758318b2727ff9a496b580a4bda95b8e8ebdc9405ed93ca39e560.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            642,
+            90,
+            657,
+            112
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Inspection ",
+        "bbox": [
+            659,
+            92,
+            708,
+            112
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6f7fa11204a8ddfe98eaa79dd128fe02e8a734dd3cfeb6e2e082ea90dd4a1d5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            718,
+            90,
+            734,
+            114
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Tools ",
+        "bbox": [
+            735,
+            92,
+            761,
+            111
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/21b2d623a75e9dd5d880db52e016ddbd33a117da6d221793e66b549495a9eee1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            772,
+            92,
+            787,
+            112
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "bbox": [
+            788,
+            92,
+            826,
+            114
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- Camera Setup Tool: 相机设置工具，MP 架线保持相机的一致性",
+            "- Calibration info: 可以查看标定结果信息",
+            "- Change Calibration Tools: 更改标定工具 (*)",
+            "- Edit Autocal Template Tool: 更改自动标定工具 (*)",
+            "- Motion ErrorVisualizer: 分析机构误差",
+            "- Reset Autocal Calibration Scripts: 还原自动标定脚本 (*)",
+            "- Force All Tools to Release Mode: 强制所有工具到 Release 模式",
+            "- Reduce Inspection ToolSize: 减小 Inspection 工具尺寸 ",
+            "- Reload All Inspection: 重新加载所有 Inspection",
+            "- RunImage Cleanup Now: 清理图片",
+            "- Generate Cycle Time Report: CT 报告 (+ machinesupport 实现) ",
+            "- Convert VPBs to Bitmaps: 转换 VPB(CGA -> VPB) 文件为 Bitmap",
+            "- Version information: 版本信息",
+            "- Image Playback: 仿图工具"
+        ],
+        "bbox": [
+            432,
+            305,
+            831,
+            761
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            54,
+            120
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12 ",
+        "bbox": [
+            33,
+            955,
+            45,
+            972
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            69,
+            953,
+            169,
+            972
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "text_level": 1,
+        "bbox": [
+            233,
+            168,
+            291,
+            200
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/79e63d6f1e11924c68b7d1111ec41ef30d8a3e1ed1797c097f3c70e5be3d9b14.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            165,
+            212,
+            333,
+            551
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• Language(语言): 系统界面语言设置 (中/英/日/韩…)",
+            "- Data Save Settings：数据保存设定",
+            "- Image Save Settings: 图片保存设置",
+            "- Image Cleanup Settings: 图片删除设定",
+            "- Image File Name Settings: 文件名设置",
+            "Light Controller Setup: 光源控制器设置",
+            "- Light Controller Intensity: 光源控制器通道 / 灵敏度设置",
+            "- Server Communication: 系统服务器设置 ",
+            "- Vision System Setup: 视觉系统设置 ",
+            "AssemblyPlus Settings: 框架设置 ",
+            "ProductManagement: 产品管理"
+        ],
+        "bbox": [
+            159,
+            588,
+            525,
+            901
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/42ad9c46cb7fab7f335f3f7da6d2a02285f110c5d067daae1301ed6e274300ba.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            458,
+            90,
+            470,
+            112
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Run ",
+        "bbox": [
+            471,
+            92,
+            493,
+            111
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/b71d7b8a45372f78b4a87651009d6f93f0c97e308a3847d8ed292976a6efdc3f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            503,
+            92,
+            515,
+            111
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Camera ",
+        "bbox": [
+            516,
+            92,
+            555,
+            112
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfbc31ba71189051b18da8d4037324eef38ef81705861813ba164d6788e524e5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            567,
+            90,
+            579,
+            112
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Calibration ",
+        "bbox": [
+            580,
+            92,
+            632,
+            112
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c1342a0d2222fff181485ca6d2b82f4e37069f0833b78108bf62266ce2e169e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            642,
+            90,
+            654,
+            112
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Inspection ",
+        "bbox": [
+            655,
+            92,
+            706,
+            112
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/18c719fd2dc4f1babc0ed4e8629ed269eadcedad8ee3a5f942b7d88c6da043f0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            719,
+            90,
+            732,
+            112
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Tools ",
+        "bbox": [
+            733,
+            92,
+            761,
+            112
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "bbox": [
+            779,
+            92,
+            826,
+            114
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Image Save ",
+        "text_level": 1,
+        "bbox": [
+            564,
+            157,
+            661,
+            194
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Settings : ",
+        "text_level": 1,
+        "bbox": [
+            565,
+            196,
+            643,
+            225
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f20f7410eb81446c5407b68bbc230809840f5e87f604ad955339a25c3a5c863.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            573,
+            225,
+            836,
+            696
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            54,
+            120
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "Framework 框架介绍 ",
+        "bbox": [
+            62,
+            27,
+            352,
+            83
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "Framework 界面介绍：工具栏",
+        "bbox": [
+            55,
+            96,
+            312,
+            133
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "13 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            972
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Framework 界面介绍：工具栏",
+        "text_level": 1,
+        "bbox": [
+            56,
+            101,
+            313,
+            138
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/54a31322a29e83a2afa3bc36bd0322228c7d9ea9527aecf38f1362a0c5f050dc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            458,
+            90,
+            470,
+            114
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Run ",
+        "bbox": [
+            471,
+            92,
+            494,
+            112
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/2627320eca6896d264150c163c2f7f296eb2ac8040a5a3116199ac87148543d6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            92,
+            514,
+            114
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Camera ",
+        "bbox": [
+            516,
+            92,
+            556,
+            112
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/12cdf11cae39ac56da5784a63ef32713381e41672628ee02b2dfbe051ff9b98a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            565,
+            90,
+            579,
+            114
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Calibration ",
+        "bbox": [
+            580,
+            92,
+            632,
+            112
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcb7d93fa4fb9356e925101f3e5cc12ef955f55639bf13083b8e7d6fdde5d463.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            641,
+            90,
+            654,
+            114
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Inspection ",
+        "bbox": [
+            656,
+            92,
+            706,
+            112
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/24e395dc840a350ecdab89701f9352552fe9152935806dbb7a2a3115b194d10e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            719,
+            90,
+            733,
+            114
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Tools ",
+        "bbox": [
+            735,
+            92,
+            761,
+            112
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "bbox": [
+            779,
+            92,
+            826,
+            114
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Image File Name ",
+        "text_level": 1,
+        "bbox": [
+            161,
+            168,
+            300,
+            203
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Settings : ",
+        "text_level": 1,
+        "bbox": [
+            162,
+            205,
+            241,
+            235
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "当framework运行时多线程保存图",
+        "bbox": [
+            162,
+            231,
+            399,
+            259
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "片",
+        "bbox": [
+            163,
+            262,
+            178,
+            290
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Image File Name Settings ",
+        "bbox": [
+            163,
+            288,
+            224,
+            300
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Image File Path ",
+        "bbox": [
+            163,
+            305,
+            203,
+            320
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Raw Format ",
+        "bbox": [
+            185,
+            325,
+            217,
+            337
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "{0:yyyyMMdd}},{3}},{1},{2},{HHmmssff},{4},{D3},{6},{7} ",
+        "bbox": [
+            222,
+            325,
+            331,
+            338
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Raw Preview ",
+        "bbox": [
+            182,
+            344,
+            217,
+            355
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "20190408\\Pickup\\PartNameABC141812752_003_ABCDEFG123456_Accept.bmp ",
+        "bbox": [
+            222,
+            344,
+            396,
+            357
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Annotated Format ",
+        "bbox": [
+            169,
+            368,
+            217,
+            379
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "{0:yyyyMMdd}},{3}},{1},{2},{HHmmssff},{4},{D3},{6},{7} ",
+        "bbox": [
+            222,
+            368,
+            331,
+            381
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Annotated Preview ",
+        "bbox": [
+            167,
+            385,
+            217,
+            396
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "20190408(Pickup)PartNameABC141812752_003_ABCDEFG123456_Accept.jpg ",
+        "bbox": [
+            221,
+            385,
+            393,
+            400
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Parameters ",
+        "bbox": [
+            185,
+            405,
+            217,
+            416
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "0 = (DateTime) Part creation time ",
+        "bbox": [
+            222,
+            407,
+            293,
+            416
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1 = (String) Part name (Inspection name if no part was specified) ",
+        "bbox": [
+            222,
+            418,
+            358,
+            429
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2 = (DateTime) Image acquire time ",
+        "bbox": [
+            222,
+            429,
+            297,
+            438
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3 - (String) Inspection name ",
+        "bbox": [
+            222,
+            440,
+            281,
+            450
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4 = (int) Injection input ID ",
+        "bbox": [
+            222,
+            450,
+            273,
+            459
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$5 =$ (String) \"ImageID\" inspection tool output terminal ",
+        "bbox": [
+            222,
+            461,
+            333,
+            472
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$6 =$ (String) \"ImageID\", with an underscore prepended, if \"ImageID\" exists ",
+        "bbox": [
+            222,
+            472,
+            377,
+            483
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "7 = (String) RunStatus (Unknown, Accept, Warning, Reject, Error) ",
+        "bbox": [
+            222,
+            483,
+            360,
+            494
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8 = (String) Inspection result status (OK, NG) ",
+        "bbox": [
+            222,
+            494,
+            315,
+            505
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "9 = (String) First manual grading defect nan ",
+        "bbox": [
+            222,
+            505,
+            313,
+            516
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "10 = (String) Comma separated manual grading defect names ",
+        "bbox": [
+            222,
+            516,
+            354,
+            527
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "11 = (String) Manual grading comment ",
+        "bbox": [
+            222,
+            527,
+            305,
+            538
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Part Name ",
+        "bbox": [
+            167,
+            550,
+            193,
+            561
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb274e91dcc93fe92571cafb43e87d22bbc88bfd876f8e6fe8901e9b6130032e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            197,
+            570,
+            208,
+            583
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e9dbccb907ef245e8041dfe6a3d126923d2078d2f189e79903f2d3e7aec59c1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            211,
+            570,
+            228,
+            583
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Preview: PartNameABC ",
+        "bbox": [
+            194,
+            590,
+            255,
+            601
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Parameters ",
+        "bbox": [
+            186,
+            609,
+            217,
+            620
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "0 = (String) Specified Part Name ",
+        "bbox": [
+            221,
+            609,
+            291,
+            620
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1 = (DateTime) Part creation time ",
+        "bbox": [
+            222,
+            622,
+            294,
+            631
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2 = (UInt64) PartUID ",
+        "bbox": [
+            222,
+            631,
+            265,
+            644
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Revert ",
+        "bbox": [
+            173,
+            664,
+            190,
+            677
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Default ",
+        "bbox": [
+            209,
+            664,
+            228,
+            675
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "File name strings are formatted using String.Format... ",
+        "bbox": [
+            241,
+            659,
+            359,
+            670
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "See the MSDN documentation for more details. ",
+        "bbox": [
+            241,
+            670,
+            344,
+            681
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "OK ",
+        "bbox": [
+            388,
+            666,
+            398,
+            677
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cancel ",
+        "bbox": [
+            417,
+            664,
+            435,
+            677
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\left\\{  {1,2,3}\\right\\}   \\Rightarrow  \\;\\left\\{  {1,3,4}\\right\\}   \\Rightarrow  \\left\\{  {2,3,4}\\right\\}   \\Rightarrow  \\left\\{  {3,4,5}\\right\\}   \\Rightarrow  \\left\\{  {4,5,6}\\right\\}   \\Rightarrow  \\left\\{  {5,6}\\right\\}   \\Rightarrow  \\left\\{  {6,7}\\right\\}   \\Rightarrow  \\left\\{  {7,8}\\right\\}   \\Rightarrow  }\\right.$ ",
+        "bbox": [
+            435,
+            664,
+            443,
+            677
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Parameters: ",
+        "text_level": 1,
+        "bbox": [
+            449,
+            235,
+            534,
+            264
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "0：创建时间 yyyyMMdd",
+            "• 1:Partn赫的名字，由 Machinesupport传入（很多情况为SN)"
+        ],
+        "bbox": [
+            453,
+            307,
+            812,
+            418
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "• ②Part 创建时间_yyyyMMdd",
+        "bbox": [
+            481,
+            420,
+            674,
+            450
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- 2: 图像采集时间可以自己测试)",
+            "3:Inspection名字",
+            "4: Inspection 的 input_ID",
+            "- 5:Inspection 输出中的 ImageID",
+            "- 6:Inspection 输出中的 ImageID 如果存在，用下划线强调",
+            "- 7:VPP)_RunStatus 状态 (String) ",
+            "8:Inspection 结果状态 (String) ",
+            "9: 第一次手动采图缺陷名字 (可以自己测试)",
+            "10: 逗号分隔的手动采图缺陷名字 (可以自己测试)",
+            "11: 手动采图内容 (可以自己测试)"
+        ],
+        "bbox": [
+            465,
+            450,
+            813,
+            761
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            54,
+            120
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "Framework 框架介绍 ",
+        "bbox": [
+            61,
+            27,
+            352,
+            83
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "14 ",
+        "bbox": [
+            33,
+            957,
+            43,
+            972
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            69,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/d75d6ddf95c208b93f2429581d7aafa313894d7f147839c1ba99ebe5d58fba45.jpg",
+        "image_caption": [
+            "Light Controller Setup : "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            166,
+            200,
+            355,
+            487
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/934166d5ae30e7197838b51a8bc85d69b096f32134559386822b4a2aed512e3d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            355,
+            200,
+            543,
+            487
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "设置光源串口/TCP模 ",
+        "bbox": [
+            181,
+            559,
+            310,
+            585
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "式； Serial模式：",
+        "bbox": [
+            181,
+            588,
+            287,
+            614
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "OPT_OPTControllerDemo 软件设置好的串口参数填入上",
+        "bbox": [
+            181,
+            616,
+            513,
+            642
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "图中TCP模式：",
+        "bbox": [
+            181,
+            646,
+            276,
+            670
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "光源的IP地址由OPT_OPTControllerDemo软件设置 ",
+        "bbox": [
+            181,
+            674,
+            496,
+            700
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "OPTControllerDemo 软件设置好的 IP 地址填入上图 TCP",
+        "bbox": [
+            181,
+            701,
+            520,
+            729
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "中",
+        "bbox": [
+            181,
+            731,
+            196,
+            755
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7e71b0ace1c76782268afcb728a49104f37e57891b47fcb2fe794f66448177c.jpg",
+        "image_caption": [
+            "Light Controller Intensity: "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            561,
+            188,
+            823,
+            555
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "设置不同材质各个Inspection光源参",
+        "bbox": [
+            575,
+            583,
+            794,
+            612
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "数；选择对应的材质；",
+        "bbox": [
+            576,
+            612,
+            702,
+            638
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "选择对应的",
+        "bbox": [
+            576,
+            640,
+            644,
+            666
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Inspection ; Intensity ",
+        "bbox": [
+            576,
+            670,
+            722,
+            696
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "数值由0255; ",
+        "bbox": [
+            576,
+            698,
+            657,
+            722
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            54,
+            118
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "Framework 框架介绍 ",
+        "bbox": [
+            64,
+            22,
+            353,
+            77
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "Framework 界面介绍：工具栏",
+        "bbox": [
+            62,
+            81,
+            318,
+            116
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            458,
+            90,
+            470,
+            114
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "Run ",
+        "bbox": [
+            473,
+            92,
+            493,
+            111
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            503,
+            92,
+            513,
+            111
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "Camera ",
+        "bbox": [
+            516,
+            92,
+            555,
+            111
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            567,
+            92,
+            579,
+            112
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "Calibration ",
+        "bbox": [
+            581,
+            92,
+            632,
+            111
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "续表",
+        "bbox": [
+            642,
+            92,
+            654,
+            112
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "Inspection ",
+        "bbox": [
+            657,
+            92,
+            706,
+            112
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            720,
+            92,
+            733,
+            111
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "Tools ",
+        "bbox": [
+            736,
+            92,
+            761,
+            111
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "Settings ",
+        "bbox": [
+            779,
+            92,
+            826,
+            114
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "15 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            972
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            955,
+            978,
+            987
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            27,
+            353,
+            83
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Framework 界面介绍：工具栏",
+        "bbox": [
+            56,
+            101,
+            313,
+            140
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f8819858a09ac6daa21f7d97be5104417338d57fa9093d58a231be31b2b83c6.jpg",
+        "image_caption": [
+            "Server "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            163,
+            190,
+            444,
+            657
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "服务器TCP/Serial设置；",
+        "bbox": [
+            185,
+            750,
+            330,
+            777
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "注意事项下面会有叙述；",
+        "bbox": [
+            186,
+            779,
+            326,
+            805
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6596292acab3dcfef4e71de4779bd2e6adc85ff2a49d0fc371d9d07ff2c3315.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            458,
+            90,
+            470,
+            114
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Run ",
+        "bbox": [
+            471,
+            92,
+            494,
+            111
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/b181a0668251454a2d9fe99fefb604c4f701ad93ee774a082a9bbe8d1e459896.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            92,
+            514,
+            112
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Camera ",
+        "bbox": [
+            516,
+            92,
+            555,
+            111
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/d32f09d9815ef48ceed515ee13a5c642f3c0ee07cd90b90cd27c8970b17892ea.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            565,
+            90,
+            579,
+            112
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Calibration ",
+        "bbox": [
+            580,
+            92,
+            632,
+            111
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/5337a886ac34c2b173885762ddcd95566806a521fe77f66ade1b925ebc220837.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            641,
+            90,
+            654,
+            112
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Inspection ",
+        "bbox": [
+            656,
+            92,
+            706,
+            111
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/197af85067f596213a95dbddfe41c5bf01c752553ec04b52e26deb7e3360bc21.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            719,
+            90,
+            733,
+            112
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Tools ",
+        "bbox": [
+            735,
+            92,
+            761,
+            111
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "bbox": [
+            779,
+            92,
+            826,
+            114
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ee0efa69b5df5fb090b578e603f56af7c3b4a47461f9e3d617b1e02c670a96f.jpg",
+        "image_caption": [
+            "Framework Settings: "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            460,
+            196,
+            763,
+            600
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- Camera IP 也可以在此设置；",
+            "- Calibration 的 Camera Motion 也可以在此设置；",
+            "- Pitch 为 Mylar 规格大小;",
+            "- Inspection 在此命名;",
+            "- 使用鼠标来勾画 Camera/Calibration/Inspection 三者关系;",
+            "通过 $+ -$ 符号可以添加项目/输入/输出;",
+            "- 注意 Camera/Calibration/Inspection 三者的输出可以连几"
+        ],
+        "bbox": [
+            464,
+            612,
+            831,
+            840
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "个其他项的输入，但是三者的输入只能对接其他项的一个输出",
+        "bbox": [
+            485,
+            842,
+            831,
+            894
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            54,
+            120
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "16 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            69,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/a895a48307b7d3aa4fc07ece68dfa60a6f199ffd43ceafb72159b9306c471fbd.jpg",
+        "image_caption": [
+            "Framework Settings: "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            145,
+            196,
+            465,
+            690
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Appearance 外观：",
+        "bbox": [
+            509,
+            218,
+            613,
+            246
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Result Display: 界面显示 Display 数量",
+        "bbox": [
+            511,
+            250,
+            741,
+            277
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Display Layout: 界面 Display 排布方",
+        "bbox": [
+            520,
+            279,
+            740,
+            305
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "式 Default Language: 默认语言",
+        "bbox": [
+            513,
+            307,
+            706,
+            333
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Initial Window Position: 初始化软件位置",
+        "bbox": [
+            513,
+            335,
+            755,
+            361
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Window Size: 软件外观大小",
+        "bbox": [
+            513,
+            362,
+            678,
+            388
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Fit Displays with Graphics: 自适应画面",
+        "bbox": [
+            513,
+            390,
+            745,
+            418
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Show Cycle Time on Displays: 在 Display 显示 CT 时 间 Maximize on Startup: 初始化全屏",
+        "bbox": [
+            513,
+            420,
+            824,
+            475
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Behavior: ",
+        "bbox": [
+            351,
+            716,
+            412,
+            740
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Startup in Online Mode: 开机时 Online 模式",
+        "bbox": [
+            351,
+            746,
+            618,
+            772
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Auto-show Onscreen Keyboard: 自动显示屏幕键盘",
+        "bbox": [
+            351,
+            775,
+            644,
+            827
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Use Hardware Triggers in Simulator: 仿图时 ",
+        "bbox": [
+            351,
+            829,
+            632,
+            859
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "使用硬触发",
+        "bbox": [
+            351,
+            859,
+            420,
+            885
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "Framework 框架介绍 ",
+        "bbox": [
+            63,
+            14,
+            355,
+            72
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "Framework 界面介绍：通讯协议",
+        "bbox": [
+            55,
+            87,
+            332,
+            124
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            458,
+            90,
+            470,
+            114
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "Run ",
+        "bbox": [
+            473,
+            92,
+            493,
+            111
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            502,
+            92,
+            514,
+            109
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "Camera ",
+        "bbox": [
+            516,
+            92,
+            556,
+            111
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            567,
+            90,
+            579,
+            112
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "Calibration ",
+        "bbox": [
+            581,
+            92,
+            632,
+            112
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            641,
+            90,
+            653,
+            112
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "Inspection ",
+        "bbox": [
+            655,
+            92,
+            706,
+            112
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            719,
+            90,
+            732,
+            111
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "Tools ",
+        "bbox": [
+            734,
+            92,
+            762,
+            111
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "Settings ",
+        "bbox": [
+            779,
+            92,
+            826,
+            114
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "17 ",
+        "bbox": [
+            33,
+            957,
+            43,
+            972
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            69,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Framework 框架介绍 ",
+        "text_level": 1,
+        "bbox": [
+            63,
+            14,
+            355,
+            70
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Framework 界面介绍：光源部分",
+        "text_level": 1,
+        "bbox": [
+            56,
+            87,
+            326,
+            124
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/29053edc881b933d30de3be715cb4ae0861a39ea4f68d4f057cfa510486bb4b1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            458,
+            90,
+            470,
+            114
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Run ",
+        "bbox": [
+            471,
+            92,
+            494,
+            111
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/e799b11bee4a75f6bb1c42b50f0c2c03de8afc5194fdaec0b890094e3718e977.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            92,
+            514,
+            111
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Camera ",
+        "bbox": [
+            516,
+            92,
+            556,
+            112
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/b423d35e18cf5d032a8d7edf55f831286f239b9f64c94dd17aafbd7585838541.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            567,
+            90,
+            580,
+            112
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Calibration ",
+        "bbox": [
+            582,
+            92,
+            632,
+            112
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/5655bc845e570f5a22eb98b5de005df194aca6fabf1aa347a276a774c3d79915.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            641,
+            90,
+            654,
+            112
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Inspection ",
+        "bbox": [
+            656,
+            92,
+            706,
+            112
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/f34cbdb9a1a351a8440736870f8d3712dc1283703fea24ba3d3bc2791b4a3032.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            719,
+            90,
+            733,
+            112
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Tools ",
+        "bbox": [
+            735,
+            92,
+            762,
+            112
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Settings ",
+        "bbox": [
+            779,
+            92,
+            826,
+            114
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/8768f4ce2e24d145297f1f0ec2d9a3c714948832e06433f69ed135fde43212c1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            42,
+            279,
+            408,
+            838
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/c94edc841df44405a8b82014de33ecdc19066bcbec4a571ff1f6e0b87cc7ae81.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            417,
+            281,
+            983,
+            859
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "18 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            972
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "创建一个新的 MachineSupport",
+        "text_level": 1,
+        "bbox": [
+            62,
+            59,
+            396,
+            107
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1. 解压一个新的框架升级包，我们以目前最新的 FW3.5.4.6 创建 CognexAssemblyPlus_x64 为例",
+        "bbox": [
+            51,
+            159,
+            367,
+            231
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "20230228 FW_Pack_v3.5.4.6_VPro9.2CR2 ",
+        "bbox": [
+            63,
+            255,
+            263,
+            283
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "20230228 FW_Pack_v3.5.4.6_VPro9.2CR2.7z ",
+        "bbox": [
+            62,
+            287,
+            275,
+            312
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2. 将程序所必须的应用程序和 .dll 文件导出",
+        "bbox": [
+            51,
+            359,
+            332,
+            388
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "Calibrations 2023/2/22 21:53 ",
+            "CameraSetupTools 2023/2/22 21:53 ",
+            "CamSetup 2023/2/22 21:53",
+            "CognexAssemblyPlus_x64 2023/2/28 17:32 ",
+            "CognexAssemblyPlusAndInspectPro... 2023/2/28 17:32 ",
+            "CognexInspectPro_x64 2023/2/28 17:32 ",
+            "DisplayColorMaps 2023/2/22 21:53 ",
+            "Inspections 2021/9/23 15:24 ",
+            "Language 2023/2/28 17:32 ",
+            "Log 2022/9/5 22:05 ",
+            "Plugs 2023/2/22 21:53 ",
+            "Referenced Assemblies 2023/2/22 21:53 ",
+            "x64 2023/2/23 17:09 ",
+            "CommunicationTester.exe 2021/5/13 17:13 ",
+            "UniversalFrameworkUpdater.exe 2023/2/22 21:36 "
+        ],
+        "bbox": [
+            66,
+            412,
+            346,
+            846
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cba0a07f0e085ab58e8c16866b43f6eb0c1d33876adb1f5a5ff3f7d1e616859.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            389,
+            538,
+            483,
+            611
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "Calibrations 2023/2/22 ",
+            "CameraSetupTools 2023/2/22 ",
+            "CamSetup 2023/2/22",
+            "CognexAssemblyPlus_x64 2023/2/28 ",
+            "CognexAssemblyPlusAndInspectPro... 2023/2/28 ",
+            "CognexInspectPro_x64 2023/2/28 ",
+            "DisplayColorMaps 2023/2/22 ",
+            "Inspections 2021/9/23 ",
+            "Language 2023/2/28 ",
+            "Log 2022/9/5 2 ",
+            "Plugs 2023/2/22 ",
+            "ReferencedAssemblies 2023/2/22 ",
+            "x64 2023/2/23 ",
+            "coggsgarbo.dll 2022/1/6 1 ",
+            "Cognex.VisionPro.AlgnPlusCalibratio... 2020/12/17 ",
+            "Cognex.VisionPro.Vs.TexturedRangel... 2020/12/17 ",
+            "Cognex.VPE.AOI.dll 2020/4/14 ",
+            "Cognex.VPE.AOISHadowCamera.dll 2023/2/22 ",
+            "Cognex.VPE.Cami.dll 2020/4/71 ",
+            "Cognex.VPE.CGSnap.dll 2020/4/7 1 ",
+            "Cognex.VPE.Core.dll 2020/12/17 ",
+            "Cognex.VPE.ImageGenerator.Control... 2020/12/1; ",
+            "Cognex.VPE.InspectPro.CVL.dll 2020/12/17 ",
+            "Cognex.VPE.PAMiZ.dll 2020/4/7 1 ",
+            "Cognex.VPE.SBH.dll 2020/4/7 1",
+            "Cognex.VPE.Tools.dll 2020/4/71 ",
+            "Cognex.VSAlignPlusUtilities.dll 2020/12/17 ",
+            "Cognex.VS.Core.dll 2022/1/6 1 ",
+            "Cognex.VS.DSA.Analysis.dll 2023/2/23 ",
+            "Cognex.VS.Dsa.dll 2023/2/25 ",
+            "Cognex.VS.FrameworkCommunicatio... 2023/2/22 ",
+            "Cognex.VS.FrameworkSetup.dll 2023/2/22 ",
+            "Cognex.VS.Garbo.dll 2022/11/1 ",
+            "Cognex.VS.Interop.dll 2022/1/6 1 ",
+            "Cognex.VS.LightController.dll 2023/2/22 ",
+            "Cognex.VS.ToolBlockUtility.dll 2023/2/22 ",
+            "Cognex.VSUTILITY.dll 2023/2/22 ",
+            "Cognex.VSUTILITY.xml 2023/2/22 ",
+            "CognexAssemblyPlus.exe 2023/2/28 "
+        ],
+        "bbox": [
+            506,
+            164,
+            665,
+            892
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "19 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            955,
+            977,
+            987
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "创建一个新的 MachineSupport",
+        "text_level": 1,
+        "bbox": [
+            62,
+            59,
+            396,
+            109
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "3. 打开 VS2012，新建一个 C# 下的类库文件，重新命名",
+        "bbox": [
+            51,
+            159,
+            416,
+            190
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "MachineSupportGeneralSPP ",
+        "bbox": [
+            52,
+            201,
+            247,
+            231
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bed321bd6215ebe40dd4777b682fdd5bdf4b0aa5296ea0c67a952eae999bbec.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            46,
+            250,
+            680,
+            901
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "20 ",
+        "bbox": [
+            33,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            955,
+            978,
+            987
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "创建一个新的 MachineSupport",
+        "text_level": 1,
+        "bbox": [
+            61,
+            59,
+            396,
+            109
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4. 对这个类也重命名为“MachineSupportGeneralSPP”",
+        "bbox": [
+            50,
+            159,
+            420,
+            192
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/8834e047f5db2252d257cbca9ae8304cd01de4db05a0edf6073455e6cabaaafb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            61,
+            220,
+            307,
+            425
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/d934b98244654a566817cd28d526ccabc61f68d562975384bf9db0c26db70416.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            455,
+            138,
+            772,
+            431
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "5. 添加 VisionPro、Utility 等相关引用，并引用对应 using 指令，将 namespace 和程序集名称都修改为",
+        "bbox": [
+            50,
+            457,
+            497,
+            531
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2f7953d3e44821f574c27510b2c14289d93a9716e1352af3d5f01134a303a51.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            52,
+            531,
+            493,
+            694
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "用管理器-MachineSupportGeneralSPP",
+        "bbox": [
+            55,
+            701,
+            234,
+            725
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/600e352c4c70f19a5203144161525e32ec044402e6c825391ad49207d81a7a33.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            55,
+            735,
+            492,
+            911
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/1afc8af726482d86df2b5c69bb0bccd93ea5b43302e0d410f67b05c28d8efccf.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            546,
+            450,
+            947,
+            851
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "page_number",
+        "text": "21 ",
+        "bbox": [
+            33,
+            957,
+            42,
+            972
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            953,
+            169,
+            972
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "创建一个新的 MachineSupport",
+        "text_level": 1,
+        "bbox": [
+            62,
+            59,
+            396,
+            109
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "6. 让 MachineSupportGeneralSPP 继承 IMachineSupport 并实现接口, ",
+        "bbox": [
+            52,
+            159,
+            519,
+            192
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "并添加工厂类 ",
+        "bbox": [
+            52,
+            200,
+            142,
+            227
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "using System.Text; using System. Threading. Tasks; using Cognex.VisionPro; using Cognex.VS; using Cognex.VS. Utility; using Cognex.VS.MachineSupport;   \npublic class Machine   \npublic static IM public class MachineSupportFactory return new M { public static IMachineSupport Create() { return new MachineSupportGeneralSPP(); } public void Forc public class MachineSupportGeneralSPP:IMachineSupport { private IFrameworkSupport m_framework; string IMachineSupport.MachineryName get { return \"SPP\"; } public void ForceRecordFlush() { public void ForceRecordFlush() { public void ForceRecordFlush() { public void Init GetAcquisitionSetupOverlayGraphics(int inspectionID, int inputID, int cameraID, int pr return null; public string ImageSavedToDisk(bool savedToDisk, string savedToDiskPath, bool movedOnce, ref CommandDestination des get{ throw public void Init(IFrameworkSupport framework) return : ",
+        "guess_lang": "cs",
+        "bbox": [
+            46,
+            231,
+            630,
+            900
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "page_number",
+        "text": "22 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            955,
+            978,
+            987
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "创建一个新的 MachineSupport",
+        "text_level": 1,
+        "bbox": [
+            62,
+            59,
+            396,
+            107
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "7. 更改调试和生成路径（外部程序、工作目录和输出路径）并生成解决方案，这个时候我们得到一个空的 Framework 程序",
+        "bbox": [
+            50,
+            159,
+            544,
+            229
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c9083f3e7c86a8a5e1776cce889cc5ee01242fd7186f8f7f4b8fb5efd17d699.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            70,
+            312,
+            433,
+            633
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b196554316c9814dcdc70a4c6e51d8c257319537317ffb57d74a8d69bab84bb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            461,
+            312,
+            783,
+            742
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "page_number",
+        "text": "23 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            972
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            955,
+            978,
+            987
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "相机的调用",
+        "text_level": 1,
+        "bbox": [
+            60,
+            59,
+            179,
+            103
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "当需要对相机进行特殊设置时候需要对相机进行调用，一般一般",
+        "bbox": [
+            50,
+            157,
+            465,
+            190
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "在“Prepare”中进行设置，不用写在Config中",
+        "bbox": [
+            50,
+            207,
+            389,
+            246
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "m_framework Cameras[0].FrameGrabber.OwnedGigEAccess.SetDoubleFeat ",
+        "bbox": [
+            50,
+            253,
+            554,
+            285
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "ure(\"TriggerDelayAbs\", Came1TriggerDelayAbs); ",
+        "bbox": [
+            51,
+            292,
+            373,
+            327
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "对该相机在（100,100）坐标取一个长800，宽600的像",
+        "bbox": [
+            50,
+            344,
+            426,
+            377
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "public void Prepare() { if (m_framework Cameras.Count != 0 && m_framework Cameras[0].AcqFifoOp != null) { m_framework Cameras[0].AcqFifoOp.OwnedROIParams.SetROIXYWidthHeight(100, 100, 800, 600); } return ; void ICogAcqROI.SetROIXYWidthHeight(int x, int y, int width, int height) Sets the ROI. public ProfinetUserData ProfinetJobParser(CommandAndInfo 异常: ",
+        "guess_lang": "java",
+        "bbox": [
+            50,
+            457,
+            702,
+            740
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "page_number",
+        "text": "24 ",
+        "bbox": [
+            33,
+            957,
+            43,
+            972
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            69,
+            953,
+            169,
+            972
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "标定及 inspection 模块",
+        "text_level": 1,
+        "bbox": [
+            62,
+            57,
+            309,
+            107
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Framework Setup ",
+        "bbox": [
+            65,
+            109,
+            171,
+            140
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "- -□ X ",
+        "bbox": [
+            583,
+            114,
+            667,
+            135
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/b02eabd2fdd735cc6c79036309fececa12d05284e675633c70cb9686aedc3ebb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            94,
+            142,
+            652,
+            533
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/987ab7d454542b95c865e3b82502b3a1ccab03ce442887aba4120720c5485572.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            511,
+            544,
+            636,
+            583
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/48ae9f51c73deb84ab68bae063b02eff361b1bfabcc0c108b4f1baffed6801b1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            464,
+            850,
+            675,
+            916
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/152792122046c57e50ae1cb011342cb1a86343b43beb6f7b6f2b0d5dea9e2555.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            698,
+            140,
+            871,
+            485
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 打开程序后找到：视觉系统设置",
+            "2. 点击添加"
+        ],
+        "bbox": [
+            687,
+            500,
+            912,
+            583
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Cameras、Calibrations和Inspections并连线，最后确定，该名字就是在Inspection中显示的名",
+        "bbox": [
+            687,
+            594,
+            920,
+            709
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "字",
+        "bbox": [
+            687,
+            716,
+            705,
+            744
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/a07cbbb20fb8f0c45e33727a4996bef287a0ca9157185f4820adc1e891a2d942.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            705,
+            735,
+            808,
+            879
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_number",
+        "text": "25 ",
+        "bbox": [
+            33,
+            955,
+            45,
+            972
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            953,
+            169,
+            972
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "标定及 inspection 模块",
+        "text_level": 1,
+        "bbox": [
+            60,
+            57,
+            309,
+            111
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/0edd15c193ec07512c5919a3d16c99f2dbfcb507080dbbade61f2fdc6ed70f23.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            58,
+            144,
+            76,
+            170
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "VisionTool Configuration - Inspection 1 - Nozzle ",
+        "bbox": [
+            77,
+            148,
+            298,
+            170
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/22bf729cc61506b382286f7b4567466d3ea71846bc46c3e9f38297905916a909.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            55,
+            179,
+            326,
+            859
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "打开新添加的VPP，可以先添加个工具，比如PMAlign工具，保存并关闭",
+        "bbox": [
+            423,
+            251,
+            654,
+            366
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "page_number",
+        "text": "26 ",
+        "bbox": [
+            33,
+            957,
+            45,
+            972
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            953,
+            169,
+            972
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "作业",
+        "text_level": 1,
+        "bbox": [
+            61,
+            59,
+            111,
+            103
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "根据给的升级框架，新建一个新的 MachineSupport，并添加上相机引导，下相机拍吸嘴，和上相机定位被贴合特征和复检的的 Inspection 和对应的 Calibration.（100 分，dll 文件等导出 10 分，新建类库并重命名 20 分，添加引用和程序集修改 20 分，实现接口并返回值 20 分，调试和生成程序可以正常打开 20 分，新建 Cal&Insp10 分）",
+        "bbox": [
+            58,
+            188,
+            590,
+            388
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "page_number",
+        "text": "27 ",
+        "bbox": [
+            33,
+            957,
+            45,
+            972
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            70,
+            953,
+            169,
+            972
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Thanks ",
+        "text_level": 1,
+        "bbox": [
+            407,
+            474,
+            586,
+            542
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "page_number",
+        "text": "28 ",
+        "bbox": [
+            29,
+            966,
+            40,
+            983
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "footer",
+        "text": "© 2020 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 27
+    }
+]

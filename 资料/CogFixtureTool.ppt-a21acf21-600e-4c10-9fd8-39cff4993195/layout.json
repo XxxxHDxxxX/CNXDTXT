@@ -1,0 +1,2881 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        0,
+                        720,
+                        339
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                720,
+                                339
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        720,
+                                        339
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                720,
+                                                339
+                                            ],
+                                            "type": "image",
+                                            "image_path": "aebabaee16951e8fa939be8f1b0ac7315bd9a5713dde3d67dacd3e30f19163bd.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        225,
+                        356,
+                        484,
+                        397
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                225,
+                                356,
+                                484,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        225,
+                                        356,
+                                        484,
+                                        397
+                                    ],
+                                    "type": "text",
+                                    "content": "CogFixtureTool"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        26,
+                        428,
+                        118,
+                        446
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                428,
+                                118,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        428,
+                                        118,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "2019/12/19"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        527,
+                        425,
+                        626,
+                        446
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                527,
+                                425,
+                                626,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        527,
+                                        425,
+                                        626,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "Zhang Juan"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        61,
+                        35,
+                        152,
+                        59
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                35,
+                                152,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        35,
+                                        152,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "固定工具"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        51,
+                        126,
+                        432,
+                        171
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                126,
+                                432,
+                                171
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        126,
+                                        432,
+                                        171
+                                    ],
+                                    "type": "text",
+                                    "content": "- 固定工具用来在您已经计算了一个坐标转换时创建一个固定坐标系统"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        72,
+                        176,
+                        432,
+                        218
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                176,
+                                432,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        176,
+                                        432,
+                                        218
+                                    ],
+                                    "type": "text",
+                                    "content": "在我们所举的范例中，使用 PMAlign 来查找我们的元件；它将在其结果中产生一个转换"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        460,
+                        94,
+                        691,
+                        258
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                460,
+                                94,
+                                691,
+                                258
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        94,
+                                        691,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                460,
+                                                94,
+                                                691,
+                                                258
+                                            ],
+                                            "type": "image",
+                                            "image_path": "d0c4489f1fdbbc9e63ef1f238fbb32d968de9e763089f4fc9d6e58cf5f556ec2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        460,
+                        304,
+                        691,
+                        467
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                460,
+                                304,
+                                691,
+                                467
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        304,
+                                        691,
+                                        467
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                460,
+                                                304,
+                                                691,
+                                                467
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0321841df82bdfb9d5b024e6158b6244f6ee73c18757ca90c63d18fd68f502fa.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        121,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                121,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        121,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        35,
+                        205,
+                        59
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                35,
+                                205,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        35,
+                                        205,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "我们的问题是:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        57,
+                        125,
+                        437,
+                        268
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 4,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                58,
+                                125,
+                                437,
+                                170
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        125,
+                                        437,
+                                        170
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                58,
+                                                125,
+                                                437,
+                                                170
+                                            ],
+                                            "type": "text",
+                                            "content": "- 然后我们会创建一个游标卡尺来测量中心“标签”的宽度"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                223,
+                                437,
+                                268
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        223,
+                                        437,
+                                        268
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                57,
+                                                223,
+                                                437,
+                                                268
+                                            ],
+                                            "type": "text",
+                                            "content": "- 游标卡尺的目标区域必须相对于在图像中找到“耳”的地方移动"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        460,
+                        94,
+                        691,
+                        258
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                460,
+                                94,
+                                691,
+                                258
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        94,
+                                        691,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                460,
+                                                94,
+                                                691,
+                                                258
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b7dd3da20a1c6cd09eb590d1894a96442b418b92fad2ab82c0b4fe9dbefb3e42.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        460,
+                        304,
+                        690,
+                        467
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                460,
+                                304,
+                                690,
+                                467
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        304,
+                                        690,
+                                        467
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                460,
+                                                304,
+                                                690,
+                                                467
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ebddda3d2de39a963052e3645753fc15db90901432c0ddd262301f1d39cd881d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        41,
+                        516,
+                        120,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                516,
+                                120,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        516,
+                                        120,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        35,
+                        108,
+                        59
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                35,
+                                108,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        35,
+                                        108,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "开始"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        51,
+                        125,
+                        324,
+                        196
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                125,
+                                324,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        125,
+                                        324,
+                                        196
+                                    ],
+                                    "type": "text",
+                                    "content": "创建并配置一个像源和一个 PMAlign 工具，训练来查找支架的右“耳”"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        322,
+                        100,
+                        690,
+                        367
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                322,
+                                100,
+                                690,
+                                367
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        100,
+                                        690,
+                                        367
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                322,
+                                                100,
+                                                690,
+                                                367
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3965552a033abe63b8c994307a31fdd6b7ae59c45ead065d533ea4f96328d73e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        523
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        523
+                                    ],
+                                    "type": "text",
+                                    "content": "4"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        121,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                121,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        121,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        35,
+                        196,
+                        59
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                35,
+                                196,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        35,
+                                        196,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "添加固定工具"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        52,
+                        125,
+                        298,
+                        242
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                125,
+                                298,
+                                242
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        125,
+                                        298,
+                                        242
+                                    ],
+                                    "type": "text",
+                                    "content": "- 然后添加一个CogFixture工具并将其输入图像（InputImage）连接到像源的输出图像（OutputImage）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        324,
+                        99,
+                        354,
+                        111
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                324,
+                                99,
+                                354,
+                                111
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        324,
+                                        99,
+                                        354,
+                                        111
+                                    ],
+                                    "type": "text",
+                                    "content": "Tools"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        322,
+                        120,
+                        689,
+                        436
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                322,
+                                120,
+                                689,
+                                436
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        120,
+                                        689,
+                                        436
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                322,
+                                                120,
+                                                689,
+                                                436
+                                            ],
+                                            "type": "image",
+                                            "image_path": "515154363fc665dba5956b4469238ed3a5239a3920ed4911a3db2622c8ae0e71.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "5"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        41,
+                        516,
+                        120,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                516,
+                                120,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        516,
+                                        120,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        34,
+                        153,
+                        60
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                34,
+                                153,
+                                60
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        34,
+                                        153,
+                                        60
+                                    ],
+                                    "type": "text",
+                                    "content": "连接转换"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        51,
+                        126,
+                        335,
+                        241
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 3,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                51,
+                                126,
+                                335,
+                                177
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        126,
+                                        335,
+                                        177
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                126,
+                                                335,
+                                                177
+                                            ],
+                                            "type": "text",
+                                            "content": "取 PMAlign 确定的转换并将其用作我们的固定"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                192,
+                                335,
+                                241
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        192,
+                                        335,
+                                        241
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                192,
+                                                335,
+                                                241
+                                            ],
+                                            "type": "text",
+                                            "content": "- 连接 PMAlign 的姿态结果到固定的转换"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        72,
+                        249,
+                        336,
+                        298
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                249,
+                                336,
+                                298
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        249,
+                                        336,
+                                        298
+                                    ],
+                                    "type": "text",
+                                    "content": "如果您另外想添加 X、Y 轴和旋转，您可以分别连接到这些终端"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        359,
+                        101,
+                        694,
+                        416
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                359,
+                                101,
+                                694,
+                                416
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        101,
+                                        694,
+                                        416
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                359,
+                                                101,
+                                                694,
+                                                416
+                                            ],
+                                            "type": "image",
+                                            "image_path": "54fda554e1522c298e663abd4d23fe82413bbdb29bf94105136375d2a1ee0797.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "6"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        122,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                122,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        122,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        705,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                705,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        705,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        35,
+                        174,
+                        59
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                35,
+                                174,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        35,
+                                        174,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "运行工具组"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        45,
+                        94,
+                        395,
+                        115
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                94,
+                                395,
+                                115
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        94,
+                                        395,
+                                        115
+                                    ],
+                                    "type": "text",
+                                    "content": "- 运行工具组通过图像并且转换到固定工具"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        82,
+                        178,
+                        624,
+                        488
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                82,
+                                178,
+                                624,
+                                488
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        178,
+                                        624,
+                                        488
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                178,
+                                                624,
+                                                488
+                                            ],
+                                            "type": "image",
+                                            "image_path": "49995afdfe41e8d29d341f0479785ead65f5571c131df57ce4ed43cd9912c35c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        30,
+                        525
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                30,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        30,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "7"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        121,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                121,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        121,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        705,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                705,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        705,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        61,
+                        35,
+                        107,
+                        59
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                35,
+                                107,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        35,
+                                        107,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "设置"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        51,
+                        125,
+                        304,
+                        232
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 3,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                51,
+                                125,
+                                275,
+                                147
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        125,
+                                        275,
+                                        147
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                125,
+                                                275,
+                                                147
+                                            ],
+                                            "type": "text",
+                                            "content": "在多数应用中，即是如此"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                163,
+                                304,
+                                232
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        163,
+                                        304,
+                                        232
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                163,
+                                                304,
+                                                232
+                                            ],
+                                            "type": "text",
+                                            "content": "在有些情况下，您可能想要在运行随后的视觉工具之前操纵转换"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        312,
+                        100,
+                        685,
+                        403
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                312,
+                                100,
+                                685,
+                                403
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        100,
+                                        685,
+                                        403
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                312,
+                                                100,
+                                                685,
+                                                403
+                                            ],
+                                            "type": "image",
+                                            "image_path": "204df9c39a29852d639a18dd915c3abe5d70e44214751000d50359acd406b049.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        523
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        523
+                                    ],
+                                    "type": "text",
+                                    "content": "8"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        122,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                122,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        122,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        705,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                705,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        705,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        59,
+                        34,
+                        241,
+                        61
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                34,
+                                241,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        34,
+                                        241,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "添加一个游标卡尺"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        51,
+                        125,
+                        320,
+                        246
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 3,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                51,
+                                125,
+                                320,
+                                171
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        125,
+                                        320,
+                                        171
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                125,
+                                                320,
+                                                171
+                                            ],
+                                            "type": "text",
+                                            "content": "- 现在添加测径器并将其输入图像连接到固定的输出图像"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                224,
+                                185,
+                                246
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        224,
+                                        185,
+                                        246
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                224,
+                                                185,
+                                                246
+                                            ],
+                                            "type": "text",
+                                            "content": "配置游标卡尺"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        359,
+                        86,
+                        386,
+                        98
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                359,
+                                86,
+                                386,
+                                98
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        86,
+                                        386,
+                                        98
+                                    ],
+                                    "type": "text",
+                                    "content": "Tools"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        358,
+                        105,
+                        675,
+                        484
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                358,
+                                105,
+                                675,
+                                484
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        358,
+                                        105,
+                                        675,
+                                        484
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                358,
+                                                105,
+                                                675,
+                                                484
+                                            ],
+                                            "type": "image",
+                                            "image_path": "6cb12906eb955685eff4cb6ffeca8bd12e15d379f6b847e229f245a6d35ef473.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "9"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        121,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                121,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        121,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        705,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                705,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        705,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 8
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        35,
+                        241,
+                        59
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                35,
+                                241,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        35,
+                                        241,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "使用固定工具运行"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        51,
+                        125,
+                        413,
+                        170
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                125,
+                                413,
+                                170
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        125,
+                                        413,
+                                        170
+                                    ],
+                                    "type": "text",
+                                    "content": "为什么在创建和配置游标卡尺之前创建并配置固定工具很重要？"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        453,
+                        105,
+                        681,
+                        265
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                453,
+                                105,
+                                681,
+                                265
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        453,
+                                        105,
+                                        681,
+                                        265
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                453,
+                                                105,
+                                                681,
+                                                265
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b40b927082027ea56ed6771e95a9f0364295d5b2952fa41e462d3490fb7eee24.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        459,
+                        304,
+                        667,
+                        466
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                459,
+                                304,
+                                667,
+                                466
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        459,
+                                        304,
+                                        667,
+                                        466
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                459,
+                                                304,
+                                                667,
+                                                466
+                                            ],
+                                            "type": "image",
+                                            "image_path": "cca22c3a41d62a2ff93489a9e5f77516b787af43bfa555d8f17a8af7b2163c25.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        21,
+                        517,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                517,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        517,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "10"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        121,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                121,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        121,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        705,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                705,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        705,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 9
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        202,
+                        178,
+                        415,
+                        220
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                202,
+                                178,
+                                415,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        178,
+                                        415,
+                                        220
+                                    ],
+                                    "type": "text",
+                                    "content": "Thank you."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        22,
+                        517,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                517,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        517,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "11"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        122,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                122,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        122,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        705,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                705,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        705,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 10
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "2.7.5"
+}

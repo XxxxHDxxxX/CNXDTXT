@@ -1,0 +1,2514 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        77,
+                        512,
+                        171
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                79,
+                                505,
+                                92
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        79,
+                                        475,
+                                        92
+                                    ],
+                                    "type": "text",
+                                    "content": "帧——就是影像动画中最小单位的单幅影像画面，相当于电影胶片上的每一格镜头。",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        492,
+                                        79,
+                                        505,
+                                        92
+                                    ],
+                                    "type": "text",
+                                    "content": "帧",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                94,
+                                512,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        94,
+                                        512,
+                                        108
+                                    ],
+                                    "type": "text",
+                                    "content": "就是一幅静止的画面，连续的帧就形成动画，如电视图象等。 我们通常说帧数，简单地说，",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                111,
+                                501,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        111,
+                                        501,
+                                        123
+                                    ],
+                                    "type": "text",
+                                    "content": "就是在1秒钟时间里传输的图片的帧数，也可以理解为图形处理器每秒钟能够刷新几次，",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                125,
+                                504,
+                                139
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        125,
+                                        282,
+                                        139
+                                    ],
+                                    "type": "text",
+                                    "content": "通常用 fps（Frames Per Second）表示。",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        283,
+                                        126,
+                                        504,
+                                        138
+                                    ],
+                                    "type": "text",
+                                    "content": "每一帧都是静止的图象，快速连续地显示帧便形",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                142,
+                                505,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        142,
+                                        505,
+                                        154
+                                    ],
+                                    "type": "text",
+                                    "content": "成了运动的假象。高的帧率可以得到更流畅、更逼真的动画。每秒钟帧数 (fps) 愈多，所显",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                157,
+                                189,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        157,
+                                        189,
+                                        169
+                                    ],
+                                    "type": "text",
+                                    "content": "示的动作就会愈流畅。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        203,
+                        333,
+                        216
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                202,
+                                334,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        202,
+                                        334,
+                                        218
+                                    ],
+                                    "type": "text",
+                                    "content": "Acquiring Images with a CCD Camera and Frame Grabber",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        219,
+                        188,
+                        231
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                220,
+                                188,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        220,
+                                        188,
+                                        232
+                                    ],
+                                    "type": "text",
+                                    "content": "本主题包含以下部分:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        90,
+                        233,
+                        237,
+                        329
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 10,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                90,
+                                233,
+                                237,
+                                243
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        231,
+                                        238,
+                                        245
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                99,
+                                                231,
+                                                238,
+                                                245
+                                            ],
+                                            "type": "text",
+                                            "content": "The Imaqe Acquisition Process",
+                                            "score": 0.979
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                247,
+                                228,
+                                258
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        247,
+                                        229,
+                                        259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                102,
+                                                247,
+                                                229,
+                                                259
+                                            ],
+                                            "type": "text",
+                                            "content": " Get a Frame Grabber Object",
+                                            "score": 0.975
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                261,
+                                200,
+                                272
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        261,
+                                        200,
+                                        272
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                102,
+                                                261,
+                                                200,
+                                                272
+                                            ],
+                                            "type": "text",
+                                            "content": " Select a Video Format",
+                                            "score": 0.961
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                275,
+                                220,
+                                286
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        275,
+                                        220,
+                                        287
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                275,
+                                                220,
+                                                287
+                                            ],
+                                            "type": "text",
+                                            "content": "Create an Acquisition FIFO",
+                                            "score": 0.977
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                290,
+                                182,
+                                301
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        288,
+                                        183,
+                                        302
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                101,
+                                                288,
+                                                183,
+                                                302
+                                            ],
+                                            "type": "text",
+                                            "content": " Acquire an Image",
+                                            "score": 0.955
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                304,
+                                188,
+                                315
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 8,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        303,
+                                        188,
+                                        316
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                102,
+                                                303,
+                                                188,
+                                                316
+                                            ],
+                                            "type": "text",
+                                            "content": " Sample Application",
+                                            "score": 0.986
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                318,
+                                196,
+                                329
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 9,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        317,
+                                        198,
+                                        330
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                101,
+                                                317,
+                                                198,
+                                                330
+                                            ],
+                                            "type": "text",
+                                            "content": " Complete Application",
+                                            "score": 0.98
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        343,
+                        506,
+                        387
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                344,
+                                505,
+                                357
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        344,
+                                        505,
+                                        357
+                                    ],
+                                    "type": "text",
+                                    "content": "VisionPro支持大量广泛使用的电荷耦合设备(CCD)相机以及康耐视数码(CDC)系列相机的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                359,
+                                505,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        359,
+                                        505,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "图像采集。用Visual Studio获取映像的过程.NET应用程序的不同取决于你使用的相机类",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                374,
+                                107,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        374,
+                                        107,
+                                        389
+                                    ],
+                                    "type": "text",
+                                    "content": "型。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        390,
+                        508,
+                        450
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                391,
+                                510,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        391,
+                                        510,
+                                        403
+                                    ],
+                                    "type": "text",
+                                    "content": "本主题描述如何创建Visual Studio .NET应用程序，使用软件触发器从CCD相机获取图像，",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                407,
+                                504,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        407,
+                                        504,
+                                        419
+                                    ],
+                                    "type": "text",
+                                    "content": "并使用康耐视显示控件显示图像。有关使用 CDC相机获取图像的说明，请参见主题使用",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                422,
+                                504,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        422,
+                                        504,
+                                        434
+                                    ],
+                                    "type": "text",
+                                    "content": "CDC相机和帧捕捉器获取图像。此外，有关如何获取彩色图像的描述，请参阅“如何使用",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                438,
+                                368,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        438,
+                                        368,
+                                        450
+                                    ],
+                                    "type": "text",
+                                    "content": "彩色图像”主题。色彩获取需要一个支持彩色图像的照相机。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        468,
+                        505,
+                        497
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                469,
+                                505,
+                                482
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        469,
+                                        505,
+                                        482
+                                    ],
+                                    "type": "text",
+                                    "content": "VisionPro 示例目录(Start->Cognex->VisionPro->VisionPro 示例)包含多个图像采集应用程",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                482,
+                                128,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        482,
+                                        128,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": "序示例。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        515,
+                        339,
+                        528
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                516,
+                                339,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        516,
+                                        339,
+                                        529
+                                    ],
+                                    "type": "text",
+                                    "content": "The Image Acquisition Process（图像采集过程）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        530,
+                        505,
+                        560
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                530,
+                                506,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        530,
+                                        506,
+                                        544
+                                    ],
+                                    "type": "text",
+                                    "content": "为了使用CCD相机和帧捕捉器获取图像，您的 Visual Studio。NET应用程序需要完",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                545,
+                                167,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        545,
+                                        167,
+                                        560
+                                    ],
+                                    "type": "text",
+                                    "content": "成以下任务:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        108,
+                        562,
+                        445,
+                        637
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 21,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                108,
+                                562,
+                                402,
+                                576
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 16,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        560,
+                                        404,
+                                        578
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                108,
+                                                560,
+                                                404,
+                                                578
+                                            ],
+                                            "type": "text",
+                                            "content": "1、 添加 CogFrameGrabbers 的引用（Cognex.VisionPro.Core.dll）；",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                577,
+                                228,
+                                590
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 17,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        577,
+                                        229,
+                                        592
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                109,
+                                                577,
+                                                229,
+                                                592
+                                            ],
+                                            "type": "text",
+                                            "content": "2、设置相机的视频格式；",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                593,
+                                349,
+                                606
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 18,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        592,
+                                        350,
+                                        608
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                108,
+                                                592,
+                                                350,
+                                                608
+                                            ],
+                                            "type": "text",
+                                            "content": "3、使用视频格式和帧抓取信息创建一个采集 FIFO；",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                608,
+                                424,
+                                622
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 19,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        608,
+                                        426,
+                                        624
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                108,
+                                                608,
+                                                426,
+                                                624
+                                            ],
+                                            "type": "text",
+                                            "content": "4、通过调用帧抓取对象的 Acquire 或 StartAcquire 方法来开始获取；",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                624,
+                                445,
+                                637
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 20,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        624,
+                                        447,
+                                        640
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                108,
+                                                624,
+                                                447,
+                                                640
+                                            ],
+                                            "type": "text",
+                                            "content": "5、如有必要，完成采集，得到代表所采集图像的 CogImage8Grey 对象。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        87,
+                        640,
+                        361,
+                        652
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 22,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                640,
+                                361,
+                                654
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        640,
+                                        105,
+                                        654
+                                    ],
+                                    "type": "text",
+                                    "content": "二、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        640,
+                                        361,
+                                        654
+                                    ],
+                                    "type": "text",
+                                    "content": "Get a Frame Grabber Object（获取一个帧抓取对象）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        655,
+                        505,
+                        714
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 23,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                655,
+                                504,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        655,
+                                        504,
+                                        668
+                                    ],
+                                    "type": "text",
+                                    "content": "在应用程序获取图像之前，它必须知道系统用于对图像进行数字化的帧抓取器的数量",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                671,
+                                505,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        671,
+                                        505,
+                                        684
+                                    ],
+                                    "type": "text",
+                                    "content": "和类型。VisionPro 定义了一个集合类 CogFrameGrabbers，它表示安装在 PC 上的框",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                686,
+                                505,
+                                700
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        686,
+                                        505,
+                                        700
+                                    ],
+                                    "type": "text",
+                                    "content": "架抓取。下面的编程语句创建一个帧抓取集合，然后声明一个对象变量设置为第一个",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                701,
+                                148,
+                                717
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        701,
+                                        148,
+                                        717
+                                    ],
+                                    "type": "text",
+                                    "content": "帧抓取:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        128,
+                        718,
+                        417,
+                        730
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 24,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                718,
+                                418,
+                                731
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        718,
+                                        295,
+                                        731
+                                    ],
+                                    "type": "text",
+                                    "content": "CogFrameGrabbers myFrameGrabbers",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        295,
+                                        720,
+                                        304,
+                                        728
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "=",
+                                    "score": 0.79
+                                },
+                                {
+                                    "bbox": [
+                                        304,
+                                        718,
+                                        418,
+                                        731
+                                    ],
+                                    "type": "text",
+                                    "content": "new CogFrameGrabbers();",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        130,
+                        734,
+                        318,
+                        745
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 25,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                734,
+                                319,
+                                746
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        734,
+                                        289,
+                                        746
+                                    ],
+                                    "type": "text",
+                                    "content": "ICogFrameGrabber myFrameGrabber",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        289,
+                                        735,
+                                        298,
+                                        744
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\cdot",
+                                    "score": 0.82
+                                },
+                                {
+                                    "bbox": [
+                                        298,
+                                        734,
+                                        319,
+                                        746
+                                    ],
+                                    "type": "text",
+                                    "content": "null;",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        130,
+                        749,
+                        309,
+                        761
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 26,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                748,
+                                311,
+                                762
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        748,
+                                        207,
+                                        762
+                                    ],
+                                    "type": "text",
+                                    "content": "myFrameGrabber",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        207,
+                                        751,
+                                        215,
+                                        759
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "=",
+                                    "score": 0.79
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        748,
+                                        311,
+                                        762
+                                    ],
+                                    "type": "text",
+                                    "content": "myFrameGrabbers[0];",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        79,
+                        303,
+                        91
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                78,
+                                303,
+                                94
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        78,
+                                        107,
+                                        94
+                                    ],
+                                    "type": "text",
+                                    "content": "三、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        79,
+                                        303,
+                                        93
+                                    ],
+                                    "type": "text",
+                                    "content": "Select a Video Format（选择视频格式）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        95,
+                        504,
+                        153
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                95,
+                                505,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        95,
+                                        505,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "接下来你必须选择一个视频格式，它描述了连接到你的帧抓取器的相机和要获取的图",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                110,
+                                506,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        110,
+                                        506,
+                                        123
+                                    ],
+                                    "type": "text",
+                                    "content": "像 的 大 小 。 视 频 格 式 被 指 定 为 字 符 串 ， 并 且 必 须 是 FrameGrabber 对 象 的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                126,
+                                498,
+                                138
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        126,
+                                        498,
+                                        138
+                                    ],
+                                    "type": "text",
+                                    "content": "AvailableVideoFormats方法返回的字符串之一。这个示例代码声明了一个视频格式:",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                141,
+                                337,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        141,
+                                        231,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "const string VIDEO_FORMAT",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        232,
+                                        143,
+                                        240,
+                                        151
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "=",
+                                    "score": 0.8
+                                },
+                                {
+                                    "bbox": [
+                                        240,
+                                        141,
+                                        337,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "\"Sony XC75 640x480\";",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        158,
+                        244,
+                        169
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                156,
+                                245,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        156,
+                                        107,
+                                        172
+                                    ],
+                                    "type": "text",
+                                    "content": "四、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        158,
+                                        245,
+                                        171
+                                    ],
+                                    "type": "text",
+                                    "content": "Create an Acquisition FIFO",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        173,
+                        504,
+                        200
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                173,
+                                506,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        173,
+                                        506,
+                                        186
+                                    ],
+                                    "type": "text",
+                                    "content": "要创建一个新的获取 FIFO，需要使用 FrameGrabber 对象的 CreateAcqFifo 方法，传",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                187,
+                                381,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        187,
+                                        381,
+                                        203
+                                    ],
+                                    "type": "text",
+                                    "content": "递要使用的视频格式和 CogAcqFifoPixelFormatConstants。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        203,
+                        504,
+                        232
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                203,
+                                505,
+                                217
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        203,
+                                        505,
+                                        217
+                                    ],
+                                    "type": "text",
+                                    "content": "使用 Sony XC-75 相机创建一个适用于获取宽 640 像素、高 480 像素的灰度图像的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                220,
+                                305,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        220,
+                                        305,
+                                        232
+                                    ],
+                                    "type": "text",
+                                    "content": "FIFO采集，并采用默认的FIFO像素格式:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        108,
+                        235,
+                        221,
+                        247
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                108,
+                                235,
+                                221,
+                                247
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        235,
+                                        221,
+                                        247
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                108,
+                                                235,
+                                                221,
+                                                247
+                                            ],
+                                            "type": "text",
+                                            "content": "ICogAcqFof myFifo = null;"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 5,
+                    "sub_type": "code",
+                    "guess_lang": "txt"
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        108,
+                        250,
+                        502,
+                        278
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                108,
+                                250,
+                                502,
+                                278
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        250,
+                                        502,
+                                        278
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                108,
+                                                250,
+                                                502,
+                                                278
+                                            ],
+                                            "type": "text",
+                                            "content": "myFifo "
+                                        },
+                                        {
+                                            "bbox": [
+                                                108,
+                                                250,
+                                                502,
+                                                278
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\equiv"
+                                        },
+                                        {
+                                            "bbox": [
+                                                108,
+                                                250,
+                                                502,
+                                                278
+                                            ],
+                                            "type": "text",
+                                            "content": " myFrameGrabber.CreateAcqFifo(VIDEOFormats,CogAcqFifoPixelFormatConstants.F ormat8Grey,0,false);"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 6,
+                    "sub_type": "algorithm"
+                },
+                {
+                    "bbox": [
+                        107,
+                        281,
+                        504,
+                        310
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                280,
+                                505,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        280,
+                                        505,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": "一旦创建了一个获取FIFO，就可以修改诸如亮度和对比度之类的属性。您可以在任何",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                296,
+                                229,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        296,
+                                        229,
+                                        310
+                                    ],
+                                    "type": "text",
+                                    "content": "时候更改获取FIFO属性。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        328,
+                        207,
+                        342
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                327,
+                                207,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        327,
+                                        107,
+                                        343
+                                    ],
+                                    "type": "text",
+                                    "content": "五、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        328,
+                                        207,
+                                        344
+                                    ],
+                                    "type": "text",
+                                    "content": "Acquire an Image",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        108,
+                        343,
+                        375,
+                        357
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                342,
+                                377,
+                                359
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        342,
+                                        377,
+                                        359
+                                    ],
+                                    "type": "text",
+                                    "content": "一个 ICogAcqFifo 对象有两种方法可以用来开始获取图像:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        178,
+                        366,
+                        416,
+                        382
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                179,
+                                365,
+                                418,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        179,
+                                        365,
+                                        418,
+                                        383
+                                    ],
+                                    "type": "text",
+                                    "content": "ICogImage Acqire(out int triggerNumber)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        179,
+                        397,
+                        277,
+                        413
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                179,
+                                396,
+                                278,
+                                416
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        179,
+                                        396,
+                                        278,
+                                        416
+                                    ],
+                                    "type": "text",
+                                    "content": "int StartAcquire()",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        101,
+                        421,
+                        504,
+                        468
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                422,
+                                502,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        422,
+                                        502,
+                                        434
+                                    ],
+                                    "type": "text",
+                                    "content": "使用Acquire将获取请求放置到队列中。如果没有其他请求挂起，则立即进行取像。否",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                437,
+                                503,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        437,
+                                        503,
+                                        451
+                                    ],
+                                    "type": "text",
+                                    "content": "则，获取请求将保留在队列中，直到能够处理为止。下面的编程语句使用Acquire方法",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                454,
+                                492,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        454,
+                                        492,
+                                        466
+                                    ],
+                                    "type": "text",
+                                    "content": "返回对 CogImage8Grey 对象的引用。CogImage8Grey 类表示一个 8 位的灰度图像。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        102,
+                        484,
+                        232,
+                        497
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                483,
+                                233,
+                                499
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        483,
+                                        233,
+                                        499
+                                    ],
+                                    "type": "text",
+                                    "content": "CogImage8Grey myImage;",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        103,
+                        500,
+                        160,
+                        512
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                103,
+                                498,
+                                161,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        498,
+                                        161,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "int trigNum;",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        103,
+                        515,
+                        379,
+                        528
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                103,
+                                515,
+                                379,
+                                528
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        515,
+                                        379,
+                                        528
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                515,
+                                                379,
+                                                528
+                                            ],
+                                            "type": "text",
+                                            "content": "myImage = (CogImage8Grey)myFifo.Acquire(out trigNum);"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 15,
+                    "sub_type": "code",
+                    "guess_lang": "javascript"
+                },
+                {
+                    "bbox": [
+                        101,
+                        546,
+                        484,
+                        560
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 16,
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                547,
+                                485,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        547,
+                                        485,
+                                        560
+                                    ],
+                                    "type": "text",
+                                    "content": "FIFO队列的大小被限制为32个请求，必须获取图像才能从FIFO队列中删除它们。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        102,
+                        562,
+                        426,
+                        575
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 17,
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                562,
+                                426,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        562,
+                                        426,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "如果不这样做，FIFO将被填充，随后的图像将无法获得。您可以使用",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        102,
+                        577,
+                        484,
+                        591
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 18,
+                    "lines": [
+                        {
+                            "bbox": [
+                                103,
+                                577,
+                                487,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        577,
+                                        487,
+                                        592
+                                    ],
+                                    "type": "text",
+                                    "content": "CompleteAcquire来获取未取像完成的图像，或者使用Flush来删除未完成的请求。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        102,
+                        593,
+                        369,
+                        606
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 19,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                593,
+                                370,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        593,
+                                        370,
+                                        607
+                                    ],
+                                    "type": "text",
+                                    "content": "使用GetFifoState来监视FIFO中挂起的获取请求的数量。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        101,
+                        624,
+                        504,
+                        653
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 20,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                624,
+                                503,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        624,
+                                        503,
+                                        637
+                                    ],
+                                    "type": "text",
+                                    "content": "调用StartAcquire方法将启动新的取像，而不等待当前取像完成。然后必须将返回值传",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                640,
+                                290,
+                                654
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        640,
+                                        290,
+                                        654
+                                    ],
+                                    "type": "text",
+                                    "content": "递给 CompleteAcquire 方法以获得图像。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        102,
+                        678,
+                        502,
+                        693
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 21,
+                    "lines": [
+                        {
+                            "bbox": [
+                                103,
+                                678,
+                                502,
+                                693
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        678,
+                                        502,
+                                        693
+                                    ],
+                                    "type": "text",
+                                    "content": "注：Acqire(）方法会将取像请求放置在取像队列中，按顺序完成；而StartAcquire()",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        102,
+                        709,
+                        504,
+                        724
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 22,
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                708,
+                                506,
+                                724
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        708,
+                                        506,
+                                        724
+                                    ],
+                                    "type": "text",
+                                    "content": "方法不会等待，直接取像，然后需要调用CompleteAcquire()方法获得图像。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        102,
+                        291,
+                        118
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                99,
+                                290,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        99,
+                                        110,
+                                        120
+                                    ],
+                                    "type": "text",
+                                    "content": "六、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        179,
+                                        101,
+                                        290,
+                                        119
+                                    ],
+                                    "type": "text",
+                                    "content": "Sample Application",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        108,
+                        125,
+                        498,
+                        155
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                126,
+                                498,
+                                138
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        126,
+                                        498,
+                                        138
+                                    ],
+                                    "type": "text",
+                                    "content": "执行以下步骤在Visual Studio.NET中创建一个示例c#应用程序。此应用程序从相机",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                141,
+                                304,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        141,
+                                        304,
+                                        156
+                                    ],
+                                    "type": "text",
+                                    "content": "获取图像并使用 Cognex 显示控件显示它。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

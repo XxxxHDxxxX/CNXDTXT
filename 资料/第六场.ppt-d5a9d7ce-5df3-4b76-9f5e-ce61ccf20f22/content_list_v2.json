@@ -1,0 +1,3515 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Content "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                70,
+                204,
+                112
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "根据SI指令控制Inspection运行"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "控制Inspection输入和输出"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "VPP之间互传参数"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "存图模块 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Machine Support添加Windows窗体"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                175,
+                608,
+                488
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "根据SI指令控制Inspection运行"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                46,
+                634,
+                116
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [
+                    {
+                        "type": "text",
+                        "content": "T1,SN,1 运行VPP1 T2,SN,2运行VPP2 "
+                    }
+                ],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "public List<string> SimulatorCommandStrings  \n{  \n    get  \n    {  \n        return new List<string>();  \n        {  \n            \"T1, SN, 1\",  \n                \"T2, SN, 2\",  \n            };  \n        //throw new NotImplementedException();  \n    }  \n} "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                88,
+                209,
+                731,
+                531
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Status "
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                546,
+                173,
+                568
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Simulator "
+                    }
+                ]
+            },
+            "bbox": [
+                219,
+                546,
+                288,
+                570
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Log "
+                    }
+                ]
+            },
+            "bbox": [
+                344,
+                546,
+                373,
+                570
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7630d788dec26940f8541ccce7879ef24fa76dcdaf7b036166762f81b5b5c8ef.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Image Source: "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                112,
+                625,
+                134,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Camera "
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                627,
+                195,
+                651
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/54ab12e77cc5525a04f799a4c9a0edb3c5bd17918c7dccab81d6ded3924db7ae.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                259,
+                625,
+                277,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Live Camera "
+                    }
+                ]
+            },
+            "bbox": [
+                281,
+                627,
+                376,
+                651
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/be9e30cffd7d7d7cd6d2e8be2f5fae3239b4a815402542a5498f7d4e815519ad.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                111,
+                666,
+                134,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "File "
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                666,
+                163,
+                690
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3a671beb42ba1f5f52792d30c52c642ac49af1014c1400db298931faa35e8e78.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Issue Commands: "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                259,
+                666,
+                277,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Folder "
+                    }
+                ]
+            },
+            "bbox": [
+                281,
+                666,
+                333,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Preset "
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                753,
+                166,
+                775
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Autocal "
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                755,
+                241,
+                779
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Custom "
+                    }
+                ]
+            },
+            "bbox": [
+                259,
+                755,
+                316,
+                779
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Batch "
+                    }
+                ]
+            },
+            "bbox": [
+                340,
+                755,
+                384,
+                779
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "T1.SN.1 "
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                822,
+                181,
+                846
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "T2,SN,2 "
+                    }
+                ]
+            },
+            "bbox": [
+                227,
+                822,
+                279,
+                846
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "生成模拟指令按钮"
+                    }
+                ]
+            },
+            "bbox": [
+                558,
+                803,
+                733,
+                840
+            ]
+        }
+    ],
+    [
+        {
+            "type": "algorithm",
+            "content": {
+                "algorithm_caption": [
+                    {
+                        "type": "text",
+                        "content": "根据SI指令控制Inspection运行"
+                    }
+                ],
+                "algorithm_content": [
+                    {
+                        "type": "text",
+                        "content": "public string TCPJobParser(CommandAndInfo command)   \n{ //T1,SN,1 string[]commandArray  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\equiv"
+                    },
+                    {
+                        "type": "text",
+                        "content": " command.Command.Split(','); 获取SI发送的指令，并转成数组 string TriggerCommand  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\equiv"
+                    },
+                    {
+                        "type": "text",
+                        "content": " commandArray[O].ToUpper(); 对指令进行解析 string SN  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " commandArray[1]; int InspectionID  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\equiv"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Convert.ToInt32 commandedArray[2]）-1; string strReturn  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "= \\text{串}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " bool runStatus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\equiv"
+                    },
+                    {
+                        "type": "text",
+                        "content": " false; switch(TriggerCommand) { case \"T1\": RunJobParameters rjpl  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\equiv"
+                    },
+                    {
+                        "type": "text",
+                        "content": " new RunJobParameters(InspectionID); 实例化RunJobParameters类 runStatus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\equiv"
+                    },
+                    {
+                        "type": "text",
+                        "content": " m_framework.RunJob commanded，LightControlAction.AutoOnAndOff，true，rjpl); 运行 break; } return strReturn; 返回数据到SI //throw new NotImplementedException(); "
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                205,
+                976,
+                759
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "根据SI指令控制Inspection运行"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                42,
+                683,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "设置返回指令"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                127,
+                206,
+                159
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "方法一：在VPP里设置返回指令，在MachineSupport中调用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                154,
+                187,
+                740,
+                222
+            ]
+        },
+        {
+            "type": "algorithm",
+            "content": {
+                "algorithm_caption": [],
+                "algorithm_content": [
+                    {
+                        "type": "text",
+                        "content": "runStatus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " m_frameworkRunJobcommand,LightControlAioinAutoOnAndOff, true,rjp2); if(runStatus) { strReturn  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " (string)rjp2.0puts[\"strReturn\"]; } break;   \n} return strReturn; //throw new NotImplementedException(); "
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                240,
+                805,
+                442
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9e314bd1a28c14883305dc741e17fa04b05f1dab97db44c9cf4ef7bb6f88ba65.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Name</td><td>Type</td><td>Value</td><td>Force Changed Event</td></tr><tr><td>Version</td><td>System.String</td><td>3.3.0.0</td><td>□</td></tr><tr><td>ImageID</td><td>System.String</td><td></td><td>□</td></tr><tr><td>strReturn</td><td>System.String</td><td>T1,1,2</td><td>□</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                455,
+                686,
+                614
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "方法二：在MachineSupport中直接定义返回指令"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                140,
+                683,
+                615,
+                720
+            ]
+        },
+        {
+            "type": "algorithm",
+            "content": {
+                "algorithm_caption": [],
+                "algorithm_content": [
+                    {
+                        "type": "text",
+                        "content": "} break;   \n} return TriggerCommand  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^+"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ,1\"  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^+"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ,2\"; //throw new NotImplementedException(); "
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                761,
+                470,
+                901
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "控制Inspection输入和输出"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                48,
+                50,
+                502,
+                107
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [
+                    {
+                        "type": "text",
+                        "content": "case \"T1\": "
+                    }
+                ],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "RunJobParameters rjpl = new RunJobParameters(InspectionID);  \nrjplInputs[\"InputValue\"] = InspectionID;  \nrunStatus = m_framework.RunJob(cmd, LightControlAction.AutoOnAndOff, true, rjpl);  \nif (runStatus)  \n{  \n    strReturn = (string)rjpl.Outputs[\"strReturn\"];  \n}  \nbreak; "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                83,
+                177,
+                900,
+                401
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5be21e27c3578a311bc88369bfa53f65b5f7a66e8d19161ccd6744982e8480ce.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                72,
+                414,
+                755,
+                851
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VPP之间互传参数"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                90,
+                416,
+                157
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "将VPP1的输出端的数据传入到VPP2的输入端 "
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                188,
+                463,
+                220
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/412604d4b59943ac4789b12244a80ba316e32b70f58e5b9b77fd44509212d339.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Name</td><td>Type</td><td>Value</td><td>Force Changed Event</td></tr><tr><td>Version</td><td>System.String</td><td>3.3.0.0</td><td>□</td></tr><tr><td>ImageID</td><td>System.String</td><td></td><td>□</td></tr><tr><td>strReturn</td><td>System.String</td><td>1,12</td><td>□</td></tr><tr><td>CenterX</td><td>System.Double</td><td>568.094</td><td>□</td></tr><tr><td>CenterY</td><td>System.Double</td><td>549.741</td><td>□</td></tr><tr><td>Radius</td><td>System.Double</td><td>203.002</td><td>□</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                94,
+                268,
+                648,
+                529
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1503d74ad12ec791b5f8a1cf09a11a4bd78f3caee695bcac6e45aaba040a2bd6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                670,
+                466,
+                740,
+                490
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VPP1输出端 "
+                    }
+                ]
+            },
+            "bbox": [
+                769,
+                466,
+                888,
+                503
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/51bbb4ef7a5599b8ed06bdbf70aca2139291ade890ab0834c0099ecc4844972e.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Name</td><td>Type</td><td>Value</td></tr><tr><td>ProductName</td><td>System.String</td><td>White</td></tr><tr><td>InputImage0</td><td>Cognex.VisionPro.CogImage8...</td><td>Cognex.Visio...</td></tr><tr><td>InputImage0CameraSettings</td><td>System.String</td><td>Cam1_Expos...</td></tr><tr><td>CenterX</td><td>System.Double</td><td>568.094</td></tr><tr><td>CenterY</td><td>System.Double</td><td>549.741</td></tr><tr><td>Radius</td><td>System.Double</td><td>203.002</td></tr><tr><td>InspectionID</td><td>System.Int32</td><td>1</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                94,
+                572,
+                647,
+                879
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3021cf7557dfd78dfd4261efafff4b6593ad17411534f7ac3a5ba2e2fe345e54.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                672,
+                746,
+                740,
+                764
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VPP2输入端 "
+                    }
+                ]
+            },
+            "bbox": [
+                769,
+                735,
+                888,
+                770
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VPP之间互传参数"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                90,
+                334,
+                148
+            ]
+        },
+        {
+            "type": "algorithm",
+            "content": {
+                "algorithm_caption": [],
+                "algorithm_content": [
+                    {
+                        "type": "text",
+                        "content": "public class Universal_MachineSupport:IMachineSupport   \n{ IFrameworkSupport m_framework; ulong partID; double CenterX  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " 999.999,CenterY  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " 999.999,Radius  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " 999.999; 定义一个全局变量用于接受VPP1的数据 runStatus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " m_framework.RunJob commanded,LightControlAction.AutoOnAndOff, true, rjp1); if(runStatus) { strReturn  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " (string)rjp1.Outputs[\"strReturn\"]; 将VPP1输出端的值赋给该变量 CenterX=double)rpl. Outputs[\"CenterX\"]; CenterY  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " (double)rpl. Outputs[\"CenterY\"]; Radius  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " (double)rpl. Outputs[\"Radius\"]; } break;   \ncase \"T2\": RunJobParameters rjp2  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " new RunJobParameters(InspectionID); rjp2. Inputs[\"CenterX\"]  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " CenterX; rjp2. Inputs[\"CenterY\"]  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " CenterY; rjp2. Inputs[\"Radius\"]  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " Radius; runStatus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " m_framework.RunJob commanded,LightControlAction.AutoOnAndOff, true,rjp2); if(runStatus) { strReturn  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " (string)rjp2. Outputs[\"strReturn\"]; } break; "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                209,
+                950,
+                827
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VPP之间互传参数"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                56,
+                131,
+                334,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在需要传输大量数据时候，还有一种简便的数据传输方法：CogToolBlockTeminalCollection"
+                    }
+                ]
+            },
+            "bbox": [
+                69,
+                209,
+                666,
+                238
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [
+                    {
+                        "type": "text",
+                        "content": "将TooBlock输入端数据放入TerminalCollection集合中"
+                    }
+                ],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "CogToolBlockTerminalCollection Terminal = (CogToolBlockTerminalCollection) CogSerializer.DeepCopyObject(mToolBlock.Inputs); //mToolBlock.Outputs.Add(new CogToolBlockTerminal(\"Terminal\",Terminal)); 在ToolBlock输出端添加特殊的类型  \nmToolBlock.Outputs[\"X\"].Value = Terminal[0].Value;  \nmToolBlock.Outputs[\"Y\"].Value = Terminal[1].Value;  \nmToolBlock.Outputs[\"A\"].Value = Terminal[2].Value; 对TerminalCollection集合解析 "
+                    }
+                ],
+                "code_language": "javascript"
+            },
+            "bbox": [
+                83,
+                301,
+                941,
+                407
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "存图模块 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                31,
+                38,
+                165,
+                85
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "设置图像文件夹名称"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                41,
+                107,
+                188,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. public ulong(NewPart(string partName); "
+                    }
+                ]
+            },
+            "bbox": [
+                45,
+                146,
+                366,
+                172
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "ulong partID = ImageSaveQueue.gOnly.NewPart(\"PartName\"); 设置图像PartID  \nRunJobParameters rjpl = new RunJobParameters(InspectionID, partID); 将PartID添加到RunJobParameters "
+                    }
+                ],
+                "code_language": "javascript"
+            },
+            "bbox": [
+                48,
+                179,
+                797,
+                240
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a.如未定义PartID则PartName默认为Inspection Name "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                268,
+                431,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b.如未定义PartName则PartName默认为UnknownPart+Num "
+                    }
+                ]
+            },
+            "bbox": [
+                51,
+                303,
+                477,
+                331
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. public void SetPartName(string newPartName, ImageFolderTag newTag, int timeoutInMs, bool cleanupOldPart, ulong partID); "
+                    }
+                ]
+            },
+            "bbox": [
+                43,
+                383,
+                977,
+                412
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ImageSaveQueue.gOnly.SetPartName(\"SN\", ImageFolderTag.Tossing, 1000, true, partID); "
+                    }
+                ]
+            },
+            "bbox": [
+                45,
+                433,
+                594,
+                457
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SetPartName方法会对图像进行移动、复制、删除等操作，会占用电脑资源，可能会导致主机卡顿问题，不建议使用。"
+                    }
+                ]
+            },
+            "bbox": [
+                43,
+                492,
+                455,
+                546
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "存图模块 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                25,
+                25,
+                159,
+                77
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Image File Name Setting "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                37,
+                94,
+                219,
+                120
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3ce0dfe723a8dcf078c582c97f21cc7a57dbbc586b95119ce4100c161ccd20d5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                36,
+                124,
+                570,
+                694
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Parameters: "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                598,
+                148,
+                691,
+                170
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "0:图像采集时间 HHmmssfff"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1:Inspection名字"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2:Inspection的input_ID "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3:Inspection输出中的ImageID"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4:Inspection输出中的ImageID如果存在，用下划线强调"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5:VPP)_RunStatus状态(String) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6:Inspection结果状态(String) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7:第一次手动采图缺陷名字(可以自己测试)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8:逗号分隔的手动采图缺陷名字(可以自己测试)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9:手动采图内容(可以自己测试)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                598,
+                172,
+                937,
+                462
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PartName: "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                600,
+                512,
+                680,
+                537
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "0:MachineSupport中自定义的PartName "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1:Part创建时间"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2:PartUID "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                600,
+                546,
+                890,
+                648
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "存图模块 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                22,
+                57,
+                155,
+                105
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Image Save Options "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                29,
+                116,
+                179,
+                142
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d9946fbd673518436a4d9c55407fda799e33b60cbade0e33dd940e544a3948d1.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                23,
+                150,
+                520,
+                729
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "默认存图路径"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                534,
+                464,
+                640,
+                492
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "未启用时：C:\\Images\\20230413TemporaryPartName "
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                498,
+                922,
+                525
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MachineSupport添加自定义Windows窗体"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                51,
+                66,
+                619,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "定义一个Windows窗体，实现数据保存到配置文件的功能，并把该窗体添加到Framework中"
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                122,
+                520,
+                142
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "添加Windows窗体"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                190,
+                151,
+                316,
+                177
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6d8da4a10b4dbf44194031c2f476dc74e4257f2e6cc8ae2b2f8d5852d4fb4496.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                48,
+                190,
+                459,
+                705
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "添加自定义控件"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                626,
+                151,
+                736,
+                177
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/101620cdf3f4aeb142803461ccb0234df5a1deee0158465dc359513d4c81584c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                469,
+                190,
+                963,
+                687
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MachineSupport添加自定义Windows窗体"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                86,
+                27,
+                877,
+                94
+            ]
+        },
+        {
+            "type": "algorithm",
+            "content": {
+                "algorithm_caption": [],
+                "algorithm_content": [
+                    {
+                        "type": "text",
+                        "content": "using Cognex. VS. Utility; 添加命名空间用于调用Framework参数   \nnamespace Cognex. VS. MachineSupport   \npublic partial class SaveData : Form double CenterX = 999.999,CenterY = 999.999,Angle = 999.999; public void ReadSetting() 定义读配置文件的方法 CenterX=FrameworkConfiguration.gOnly.ReadNonGeneralSetting(\"SaveData\", \"CenterX\", 999.999); CenterY=FrameworkConfiguration.gOnly.ReadNonGeneralSetting(\"SaveData\", \"CenterY\", 999.999); Angle  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " FrameworkConfiguration.gOnly.ReadNonGeneralSetting(\"SaveData\", \"Angle\", 999.999); } public void WriteSetting() 定义写配置文件的方法 FrameworkConfiguration.gOnly.WriteNonGeneralSetting(\"SaveData\", \"CenterX\", CenterX); FrameworkConfiguration.gOnly.WriteNonGeneralSetting(\"SaveData\", \"CenterY\", CenterY); FrameworkConfiguration.gOnly.WriteNonGeneralSetting(\"SaveData\", \"Angle\", Angle); } public SaveData() 程序自带的初始化方法 InitializeComponent(); ReadSetting(); textBox1.Text = CenterX.ToString(\"F3\"); textBox2.Text = CenterY.ToString(\"F3\"); textBox3.Text = Angle.ToString(\"F3\"); } private void buttonl_Click(object sender, EventArgs e) 单击按钮事件 CenterX = Convert.ToDouble(textBox1.Text); CenterY = Convert.ToDouble(textBox2.Text); Angle = Convert.ToDouble(textBox3.Text); WriteSetting(); this.Close(); } "
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                101,
+                844,
+                931
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14 "
+                    }
+                ]
+            },
+            "bbox": [
+                116,
+                959,
+                133,
+                975
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                959,
+                319,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MachineSupport添加自定义Windows窗体"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                13,
+                57,
+                619,
+                112
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "void SetupCustomGUI() 在MachineSupport中创建一个添加窗体的方法  \n{ // Add a custom menu to the framework's GUI //ToolStripMenuItem customMenu = new ToolStripMenuItem(\"Custom Menu\"); ToolStripMenuItem ToolStrip_SaveData = new ToolStripMenuItem(\"SaveData\"); 实例化ToolBarMenultem类，添加菜单 ToolStrip_SaveData.Click += ToolStrip_SaveData.Click; 单击事件用于调用自定义窗体 m_framework.AddToolBarMenuItem(ToolStrip_SaveData); 将窗体添加到Framework中  \n} private void ToolStrip_SaveData_Click(object sender, EventArgs e) { SaveData mSaveData = new SaveData(); 实例化自定义窗体 mSaveData Activate(); 启用自定义窗体 mSaveData.Show(); 显示窗体  \npublic void Init(IFrameworkSupport framework) { m_framework = framework; SetupCustomGUI(); 在Framework初始化方法中调用该方法"
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                23,
+                164,
+                981,
+                700
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MachineSupport添加自定义Windows窗体"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                25,
+                920,
+                96
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "在Framework中查看结果"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                79,
+                140,
+                340,
+                179
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Cognex AssemblyPlus "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                79,
+                200,
+                263,
+                225
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0cac962b90f3ea52f0457ebe959b3df384f072140bba1880d4f5f95097639f3f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                77,
+                240,
+                101,
+                270
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Run "
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                244,
+                129,
+                264
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cb4d87fdde98486b1c3da3fcaae93e3955f7d9e9d36ec4b347776dfe23a61518.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                143,
+                246,
+                168,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Camera "
+                    }
+                ]
+            },
+            "bbox": [
+                168,
+                246,
+                223,
+                266
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/53fd4cd4310f2e40764e8554c22d0fbdd9eb9f77278537d7aac342127a411285.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                237,
+                240,
+                254,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Calibration "
+                    }
+                ]
+            },
+            "bbox": [
+                255,
+                246,
+                338,
+                266
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/dc21a50a34fee284d4c9df5f852f6abc5022c8284803c0165915f31d5f98fcf0.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                352,
+                240,
+                370,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Inspection "
+                    }
+                ]
+            },
+            "bbox": [
+                377,
+                246,
+                452,
+                268
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cd968c23fa69c7c1c47b36d43723822035d041f6b086b73996e57c444031ac1e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                463,
+                240,
+                481,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tools "
+                    }
+                ]
+            },
+            "bbox": [
+                488,
+                246,
+                531,
+                268
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/432c5e573205db0969b7453e81b2959ff943f0da700918228726a1ad3a6b909e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                547,
+                240,
+                563,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Settings "
+                    }
+                ]
+            },
+            "bbox": [
+                566,
+                246,
+                627,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SaveData "
+                    }
+                ]
+            },
+            "bbox": [
+                645,
+                246,
+                723,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Display 1 "
+                    }
+                ]
+            },
+            "bbox": [
+                688,
+                285,
+                762,
+                311
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fefd3c175c0f80fbf329634371e3c418a20f0cb5707c4a199e51bbf9eb9dae57.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                70,
+                312,
+                841,
+                785
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "作业"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                38,
+                111,
+                91,
+                148
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "根据提供的Machine Support，使用C:\\Program Files\\Cognex\\VisionPro\\Images\\bracket_std图片，完成以下功能。"
+                    }
+                ]
+            },
+            "bbox": [
+                41,
+                157,
+                758,
+                181
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.编写两条仿真指令\"T1,SN,1\",\"T2,SN,1\",分别运行两个VPP。(20) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.将第一个VPP获取的圆心X,Y和Circle传到第二个VPP中并把Circle创建出来，第二个VPP抓取一条线得到角度A，最终把X，Y，A发送出去。(20)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.将得到的X，Y，A存入配置文件中。（20）"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.将两张图片存入同一个文件夹中。 (20)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5.自定义一个Windows窗体，实现将X，Y，A分别加上一个Offset值，并把其和存入配置文件的功能，最后将该窗体添加到Framework中。(20) "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                41,
+                190,
+                759,
+                340
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ab5f7805300aefaf9bc0831cf65cbdb225264c17ac1a069c57d3f7fa0783c556.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                190,
+                355,
+                556,
+                640
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2022-2023L4 机试题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                218,
+                81,
+                780,
+                166
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "① 测量每个图片有多少个物料（白色方块），并显示在图片上。（20分）"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "② 在图像上按从左到右、从上到下的顺序标记每颗物料的序号,序号显示在物料的中心附近。(30)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(3) 将料盘按照下图的样式划分, 每个区域内一颗物料, 并显示分剖线。(20 分)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(4) 在图像上找出每颗物料的四条边并显示。(30分)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                116,
+                214,
+                616,
+                535
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e967338dc869808a95892d3ba32655054d08afaac2c90e53e6d8c036f59fdece.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                118,
+                570,
+                506,
+                911
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2022-2023L4 机试题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                218,
+                81,
+                780,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 假设上图是一个的轴承,标注的都是轴承里的钢珠。按照上述要求编写 vpp 程序。"
+                    }
+                ]
+            },
+            "bbox": [
+                150,
+                222,
+                750,
+                253
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "①抓取轴承中所有的钢珠，并按下述图像要求进行排序。(30分)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "②计算所有相邻钢珠的距离和①抓取到的所有钢珠中心坐标和半径存入D:/CognexData/Data.csv。(30分)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "③将①排序后的钢珠坐标向半径，按照排序循序显示在图像界面上。（20分） "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "④判断轴承是否合格(以钢珠个数判断的话,只得分一半),界面显示 OK/NG (20 分)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                150,
+                255,
+                775,
+                409
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f49ce26fb20a7e5b84ffdae7c3558651be04b9d8d08fc4cde5676887e551f684.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                152,
+                450,
+                465,
+                846
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6de9a92e4b91760a16075cb95a6c295d92deff70046fed15009012c72b736beb.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                470,
+                453,
+                765,
+                844
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "例题一"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                27,
+                166,
+                130,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "请根据要求完成硬件选型，使用康耐视相机CAM-CIC-5000R-14-G（2592*1944芯片尺寸：5.76*4.29RollingShutter)，工作距离为100mm，FOV为57.6mm*42.9mm，求分别使用多大焦距的定焦镜头和多大倍率的远心镜头？"
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                246,
+                930,
+                307
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} f / D = h / H \\\\ f = h / H \\star D = 5.76 / 57.6 \\star 100 = 10mm. \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e38552fda1b02eb46099d792a6cc615aef1c32a9296fd236c669dc3b16b77d7e.jpg"
+                }
+            },
+            "bbox": [
+                23,
+                364,
+                283,
+                425
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "放大倍率  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "= \\frac{h}{H} = 5.76 / 57.6 = 0.1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 倍"
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                479,
+                281,
+                512
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/55b7475a2d9926127aa5b2ba40419f2dda93d39e4cee7f774efc49fac18b479f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                330,
+                374,
+                963,
+                688
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "例题三"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                38,
+                53,
+                140,
+                100
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "有一被测零件，尺寸为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "50 \\mathrm{~mm} \\times 40 \\mathrm{~mm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，视野大小为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "64 \\mathrm{~mm} \\times 48 \\mathrm{~mm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，使用的相机分辨率为1280 Pixel x 960 Pixel，抓边工具的精度为1/4像素，计算测量该工件宽度的测量精度？？"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                107,
+                937,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "像素精度=FOV/分辨率=64/1280=0.05mm/Pixel "
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                196,
+                427,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测量精度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " 像素精度*抓边工具精度*2=0.05*1/4*2=0.025mm/Pixel"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                225,
+                562,
+                259
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "例题三"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                38,
+                53,
+                140,
+                100
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "有一被测零件，尺寸为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "50 \\mathrm{~mm} \\times 40 \\mathrm{~mm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，视野大小为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "64 \\mathrm{~mm} \\times 48 \\mathrm{~mm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，使用的相机分辨率为1280 Pixel x 960 Pixel，抓边工具的精度为1/4像素，计算测量该工件宽度的测量精度？？"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                107,
+                937,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "像素精度=FOV/分辨率=64/1280=0.05mm/Pixel "
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                198,
+                425,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测量精度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " 像素精度*抓边工具精度*2=0.05*1/4*2=0.025mm/Pixel"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                225,
+                562,
+                259
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2022-2023L4 机试题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                218,
+                81,
+                780,
+                166
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "① 测量每个图片有多少个物料（白色方块），并显示在图片上。（20分）"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "② 在图像上按从左到右、从上到下的顺序标记每颗物料的序号,序号显示在物料的中心附近。(30)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(3) 将料盘按照下图的样式划分, 每个区域内一颗物料, 并显示分剖线。(20 分)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(4) 在图像上找出每颗物料的四条边并显示。(30分)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                116,
+                214,
+                616,
+                535
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ea7d0cfb6c746e1f0f5baaea4749ec0c41320cb79e8432ffed46ab72e6eb7562.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                118,
+                570,
+                506,
+                911
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2022-2023L4 机试题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                218,
+                81,
+                780,
+                166
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "① 测量每个图片有多少个物料（白色方块），并显示在图片上。（20分）"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "② 在图像上按从左到右、从上到下的顺序标记每颗物料的序号，序号显示在物料的中心附近。（30）"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(3) 将料盘按照下图的样式划分, 每个区域内一颗物料, 并显示分剖线。(20 分)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(4) 在图像上找出每颗物料的四条边并显示。(30分)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                116,
+                214,
+                616,
+                535
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d1e88c70ed5d2da368e18828b53a5cf4890374488f802196ed8be5e18c14faad.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                118,
+                570,
+                506,
+                911
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2022-2023L4 机试题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                218,
+                81,
+                780,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 假设上图是一个的轴承,标注的都是轴承里的钢珠。按照上述要求编写 vpp 程序。"
+                    }
+                ]
+            },
+            "bbox": [
+                150,
+                222,
+                750,
+                253
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "①抓取轴承中所有的钢珠，并按下述图像要求进行排序。(30分)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "②计算所有相邻钢珠的距离和 ①抓取到的所有钢珠中心坐标和半径存入 D: /CognexData/Data.csv。(30分)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "③将①排序后的钢珠坐标向半径，按照排序循序显示在图像界面上。（20分） "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "④判断轴承是否合格（以钢珠个数判断的话，只得分一半），界面显示OK/NG（20分）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                150,
+                255,
+                775,
+                409
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cf81d2a02a40deedd15b50b7659a8b67a79ec73ffff6e51ad7076679fcccda73.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                152,
+                450,
+                465,
+                846
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fd25ef1e7c59ac1762620970c1f8399d2b49f44773c262d7bd6fc54bbcfb5eb4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                470,
+                453,
+                765,
+                844
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "例题一"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                27,
+                166,
+                130,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "请根据要求完成硬件选型，使用康耐视相机CAM-CIC-5000R-14-G（2592*1944芯片尺寸：5.76*4.29RollingShutter)，工作距离为100mm，FOV为57.6mm*42.9mm，求分别使用多大焦距的定焦镜头和多大倍率的远心镜头？"
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                246,
+                930,
+                307
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} f / D = h / H \\\\ f = h / H \\star D = 5.76 / 57.6 \\star 100 = 10mm. \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/cbb1e9abbc4d7906bcfb0fa40d3fe95c72fb300d91043c83f3cd2aafca3fba87.jpg"
+                }
+            },
+            "bbox": [
+                23,
+                364,
+                283,
+                425
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "放大倍率  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "= \\frac{h}{H} = 5.76 / 57.6 = 0.1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 倍"
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                479,
+                281,
+                512
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/80e5b1099168a81f36057cb345775b4337e2a24417896f78006de238fc6913e2.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                330,
+                374,
+                963,
+                688
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "例题二"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                30,
+                109,
+                131,
+                155
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "请根据要求完成硬件选型，如下图所示测量工件的宽度，工件要求公差为正负0.1mm，工作距离要求200mm，FOV为48.96mm*40.96mm，求使用的相机分辨率和镜头？"
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                164,
+                909,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测量精度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "= 1 / 10"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 公差带  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "= 0.1\\star 0.2 = 0.02\\mathrm{mm} / \\mathrm{pixel}"
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                253,
+                409,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "分辨率H=FOV/精度=48.96/0.02=2448pixel "
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                285,
+                377,
+                311
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "分辨率W=FOV/精度=40.96/0.02=2048pixel"
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                314,
+                381,
+                342
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "相机分辨率为2448*2048 "
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                342,
+                231,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CAM-CIC-5000-20-G (2448*2048 芯片尺寸：8.4*7.1)Global shutter 20fps "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                401,
+                627,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "定焦镜头"
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                459,
+                106,
+                488
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "f/D=h/H "
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                492,
+                100,
+                516
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "f=8.4/48.96*200mm=34mm "
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                522,
+                258,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "远心镜头"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                577,
+                106,
+                605
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "M=h/H=8.4/48.96=0.17 "
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                609,
+                222,
+                635
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c368cdd7b9bca653f29e3ce005590efc33523508467a0aed3cc03c1007608383.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                468,
+                501,
+                963,
+                775
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Cognex相机"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                59,
+                105,
+                295,
+                166
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b92786db8184cbbe0a8ddb13cdf1866099f009312e8fd632bf065a91698c94ed.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Model</td><td>Resolution</td><td>Pixel Size</td></tr><tr><td>CAM-CIC-5000-20-G</td><td>2448*2048</td><td>8.4*7.1</td></tr><tr><td>CAM-CIC-5000R-14-G</td><td>2592*1944</td><td>5.76*4.29</td></tr><tr><td>CAM-CIC-12MR-8-G</td><td>4024*3036</td><td>7.4*5.6</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                307,
+                886,
+                542
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "相机选型的重要计算公式？"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                62,
+                609,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "焦距  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{f} = \\mathrm{{WD}} \\times"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 靶面尺寸(H or V)/FOV(H or V) "
+                    }
+                ]
+            },
+            "bbox": [
+                218,
+                159,
+                822,
+                209
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "视场FOV (H or V) = WD × 靶面尺寸 (H or V) / 焦距f "
+                    }
+                ]
+            },
+            "bbox": [
+                218,
+                222,
+                884,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "视场FOV(H or V) = 把面尺寸(H or V)/光学倍率"
+                    }
+                ]
+            },
+            "bbox": [
+                219,
+                285,
+                838,
+                346
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "工作距离WD = f(焦距) × 靶面尺寸/FOV(H or V)"
+                    }
+                ]
+            },
+            "bbox": [
+                222,
+                351,
+                827,
+                398
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "光学倍率  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " 靶面尺寸(H or V)/FOV(H or V)"
+                    }
+                ]
+            },
+            "bbox": [
+                219,
+                412,
+                784,
+                462
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7674b442acd1f01485b70e150f8c9009bd2be747aef64e40567c2b37dad09622.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                181,
+                501,
+                863,
+                753
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac {f}{W D} = \\frac {\\text {S e n s o r S i z e (V) o r (H)}}{\\text {F O V (V) o r a (H)}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f367c16f561dbb10f8829937ed51ec815e066d1a45603673df5628366836b00a.jpg"
+                }
+            },
+            "bbox": [
+                344,
+                800,
+                680,
+                901
+            ]
+        }
+    ]
+]

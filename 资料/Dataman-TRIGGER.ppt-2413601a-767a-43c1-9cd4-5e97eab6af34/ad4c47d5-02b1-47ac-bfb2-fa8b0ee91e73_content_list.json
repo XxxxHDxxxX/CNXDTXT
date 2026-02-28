@@ -1,0 +1,359 @@
+[
+    {
+        "type": "text",
+        "text": "DataMan 触发模式",
+        "text_level": 1,
+        "bbox": [
+            70,
+            255,
+            500,
+            340
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/90b4bd3ba14879d294d1582546768937f544b462a16b4e3efdef2fe491d859b6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            36,
+            550,
+            515,
+            957
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            656,
+            824,
+            937,
+            881
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "单（外部）触发 ",
+        "text_level": 1,
+        "bbox": [
+            34,
+            22,
+            350,
+            87
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a4c7f59afa065159b49386dab205d09018f978f413f2341d202202bbaf23daa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>触发:图像采集:</td><td>一次触发 =&gt; 一次曝光 + 采集图像(think &quot;In-Sight&quot;)</td></tr><tr><td>解码时间\n·通过设定超时时间\n自动曝光\n仅限 DM500\n可训练性?</td><td>应用:\n文档管理\n消费品包装</td></tr></table>",
+        "bbox": [
+            30,
+            148,
+            941,
+            890
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "Dun it up to ",
+        "bbox": [
+            9,
+            842,
+            176,
+            983
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "2 - Confidential ",
+        "bbox": [
+            419,
+            962,
+            543,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            781,
+            940,
+            956,
+            977
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自（内部）触发",
+        "text_level": 1,
+        "bbox": [
+            38,
+            22,
+            350,
+            87
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/866917c629d9b6c01a310061c40531b1299bd566e9f1d16644b0397731ffe9a9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>触发:无\n图像采集:</td><td>无触发脉冲\n结果处理方式\n©DM100/200:每帧图像的结果独立输出\n©DM500:收集一定时间段内图像的所有结果,丢弃重复结果</td></tr><tr><td>解码时间\n◎通过设置时间间距\n自动曝光\n◎仅限DM500\n可训练性?</td><td>应用\n◎简单的扫描,就象激光读码器\n◎DM500“演示读取”</td></tr></table>",
+        "bbox": [
+            30,
+            148,
+            941,
+            890
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "3 - Confidential ",
+        "bbox": [
+            420,
+            964,
+            543,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            781,
+            940,
+            958,
+            979
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "突发模式",
+        "text_level": 1,
+        "bbox": [
+            34,
+            22,
+            216,
+            88
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2d767ae46a8b0f1f66e434ed8605fe27e36b07ee84e44f458ba65ada52fb7d8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>触发:</td><td>Start</td><td>图像被缓存，直到缓存上限\n每帧图像解码在设定的超时时间内解码\n所有的图像结果被收集，丢弃重复结果</td></tr><tr><td>图像采集:</td><td></td><td></td></tr><tr><td>解码时间\n◎通过设置超时时间\n自动曝光\n◎仅限DM500\n可训练性?</td><td></td><td>应用\n◎长时间段间的动态捕捉\n◎通过相邻获取图像的变化达到提高读码率</td></tr></table>",
+        "bbox": [
+            29,
+            148,
+            941,
+            890
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "Dun it up to ",
+        "bbox": [
+            9,
+            842,
+            176,
+            983
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "4 - Confidential ",
+        "bbox": [
+            419,
+            964,
+            543,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            781,
+            940,
+            956,
+            979
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "连续模式",
+        "text_level": 1,
+        "bbox": [
+            33,
+            22,
+            216,
+            88
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/95b80175d2b3f606f0dfe58109271484aa080cf8440f93a91d18aa3cb08a8f4e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>触发:</td><td>Start End</td><td>周期性的图像序列\n单长脉冲\n开始/停止脉冲对\n所有的图像结果形成一个输出\n丢弃重复的结果</td></tr><tr><td>图像采集:</td><td></td><td></td></tr><tr><td>解码时间\n通过设置时间间距\n自动曝光\n仅限DM500\n可训练性?</td><td></td><td>应用\n物流-输送带上的盒子\n大面积的覆盖区域，但物件不一定移动\n线速度和解码速度的对比\n时间间距决定线速度（必须在符号在视野内获取图像）\n间距时间限定解码时间</td></tr></table>",
+        "bbox": [
+            30,
+            148,
+            941,
+            877
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "Dun it up to ",
+        "bbox": [
+            9,
+            842,
+            176,
+            983
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "5 - Confidential ",
+        "bbox": [
+            420,
+            964,
+            543,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            781,
+            940,
+            958,
+            979
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "手动模式",
+        "text_level": 1,
+        "bbox": [
+            34,
+            22,
+            216,
+            88
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c194019500d592b34702506050ceb11b19e87b575027f6a5ad3ebc92226bdd72.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>触发:图像采集:</td><td>Start End</td><td>手持式读码器的主要模式取图和解码的设计以达到单个代码触发到解码输出时间最小化为目的</td></tr><tr><td>解码时间◎自动自动曝光◎是可训练性?◎自动的DPM训练</td><td>应用◎手持式DPM应用◎简单的产品演示◎需要自动曝光的索引应用</td><td></td></tr></table>",
+        "bbox": [
+            29,
+            148,
+            941,
+            909
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "6 - Confidential ",
+        "bbox": [
+            420,
+            962,
+            544,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            781,
+            940,
+            958,
+            979
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "演示模式*",
+        "text_level": 1,
+        "bbox": [
+            34,
+            24,
+            240,
+            85
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a337e5db3fba7bdea879c0d10b25def71ba29f70662ba985424e16a620697883.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>触发：无\n图像采集：</td><td>没有触发信号的手动模式，将单个代码触发到解码输出的时间最短化\n*不要和物流应用中的演示读取混淆!!\n！！</td></tr><tr><td>解码时间\n◎自动\n自动曝光\n◎是\n可训练性？\n◎自动的DPM训练</td><td>应用：\n◎直接工件标记代码演示，例如：医学仪器</td></tr></table>",
+        "bbox": [
+            30,
+            148,
+            941,
+            909
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "7 - Confidential ",
+        "bbox": [
+            420,
+            964,
+            541,
+            985
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            783,
+            942,
+            955,
+            977
+        ],
+        "page_idx": 6
+    }
+]

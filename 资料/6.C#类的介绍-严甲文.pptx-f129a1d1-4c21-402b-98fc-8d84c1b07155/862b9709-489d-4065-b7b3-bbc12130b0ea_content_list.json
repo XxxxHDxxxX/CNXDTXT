@@ -1,0 +1,1678 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/92a1f13c78b5c53eb87ffa80865b3ecafa7a394812426ae8e18110e72cd484b6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            225,
+            0,
+            809,
+            568
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C# 类的介绍 ",
+        "text_level": 1,
+        "bbox": [
+            323,
+            637,
+            544,
+            712
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cognex | 2023.3.9 ",
+        "bbox": [
+            60,
+            822,
+            220,
+            862
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            809,
+            924,
+            970,
+            968
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "培训内容",
+        "text_level": 1,
+        "bbox": [
+            4,
+            1,
+            145,
+            68
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 面向对象思想和类简介",
+            "2. 类的基本语法",
+            "3. 属性",
+            "4. 静态和非静态的区别",
+            "5. 构造函数和析构函数",
+            "6. this 关键字",
+            "7. 面向对象 ( 封装、继承、多态 ) 简介"
+        ],
+        "bbox": [
+            34,
+            109,
+            391,
+            505
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            964,
+            41,
+            985
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            187,
+            988
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "面向对象思想和类简介",
+        "text_level": 1,
+        "bbox": [
+            4,
+            1,
+            342,
+            72
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "什么是面向对象？",
+        "bbox": [
+            18,
+            105,
+            150,
+            142
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "面向对象编程： Object-oriented Programming ，简称 OOP ，面向对象程序设计。",
+        "bbox": [
+            17,
+            153,
+            617,
+            190
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "面向对象思想使得程序更有重用性、灵活性和拓展性。面向对象的核心思想就是：封装、继承、多态。",
+        "bbox": [
+            17,
+            200,
+            762,
+            235
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "面向对象编程的中心思想是通过调用对象来实现想要实现的目的。",
+        "bbox": [
+            18,
+            246,
+            496,
+            283
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "面向对象中最常用的三个概念：对象、类、实例化",
+        "bbox": [
+            17,
+            338,
+            389,
+            377
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对象 $=$ 算法 $^ +$ 数据结构",
+        "bbox": [
+            18,
+            385,
+            191,
+            420
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "程序 $=$ 对象 $1 +$ … 对象 n",
+        "bbox": [
+            18,
+            433,
+            197,
+            468
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们把这些具有相同属性和相同方法的对象进行进一步的封装，抽象出来类这个概念。类就是个模子，确定了对象应该具有的属性和方法，对象是根据类创建出来的，抽象出对象的这个过程就叫做对象的实例化。",
+        "bbox": [
+            17,
+            525,
+            438,
+            703
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/12d42062ad2c5f45ff2e4f45c5da7d8e23cbf5e53c9108d6313941caf2bbee35.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            466,
+            385,
+            1000,
+            875
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            964,
+            39,
+            985
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            187,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "类的基本语法",
+        "text_level": 1,
+        "bbox": [
+            4,
+            1,
+            209,
+            66
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C# 中类使用关键字 class 来定义 ，如下是语法结构：",
+        "bbox": [
+            17,
+            127,
+            404,
+            164
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "类修饰符 class 类名 ",
+        "bbox": [
+            18,
+            194,
+            176,
+            231
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            18,
+            268,
+            30,
+            301
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "字段",
+        "bbox": [
+            43,
+            331,
+            79,
+            366
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "属性",
+        "bbox": [
+            43,
+            400,
+            79,
+            433
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方法",
+        "bbox": [
+            43,
+            468,
+            79,
+            503
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            18,
+            540,
+            29,
+            574
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接下来实操，在 VS 中如何去添加一个类",
+        "bbox": [
+            18,
+            672,
+            319,
+            707
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1770ccdc279fcfecf6741c80049b6d1e649fbc47fa150b2751d153f1c590940b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">表9-1类定义可以使用的访问修饰符</td></tr><tr><td>修饰符</td><td>含义</td></tr><tr><td>无或internal</td><td>只能在当前项目中访问类</td></tr><tr><td>public</td><td>可以在任何地方访问类</td></tr><tr><td>abstract 或 internal abstract</td><td>类只能在当前项目中访问，不能实例化，只能被继承</td></tr><tr><td>public abstract</td><td>类可以在任何地方访问，不能实例化，只能被继承</td></tr><tr><td>sealed 或 internal sealed</td><td>类只能在当前项目中访问，不能被继承，只能实例化</td></tr><tr><td>public sealed</td><td>类可以在任何地方访问，不能被继承，只能实例化</td></tr></table>",
+        "bbox": [
+            490,
+            377,
+            974,
+            709
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            34,
+            964,
+            43,
+            985
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            56,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "类的基本语法 - 如何创建一个类",
+        "text_level": 1,
+        "bbox": [
+            4,
+            1,
+            469,
+            66
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 在 Windows 搜索 Visual Studio 并打开；",
+            "2. 点击左上角 FILE\\New\\Project…"
+        ],
+        "bbox": [
+            26,
+            127,
+            263,
+            201
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/acf39df6cefeefbfeb45555934ec09f5429181cd5478911eae09c92503237a47.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            26,
+            216,
+            369,
+            548
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. 选择项目、修改解决方案名称、项目名称，点击Ok 即可创建一个项目；",
+        "bbox": [
+            26,
+            555,
+            309,
+            605
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/50d834da1282b63bb296b251f9f66032354991aaf776965b6fdb4d60329329a2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            26,
+            605,
+            304,
+            950
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. 鼠标右击项目名称，选择 Add\\Class ，改一个类；",
+        "bbox": [
+            429,
+            125,
+            752,
+            179
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/63fb85c6b97272e36c243374cc7f859eb23a26e0228f51eea717a731dd20f12f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            673,
+            50,
+            963,
+            577
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. 在创建的类中编写代码。",
+        "bbox": [
+            437,
+            544,
+            588,
+            572
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/63cc53a09aec7f770f309dc024bb2a182e27ce9b4c619b0bc71ea30ef9e01244.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            438,
+            609,
+            866,
+            907
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            35,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "属性",
+        "text_level": 1,
+        "bbox": [
+            5,
+            1,
+            75,
+            66
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为什么会有属性？",
+        "bbox": [
+            12,
+            124,
+            142,
+            159
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "属性的作用就是保护字段，对字段的赋值和取值进行限定，正常情况应该给每一个字段配备属性；",
+        "bbox": [
+            29,
+            172,
+            743,
+            211
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "属性的本质就是两个方法，一个叫 get 一个叫 set ， get 用于取值， set 用于赋值。",
+        "bbox": [
+            31,
+            224,
+            630,
+            262
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基本语法：",
+        "bbox": [
+            12,
+            275,
+            92,
+            309
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "public 变量类型 变量名 //字段 private string_name;   \n{ get{return 字段名;} //属性 public string Name set{字段名 $=$ value;} { get{return_name;} set{name=value;} } ",
+        "bbox": [
+            10,
+            322,
+            486,
+            568
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "属性创建的快捷键：鼠标光标选定字段， $\\mathsf { c t r l } + \\mathsf { R } + \\mathsf { E }$ 快捷键即可快速生成属性结构；",
+        "bbox": [
+            11,
+            677,
+            612,
+            714
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            34,
+            964,
+            43,
+            985
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "静态和非静态的区别",
+        "text_level": 1,
+        "bbox": [
+            4,
+            0,
+            307,
+            68
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 在非静态类中，既可以有静态成员，也可以有非静态成员（实例成员）；",
+            "2. 在静态类中，只允许有静态成员，不允许出现非静态成员；",
+            "3. 在调用实例成员的时候，需要使用对象名 . 实例成员；在调用静态成员的时候，需要使用类名 . 实例成员；",
+            "4. 静态函数中，只能访问静态成员 , 不允许访问实例成员；",
+            "5. 实例函数中，既可以使用静态成员 , 也可以使用实例成员；"
+        ],
+        "bbox": [
+            12,
+            124,
+            809,
+            362
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "public static void Say1()   \n{ Console.WriteLine(\"我是静态方法\");   \n}   \npublic void Say2(){ Console.WriteLine(\"我是非静态方法\"); ",
+        "guess_lang": "cs",
+        "bbox": [
+            15,
+            418,
+            271,
+            659
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6. 静态类什么时候使用 :",
+        "bbox": [
+            13,
+            679,
+            204,
+            712
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1) 如果你想要你的类当做一个“工具类”去使用，这个时候可以考虑将类写成静态的 , 适合频繁使用的，例如 Console 类；",
+            "2) 静态类在整个项目中资源共享 ( 静态类占内存 ) ，类本身是不占内存的 , 如果实例化对象就等于开辟了空间；",
+            "3) 只有在程序全部结束之后 , 静态类才会释放资源，所以在一个程序中静态类不能过多。"
+        ],
+        "bbox": [
+            29,
+            727,
+            928,
+            868
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            33,
+            964,
+            40,
+            985
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "构造函数和析构函数",
+        "text_level": 1,
+        "bbox": [
+            4,
+            1,
+            307,
+            64
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "构造函数：",
+        "bbox": [
+            18,
+            140,
+            96,
+            175
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作用：帮助我们初始化对象 ( 给对象的每个属性依次赋值 ) ；构造函数是一个特殊的方法 :",
+        "bbox": [
+            17,
+            190,
+            456,
+            275
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 构造函数没有返回值 , 连 void 也不能写；",
+            "2. 构造函数的名称必须和类名一样；",
+            "3. 每个类都有默认的构造函数，当你新写的将覆盖默认的；",
+            "3. 创建对象的时候会执行构造函数；",
+            "3. 构造函数允许重载；"
+        ],
+        "bbox": [
+            32,
+            290,
+            465,
+            527
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "语法：",
+        "bbox": [
+            19,
+            594,
+            62,
+            627
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "public 类名 ( 参数 )",
+        "bbox": [
+            18,
+            644,
+            163,
+            683
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            19,
+            700,
+            30,
+            731
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "// 给属性赋值 ",
+        "bbox": [
+            19,
+            744,
+            118,
+            779
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            19,
+            800,
+            29,
+            831
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/05a9e5e9d73c6475d63a0ea78ca24f8a2dffbbb278f12572dc41a22f56ebe122.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            475,
+            187,
+            980,
+            718
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "构造函数和析构函数",
+        "text_level": 1,
+        "bbox": [
+            4,
+            1,
+            309,
+            70
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "析构函数：",
+        "bbox": [
+            17,
+            155,
+            96,
+            194
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作用：程序结束后执行析构函数 , 立即帮助程序释放内存；",
+        "bbox": [
+            17,
+            218,
+            442,
+            261
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": ".Net 引入了一个 GC （ Garbage Collection ）的机制， GC 能够自动的去帮助程序释放资源，但我们一般不会手动去调用 GC去帮助程序回收资源，一般是由程序自动帮我们使用GC去回收，那这里就涉及一个问题，有可能程序结束的时候， GC没有马上帮程序释放资源，如果说你想让资源马上被释放，就可以主动使用析构函数去释放。",
+        "bbox": [
+            16,
+            283,
+            942,
+            431
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "语法：",
+        "bbox": [
+            18,
+            490,
+            66,
+            527
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "~ 类名 () ",
+        "bbox": [
+            16,
+            540,
+            87,
+            583
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "{ ",
+        "bbox": [
+            15,
+            592,
+            34,
+            631
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "//… ",
+        "bbox": [
+            31,
+            644,
+            63,
+            679
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "} ",
+        "bbox": [
+            15,
+            694,
+            31,
+            733
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d498fd0fa49319a1602b0f33ef07285faed3c54e3afd4ce6acdc7c8fa4d10aa8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            125,
+            585,
+            387,
+            727
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 ",
+        "bbox": [
+            34,
+            964,
+            43,
+            985
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            988
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "this 关键字",
+        "text_level": 1,
+        "bbox": [
+            4,
+            3,
+            171,
+            68
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "作用：",
+        "bbox": [
+            13,
+            161,
+            59,
+            194
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 代表当前类的对象；",
+            "2. 在类当中显示的调用本类的构造函数， :this ；"
+        ],
+        "bbox": [
+            13,
+            227,
+            375,
+            331
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "public class Student   \n{ public Student(string name,int age,char gender,int chinese,int math,int english) { this.Name $=$ name; this.Age $=$ age; this.Gender $=$ gender; this.Chinese $=$ chinese; this.Math $=$ math; this.English $=$ english; } public Student(string name,int age,char gender) { this.Name $=$ name; this.Age $=$ age; this.Gender $=$ gender; } public Student(string name,int chines, int math, int english) { this.Name $=$ name; this.Chinese $=$ chinese; this.Math $=$ math; this.English $=$ english; } ",
+        "bbox": [
+            29,
+            385,
+            400,
+            837
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "public class Student   \n{ public Student(string name,int age,char gender,int chinese,int math,int english) { this.Name $=$ name; this.Age $=$ age; this.Gender $=$ gender; this.Chinese $=$ chinese; this.Math $=$ math; this.English $\\equiv$ english; } public Student(string name,int age,char gender):this(name,age,gender,0,0,0) { //this.Name $=$ name; //this.Age $=$ age; //this.Gender $=$ gender; } public Student(string name,int chines, int math, int english):this(name,0,'c',chinese,math,english) { //this.Name $=$ name; //this.Chinese $=$ chinese; //this.Math $=$ math; //this.English $\\equiv$ english; } ",
+        "bbox": [
+            402,
+            385,
+            906,
+            829
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            28,
+            966,
+            40,
+            983
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "面向对象 - 封装",
+        "text_level": 1,
+        "bbox": [
+            5,
+            1,
+            237,
+            72
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/f38978975894a1babfd98de5266abab3a01fbbe2ec772ee2efe0cbcda828fc9b.jpg",
+        "image_caption": [
+            "类将内部数据隐藏"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            94,
+            190,
+            797,
+            529
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "封装，简单来说就是将常用的重复的代码通过一种方法，编成一个新的可以被我们直接调用的类，省去了繁复的编程过程。对用户来说，用户并不需要知道对象是如何进行各种操作的，用户只需要通过调用封装后类的对象来进行想要的操作即可。封装这种思想，大大简化了操作步骤，代码变得更加有效，复用性也更高。",
+        "bbox": [
+            13,
+            616,
+            969,
+            766
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "封装还有另外一个目的，就是将不需要对外提供的内容都隐藏起来；把属性隐藏（ private 关键字），提供公共方法对其访问。这使得用户不能直接访问程序的详细细节，从而使得代码的安全性的到提高。",
+        "bbox": [
+            13,
+            790,
+            966,
+            885
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "11 ",
+        "bbox": [
+            29,
+            964,
+            40,
+            985
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            988
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4afcc6ec31e40711a6c47dbfaa4d88a5fde14d4373c4ded58fe8f42c83905fb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            676,
+            16,
+            717,
+            83
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "描述本级目录对下级目录的关系",
+        "bbox": [
+            730,
+            27,
+            939,
+            62
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ef707a84f142f7ed3ef91c5e221b92cbd93e4d2af72fea5d6db458344880245.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            677,
+            92,
+            716,
+            157
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "描述本级目录对上级目录的关系",
+        "bbox": [
+            730,
+            107,
+            939,
+            142
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/829fe58cb3bb052b6b48d300a099bea111646689cb4b395ba236d226764db34c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            142,
+            172,
+            858,
+            642
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "继承的概念：我们可能会在一些类中写一些重复的成员，我们可以将这些重复的成员单独的封装到一个类中,作为这些类的父类；",
+        "bbox": [
+            47,
+            685,
+            917,
+            757
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "继承的作用：利用特定对象之间的共有属性，我们在程序的开发过程中，通过面向对象的继承特性就可以更好的提高代码的重用率。",
+        "bbox": [
+            47,
+            768,
+            922,
+            838
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "面向对象 - 继承",
+        "bbox": [
+            5,
+            1,
+            236,
+            68
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12 ",
+        "bbox": [
+            28,
+            964,
+            42,
+            985
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "面向对象 - 继承",
+        "text_level": 1,
+        "bbox": [
+            5,
+            3,
+            235,
+            64
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 子类继承了父类 , 那么子类从父类那里继承过来了什么 ?",
+            "首先 , 子类继承了父类的属性和方法 , 但是子类并没有继承父类的私有字段 .",
+            "2. 子类有没有继承父类的构造函数?"
+        ],
+        "bbox": [
+            22,
+            112,
+            438,
+            216
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "子类并没有继承父类的构造函数，但是子类会默认调用父类无参数的构造函数，创建父类对象，让子类可以使用父类中的成员；所以，如果在父类中重新写构造函数，那个无参的构造函数就被覆盖了，子类就调用不到了，所以子类会报错；",
+        "bbox": [
+            22,
+            227,
+            720,
+            292
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "解决办法 :",
+        "bbox": [
+            23,
+            303,
+            83,
+            329
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1) 在父类中重新写一个无参数的构造函数；",
+            "2) 在子类中显示调用父类的构造函数，使用关键字 :base() ；"
+        ],
+        "bbox": [
+            23,
+            340,
+            354,
+            407
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.继承的特性",
+        "bbox": [
+            23,
+            453,
+            103,
+            479
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1). 继承的单根性：一个子类只能有一个父类；",
+            "2). 继承的传递性；",
+            "3). 学会查看类图，里面描绘了类之间的关系 (object 是所有类的父类 ) ；"
+        ],
+        "bbox": [
+            23,
+            490,
+            416,
+            596
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/5832170c0fc4e93f8815ea2bfd8540d2077434cb0f39a62edd86b96ba6cded26.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            29,
+            633,
+            450,
+            851
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/53d7ecb5faface3215178a1d496d65ea70991ad230db9308c64ef11dff363b48.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            497,
+            342,
+            750,
+            720
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "public Student(string name, int age, char gender, int id) : base(name, age, gender) { this.Id = id; } ",
+        "guess_lang": "txt",
+        "bbox": [
+            506,
+            770,
+            827,
+            887
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            28,
+            966,
+            40,
+            983
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            56,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "面向对象 - 多态",
+        "text_level": 1,
+        "bbox": [
+            5,
+            1,
+            237,
+            72
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "继承中提到了父类和子类，其实将父类对象应用于子类的特征就是多态，依然以图形类来说明多态，每个图形都拥有绘制自己的能力，这个能力可以看作是该类具有的行为，如果将子类的对象统一看作是父类的实例对象，这样当绘制任何图形时，可以简单地调用父类也就是图形类绘制图形的方法即可绘制任何图形，这就是多态最基本的思想。",
+        "bbox": [
+            29,
+            129,
+            922,
+            281
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "实现多态的方法：",
+        "bbox": [
+            31,
+            305,
+            161,
+            342
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 虚方法：将父类的方法标记为虚方法 , 使用关键字 virtual, 这个函数可以被子类重新写一遍，父类方法中加 victual(publicvirtual void Person(){}) ；子类方法中加 override(public override void Student(){})",
+            "2. 抽象类：当父类中的方法不知如何去实现的时候，可以考虑将父类写成抽象类，将方法写成抽象方法，用 abstract标记，抽象方法没有方法体，子类的方法用 override 重写。注：抽象类不能创建对象，只能通过子类赋值；",
+            "3. 接口："
+        ],
+        "bbox": [
+            28,
+            372,
+            925,
+            653
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1) 接口中只能包含方法； 2) 接口中的成员都不能有任何实现； 3) 接口不能被实例化； 4) 接口中的成员不能有任何访问修饰符，默认为 public ； 5) 实现接口的子类必须将接口中的所有成员全都实现； 6) 子类实现接口的方法时不需要任何关键字，直接实现即可；7)接口存在的意义就是为了多态。",
+        "bbox": [
+            29,
+            683,
+            932,
+            829
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "14 ",
+        "bbox": [
+            28,
+            964,
+            42,
+            985
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "THANKS ",
+        "text_level": 1,
+        "bbox": [
+            383,
+            470,
+            610,
+            542
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "15 ",
+        "bbox": [
+            30,
+            966,
+            40,
+            983
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            56,
+            966,
+            186,
+            985
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            955,
+            978,
+            985
+        ],
+        "page_idx": 14
+    }
+]

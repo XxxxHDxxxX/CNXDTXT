@@ -1,0 +1,4731 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        0,
+                        720,
+                        339
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                720,
+                                339
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        720,
+                                        339
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                720,
+                                                339
+                                            ],
+                                            "type": "image",
+                                            "image_path": "078d85dc7fbe7b6332a58dcff5a861a4dfa00d4461c66706d4ac35cb88881410.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        189,
+                        385,
+                        503,
+                        423
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                189,
+                                385,
+                                503,
+                                423
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        189,
+                                        385,
+                                        503,
+                                        423
+                                    ],
+                                    "type": "text",
+                                    "content": "CheckerboardTool"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        19,
+                        501,
+                        94,
+                        520
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                19,
+                                501,
+                                94,
+                                520
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        501,
+                                        94,
+                                        520
+                                    ],
+                                    "type": "text",
+                                    "content": "2022/1/6"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        32,
+                        159,
+                        59
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                32,
+                                159,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        32,
+                                        159,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "学习目标"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        48,
+                        105,
+                        490,
+                        165
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 4,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                48,
+                                105,
+                                490,
+                                129
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        105,
+                                        490,
+                                        129
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                48,
+                                                105,
+                                                490,
+                                                129
+                                            ],
+                                            "type": "text",
+                                            "content": "掌握CogCalibCheckerboardTool工具含义以及作用"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                143,
+                                418,
+                                165
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        143,
+                                        418,
+                                        165
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                48,
+                                                143,
+                                                418,
+                                                165
+                                            ],
+                                            "type": "text",
+                                            "content": "掌握CogCalibCheckerboardTool使用方法"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        24,
+                        517,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                517,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        517,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        32,
+                        439,
+                        63
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                32,
+                                439,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        32,
+                                        439,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 介绍"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        43,
+                        102,
+                        604,
+                        267
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 4,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                44,
+                                102,
+                                600,
+                                189
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        102,
+                                        600,
+                                        189
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                44,
+                                                102,
+                                                600,
+                                                189
+                                            ],
+                                            "type": "text",
+                                            "content": "- 物体通过镜头成像都会过多过少产生一定的扭曲，从而影响设备精度，为了提高精度以及完成其他执行单元的功能，我们需要对通过镜头取到的图像进行校正，进而获取精度较高的数据。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                212,
+                                604,
+                                267
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        212,
+                                        604,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                212,
+                                                604,
+                                                267
+                                            ],
+                                            "type": "text",
+                                            "content": "那么今天我们要学习的CogCalibCheckerboardTool这个工具就可以完成校正这一工作。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        66
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        24,
+                        517,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                517,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        517,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        615,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                615,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        615,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        32,
+                        403,
+                        61
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                32,
+                                403,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        32,
+                                        403,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 简介"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        72,
+                        131,
+                        182,
+                        152
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                131,
+                                182,
+                                152
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        131,
+                                        182,
+                                        152
+                                    ],
+                                    "type": "text",
+                                    "content": "如右图所示为"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        73,
+                        155,
+                        303,
+                        176
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                155,
+                                303,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        155,
+                                        303,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        73,
+                        176,
+                        183,
+                        195
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                176,
+                                183,
+                                195
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        176,
+                                        183,
+                                        195
+                                    ],
+                                    "type": "text",
+                                    "content": "工具所在位置"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        365,
+                        73,
+                        601,
+                        501
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                365,
+                                73,
+                                601,
+                                501
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        365,
+                                        73,
+                                        601,
+                                        501
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                365,
+                                                73,
+                                                601,
+                                                501
+                                            ],
+                                            "type": "image",
+                                            "image_path": "1697b3c837392358d4cc4d3258eba3a1d85da5c9b249de463cb50498b194dff6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        523
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        523
+                                    ],
+                                    "type": "text",
+                                    "content": "4"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        526
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        526
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        705,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                705,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        705,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        31,
+                        403,
+                        58
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                31,
+                                403,
+                                58
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        31,
+                                        403,
+                                        58
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 作用"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        54,
+                        92,
+                        413,
+                        118
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                92,
+                                413,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        92,
+                                        413,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": "为什么用 CogCalibCheckerboardTool？"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        79,
+                        145,
+                        166,
+                        281
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                79,
+                                145,
+                                166,
+                                281
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        145,
+                                        166,
+                                        281
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                79,
+                                                145,
+                                                166,
+                                                281
+                                            ],
+                                            "type": "image",
+                                            "image_path": "18cf62f11abd7d9881edc938c8de1020be96ca2e4afc2369cb856ba435b97ce4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                298,
+                                151,
+                                312
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        298,
+                                        151,
+                                        312
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                298,
+                                                151,
+                                                312
+                                            ],
+                                            "type": "text",
+                                            "content": "未扭曲图像"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        213,
+                        157,
+                        298,
+                        270
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                213,
+                                157,
+                                298,
+                                270
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        157,
+                                        298,
+                                        270
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                157,
+                                                298,
+                                                270
+                                            ],
+                                            "type": "image",
+                                            "image_path": "af652dc81433ebd7f8e531d2fbb5ee0dcabc5d1a3473e3727ba5f8597290ec41.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                243,
+                                286,
+                                269,
+                                299
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        243,
+                                        286,
+                                        269,
+                                        299
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                243,
+                                                286,
+                                                269,
+                                                299
+                                            ],
+                                            "type": "text",
+                                            "content": "纵横"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_caption"
+                        },
+                        {
+                            "bbox": [
+                                229,
+                                301,
+                                280,
+                                314
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        229,
+                                        301,
+                                        280,
+                                        314
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                229,
+                                                301,
+                                                280,
+                                                314
+                                            ],
+                                            "type": "text",
+                                            "content": "线性扭曲"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        318,
+                        145,
+                        401,
+                        281
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                318,
+                                145,
+                                401,
+                                281
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        145,
+                                        401,
+                                        281
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                318,
+                                                145,
+                                                401,
+                                                281
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0d3c910e1675d193562f062e311a0cb79f14c117d36a83397202fdc8ede80d32.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                343,
+                                285,
+                                370,
+                                298
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        343,
+                                        285,
+                                        370,
+                                        298
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                343,
+                                                285,
+                                                370,
+                                                298
+                                            ],
+                                            "type": "text",
+                                            "content": "透视"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        417,
+                        143,
+                        507,
+                        282
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                417,
+                                143,
+                                507,
+                                282
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        417,
+                                        143,
+                                        507,
+                                        282
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                417,
+                                                143,
+                                                507,
+                                                282
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3f909eb744093e4b334ffa9580128c12e6f374abfa27f85baa8e6b082ce14344.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                448,
+                                285,
+                                474,
+                                298
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        448,
+                                        285,
+                                        474,
+                                        298
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                448,
+                                                285,
+                                                474,
+                                                298
+                                            ],
+                                            "type": "text",
+                                            "content": "放射"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "angle": 0,
+                            "type": "image_caption"
+                        },
+                        {
+                            "bbox": [
+                                374,
+                                301,
+                                440,
+                                315
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        374,
+                                        301,
+                                        440,
+                                        315
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                374,
+                                                301,
+                                                440,
+                                                315
+                                            ],
+                                            "type": "text",
+                                            "content": "非线性扭曲"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        151,
+                        339,
+                        443,
+                        358
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                151,
+                                339,
+                                443,
+                                358
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        151,
+                                        339,
+                                        443,
+                                        358
+                                    ],
+                                    "type": "text",
+                                    "content": "如上图所示，为三种常见的图像扭曲类型"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        68,
+                        406,
+                        380,
+                        428
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                406,
+                                380,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        406,
+                                        380,
+                                        428
+                                    ],
+                                    "type": "text",
+                                    "content": "为了提高检测精度，所以我们需要用到"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        68,
+                        439,
+                        522,
+                        461
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                439,
+                                522,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        439,
+                                        522,
+                                        461
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 来校正图像本身存在的扭曲"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        66
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "5"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        705,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                705,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        705,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        57,
+                        33,
+                        405,
+                        61
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                33,
+                                405,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        33,
+                                        405,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 作用"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        56,
+                        91,
+                        338,
+                        113
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                91,
+                                338,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        91,
+                                        338,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 作用:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        56,
+                        123,
+                        662,
+                        177
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 5,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                123,
+                                662,
+                                145
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        123,
+                                        662,
+                                        145
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                123,
+                                                662,
+                                                145
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 棋盘格校准使用一个棋盘格板来计算像素和真实单位（mm）之间的转换"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                156,
+                                644,
+                                177
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        156,
+                                        644,
+                                        177
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                156,
+                                                644,
+                                                177
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 可以计算线性和非线性转换（非线性转换说明图像存在光学或透视扭曲）"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        161,
+                        198,
+                        567,
+                        466
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                161,
+                                198,
+                                567,
+                                466
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        161,
+                                        198,
+                                        567,
+                                        466
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                161,
+                                                198,
+                                                567,
+                                                466
+                                            ],
+                                            "type": "image",
+                                            "image_path": "1830c1f84647914d47e05876fafdee18669201bd6954a2e530b9aa6692a071ed.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        182,
+                        482,
+                        537,
+                        502
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                182,
+                                482,
+                                537,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        182,
+                                        482,
+                                        537,
+                                        502
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 工具界面如上图所示"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        66
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        525
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "6"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        526
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        526
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        705,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                705,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        705,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        70,
+                        36,
+                        462,
+                        64
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                36,
+                                462,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        36,
+                                        462,
+                                        64
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 使用方法"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        73,
+                        126,
+                        203,
+                        147
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                126,
+                                203,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        126,
+                                        203,
+                                        147
+                                    ],
+                                    "type": "text",
+                                    "content": "如右图所示，为"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        53,
+                        159,
+                        285,
+                        212
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                159,
+                                285,
+                                212
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        159,
+                                        285,
+                                        212
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 基本操作步骤："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        53,
+                        223,
+                        283,
+                        438
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 9,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                54,
+                                223,
+                                184,
+                                244
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        223,
+                                        184,
+                                        244
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                223,
+                                                184,
+                                                244
+                                            ],
+                                            "type": "text",
+                                            "content": "1.抓取校正图像"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                255,
+                                184,
+                                276
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        255,
+                                        184,
+                                        276
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                255,
+                                                184,
+                                                276
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 选择校正模式"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                288,
+                                201,
+                                308
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        288,
+                                        201,
+                                        308
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                288,
+                                                201,
+                                                308
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 选择特性搜寻器"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                320,
+                                283,
+                                374
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        320,
+                                        283,
+                                        374
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                53,
+                                                320,
+                                                283,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 标明在您的校准版上是否存在一个基准（原点）标志"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                385,
+                                201,
+                                406
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        385,
+                                        201,
+                                        406
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                385,
+                                                201,
+                                                406
+                                            ],
+                                            "type": "text",
+                                            "content": "5. 输入校正板尺寸"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                417,
+                                273,
+                                438
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        417,
+                                        273,
+                                        438
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                417,
+                                                273,
+                                                438
+                                            ],
+                                            "type": "text",
+                                            "content": "6. 计算校正，查看转换结果"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        300,
+                        144,
+                        657,
+                        426
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                300,
+                                144,
+                                657,
+                                426
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        144,
+                                        657,
+                                        426
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                300,
+                                                144,
+                                                657,
+                                                426
+                                            ],
+                                            "type": "image",
+                                            "image_path": "174d74f4f03bddc4a2f9ebb708be820cd6c64bc0afd03739d8dc689b3ce55c37.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "7"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        57,
+                        36,
+                        448,
+                        63
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                36,
+                                448,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        36,
+                                        448,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 使用方法"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        56,
+                        91,
+                        371,
+                        177
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                91,
+                                371,
+                                177
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        91,
+                                        371,
+                                        177
+                                    ],
+                                    "type": "text",
+                                    "content": "首先，点击抓取校正图像按钮，将标定板的图片传进来，之后就可以选择校正模式了"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        65,
+                        232,
+                        124,
+                        250
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                232,
+                                124,
+                                250
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        232,
+                                        124,
+                                        250
+                                    ],
+                                    "type": "text",
+                                    "content": "校正模式"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        64,
+                        256,
+                        382,
+                        385
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                64,
+                                256,
+                                382,
+                                385
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        256,
+                                        382,
+                                        385
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                256,
+                                                382,
+                                                385
+                                            ],
+                                            "type": "text",
+                                            "content": "Linear   \nLinear   \nPerspectiveAndRadialWarp LinescanWarp Linescan2DWarp SineTanLawProjectionWarp ThreeParamRadialWarp NoDistortionWarp"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "code",
+                    "guess_lang": "txt"
+                },
+                {
+                    "bbox": [
+                        414,
+                        189,
+                        623,
+                        210
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                414,
+                                189,
+                                623,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        414,
+                                        189,
+                                        623,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": "如左图所示，为校正模式："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        415,
+                        221,
+                        630,
+                        277
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 8,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                416,
+                                221,
+                                582,
+                                243
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        416,
+                                        221,
+                                        582,
+                                        243
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                416,
+                                                221,
+                                                582,
+                                                243
+                                            ],
+                                            "type": "text",
+                                            "content": "1.Liner (线性畸变)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                415,
+                                254,
+                                630,
+                                277
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        254,
+                                        630,
+                                        277
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                415,
+                                                254,
+                                                630,
+                                                277
+                                            ],
+                                            "type": "text",
+                                            "content": "2. Perspective And Radial"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        415,
+                        286,
+                        618,
+                        309
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                286,
+                                618,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        286,
+                                        618,
+                                        309
+                                    ],
+                                    "type": "text",
+                                    "content": "Warp (透视和放射畸变)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        416,
+                        320,
+                        662,
+                        471
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 15,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                416,
+                                320,
+                                551,
+                                342
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        416,
+                                        320,
+                                        551,
+                                        342
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                416,
+                                                320,
+                                                551,
+                                                342
+                                            ],
+                                            "type": "text",
+                                            "content": "3.LinescanWarp"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                416,
+                                353,
+                                575,
+                                374
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        416,
+                                        353,
+                                        575,
+                                        374
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                416,
+                                                353,
+                                                575,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "4.Linescan2Dwarp"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                416,
+                                385,
+                                662,
+                                406
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        416,
+                                        385,
+                                        662,
+                                        406
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                416,
+                                                385,
+                                                662,
+                                                406
+                                            ],
+                                            "type": "text",
+                                            "content": "5. SineTanLawProjectionWarp"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                416,
+                                417,
+                                632,
+                                439
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        416,
+                                        417,
+                                        632,
+                                        439
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                416,
+                                                417,
+                                                632,
+                                                439
+                                            ],
+                                            "type": "text",
+                                            "content": "6. ThreeParamRadialWarp"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                416,
+                                450,
+                                586,
+                                471
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        416,
+                                        450,
+                                        586,
+                                        471
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                416,
+                                                450,
+                                                586,
+                                                471
+                                            ],
+                                            "type": "text",
+                                            "content": "7.NoDistortionWarp"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        66
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "8"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        53,
+                        30,
+                        443,
+                        57
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                30,
+                                443,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        30,
+                                        443,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 使用方法"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        66,
+                        145,
+                        288,
+                        201
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                145,
+                                288,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        145,
+                                        288,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "如右图所示，根据标定板类型选择特性搜寻器"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        336,
+                        116,
+                        410,
+                        133
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                336,
+                                116,
+                                410,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        336,
+                                        116,
+                                        410,
+                                        133
+                                    ],
+                                    "type": "text",
+                                    "content": "特性搜寻器："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        337,
+                        135,
+                        588,
+                        212
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                337,
+                                135,
+                                588,
+                                212
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        337,
+                                        135,
+                                        588,
+                                        212
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                337,
+                                                135,
+                                                588,
+                                                212
+                                            ],
+                                            "type": "image",
+                                            "image_path": "fd4960d7f9de441658117e153f4f67b219f64838bc2b432863284d4b986a5dcc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        66,
+                        304,
+                        288,
+                        390
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                304,
+                                288,
+                                390
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        304,
+                                        288,
+                                        390
+                                    ],
+                                    "type": "text",
+                                    "content": "如右图所示，为两种常见的标定板类型，棋盘格与点网格"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        301,
+                        278,
+                        471,
+                        435
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                358,
+                                253,
+                                408,
+                                272
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        358,
+                                        253,
+                                        408,
+                                        272
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                358,
+                                                253,
+                                                408,
+                                                272
+                                            ],
+                                            "type": "text",
+                                            "content": "棋盘格"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_caption"
+                        },
+                        {
+                            "bbox": [
+                                301,
+                                278,
+                                471,
+                                435
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        301,
+                                        278,
+                                        471,
+                                        435
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                301,
+                                                278,
+                                                471,
+                                                435
+                                            ],
+                                            "type": "image",
+                                            "image_path": "098762ec8c6dba54020aa87da0e620c0b77963058197cd2fae5fd0524aaf7ce0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                374,
+                                442,
+                                445,
+                                453
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        374,
+                                        442,
+                                        445,
+                                        453
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                374,
+                                                442,
+                                                445,
+                                                453
+                                            ],
+                                            "type": "text",
+                                            "content": "Checkerboard plate"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        484,
+                        278,
+                        654,
+                        436
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                544,
+                                248,
+                                593,
+                                267
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        544,
+                                        248,
+                                        593,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                544,
+                                                248,
+                                                593,
+                                                267
+                                            ],
+                                            "type": "text",
+                                            "content": "点网格"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_caption"
+                        },
+                        {
+                            "bbox": [
+                                484,
+                                278,
+                                654,
+                                436
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        484,
+                                        278,
+                                        654,
+                                        436
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                484,
+                                                278,
+                                                654,
+                                                436
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3ccc5681fae257416b66fde8dfc510edc1a0375a611285d5670623c2c9909966.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                558,
+                                442,
+                                620,
+                                452
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        558,
+                                        442,
+                                        620,
+                                        452
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                558,
+                                                442,
+                                                620,
+                                                452
+                                            ],
+                                            "type": "text",
+                                            "content": "Grid-of-dots plate"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        25,
+                        517,
+                        31,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                25,
+                                517,
+                                31,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        517,
+                                        31,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "9"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 8
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        53,
+                        30,
+                        443,
+                        57
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                30,
+                                443,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        30,
+                                        443,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 使用方法"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        76,
+                        119,
+                        324,
+                        173
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                119,
+                                324,
+                                173
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        119,
+                                        324,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": "如右图所示，选择是否有基准（原点）在标定板上"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        378,
+                        88,
+                        434,
+                        103
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                378,
+                                88,
+                                434,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        378,
+                                        88,
+                                        434,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "基准符号："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        378,
+                        103,
+                        602,
+                        192
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                378,
+                                103,
+                                602,
+                                192
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        378,
+                                        103,
+                                        602,
+                                        192
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                378,
+                                                103,
+                                                602,
+                                                192
+                                            ],
+                                            "type": "image",
+                                            "image_path": "088451493fa979a37d8ae4ddc8c6fc23e9eaf6d2c20d38151096b7f5225a6d09.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        73,
+                        253,
+                        366,
+                        339
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                253,
+                                366,
+                                339
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        253,
+                                        366,
+                                        339
+                                    ],
+                                    "type": "text",
+                                    "content": "如右图所示，为带有基准（原点）的棋盘格，图中红色标注出来的即为原点。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        73,
+                        351,
+                        368,
+                        469
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                351,
+                                368,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        351,
+                                        368,
+                                        469
+                                    ],
+                                    "type": "text",
+                                    "content": "注：如果找到基准，该点将成为原始校准空间的原点；如果没有找到，原始校准空间的原点是最接近校准图像中心的顶点。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        385,
+                        253,
+                        598,
+                        468
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                385,
+                                253,
+                                598,
+                                468
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        385,
+                                        253,
+                                        598,
+                                        468
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                385,
+                                                253,
+                                                598,
+                                                468
+                                            ],
+                                            "type": "image",
+                                            "image_path": "137e023c797772499d03c5263aea0e94fdaa5177a5a619eb1e4092696af13008.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        20,
+                        517,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                20,
+                                517,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        517,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "10"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        526
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        526
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 9
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        59,
+                        30,
+                        450,
+                        57
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                30,
+                                450,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        30,
+                                        450,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 使用方法"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        73,
+                        116,
+                        313,
+                        235
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                116,
+                                313,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        116,
+                                        313,
+                                        235
+                                    ],
+                                    "type": "text",
+                                    "content": "如右图所示，输入校正板的尺寸（非常重要，不能输错）输入校正板尺寸之后，点击计算校正即可。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        357,
+                        84,
+                        553,
+                        242
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                357,
+                                84,
+                                553,
+                                242
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        357,
+                                        84,
+                                        553,
+                                        242
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                357,
+                                                84,
+                                                553,
+                                                242
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c018892c8857c645057078e056e6deaef12c36dbdc392cdcdab8fa0c186bafe4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        76,
+                        295,
+                        299,
+                        414
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                295,
+                                299,
+                                414
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        295,
+                                        299,
+                                        414
+                                    ],
+                                    "type": "text",
+                                    "content": "如右图所示，为计算校正之后转换结果界面，我们可以看到相关的校正系数，至此便完成了图像校正。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        311,
+                        274,
+                        675,
+                        469
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                311,
+                                274,
+                                675,
+                                469
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        274,
+                                        675,
+                                        469
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                311,
+                                                274,
+                                                675,
+                                                469
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8bc4617d99045d5d0bbbe7a16d4a0d413546ba783eae846df9f7b8d141f3cf84.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        22,
+                        52,
+                        65
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                22,
+                                52,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        22,
+                                        52,
+                                        65
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        21,
+                        517,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                517,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        517,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "11"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        525
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 10
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        30,
+                        446,
+                        56
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                30,
+                                446,
+                                56
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        30,
+                                        446,
+                                        56
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCalibCheckerboardTool 使用方法"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        66,
+                        110,
+                        277,
+                        132
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                110,
+                                277,
+                                132
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        110,
+                                        277,
+                                        132
+                                    ],
+                                    "type": "text",
+                                    "content": "怎么使用校正后的结果:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        66,
+                        194,
+                        343,
+                        281
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                194,
+                                343,
+                                281
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        194,
+                                        343,
+                                        281
+                                    ],
+                                    "type": "text",
+                                    "content": "如右图所示，当我们完成图像校正之后，就可以使用该工具对我们的输入图像进行校正了。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        66,
+                        291,
+                        343,
+                        410
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                291,
+                                343,
+                                410
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        291,
+                                        343,
+                                        410
+                                    ],
+                                    "type": "text",
+                                    "content": "只需要把另外的图像输入进该工具，再将输出图像传递给其他工具，此时的图像就已经是被校正过的图像了。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        379,
+                        152,
+                        630,
+                        428
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                379,
+                                152,
+                                630,
+                                428
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        379,
+                                        152,
+                                        630,
+                                        428
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                379,
+                                                152,
+                                                630,
+                                                428
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ad6289b1b69887aa8ea5a67ea10982ceca2139b111e9d2da2965943a50077220.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        20,
+                        516,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                20,
+                                516,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        516,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "12"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        526
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        526
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 11
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        185,
+                        182,
+                        426,
+                        233
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                185,
+                                182,
+                                426,
+                                233
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        185,
+                                        182,
+                                        426,
+                                        233
+                                    ],
+                                    "type": "text",
+                                    "content": "Thank you."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        21,
+                        517,
+                        30,
+                        524
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                517,
+                                30,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        517,
+                                        30,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "13"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        39,
+                        516,
+                        136,
+                        526
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                516,
+                                136,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        516,
+                                        136,
+                                        526
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2019 Cognex Confidential"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        616,
+                        515,
+                        704,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                616,
+                                515,
+                                704,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        616,
+                                        515,
+                                        704,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_size": [
+                720,
+                540
+            ],
+            "page_idx": 12
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "2.7.5"
+}

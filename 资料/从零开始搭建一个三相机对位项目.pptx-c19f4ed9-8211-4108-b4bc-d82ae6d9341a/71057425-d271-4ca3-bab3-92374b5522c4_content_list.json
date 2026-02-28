@@ -1,0 +1,1144 @@
+[
+    {
+        "type": "text",
+        "text": "COGNEX ",
+        "bbox": [
+            117,
+            283,
+            215,
+            351
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FASTER FORWA ",
+        "text_level": 1,
+        "bbox": [
+            13,
+            366,
+            499,
+            746
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从零开始搭建一个项目",
+        "text_level": 1,
+        "bbox": [
+            559,
+            407,
+            934,
+            479
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huanghai ",
+        "bbox": [
+            764,
+            568,
+            838,
+            603
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "1 ",
+        "bbox": [
+            35,
+            966,
+            41,
+            983
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "培训内容",
+        "text_level": 1,
+        "bbox": [
+            40,
+            42,
+            227,
+            129
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. Machine 工作流程",
+            "2. 标定设计",
+            "3. 标定通讯协议 - 取料标定",
+            "4. 标定通讯协议 - 对位标定",
+            "5. Framework 设计",
+            "6. Inspection 设计",
+            "7. 生产通讯协议",
+            "8. Inspection "
+        ],
+        "bbox": [
+            41,
+            185,
+            355,
+            727
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            35,
+            966,
+            41,
+            985
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            56,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Machine 工作流程",
+        "text_level": 1,
+        "bbox": [
+            40,
+            42,
+            322,
+            109
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CCD1 为大视野，需要单独标定",
+        "bbox": [
+            20,
+            446,
+            143,
+            551
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfd3e11418b896d3600187293d4878ba43623ad762a2a81f0927c753e48e6396.jpg",
+        "image_caption": [
+            "下相机定位"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            210,
+            185,
+            774,
+            883
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "复检 ",
+        "bbox": [
+            850,
+            438,
+            888,
+            475
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            34,
+            966,
+            38,
+            985
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            187,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标定设计",
+        "text_level": 1,
+        "bbox": [
+            39,
+            42,
+            180,
+            107
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "取料标定 CCD1 为大视野使用 4mm 标定片，需要确定 XYAngle 并且需要绑定 Robot与产品的关系 11point 标定 +Training 。",
+            "组装标定 CCD2 与 CCD3 使用 2mm 标定片，需要确定 XYAngel 并需要关联 CCD2与 CCD3 联合标定 11+1point 标定。"
+        ],
+        "bbox": [
+            34,
+            118,
+            913,
+            329
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c10ec3269637f117f7b7e653e05ccc3e022aeb579777d993312d58172764544.jpg",
+        "image_caption": [
+            "11 Point Calibration "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            50,
+            357,
+            254,
+            851
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bab2bec97967f2ae2303c9166f1160ba2b23e284ac6821c38e324fb128e862e.jpg",
+        "image_caption": [
+            "Training "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            311,
+            350,
+            608,
+            862
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9471077ba1a5344a68431609f8b94508038affc93246cf00658f889a48f7bde6.jpg",
+        "image_caption": [
+            "11+1 Point Calibration "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            639,
+            355,
+            968,
+            851
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            35,
+            966,
+            41,
+            985
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            187,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "标定通讯协议 – 取料标定",
+        "text_level": 1,
+        "bbox": [
+            39,
+            42,
+            412,
+            111
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6e2494141e710b057a2268aff9be5d344e97f9ccfec4a39501eca4aef6fa705.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "• Use TCP/IP protocol, and the vision system is server, end by \\r\\n for each send and receive. "
+        ],
+        "table_body": "<table><tr><td>Machine Send</td><td>COGNEX Vision Send</td><td>OK/NG</td><td>Comment</td></tr><tr><td rowspan=\"2\">SC,1,11</td><td>SC,1</td><td>OK</td><td rowspan=\"2\">Start the calibration. \nSC: Start Calibration, 1: use first calibration file, 11: 执行11点标定</td></tr><tr><td>SC,0</td><td>NG</td></tr><tr><td rowspan=\"2\">C1, X1,Y1,θ1</td><td>C1,1</td><td>OK</td><td rowspan=\"2\">Send the P1 coordinate to the vision</td></tr><tr><td>C1,0</td><td>NG</td></tr><tr><td rowspan=\"2\">C1, X2, Y2, θ2</td><td>C1,1</td><td>OK</td><td rowspan=\"2\">Send the P2 coordinate to the vision</td></tr><tr><td>C1,0</td><td>NG</td></tr><tr><td>...</td><td>...</td><td>...</td><td>......</td></tr><tr><td rowspan=\"2\">C1,X11,Y11,θ11</td><td>C1,1</td><td>OK</td><td rowspan=\"2\">Send the P11 coordinate to the vision</td></tr><tr><td>C1,0</td><td>NG</td></tr><tr><td rowspan=\"2\">EC</td><td>EC,1</td><td>OK</td><td rowspan=\"2\">End the calibration</td></tr><tr><td>EC,0</td><td>NG</td></tr><tr><td rowspan=\"2\">Train, X, Y, θ</td><td>Train, 1</td><td>OK</td><td rowspan=\"2\">训练 Robot 取料时 Robot 的坐标</td></tr><tr><td>Train, 0</td><td>NG</td></tr></table>",
+        "bbox": [
+            6,
+            185,
+            993,
+            731
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            33,
+            964,
+            39,
+            985
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "标定通讯协议 – 对位标定",
+        "text_level": 1,
+        "bbox": [
+            39,
+            42,
+            412,
+            109
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2f525e89fa37a61a40687e50b4bfd174fcd15d680fe0d62e2a07c934894086e.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "• Use TCP/IP protocol, and the vision system is server, end by \\r\\n for each send and receive. "
+        ],
+        "table_body": "<table><tr><td>Machine Send</td><td>COGNEX Vision Send</td><td>OK/NG</td><td>Comment</td></tr><tr><td rowspan=\"2\">SC,2,11,3,1</td><td>SC,1</td><td>OK</td><td rowspan=\"2\">Start the calibration.</td></tr><tr><td>SC,0</td><td>NG</td></tr><tr><td rowspan=\"2\">C2, X1,Y1,θ1</td><td>C1,1</td><td>OK</td><td rowspan=\"2\">Send the P1 coordinate to the vision</td></tr><tr><td>C1,0</td><td>NG</td></tr><tr><td rowspan=\"2\">C2 X2, Y2, θ2</td><td>C1,1</td><td>OK</td><td rowspan=\"2\">Send the P2 coordinate to the vision</td></tr><tr><td>C1,0</td><td>NG</td></tr><tr><td>...</td><td>...</td><td>...</td><td>....</td></tr><tr><td rowspan=\"2\">C2,X11,Y11,θ11</td><td>C1,1</td><td>OK</td><td rowspan=\"2\">Send the P11 coordinate to the vision</td></tr><tr><td>C1,0</td><td>NG</td></tr><tr><td rowspan=\"2\">C3, X, Y, θ</td><td>C3,1</td><td>OK</td><td rowspan=\"2\">Send the P12 coordinate to the vision</td></tr><tr><td>C3,0</td><td>NG</td></tr><tr><td rowspan=\"2\">EC</td><td>EC,1</td><td>OK</td><td rowspan=\"2\">End the calibration</td></tr><tr><td>EC,0</td><td>NG</td></tr></table>",
+        "bbox": [
+            6,
+            185,
+            993,
+            731
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Framework 设计",
+        "text_level": 1,
+        "bbox": [
+            41,
+            42,
+            296,
+            105
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d19e760748b32b1f6576ad9aadc35681a82a5808bdd03e370405207ebd271603.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            22,
+            137,
+            608,
+            922
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/43bb95441857fbefcdf2e5bf06d29b1f39925d66d85dd73f4319fe4767215e90.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            646,
+            251,
+            833,
+            618
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7 ",
+        "bbox": [
+            34,
+            966,
+            38,
+            983
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Inspection 设计",
+        "text_level": 1,
+        "bbox": [
+            40,
+            40,
+            286,
+            116
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• CCD1_PickUp 训练 Robot 与生产时引导 Robot 取料",
+            "CCD2_Locate 下相机定位",
+            "CCD3_Locate 上相机定位",
+            "CCD3_ReCheck 上相机复检"
+        ],
+        "bbox": [
+            39,
+            255,
+            779,
+            585
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce982a4ff281c7f4000ade1872afaf56c8b1175199b0dbc873c7f205a9e07730.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            775,
+            324,
+            970,
+            574
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生产通讯协议",
+        "text_level": 1,
+        "bbox": [
+            40,
+            42,
+            245,
+            109
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b5d54ee62f1557605fc1dda0bfc3d5cb45d327891d8e485126bc1e882fec53a4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Machine Send</td><td>COGNEX Vision Send</td><td>Comment</td></tr><tr><td>P0,SN,X,Y,Angle</td><td>P0,SN,ErrorCode,X,Y,Angle</td><td>PickUp, SN: 当前产品的, Errorcode: 定义的错误代码, XYAgnle: 当前 Robot 的坐标。</td></tr><tr><td>P1, SN, X, Y, Angle</td><td>P1,SN,ErrorCode,X,Y,Angle</td><td>产品 1 定位, SN: 当前产品的, Errorcode: 定义的错误代码, XYAgnle: 当前 Robot 的坐标。</td></tr><tr><td>P100, SN,X, Y, Angle</td><td>P100,SN,ErrorCode,X,Y,Angle</td><td>产品 2 定位, SN: 当前产品的, Errorcode: 定义的错误代码, XYAgnle: 当前 Robot 的坐标。</td></tr><tr><td>P400,SN, X, Y2, Angle</td><td>P100,SN,ErrorCode,Gap1,Gap2</td><td>产品 2 定位, SN: 当前产品的, Errorcode: 定义的错误代码, Gap: 测量的间隙。</td></tr><tr><td colspan=\"3\">· Use TCP/IP protocol, and the vision system is server, end by \\r\\n for each send and receive.</td></tr></table>",
+        "bbox": [
+            6,
+            185,
+            890,
+            590
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            35,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Inspection | CCD1_PickUp ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            51,
+            405,
+            116
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "TB_CommandTool 解析指令",
+            "TB_TrainRobot 训练 Robot 坐标",
+            "TB_LocateTool 抓取产品特征 ",
+            "TB_DisplayTool 将数据显示到 Display",
+            "TB_SaveData 保存数据",
+            "TB_SendData 将需要发送的数据整理到一起"
+        ],
+        "bbox": [
+            47,
+            198,
+            604,
+            651
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe6ff3dfebd11ee486758dc1356d87add598803f0647b4b302dc86d0ed193819.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            735,
+            179,
+            949,
+            729
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note：先训练Robot取料的位置，再使用下列公式计算 Robot的取料移动到的位置",
+        "bbox": [
+            83,
+            792,
+            699,
+            829
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DestinationRobotPose=DestinationPartPose.Compose(CurrentPartPose.Invert().Compose(CurrentRobotPose)) ",
+        "bbox": [
+            83,
+            862,
+            908,
+            900
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            28,
+            964,
+            40,
+            983
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            56,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "TB_CommandTool 解析指令",
+            "TB_LocateTool 抓取产品特征 ",
+            "TB_DisplayTool 将数据显示到 Display",
+            "TB_SaveData 保存数据",
+            "• TB_SendData 将需要发送的数据整理到一起"
+        ],
+        "bbox": [
+            47,
+            198,
+            689,
+            614
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8a6aa3b97cec29bbab91cd709d10f991181933365c9ba911e66281efb85653d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            709,
+            125,
+            956,
+            651
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Note ：在这个 Inspection 里面需要把当前的获取的产品位置与 Robot 的位置给到 CCD3_Location 的 Inspection里面，用它们去计算 Robot 需要走到的位置。",
+        "bbox": [
+            89,
+            792,
+            909,
+            885
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "Inspection ",
+        "bbox": [
+            40,
+            51,
+            210,
+            112
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "CCD2_Location ",
+        "bbox": [
+            235,
+            59,
+            424,
+            107
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "11 ",
+        "bbox": [
+            29,
+            964,
+            40,
+            985
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            187,
+            987
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "TB_CommandTool 解析指令",
+            "TB_LocateTool 抓取产品特征并计算 Robot 需要移动到的位置",
+            "TB_DisplayTool 将数据显示到 Display",
+            "TB_SaveData 保存数据",
+            "TB_SendData 将需要发送的数据整理到一起"
+        ],
+        "bbox": [
+            49,
+            198,
+            677,
+            531
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/a36844c8ce1967bde64b0bc21f45aba645bbb55da55caef28de1edd0b7e695f2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            741,
+            153,
+            985,
+            677
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Note ：使用下列公式计算 Robot 的需要移动到的位置",
+        "bbox": [
+            83,
+            792,
+            480,
+            829
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "DestinationRobotPose=DestinationPartPose.Compose(CurrentPartPose.Invert().Compose(CurrentRobotPose)) ",
+        "bbox": [
+            83,
+            862,
+            908,
+            900
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "Inspection ",
+        "bbox": [
+            40,
+            51,
+            210,
+            112
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "CCD3_Location ",
+        "bbox": [
+            235,
+            59,
+            424,
+            107
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            28,
+            964,
+            40,
+            983
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            56,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "TB_CommandTool 解析指令",
+            "TB_MeasurementGap 测量贴合后产品的间的 Gap ，每边都需要测量 10组 Gap",
+            "TB_DisplayTool 将数据显示到 Display",
+            "TB_SaveData 保存数据",
+            "TB_SendData 将需要发送的数据整理到一起"
+        ],
+        "bbox": [
+            49,
+            164,
+            706,
+            516
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd086c51cb9280b1bcf794c73debfa87f2d51eb61f1ef6dea9b526b4e5753a30.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            248,
+            572,
+            500,
+            911
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/73d80a739a042a9ce29c959083a93b3fe54ced689652953d63ffb39fc81204b4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            759,
+            114,
+            778,
+            142
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/115ea89ab626d664d474a4bd08dd37379269a82d5c80dfc770ad2b9c97452ecd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            758,
+            153,
+            964,
+            566
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "Inspection ",
+        "bbox": [
+            40,
+            51,
+            210,
+            112
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "CCD3_ReCheck ",
+        "bbox": [
+            235,
+            59,
+            429,
+            107
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "13 ",
+        "bbox": [
+            28,
+            964,
+            40,
+            983
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            186,
+            987
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "COGNEX ",
+        "bbox": [
+            117,
+            283,
+            215,
+            350
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "FASTER FORWA ",
+        "text_level": 1,
+        "bbox": [
+            16,
+            366,
+            499,
+            746
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Thank You ",
+        "bbox": [
+            636,
+            468,
+            864,
+            546
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "14 ",
+        "bbox": [
+            29,
+            966,
+            41,
+            985
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            188,
+            987
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 13
+    }
+]

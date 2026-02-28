@@ -1,0 +1,2100 @@
+[
+    {
+        "type": "text",
+        "text": "填空题 ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            48,
+            124,
+            68
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 在工业相机的使用中，选择远心镜头的优势主要是__超高分辨率_、__超宽景深__、_低畸变 _。",
+            "2. 光是一种电磁波，可见光的范围是 __380nm_到___760nm_。",
+            "3. 改变图像采集明暗度的方式有__调节光圈 _调节曝光___、_换高亮度光源__、__换大像元相机__对比度、增益。",
+            "4. 名词解释"
+        ],
+        "bbox": [
+            40,
+            86,
+            964,
+            268
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "视野__相机所能看到现实世界的物理尺寸_。",
+        "bbox": [
+            78,
+            288,
+            463,
+            309
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/866afeb85fe35ca4fb30a33fd23072bb26f3c45a03ee2050f1268a8b8b8d7170.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            470,
+            288,
+            514,
+            304
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曝光时间 _感光芯片感光的时间_。",
+        "bbox": [
+            80,
+            325,
+            393,
+            346
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d60fa98e3203a1435561ff79b8cd80ce5f7489619c54f3173ff14f5c55bf6084.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            400,
+            325,
+            442,
+            341
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "像素深度 _每个像素数据的位数，一般常用的是 8Bit__。",
+        "bbox": [
+            80,
+            363,
+            584,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd5752ccb434bd1bb97f33f855c7d21164514edfd220e0f9120c0aef27a04a0b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            589,
+            362,
+            633,
+            378
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "测量精度 测量值与真实值之间的差别 。",
+        "bbox": [
+            80,
+            401,
+            462,
+            419
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "像素分辨率 _单个像素所能代表的实际尺寸_。",
+        "bbox": [
+            80,
+            437,
+            494,
+            456
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d502187f0bfdb36ec8203bef8e576bbad0a8cd4258137bd9254d9b232efd1797.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            500,
+            437,
+            542,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "帧率_相机一秒可以采集多少图像，通常表示相机采集单张图片的速度。",
+        "bbox": [
+            80,
+            474,
+            707,
+            493
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PPM 值 单个模块上的像素数。",
+        "bbox": [
+            80,
+            514,
+            369,
+            533
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "像素分辨率 单个像素所能代表的实际尺寸。",
+        "bbox": [
+            80,
+            555,
+            484,
+            573
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "放大倍率 CCD/FOV 之间的比值_ _。",
+        "bbox": [
+            80,
+            595,
+            445,
+            613
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "景深__在对焦点前后能够清晰成像的距离叫做景深。",
+        "bbox": [
+            80,
+            632,
+            534,
+            651
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "5. 在 Patmax 中建模板的三大要素是：_位置_、___尺寸__、_角度__。",
+            "6. 请列举 Caliper Tool 的工作极性方法是_ _由明到暗__、_由暗到明_ _任何极性 。",
+            "7. 在 PMAlignTool 中颗粒度决定了____用多少边缘点来表示图像中的特征。",
+            "8. 镜头的畸变有 径向畸变____和_ _切向畸变 _两种。",
+            "9. 工业相机触发方式根据触发信号，可分为 _手动触发 _和 _硬件触发 。",
+            "10. DM262 采用 __220_ _V电源连接器连接。",
+            "11. 镜头的光学放大倍率是 感光器尺寸 _和 _FOV_ _的比值。",
+            "12. 请列举 Caliper Tool 的工作极性方法是 由明到暗_ _由暗到明"
+        ],
+        "bbox": [
+            40,
+            673,
+            964,
+            956
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "_任何极性 。",
+        "bbox": [
+            75,
+            49,
+            242,
+            68
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0e39d0c5fb9d690cbd790dc76daed06256f13f90c2856e269c288fd63e584ae.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            84,
+            225,
+            324,
+            288
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "13. 相机曝光时间越_____长_____，图像越亮，抗震动能力越差。",
+            "14. 8 位黑白相机的灰度等级为 _256____ 级。",
+            "15. CogIntersectLineCircleTool 工具输入端需要输入：_ _采集图像源 _已知直线_已知圆 _才能正常运行此工具。",
+            "16. 中数字 1 表示_ _1mm 。",
+            "17. Framework 视觉系统包括“在线”与“离线”两种运行模式，在“Run”弹出菜单中选择_online_ _开启 TCP Server 服务，选择_ _offline _则关闭 TCP Server 服务。",
+            "18. 在机器视觉系统中，系统是由_视野_、_光源_、_图像采集_、_视觉工具_、_通讯_五大部分构成。",
+            "19. CCD即感光元器件是由一组矩阵式的 感光芯片 组成，它的功能是将光信号转换成_电信号_ ",
+            "20. CogCaliperTool 的边缘模式有 _单个边缘_和___边缘对__。",
+            "21. 在 PMAlignTool 中建模主要获取的是目标物的 _特征和轮廓 _。",
+            "22. CMOS作为工业相机感光芯片的首选，它的优势有哪些，请写出三条。__耗电量低_ _速度快___、 _价格便宜_ 。",
+            "23. 在工业相机的使用中，选择远心镜头的优势主要是___高分辨率_、__宽景深_、___低畸变_。",
+            "24. 光是一种电磁波，可见光的范围是 _380nm__到___760nm_。",
+            "25. 改变图像采集明暗度的方式有__调节光圈_、__调节曝光__、_调整光源亮度__、___换大像元相机 ",
+            "26. VisionPro 工具库中 CogFixtureTool 作用主要为 创建用户坐标系，产生坐标的跟随。",
+            "27. 在 CogBlobTool 中，当目标物与背景有明显灰度值变化，我们为了凸显特征面积，一般会调整阈值 从而获取更精确的目标大小。",
+            "28. 在工业相机中，镜头的基本功能是 _实现光束转换",
+            "29. 视觉视觉的四大功能 _引导_ 检测 _测量 _识别 。",
+            "30. 相机按照像素排列方式分为 线阵相机 面阵相机 。"
+        ],
+        "bbox": [
+            40,
+            86,
+            964,
+            951
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "31. 相机感光器件上的基本感光单元/相机识别到的图像上的最小单元是 _像元_ 。",
+            "32. 视野英文缩写为___FOV_ ____，定义是_ 相机所能看到现实世界的物理尺寸 。",
+            "33. 常见的曝光方式有 _全局曝光 _和 _卷帘曝光 。",
+            "34. 8704E 卡采用 4-Pin 电源连接器连接 12 V 电源。",
+            "35. Cognex QuickBuild 视觉保存 Appliaction、Job、Tool 项目文件的格式/后缀为：____.vpp_ _。",
+            "36. 在 CMD 窗口输入_ _cogtool -p_ _命令可以查看板卡信息。",
+            "37. 在 Gige 配置相机时需要设置：___IP_ 1 _防火墙_____、_ebus____、__巨帧数据包__。",
+            "38. 机器视觉是 用数字图像处理技术处理数字图像，并应用于工业生产任务。",
+            "39. CCD 即感光元器件是由一组矩阵式的 组成，它的功能是将光信号转换成 电信号",
+            "40. 相机所能看到的最小特征即为一个 像素",
+            "41. 光源的 安装位置 和 角度 直接决定图像的效果。",
+            "42. 光源的视场分为 亮场和 暗场 两种。",
+            "43. 基本码制包括 一维线性条码 、DataMatrix 、QR-Code 、PDF417 四种。",
+            "44. 焦距是 透镜中心 到成像面的距离，焦距越小，景深 越大 ，光圈越大，景深 越小",
+            "45. 8704E 卡的信息提取时，在 CMD 命令行黑色窗口中输入： cogtool -p 会提取出 8704E",
+            "46. 卡的所有信息，包括 8704E 卡的 SN、工具集 、支持相机数 、相机的型号和 SN 等信息。",
+            "47. 机台有两张 8704 卡的需要特别注意，如果双击后，升级没有成功，就右击选中文件点击",
+            "48. 编辑bat 文件，进行修改顺序编号，即把“0”改为 1 ，修改顺序编号后，在进行升",
+            "49. 级，如果还不成功，就把升级后的 tool list 发送给DRI 进行检查 。",
+            "50. Setup Tool是用于方便调节相机位置、视野、倾斜、聚焦的工具这样在调机是能更加方便快捷和准确。",
+            "51. 型号 CAM-CIC-5000R-14-G 的相机像素分辨率为 2592*1944",
+            "52. Windows 64 位操作系统应安装 VisionPro_ _x64 (R) 9.2 CR2",
+            "53. Cognex 目前使用的用户程序均是在.NET Framework 基础上运行的，故想保证程序正常运"
+        ],
+        "bbox": [
+            38,
+            49,
+            959,
+            939
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "行，首先需要确认 .NET 版本号在 4.6.2 以上",
+        "bbox": [
+            78,
+            49,
+            477,
+            67
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "54. 在进行视觉对位引导项目中，需建立视觉坐标系与机械手坐标系之间的对应关系，而标定__就是来完成该作用。",
+            "55. 点击“Light Intensity”进入光源设置界面，这里可以为每个 Inspection 设定对应的光源及其强度。勾选__D__，可以使光源常亮。不勾选，则光源处于触发模式。单击 Save，保存设置。单击_C__，保存设置后退出光源配置界面。单击__A__，不保存，退出光源配置界面。A“Cancel” B“Save” C“Save and Close” D“Live Preview",
+            "56. 在“Image Save Options”对话框中，在___C__ _栏目中，可以对每个 VPP 分别设置是否保存.bmp 图像；在___A _栏目中可以对每个 VPP 分别设置是否保存.jpg 图像。",
+            "A“Annotated Image Sources” B“Browse” ",
+            "C“Raw Image Sources” D“Annotated Image Save Path” "
+        ],
+        "bbox": [
+            38,
+            86,
+            947,
+            439
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不定项选择题",
+        "text_level": 1,
+        "bbox": [
+            40,
+            492,
+            208,
+            514
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. 以下选项中会影响景深的因素是( ABD )",
+        "bbox": [
+            40,
+            531,
+            477,
+            550
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A 镜头焦距和像元尺寸 ",
+        "bbox": [
+            38,
+            571,
+            248,
+            589
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B 光圈值大小",
+        "bbox": [
+            310,
+            571,
+            438,
+            589
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C 视野明暗度",
+        "bbox": [
+            38,
+            612,
+            169,
+            629
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D 接圈和扩倍器",
+        "bbox": [
+            265,
+            612,
+            415,
+            629
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. 以下什么不是 DataMatrix 代码的特性（ BC ）",
+        "bbox": [
+            38,
+            652,
+            492,
+            670
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A、静区（Quiet Zone）",
+        "bbox": [
+            38,
+            692,
+            252,
+            711
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B、启始符/终止符 ",
+        "bbox": [
+            327,
+            692,
+            492,
+            709
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C、校验符 ",
+        "bbox": [
+            38,
+            732,
+            139,
+            750
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D、计时特征（Timing Pattern）",
+        "bbox": [
+            258,
+            732,
+            544,
+            751
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. 在 Cognex 相机的参数上，相机标签 CAM-CIC-5000R-14-G,其中 R 代表的是什么意思？（ C ）",
+        "bbox": [
+            38,
+            772,
+            947,
+            791
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A、带返回值参数的相机",
+        "bbox": [
+            38,
+            812,
+            262,
+            829
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B、高转速相机",
+        "bbox": [
+            315,
+            813,
+            453,
+            829
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C、卷帘快门相机",
+        "bbox": [
+            38,
+            852,
+            200,
+            869
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D、全局快门相机",
+        "bbox": [
+            280,
+            852,
+            440,
+            869
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. 在 Cognex 相机的参数上，相机标签 CAM-CIC-5000R-14-G,其中 G 代表的是什么意思？（ D ）",
+        "bbox": [
+            38,
+            892,
+            924,
+            910
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A、Cognex G 级相机",
+        "bbox": [
+            38,
+            933,
+            235,
+            951
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B、Cognex G 系列相机",
+        "bbox": [
+            275,
+            933,
+            489,
+            951
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C、Cognex 工业相机 D、Cognex 工业黑白相机",
+        "bbox": [
+            38,
+            49,
+            510,
+            65
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. 具有较强对比度的标签和标记的最佳光源选择是（ B ）",
+        "bbox": [
+            38,
+            89,
+            618,
+            105
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A、漫射暗场照明 B、漫射亮场照明",
+        "bbox": [
+            38,
+            130,
+            389,
+            143
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C、红外光源 D、背景光源",
+        "bbox": [
+            38,
+            170,
+            327,
+            185
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. 一幅高质量的图像需包含以下哪些因素（ ACE ）",
+        "bbox": [
+            38,
+            210,
+            556,
+            225
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A、大信噪比 B、大光圈 C、高对比度 D、高曝光 E、低噪音",
+        "bbox": [
+            38,
+            250,
+            606,
+            265
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7.以下关于感光元件描述正确的事：（ BC ）",
+        "bbox": [
+            38,
+            291,
+            467,
+            305
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A、CCD：噪点多、图像效果较差、价格便宜",
+        "bbox": [
+            38,
+            331,
+            440,
+            344
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "B、CCD：噪点少、图像效果好、价格高",
+        "bbox": [
+            40,
+            370,
+            400,
+            385
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C、CMOS：噪点多、速度快、价格便宜",
+        "bbox": [
+            38,
+            411,
+            398,
+            425
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "D、CMOS：噪点少、速度快、价格高",
+        "bbox": [
+            40,
+            451,
+            379,
+            464
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. 关于 CogFitLineTool 说法正确的（ BC ）。",
+        "bbox": [
+            38,
+            491,
+            484,
+            506
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A．与 CogFindLineTool 功能一样",
+        "bbox": [
+            38,
+            532,
+            344,
+            546
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "B．通过数据点拟合直线",
+        "bbox": [
+            40,
+            571,
+            260,
+            586
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C．至少需要两个数据点才可以拟合一条直线",
+        "bbox": [
+            38,
+            612,
+            440,
+            626
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "D．在理想条件下，参与拟合的数据点越多,拟合结果越稳定",
+        "bbox": [
+            40,
+            652,
+            569,
+            665
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9. 如下图锯齿边缘轮廓检测，请推荐一款适合的光源（ C ）",
+        "bbox": [
+            38,
+            692,
+            589,
+            707
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9698492f20b5af7a11977aeae6cde033ce2e1d3cb085861b26145785e326817f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            53,
+            720,
+            191,
+            818
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A、带偏振环形光 B、同轴光 C、背光源 D、高角度直向型光源",
+        "bbox": [
+            38,
+            846,
+            623,
+            860
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. 在进行视觉对位引导项目中，需建立视觉坐标系与机械手坐标系之间的对应关系，而 _就是来完成该作用。 （ B ）",
+        "bbox": [
+            38,
+            885,
+            956,
+            945
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A 检测 B 标定 C 定位 D 曝光",
+        "bbox": [
+            38,
+            49,
+            369,
+            67
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "11. Visionpro 工具库中 CogFixtureTool 作用。（ C ）",
+        "bbox": [
+            40,
+            90,
+            559,
+            108
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A．抓圆工具",
+        "bbox": [
+            38,
+            130,
+            161,
+            147
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "B．计算距离.",
+        "bbox": [
+            40,
+            170,
+            164,
+            187
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C．建立坐标空间",
+        "bbox": [
+            40,
+            210,
+            200,
+            227
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D．设定矩形搜索范围 ",
+        "bbox": [
+            40,
+            250,
+            242,
+            268
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "12. 以下哪种行为违反 FSE 厂区管理条例（ ABC）",
+        "bbox": [
+            38,
+            291,
+            478,
+            307
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A. 帮助机械厂商操作机械手",
+        "bbox": [
+            38,
+            331,
+            290,
+            349
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "B. 操作机构软件",
+        "bbox": [
+            400,
+            331,
+            547,
+            348
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C. 在车间使用工控机看小说或打游戏",
+        "bbox": [
+            38,
+            370,
+            371,
+            388
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D. 携带水杯进入车间",
+        "bbox": [
+            435,
+            370,
+            623,
+            387
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "13. 什么样的光源带有漫射和均匀光线，是弧面、反光和不平整表面的最佳选择（ A ）",
+        "bbox": [
+            40,
+            411,
+            825,
+            429
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A、CDI/Dome ",
+        "bbox": [
+            38,
+            451,
+            179,
+            468
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "B、亮场",
+        "bbox": [
+            196,
+            451,
+            272,
+            468
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C、暗场",
+        "bbox": [
+            295,
+            451,
+            371,
+            468
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D、背景光",
+        "bbox": [
+            410,
+            451,
+            509,
+            468
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "14.决定视野的因素主要是( C )",
+        "bbox": [
+            40,
+            491,
+            332,
+            508
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A 镜头和增益 ",
+        "bbox": [
+            38,
+            532,
+            169,
+            549
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "B 工作距离和增益",
+        "bbox": [
+            226,
+            532,
+            393,
+            548
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C 镜头焦距和工作距离",
+        "bbox": [
+            38,
+            571,
+            248,
+            589
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D 镜头放大倍率和景深 ",
+        "bbox": [
+            270,
+            571,
+            478,
+            589
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15. 以下什么不是 DataMatrix 代码的特性（ B ）",
+        "bbox": [
+            40,
+            612,
+            490,
+            629
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A、静区（Quiet Zone）",
+        "bbox": [
+            38,
+            652,
+            250,
+            670
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "B、启始符/终止符和校验符 ",
+        "bbox": [
+            347,
+            652,
+            591,
+            669
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C、查找特征（Finder Pattern/L Pattern）",
+        "bbox": [
+            38,
+            692,
+            416,
+            709
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D、计时特征（Timing Pattern）",
+        "bbox": [
+            443,
+            692,
+            729,
+            711
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "16. 影响成像质量的因素包括（ ABCDE ）",
+        "bbox": [
+            40,
+            732,
+            430,
+            750
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A. 视野大小、镜头焦距、镜头光圈 ",
+        "bbox": [
+            38,
+            772,
+            363,
+            790
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "B.光源的类型、光源的安装位置",
+        "bbox": [
+            374,
+            772,
+            660,
+            790
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C. 曝光时间 D. 物距",
+        "bbox": [
+            40,
+            812,
+            263,
+            829
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "E.成像器类型",
+        "bbox": [
+            305,
+            813,
+            428,
+            829
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "17.对于 Windows 64 位操作系统应安装哪种 VisionPro（ BD ）",
+        "bbox": [
+            40,
+            852,
+            606,
+            870
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A. Cognex VisionPro x32(R) 9.0 CR1 ",
+        "bbox": [
+            38,
+            892,
+            371,
+            910
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "B. Cognex VisionPro x64 (R) 9.0 CR1 ",
+        "bbox": [
+            393,
+            892,
+            726,
+            910
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C. Cognex VisionPro x32(R) 9.0 CR2 ",
+        "bbox": [
+            40,
+            932,
+            373,
+            950
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D. Cognex VisionPro x64 (R) 9.0 CR2 ",
+        "bbox": [
+            393,
+            932,
+            729,
+            950
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18. 在 Gige 软件中配置相机时，相机的巨帧设置应为（ B ）",
+        "bbox": [
+            40,
+            49,
+            574,
+            67
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A.9600 ",
+        "bbox": [
+            40,
+            90,
+            110,
+            105
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "B.9014 ",
+        "bbox": [
+            152,
+            90,
+            221,
+            105
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C.8704 ",
+        "bbox": [
+            255,
+            91,
+            322,
+            105
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "D.1024 ",
+        "bbox": [
+            361,
+            91,
+            430,
+            105
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "19. 如图所示，使用 CogFindLineTool 抓边缘对，其极性设置为（ C ）",
+        "bbox": [
+            40,
+            130,
+            657,
+            148
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. 由明到暗，由暗到明",
+            "B. 由明到暗，由明到暗",
+            "C. 由暗到明，由明到暗",
+            "D. 由暗到明，由暗到明"
+        ],
+        "bbox": [
+            40,
+            170,
+            255,
+            306
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc1af7c49c717736baea0fcb099149161276bd4f1afa12920b8717fae4973bee.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            400,
+            161,
+            678,
+            267
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "20. 在 8 位的灰度图像中，像素数值为 255 是什么颜色？ （ A ）",
+        "bbox": [
+            40,
+            330,
+            600,
+            348
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A、白色",
+        "bbox": [
+            38,
+            370,
+            119,
+            387
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "B、黑色",
+        "bbox": [
+            137,
+            370,
+            213,
+            387
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C、灰色偏白",
+        "bbox": [
+            230,
+            370,
+            344,
+            387
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "D、灰色偏黑 ",
+        "bbox": [
+            361,
+            370,
+            480,
+            387
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "21. 一维码和二维码 DataMatrix 组成区域相同的有（A ）",
+        "bbox": [
+            40,
+            411,
+            541,
+            428
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A．静区",
+        "bbox": [
+            40,
+            451,
+            119,
+            467
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "B.起始符 ",
+        "bbox": [
+            179,
+            451,
+            260,
+            467
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C. 数据符",
+        "bbox": [
+            40,
+            491,
+            127,
+            507
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "D.终止符 ",
+        "bbox": [
+            184,
+            491,
+            267,
+            508
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "22.在 Framekwork 更新到 2.1 版本以后，新增加了一个很重要的功能，即______ B ____三者的关系可以通过连线的方式进行设置。",
+        "bbox": [
+            38,
+            532,
+            875,
+            585
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A 视野，曝光，图像， B 取相，标定，检测",
+        "bbox": [
+            38,
+            606,
+            430,
+            621
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C 相机 IP，主机 IP，光源控制器 IP D 相机初始化，增益，延迟",
+        "bbox": [
+            38,
+            643,
+            603,
+            659
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "23.__ D _参数的意义：棋盘格每个单元格的尺寸大小 ",
+        "bbox": [
+            38,
+            678,
+            542,
+            697
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd3eecea4cf15ef1490237029d0d6565b1d3e0f35b02e9f13466fdd923696daa.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            544,
+            677,
+            586,
+            694
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "B _：标定时相机固定不动，机械手带着标定板移动 ",
+        "bbox": [
+            58,
+            715,
+            606,
+            734
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A _：标定时标定板固定不动，机械手带着相机移动 ",
+            "___ C___： 不执行该标定文件，相机输出图片直接赋给 Inspection 使用"
+        ],
+        "bbox": [
+            58,
+            753,
+            707,
+            808
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A Moving Camera ",
+        "bbox": [
+            99,
+            828,
+            273,
+            845
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "B Static pose ",
+        "bbox": [
+            292,
+            829,
+            416,
+            845
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C Passthrough ",
+        "bbox": [
+            100,
+            865,
+            243,
+            882
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "D Pitch ",
+        "bbox": [
+            267,
+            865,
+            336,
+            881
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24.图片保存路径：__ B 桌面创建_ C _文件，用于存放当天 NG Image，便于工程师查看分析 NG 原因和数据。 共享路径设置： A 复制视觉软件: D:/Cognex/Program/ 软件备份路径：D _备份日期-备份人姓名",
+        "bbox": [
+            38,
+            49,
+            964,
+            143
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A D:/Cognex/Share/ B D:/Cognex/Images/ ",
+        "bbox": [
+            58,
+            161,
+            462,
+            177
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C NG-Image D D:/Cognex/Backup/ ",
+        "bbox": [
+            60,
+            197,
+            391,
+            212
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "25.设置相机界面正确打开方式是：_ C",
+        "bbox": [
+            42,
+            235,
+            485,
+            253
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A.[开始菜单] [ 所有程序] [Cognex] [Utilties] [VisionPro] [Gige Cogfiguration Tool]",
+            "B. [开始菜单] [  所有程序] [Cognex]→ [VisionPro] [Gige Cogfiguration Tool] ",
+            "C. [开始菜单] [ 所有程序] [Cognex]→ [VisionPro] [Utilties] [Gige Cogfiguration Tool]  → → ",
+            "D. [开始菜单] $\\mid $ [  所有程序] [Cognex] [Utilties] [Gige Cogfiguration Tool] "
+        ],
+        "bbox": [
+            38,
+            272,
+            845,
+            399
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26.相机巨帧设置应为 B ",
+        "bbox": [
+            40,
+            419,
+            400,
+            437
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A .9600 B.9014 C.8704 D.1024 ",
+        "bbox": [
+            119,
+            457,
+            406,
+            472
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "27.对于 Windows 64 位操作系统应安装哪种 VisionPro_ D_",
+        "bbox": [
+            38,
+            494,
+            672,
+            511
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A.Cognex VisionPro x32(R) 9.0 CR1 B. Cognex VisionPro x64 (R) 9.0 CR1 ",
+        "bbox": [
+            38,
+            531,
+            707,
+            546
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C.Cognex VisionPro x32(R) 9.0 CR2 D. Cognex VisionPro x64 (R) 9.0 CR2 ",
+        "bbox": [
+            38,
+            568,
+            710,
+            583
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "28.图像训练正确顺序为 A ",
+        "bbox": [
+            38,
+            605,
+            376,
+            621
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A.获取图像 设置训练区域和原点 设置训练参数 训练图像 查看结果",
+            "B.获取图像 训练图像 设置训练参数 查看结果",
+            "C. 获取图像 设置训练参数 设置训练区域和原点 训练图像 查看结果",
+            "D. 获取图像 设置训练区域和原点 训练图像 查看结果"
+        ],
+        "bbox": [
+            58,
+            642,
+            714,
+            769
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29.在“Image Save Options”对话框中，在____C_____栏目中，可以对每个 VPP 分别设置是否保存.bmp 图像；在____A _栏目中可以对每个 VPP 分别设置是否保存.jpg 图像。",
+        "bbox": [
+            58,
+            790,
+            894,
+            846
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A“Annotated Image Sources” B“Browse” ",
+        "bbox": [
+            58,
+            865,
+            442,
+            879
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C“Raw Image Sources” D“Annotated Image Save Path” ",
+        "bbox": [
+            60,
+            902,
+            576,
+            917
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "判断题",
+        "text_level": 1,
+        "bbox": [
+            40,
+            47,
+            127,
+            68
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. CS 型镜头加 5mm 接圈匹配 C 型相机 （ N ）",
+            "2. C 型镜头+5mm 接圈匹配 CS 型相机。 （ Y ）",
+            "3. 景深是指在焦距固定，图像清晰时，被测物体离相机的前后变化距离，它受镜头上光圈的影响，光圈大景深大。 （ N ）",
+            "4. 一般短焦距镜头的畸变比长焦距镜头畸变更大。 （ Y ）",
+            "5. 颗粒度的基本单位是 Pixel。 （ Y ）",
+            "6. CogPMAlignTool 工具中降低接受阀值，可以提高粗糙得分。 （ Y ）",
+            "7. CogPMAlignTool 工具中提高接受阀值，可以提高精细得分。 （ Y ）",
+            "8. PatMax工具的接受阈值介于0-1之间。 （ Y ）",
+            "9. CogCalibCheckerboardTool 矫正输入图片的畸变。 （ Y ）",
+            "10. CogIDTool 同时支持一维码和二维码的读取。 （ Y ）",
+            "11. CogBlobTool 更加适用于低对比度的图像。 （ N ）",
+            "12. CogCaliperTool 中的 Edge Pair(边缘对) 模式还可以测量边缘对之间的距离。 （ Y ）",
+            "13. 硬件选型时，镜头的最大兼容芯片尺寸可以小于相机芯片尺寸。 （ N ）",
+            "14. 定焦镜头的焦距是可以微调的。 （ N ）",
+            "15. 定焦镜头的焦距不可以调节，变焦镜头的焦距可以调节 （ Y ）",
+            "16. 远心镜头的放大倍率是可调的。 （ N ）",
+            "17. 目标物前后的距离叫做最大最小工作距离。 （ N ）",
+            "18. 景深的大小会影响到最大最小工作距离。 （ Y ）",
+            "19. CMOS 在采集图片的时候，噪声是指的采集图像时候产生的声音 （ N ）",
+            "20. LED光源的优势在于绿色环保寿命长，但电光转化效率低。 （ V ）",
+            "21. 镜头的光圈值越大，通光孔径越大。f/2比f/2.8的孔径要小。 （ X ）"
+        ],
+        "bbox": [
+            38,
+            91,
+            964,
+            939
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "22. 相机分辨的单位是像素。 （ V ）",
+        "bbox": [
+            40,
+            49,
+            502,
+            67
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "简答题",
+        "text_level": 1,
+        "bbox": [
+            40,
+            105,
+            127,
+            128
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 简述所学项目的标定流程及注意事项。",
+            "2.请按照所学项目 Bringup 逐步写出 COXNEX 调机步骤。"
+        ],
+        "bbox": [
+            40,
+            141,
+            485,
+            193
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1、确认对应各工位的相机的镜头的光圈值是否合适，调解光圈调解圈至合适的光圈值，确认完毕后需要锁紧光圈的紧固螺钉；",
+            "2、调整物距至合适值。调整焦距，获得清晰的图像，焦距合适后，需要锁紧焦距的紧固螺钉；",
+            "4、OPT打光完毕后，对相机进行自动标定；",
+            "5、粗/精调Vpp程序；",
+            "6、通过CPK，GRR验证；"
+        ],
+        "bbox": [
+            73,
+            204,
+            963,
+            407
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.相机无法正常连接（拍照蓝屏）现象，试分析原因和对应的解决措施？（15’）",
+        "bbox": [
+            40,
+            445,
+            742,
+            464
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/20aa8bc8d0de047a2599c85d90e84ee1f629cc49bb38cea3fdfb49095d229cef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            749,
+            444,
+            791,
+            458
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 主机 IP 或者相机 IP 有设置错误",
+            "2. 巨帧包 9014、防火墙关闭、ebus 驱动勾选 ",
+            "3. 硬件损害（网线、相机、8704卡）"
+        ],
+        "bbox": [
+            80,
+            482,
+            477,
+            574
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.像素分辨率和 测量精度",
+        "bbox": [
+            40,
+            637,
+            268,
+            655
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/32665b5633a92e68e9f1e93e157df9a32bea65987d731f3e94c5f2adb8841202.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            703,
+            551,
+            891
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm {F O V} _ {\\text {h o r i z o n t a l}} = 6 4 \\mathrm {m m}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            566,
+            713,
+            700,
+            728
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\text {A c c u r a c y} _ {\\text {V i s i o n - T o o l}} = \\frac {1}{4} \\text {p i x e l}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            566,
+            731,
+            744,
+            758
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\# \\text {P i x e l s} _ {\\text {h o r i z o n t a l}} = 1 6 0 0 \\text {p i x e l s}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            566,
+            760,
+            744,
+            775
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\text {A c c u r a c y} _ {\\text {h o r i z o n t a l}} = \\frac {\\text {F O V} \\times \\text {A c c u r a c y} _ {\\text {V i s i o n - T o o l}}}{\\# \\text {P i x e l s}}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            566,
+            778,
+            853,
+            810
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\text {A c c u r a c y} _ {\\text {h o r i z o n t a l}} = \\frac {6 4 \\times (1 \\times 2) \\text {p i x e l}}{4}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            566,
+            813,
+            798,
+            854
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/9362acccd20042296b3c6369f13d62a428f18aa6f77425274688187306d56347.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            566,
+            866,
+            636,
+            890
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Accuracy 0.02mm ",
+        "bbox": [
+            638,
+            866,
+            806,
+            883
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "相机的精度(像素分辨率) $\\cdot$ 视野长边/长边的像素数== 64/1600==0.04mm",
+        "bbox": [
+            38,
+            932,
+            794,
+            954
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "测量精度=相机精度*视觉工具的精度=0.04mm*¼=0.01mm",
+        "bbox": [
+            40,
+            49,
+            547,
+            67
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "两个视觉工具的测量精度：0.01mm*2=0.02mm",
+        "bbox": [
+            40,
+            87,
+            455,
+            104
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "影响相机测量精度的因素： $\\textcircled{1}$ 视野大小 $\\textcircled{2}$ 相机分辨率 $\\textcircled{3}$ 图像质量 $\\cdot$ 视觉工具精度",
+        "bbox": [
+            40,
+            142,
+            752,
+            160
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ps：比如 PMAlign 视觉工具精度是四十分之一",
+        "bbox": [
+            40,
+            190,
+            394,
+            205
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.边线筛子: 过滤一半像素为 1 时, -1,0,1",
+        "bbox": [
+            40,
+            260,
+            423,
+            277
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "过滤一半像素为 2 时, -1,-1,0,1,1 ",
+        "bbox": [
+            112,
+            297,
+            411,
+            313
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "过滤一半像素为 3 时,-1,-1,-1,0,1,1,1 ",
+        "bbox": [
+            179,
+            334,
+            502,
+            351
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "过滤一半像素为1时（-1,0,1）计算下列灰度值转换后的结果",
+        "bbox": [
+            38,
+            388,
+            581,
+            406
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "-10 -5 -3 -2 0 2 3 5 8 10 ",
+        "bbox": [
+            40,
+            426,
+            551,
+            442
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 3 - - 1 0 = 7 \\quad - 2 - - 5 = 3 \\quad 0 - - 3 = 3 \\quad 2 - - 2 = 4 \\quad 3 - 0 = 3 \\quad 5 - 2 = 3 \\quad 8 - 3 = 5 \\quad 1 0 - 5 = 5\n$$",
+        "text_format": "latex",
+        "bbox": [
+            55,
+            463,
+            680,
+            480
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "7 3 3 4 3 3 5 5 ",
+        "bbox": [
+            77,
+            492,
+            426,
+            505
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "过滤一半像素为 1 时（ -1,-1,0,1,1）计算下列灰度值转换后的结果",
+        "bbox": [
+            40,
+            519,
+            626,
+            535
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "-10 -3 -2 2 5 10 ",
+        "bbox": [
+            40,
+            556,
+            526,
+            571
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 + 5 - - 3 - - 1 0 = 2 0 \\quad 5 + 1 0 - - 3 - - 2 = 2 -\n$$",
+        "text_format": "latex",
+        "bbox": [
+            169,
+            593,
+            478,
+            609
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "20 20 ",
+        "bbox": [
+            359,
+            633,
+            494,
+            648
+        ],
+        "page_idx": 10
+    }
+]

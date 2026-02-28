@@ -1,0 +1,6357 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/825b3be54f0351f892bbdd4a10f220485b67680ead7dba91536a19fc701d13d9.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                0,
+                0,
+                1000,
+                627
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件介绍及应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                191,
+                716,
+                776,
+                798
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2022/1/6 "
+                    }
+                ]
+            },
+            "bbox": [
+                16,
+                950,
+                120,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "学习内容"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                209,
+                111
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "读码器的通信"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- DataMan 软件介绍"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- DataMan 软件调试流程讲解"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                185,
+                431,
+                361
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "读码器通信"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                59,
+                252,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "随着条码和读码器在生活和工业中的广泛使用，读码器的通信也显得非常重要，关于读码器的通信，我们将学习以下内容："
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                172,
+                933,
+                259
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "通信相关词语及其概念"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "工业中Cognex常用的通讯方式"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "读码器常用的2种通信方式区别"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "固定式读码器通信"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "手持式式读码器通信"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                285,
+                447,
+                601
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "通信相关词语及其概念"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                391,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9289294cd599c2dd49a183e876df83ebad645d5aa39cbc249ad86ce3f47c286b.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>序号</td><td>相关词汇</td><td>定义</td></tr><tr><td>1</td><td>IP</td><td>IP协议提供的一种统一的地址格式，它为互联网上的每一个网络和每一台主机分配一个逻辑地址，以此来屏蔽物理地址的差异。常见的IP地址，分为IPv4与IPv6两大类。也分为动态IP地址和静态IP地址。</td></tr><tr><td>2</td><td>通讯端口</td><td>TCP/IP协议中的端口就是逻辑端口，通过不同的抄逻辑端口来区分不同的服务。一个IP地址的端口通过16bit进行编号，最袭多可以有65536个端口。端口是通过端口号来标记的，端口号只有整数，百范围是从0到65535。</td></tr><tr><td>3</td><td>传输波特率</td><td>波特率表示每秒钟传送的码元符号的个数，是衡量数据传送速率的指标，它用单位时间内载波调制状态改变的次数来表示。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                55,
+                262,
+                897,
+                759
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "工业中Cognex常用的通讯方式"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                520,
+                114
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "√ 以太网通信"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                270,
+                248,
+                307
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e114924dc1142a5c21f23e19b2c8271a0698cf98b6acc9e302bc4c35882989a5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                280,
+                220,
+                461,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "串口通信"
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                472,
+                633,
+                509
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7b7ce49b24bf17c6e6bbd348e0cd7f0f51c59a865fd1246e2d460e036f48fdbb.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                670,
+                387,
+                884,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "√ USB通信"
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                666,
+                233,
+                703
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ee59858a823e02309a74c7e7b3308e036b1cbe1c304c4167063079582e9e8f37.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                250,
+                585,
+                543,
+                833
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "读码器常用的2种通信方式区别"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                516,
+                112
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "串口：交互简单扩展性强成本适中无地域限制传输易受干扰。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "以太网：传输速度慢插拔不便成本低开发简单扩张性弱。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                205,
+                809,
+                316
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "固定式读码器通信"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                331,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "以 Cognex 固定式读码器为例，固定式读码器通信媒介主要为：以太网通信和串口通信。随着 USB 技术的发展也串口转 USB 通信模式。"
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                172,
+                933,
+                261
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9024934c78008817043a10c1b6f25aa0c21825d9fc3c1d4f69d9093f296bf5f9.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                173,
+                335,
+                606,
+                794
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                988
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "固定式读码器通信"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                331,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cognex 固定式读码器连接串口线和以太网线后，需要再增加 IO 线进行供电，并根据项目需要通过 IO 线接收硬件触发信号。"
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                174,
+                919,
+                261
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fb61145aeec78ed39ff2b1acc991d7d902b0580ab168ee0b084451a9a33ce277.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                176,
+                322,
+                438,
+                509
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c2e78954b238d54120fae567cd191c0dbd9455b44d38aecdbb7b5facfba5d88d.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                491,
+                325,
+                750,
+                535
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/af8980a091d001cfbc5a3ddbd4c3c551217c8aee5c1b05d0054f2a5e1a2af312.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "I/O电缆（CCB-M12xM12Fy-xx）"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                193,
+                587,
+                477,
+                929
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6dd65dd3ca905dba632e30d18abc808f42e6cefe5c0591af12cb2bc598b701ac.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "1/0 电缆（CCBL-05-01）"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                491,
+                587,
+                751,
+                929
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                988
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "手持式式读码器通信"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                359,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cognex手持式读码器主要以USB通信和无线通信为主。"
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                174,
+                683,
+                212
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/95768e7d244dafe842a79855c8605b98a7cbb6c3e491ed42cea45c939d3fa099.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                315,
+                257,
+                491,
+                596
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f5f16538600a9792590eee90c92c9b92bcc8ed8ee49aaf718484e20a3f692a6c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                284,
+                635,
+                387,
+                794
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2cc1b747938c0fc82da5625fc3d1a2cbf3131db1ede80140563dcb77b16b730e.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "以太网通信线 无线网络信线"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                438,
+                646,
+                537,
+                751
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "小结"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                150,
+                111
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "读码器通信的主要作用, 将获取并解析完成的条码信息, 通过通信方式传递至 PC、PLC 等信息接收端。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cognex 固定式读码器需要通过 IO 线供电，及最常用的 2 中 IO 线。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "以当下使用率最高的固定式读码器和手持式读码器为例，读码器主要通信方式有："
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                172,
+                931,
+                437
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "以太网通信。"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                468,
+                281,
+                507
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "串口通信。"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                538,
+                258,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "USB 通信。"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                607,
+                276,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "无线网通信。"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                675,
+                281,
+                712
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，固定式读码器主要为：以太网通信和串口通信；手持式读码器主要为：USB 通信和无线网通信。"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                744,
+                931,
+                827
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                62,
+                356,
+                112
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cognex DataMan 软件的介绍。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "读码器软件界面工具模块的作用意义及运用。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                174,
+                583,
+                283
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11 "
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                356,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 设置软件 Cognex 开发能够用于访问 DataMan 读取器和基站的各种选项，包括实时查看正在读取的代码的图像，或者通过 FTPfor 稍后查看将读取器设置为 transferor 读取图像。"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                174,
+                936,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 设置工具是一个通用的跨平台模型。它简化了部署，把最常用的控件放在一个页面上，可以看到不同的选项如何影响实时的读卡器或基站。"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                331,
+                933,
+                416
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9be0eb82549b2752c2fc928d8a1f3fce5c223a071663835e5c42cb7b628e1a77.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                208,
+                559,
+                277,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan "
+                    }
+                ]
+            },
+            "bbox": [
+                209,
+                609,
+                277,
+                624
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6082d8f9bdd2aca0436e5a713af9e446b0ae2dacb351ea998c5708e522e93ea7.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                206,
+                624,
+                277,
+                650
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan "
+                    }
+                ]
+            },
+            "bbox": [
+                206,
+                662,
+                277,
+                685
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.1.6_SR2 "
+                    }
+                ]
+            },
+            "bbox": [
+                209,
+                690,
+                277,
+                718
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Setup Tool"
+                    }
+                ]
+            },
+            "bbox": [
+                201,
+                720,
+                284,
+                750
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cognex 读码软件 ---"
+                    }
+                ]
+            },
+            "bbox": [
+                456,
+                614,
+                688,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 设置工具"
+                    }
+                ]
+            },
+            "bbox": [
+                459,
+                657,
+                666,
+                690
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件界面介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "交互界面"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                88,
+                166,
+                193,
+                205
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a87498638b010e3556b4f501e894d80f0637232a6e20bb4c37081e85527c2d03.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                130,
+                257,
+                848,
+                798
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件界面介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Home界面"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                88,
+                168,
+                218,
+                205
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4edf127fa7d9b3f739653a46207b8bbf041d577c58462fabe6546e11b36d48ea.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                20,
+                268,
+                429,
+                724
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b19d998f31399d4bbe8ca1c2393eb5be8b5938e2a50463bf54fc0570ed3e184c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Home-function list "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">Item\nName</td><td>NO.</td><td>Name</td><td>Function</td></tr><tr><td colspan=\"2\">Type</td><td>1</td><td>设备名称</td><td>显示设备图标</td></tr><tr><td colspan=\"2\">Address</td><td>2</td><td>设备类型</td><td>显示设备型号</td></tr><tr><td colspan=\"2\">Firmware Version</td><td>3</td><td>设备地址</td><td>设备的IP地址显示</td></tr><tr><td colspan=\"2\">Status</td><td>4</td><td>固件版本</td><td>固件版本型号</td></tr><tr><td colspan=\"2\">Open in Documents</td><td>5</td><td>设备状态</td><td>显示设备的状态如：（Conflicting（冲突）、In use（在使用）</td></tr><tr><td colspan=\"2\">Interface</td><td>6</td><td>文档</td><td>设备读码器的文档</td></tr><tr><td colspan=\"2\">MAC Address</td><td>7</td><td>接口</td><td>读码器的接口类型</td></tr><tr><td colspan=\"2\"></td><td>8</td><td>Mac地址</td><td>读码器硬件地址</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                455,
+                266,
+                966,
+                805
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件界面介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c2e2f3bbb4839be408761e6d22b4d725430f0db5b3133f44c3452414ebc09015.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Setting 界面"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                5,
+                218,
+                509,
+                770
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b850431cc0ba3d13d6a63c5bb210617ee47210a1feb68cb7a9e254ff03d9da5c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Setting-function list "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">Item</td><td>NO.</td><td>Name</td><td>Function</td></tr><tr><td colspan=\"2\">Quick Setup</td><td>1</td><td>快速设置</td><td>显示实时界面，同时能跳转到快速设置界面，进行调试。</td></tr><tr><td colspan=\"2\">Test Mode Settings</td><td>2</td><td>测试模式设置</td><td>测试模式，有些功能受到限制，只能测试触解码时间</td></tr><tr><td colspan=\"2\">Light and Imager Settings</td><td>3</td><td>光源和图片设置</td><td>调试读码器光源亮度和取图图片格式设置</td></tr><tr><td colspan=\"2\">Symbology Settings</td><td>4</td><td>二维码类型设置</td><td>可以勾选读取码的类型，如：读取一维码或二维码</td></tr><tr><td colspan=\"2\">Character Recognition</td><td>5</td><td>字符识别</td><td>设置识别条码字符信息</td></tr><tr><td colspan=\"2\">Data Validation</td><td>6</td><td>数据有效性</td><td>分析读码器的解码信息</td></tr><tr><td colspan=\"2\">Code Quality</td><td>7</td><td>代码质量</td><td>可以测试条码质量，评定等级</td></tr><tr><td colspan=\"2\">Data Formatting</td><td>8</td><td>数据格式</td><td>输出条码的格式，如回车换行，下划线等</td></tr><tr><td colspan=\"2\">Scripting</td><td>9</td><td>脚本</td><td>脚本代码实现特殊的解码算法</td></tr><tr><td colspan=\"2\">Buffering and Transfer</td><td>10</td><td>图像记录和播放</td><td>记录图像信息并且可以快速播放</td></tr><tr><td colspan=\"2\">Communication Settings</td><td>11</td><td>通讯设置</td><td>设置读码器通信信息</td></tr><tr><td colspan=\"2\">System Settings</td><td>12</td><td>系统设置</td><td>设置读码器读取失败字符串</td></tr><tr><td colspan=\"2\">Table View</td><td>13</td><td>表格视图</td><td>调试OK 的读码器参数会以表格形式呈现出来</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                525,
+                198,
+                990,
+                801
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                38,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                187,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件界面介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Actions 界面"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                88,
+                168,
+                240,
+                203
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/12f3e2858141d158dd6dadb135a898c52bb1d2e08999673492d9fc40824bac24.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                18,
+                253,
+                506,
+                751
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/45171d0f5e2004f119c1b3a81e3db4f4a453b8790ba3b5d3d2dcd5451b69218d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Actions-function list "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>ItemTrigger</td><td>NO·</td><td>Name</td><td>Function</td></tr><tr><td>Input Line 1Action</td><td>1</td><td>触发器</td><td>手动单次触发读码器解码</td></tr><tr><td>Live</td><td>2</td><td>输入线路操作</td><td>读码器会设置不同的解码参数,先择解码方案</td></tr><tr><td>OptimizeBrightness</td><td>3</td><td>读码器实时</td><td>读码器实时拍照以便更好地调整读码器的位置</td></tr><tr><td>OptimizeFocus</td><td>4</td><td>优化亮度</td><td>可以调试读码器亮度和曝光</td></tr><tr><td>Tune</td><td>5</td><td>优化焦距</td><td>可以手动调试焦距也可以自动对焦</td></tr><tr><td rowspan=\"2\">TrainCodeEnable TestMode</td><td>6</td><td>调谐</td><td>读码器子自动寻找最佳亮度,曝光和焦距</td></tr><tr><td>7</td><td>训练二维码</td><td>读码器通过训练记忆要解的码的大小,特征,以便加快解码时间和解码成功率</td></tr><tr><td>Switch to ProcessMonitor</td><td>8</td><td>启用测试模式</td><td>开启测试模式,读码器会自动开始解码,直到关闭测试模式才会停止</td></tr><tr><td>Upload Image</td><td>9</td><td>切换进程监视器</td><td>进程监视器可以监视读码器的解码时间和成功率</td></tr><tr><td>Train Image</td><td>10</td><td>上传图片</td><td>可以将解码后的图片进行保存和上传</td></tr><tr><td></td><td>11</td><td>训练图片</td><td>可以通过图片中二维码进行训练</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                525,
+                246,
+                984,
+                835
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "16 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                187,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件界面介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "System 界面"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                88,
+                168,
+                236,
+                207
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/43cb9a153ce33fdaed6be2c5a6432d53b7eadf0e7ab11d8c588f5358e14fc503.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                25,
+                281,
+                483,
+                759
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3ddc39aa839c3d566da1efa6936c11ef4f24dbc8bbff91d7b91868927b34090b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "System-function list "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Item\nSystem Info</td><td>NO</td><td>Name</td><td>Function</td></tr><tr><td>Device Log</td><td>1</td><td>系统信息</td><td>可以读取到读码器SN和软件版本号等信息</td></tr><tr><td>Configuration Backup Settings</td><td>2</td><td>显示日志</td><td>可以看到读码器错误log日志，通过分析日志，获取读码器故障</td></tr><tr><td>Save Configuration...</td><td>3</td><td>备份设置</td><td>配置IP和端口，程序会自动备份</td></tr><tr><td>Open Configuration...</td><td>4</td><td>保存配置</td><td>调试完成后需要保存文件CDC或CFG</td></tr><tr><td>Save Settings</td><td>5</td><td>打开配置</td><td>可以将保存好的文件打开导入保存好的参数</td></tr><tr><td>Reset Configuration</td><td>6</td><td>保存设置</td><td>将设置号的参数保存</td></tr><tr><td>Update Firmware</td><td>7</td><td>重置配置</td><td>可以重启读码器或者可以将读码器回复出厂设置重新调试</td></tr><tr><td>Upload Feature Key...</td><td>8</td><td>固件更新</td><td>更新固件可以防止读码器死机或者网络掉线</td></tr><tr><td>Print Device Backup Code...</td><td>9</td><td>上载功能密钥</td><td>脚本代码实现特殊的解码算法</td></tr><tr><td>Print Configuration Code...</td><td>10</td><td>打印 CDC文件</td><td>可以将CDC文件进行打印</td></tr><tr><td></td><td>11</td><td>打印 CFG文件</td><td>可以将CFG文件进行打印</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                515,
+                255,
+                975,
+                842
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "17 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                187,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件界面介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "View界面"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                88,
+                168,
+                204,
+                203
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9e48b2801e199e1919af1f89e7a2ffa756a2bc328ad6eb01a77b09ae99416e0a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                15,
+                277,
+                483,
+                746
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/92778100e8732c2c2370da60e3f2182901b76e2acb6e5e3203803f1630a9c005.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "View-function list "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Item\nVisor de imágenes</td><td>NO</td><td>Name</td><td>Function</td></tr><tr><td>Vista de herramrientas deImagen</td><td>1</td><td>图像查看器</td><td>显示实时界面，同时能跳转到快速设置界面，进行调试。</td></tr><tr><td>Historial de resultados</td><td>2</td><td>图像工具</td><td>测试模式，有些功能受到限制，只能测试触发解码时间</td></tr><tr><td>Calidad de los@códigos</td><td>3</td><td>历史结果</td><td>调试读码器光源亮度和取图图片格式设置</td></tr><tr><td>Preguntas y respuestos</td><td>4</td><td>代码质量</td><td>可以勾选读取码的类型，如：读取一维码或二维码</td></tr><tr><td>Organizar documentos</td><td>5</td><td>帮助文档</td><td>可以在帮助文档查找解决方案</td></tr><tr><td>Navegación sincronizada</td><td>6</td><td>语言切换</td><td>可以切换语言方便调试</td></tr><tr><td></td><td>7</td><td>排列文档</td><td>可以将界面进行排列</td></tr><tr><td></td><td>8</td><td>同步</td><td>同步更新最新的文档信息</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                516,
+                335,
+                975,
+                781
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "小结"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                150,
+                112
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cognex DataMan 软件的定义。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "读码器软件介绍以及读码器软件版本安装。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "读码器软件界面 Home、Setting 、Action 、System 、View等工具模块的详细介绍。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Setting/System 是调试读码器最常用的模块工具。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                174,
+                812,
+                468
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                979,
+                988
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "常规调试流程图"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                174,
+                243,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "连接读码器"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                303,
+                127,
+                338
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 选择合适的通信方式将读码器与 PC 进行连接。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 打开 DataMan 设置软件打开需要连接设置的读码器。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                166,
+                244,
+                762,
+                329
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "通信设置"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                459,
+                127,
+                496
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 在 DataMan 软件中的通讯设置根据通信协议要求对读码器通讯参数进行设备。"
+                    }
+                ]
+            },
+            "bbox": [
+                166,
+                405,
+                902,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "调试条码采集参数"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                618,
+                127,
+                668
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 根据条码情况，调整合适的视野尺寸和读码位置。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 根据实时读码情况，优化读码曝光、频率、打光方式的参数，并选择需要的触发方式。保存设置至读码器后退出 DataMan 设置工具。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                168,
+                538,
+                915,
+                688
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "读码器设置保存 "
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                781,
+                127,
+                831
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 将调试好的读码器进行保存。"
+                    }
+                ]
+            },
+            "bbox": [
+                168,
+                751,
+                500,
+                790
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "20 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "主机IP地址设置"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                166,
+                272,
+                205
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9bd6720cf70e60ddaa9483ae013d2dc44d3f94fc1f1b7a040d98ed811c588bbd.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                66,
+                272,
+                484,
+                694
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PC端口IP地址设置："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                513,
+                296,
+                762,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "根据通信协议要求，将PC端连接读码器网口IP地址设置为通信协议地址。"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                412,
+                783,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "常用的IP地址如："
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                574,
+                700,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IP : 192.168.10.101 "
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                629,
+                734,
+                659
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "子网掩码：255.255.255.0"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                681,
+                786,
+                714
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "21 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "以太网通信读码器IP参数设置"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                138,
+                434,
+                177
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 打开 DataMan 设置工具软件;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 在 DataMan 工具软件主界面，选择 Reader_Maintenance 选项，勾选“Show All Devices”"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 选中需要调试和设置的读码器。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 在右侧网络设置栏中，选中“Use Static IP Address”，设置和PC端口同网段IP地址。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                216,
+                937,
+                392
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e01fb92fd0704a72720135e7cee2880f87d21e5d95f03e6b2a2b43d7dc167e24.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                106,
+                420,
+                663,
+                633
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f6c15329dc30325076da80235200cea5579279c5825e037cbb20d0217c63f509.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                106,
+                659,
+                663,
+                901
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "22 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                187,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/96e3a289e9d6fb96420ecb15337b33ac3a1dd4ca7ab8aa31fe4fdb6c83a38285.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                56,
+                203,
+                486,
+                750
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "学习了解"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                195,
+                766,
+                225,
+                912
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "串口通信读码器参数设置 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                527,
+                151,
+                805,
+                190
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 在 DataMan 主界面双击进入需要调试的读码器调试界面;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 选择状态栏中的“Setting”选项；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 在“设置”界面下选"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                251,
+                897,
+                446
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "择“CommunicationSettings”；"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                466,
+                847,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 选择“Serial”选项，对串行端口进行参数设备。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                518,
+                891,
+                605
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Speed：波特率表示每秒钟传送的码元符号的个数，是衡量数据传送速率的指标，它用单位时间内载波调制状态改变的次数来表示，我们需要将波特率参数和要通讯的设备保持一致。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.Parity: 奇偶校验位，这个是串口通信简单的检错方式，串口会设置检验位，用一个值确保传输的数据有偶数个或者奇数个逻辑高位。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.DataBits: 表示数据位，通信中真正效的信息，数据位需要通信双方共同约定，一般在6,7,8位之间。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4:Stop Bits: 停止位，在一个数据的最后，用来表示字符传输的结束，一般停止位有1位，2位。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5.USB Speed: 选择 SUB 的传输速度。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                268,
+                651,
+                890,
+                920
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "23 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                187,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "读码器 Telnet 端口设置"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                79,
+                170,
+                340,
+                207
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ec80d931eaa121d8ce70eee94a4ca55530a6887c1db38960bd8b92a10ea2ab03.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                77,
+                253,
+                812,
+                448
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "读码器自定义触发指令设置 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                538,
+                387,
+                575
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/21ee4efd96a84a8c0984239e53fdf430c0246ab3d588a18cba3cec755d0d4651.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                77,
+                631,
+                795,
+                903
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "24 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                957,
+                187,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                955,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "读码器触发设置 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                168,
+                263,
+                211
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 在“Setting”中的CommunicationSettings项中设置TelnetPort，默认“23”，非特殊情况尽量使用“23”;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 为了触发读码器运行，可以通过指定触发信息来触发读码器读码。点击 CommunicationSettings 下按钮，选择 Custom Commands;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 在 Serial Trigger 设定项中，可以设定 Trigger On 触发拍照开始指令以及 Trigger Off 触发拍照结束指令。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                303,
+                783,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "以上调试完成后即可在网络调试助手中，模拟发送触发指令读码器接收到指令之后，拍照解码，并把条码内容返回给客户端。"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                622,
+                777,
+                716
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "25 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                979,
+                988
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "读码效果优化"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                669,
+                188,
+                823,
+                227
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5919584cadd86d517e289d8e97b732ba0ce62c21c88cf110023a79194dee3dba.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                70,
+                287,
+                626,
+                779
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "完成通信调试后，我们需要使用真实的条码及读码环境，通过 DataMan 软件中的 Optimize Image 进行读码参数进行优化："
+                    }
+                ]
+            },
+            "bbox": [
+                634,
+                314,
+                934,
+                562
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 打光方式;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 焦距; "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 曝光时间;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 触发 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. 模板训练。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                679,
+                581,
+                830,
+                862
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "26 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                187,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                111
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/40b3f1cd9f959f2027ed6953a955eda1acf5c7897a2baf12d71d3e4ea034869c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                98,
+                166,
+                661,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Live：实时显示图片，获取视野中物品的位置，点击Live按钮可以进入实时显示模式，实时显示模式不仅可以显示实时图像还可以实时解码。"
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                427,
+                876,
+                518
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 如果需要实时显示解码，请勾选Decoding"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 当 Focus Feedback 被勾选时，图像显示窗口右侧会显示一个带有颜色的计数条。计数条高度表示镜头的对焦情况（计数条越低表示对焦越差）。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 勾选上 Automatic Exposure 可以让读码器自动设定曝光参数。图像显示区域下方的增益滑动条数值表示当前目标的像素灰度值。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 在图像显示区，我们可以通过拖动、拉伸蓝色框设定感兴区域（ROI）。感兴区域表示读码器会在这个区域进行读码，忽略其他部分。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                535,
+                884,
+                892
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "27 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                111
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a3176bdda8ebb7e1a8a656b215ca911082ce42d86850c001157fb3cf0ef7860c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                59,
+                212,
+                490,
+                727
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Tune参数介绍："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                516,
+                177,
+                698,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tune 按钮可以使读码器自动设定最佳读码参数，点击按钮最右侧下三角可以打开高级设定窗口："
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                287,
+                888,
+                429
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Optimize Focus (优化对焦) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Optimize Brightness (优化曝光) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Symbology Assistant (码制助手) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. trigger type (触发模式)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. Train Code (训练条码) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. Advanced Trigger Settings（触发模式高级设定）和其他调节参数"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                516,
+                446,
+                891,
+                909
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "设定"
+                    }
+                ]
+            },
+            "bbox": [
+                555,
+                927,
+                602,
+                959
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "28 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                418,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7f362d774c8b0ab0f80d40bef8e5d1d60cbe711205003b41230dbbaddd9649e6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                72,
+                194,
+                436,
+                690
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Tune参数含义："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                463,
+                105,
+                647,
+                148
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 如果设定了 Tune Light Bank，读码器会调节光源。如果我们清楚光源的设置，自动调节时，就会跳过光源的设定。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 选定 Exhaustive Tuning 会强制调节光源。当 ExhaustiveTuning 被禁用时，读码器一旦在某一光源设定下成功解码，将不再改变光源设置。如果 ExhaustiveTuning 被启用，读码器测试所有的光源设置模式，不论是否已经成功解码。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 如果 Enable Filter Tuning 被选上，DataMan会使用图像过滤器。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 如果我们想在调节过程中自动对焦，需要勾选上 Optimize Focus During Tuning "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. 勾选 Train Code After Tuning，会在自动调节成功之后，对条码进行训练 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                462,
+                162,
+                947,
+                892
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "自动曝光作用："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                177,
+                223,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "自动曝光就是相机代替人的操作，自动调节曝光时间、光圈、ISO进行曝光，使得所摄物体亮度正常，这句话解释起来很简单，但是存在两个难点问题："
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                229,
+                525,
+                427
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "第一，相机不如人眼这样可以直观的分辨图像明暗，如何判断这幅图像是否亮度合适；  \n第二，如何调整曝光时间、光圈、ISO,这三者调节的比例。"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                442,
+                525,
+                640
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "增益作用："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                657,
+                177,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "增益控制感光灵敏度，高增益代表高灵敏度，对低光照越灵敏。同时也会对噪声进行发大，降低信噪比。"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                709,
+                509,
+                853
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/61336247e0fe8d645ded7867a2e1d325121732610789c322a2d17e2cf776f3d4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                538,
+                222,
+                918,
+                785
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "30 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                111
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f45c858deb9b9a45139d16f6b1bfe0c235595723363438fd3ed2d1374011e0d1.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                79,
+                166,
+                438,
+                714
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "触发模式参数含义:"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                450,
+                114,
+                641,
+                151
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Single：拍摄单张图片进行解码，每个 Setup 会拍照一张。可以设定单个 Setup 的超时时间（timeout）；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Presentation：连续拍照，每次对视野中的单个条码进行解码；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Manual：在足够长的时间里进行拍照，直到成功解码或者触发信号结束；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Burst: 拍摄一组图片进行解码, 并在首次成功解码时停止解码。我们可以设定每组图片的拍摄数量, 还有每次拍照之间的时间间隔。每次拍照都可以设定一个超时时间;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. Self: 与 presentation 模式类似;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. Continuous：在触发信号结束之前持续拍照，可以设定每次拍照时间间隔；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7Timeout：表示读码器等待时间，直到读码器读码成功或者失败。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                450,
+                166,
+                988,
+                1000
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "31 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Tune 的作用："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                59,
+                194,
+                200,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "读码器可以自动调节最佳光源亮度，自动调节最佳焦距，自动调节最佳增益等信息，最后会给出3各最优解码方案。"
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                246,
+                393,
+                442
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Tune 的优点:"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                48,
+                561,
+                187,
+                594
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 便于现场工程师快于调试。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 加快解码时间，提高解码成功率。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 对于比较难读的码可以自动调节最佳解码方案。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 便于现场零基础人员。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                614,
+                454,
+                862
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e5f934e05e9ee578e1624b30207e7bbfd58087281c554cb963c28039b0632835.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                400,
+                268,
+                929,
+                651
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "32 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                187,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "点击 Test 按钮，可以测试读码器解码性能"
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                179,
+                501,
+                216
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bb8fc928f8bba6f183281b18a5c6fd5087b3cc2de2557da0d08b05e48e301b45.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                87,
+                238,
+                702,
+                509
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Test 参数含义:"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                93,
+                618,
+                252,
+                653
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Trigger On : 收到指令读码器开始解码, 20ms=0.02s"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Trigger Off: 读码器结束读码,  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "1980 \\mathrm{~ms} = 1.98 \\mathrm{~s}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                670,
+                527,
+                864
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "33 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                187,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/523b7907ab6bc80d63a2f30171e5f282454ca9ea1379da07becbdd54de5816b2.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                84,
+                190,
+                802,
+                612
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Save Configuration 作用：备份调试好的参数配置，防止程序参数丢失或被改，可以重新导入备份参数配置。"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                666,
+                790,
+                757
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "34 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9d2186c747cfd78979ece2dd39b507b888185ab4fb4325e537426b96ec959721.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                97,
+                185,
+                820,
+                553
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Open Configuration 作用：导入配置好的参数信息，以便现场调试参数统一，或者软件参数被改动，重新导入备份的配置参数。"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                664,
+                793,
+                757
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "35 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                109
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3f1b32b32314287c508530a4786cc089a3e7da79967efe4af26a994e8ef2c8ec.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                83,
+                229,
+                833,
+                412
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "固件更新的作用：升级读码器固件防止读码器死机或者网络掉线。"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                537,
+                737,
+                572
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "36 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                111
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0b1af68ba68a3551de0510884432e68f33d1675ea23d9ece7af3c75225e94e20.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                72,
+                201,
+                883,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Reset Configuration：配置还原 Reset Configuration。"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                514,
+                656,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "此功能能够将所有读码配置参数恢复至出厂设置状态，包括触发模式、Setup参数、Setup数量、脚本内容等等，但是无法更改网络连接信息（连接IP地址以及端口号）。"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                564,
+                829,
+                709
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "37 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMan 软件调试流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                64,
+                416,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "小结"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                174,
+                119,
+                211
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "通过 DataMan 软件调试读码器流程："
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                240,
+                527,
+                283
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 连接读码器; "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 设置读码器通信参数; "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 调试优化读码参数; "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 保存配置。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                312,
+                370,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "灵活运用 Tune 功能，加快读码器调试。"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                587,
+                587,
+                629
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "38 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                979,
+                988
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "课堂测试 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                211,
+                111
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "一、DataMan 设置软件中 Tune 的主要作用？"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "二、DataMan 软件调试读码器具体流程？"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "三、读码器升级固件的作用："
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                174,
+                563,
+                351
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 防止读码器死机。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 防止读码器电线。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 加快解码速率。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 提高解码良率。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                381,
+                330,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "四、电源线接  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "24 \\mathrm{~V}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 时, 正负极接线方法是:"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                657,
+                534,
+                696
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "棕正蓝负（或者红正黑负）"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                725,
+                404,
+                766
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "39 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Thank you. "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                256,
+                337,
+                591,
+                431
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "40 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ]
+]

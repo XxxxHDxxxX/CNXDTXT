@@ -1,0 +1,1549 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多代码的调试与应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                338,
+                460,
+                420
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "LL6 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                678,
+                64,
+                883,
+                346
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [],
+                "level": 1
+            },
+            "bbox": [
+                625,
+                385,
+                939,
+                551
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "NEX "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                626,
+                588,
+                939,
+                666
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 2 □ "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                626,
+                716,
+                939,
+                792
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PERFECTING VISION "
+                    }
+                ]
+            },
+            "bbox": [
+                626,
+                903,
+                937,
+                935
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多代码的调试与应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                46,
+                367,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多代码的分类"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                142,
+                236,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "根据 iphone 这边所碰到的 ID 项目来看，多条码的应用主要分为以下两类："
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                216,
+                742,
+                262
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 两个码的调试应用，以 RS-OVEN1 项目为例"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 两个码以上的调试应用，以 ANDA-PAMD 项目为例"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                275,
+                558,
+                379
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                34,
+                966,
+                41,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2020 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                988
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多代码的调试与应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                46,
+                367,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 两个码的调试应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                142,
+                312,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "RS-OVEN1 设备使用的扫码枪型号是 DM262X-1540P, 需要同时扫载具码和盖板码 ,而 DATAMAN 软件的默认设置是输出一个条码，所以就要在 DATAMAN 软件里重新设置了，下面就讲讲 DATAMAN 软件里两个码与一个码设置的区别之处。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                246,
+                858,
+                412
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                34,
+                966,
+                36,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2020 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多代码的调试与应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                46,
+                366,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 两个码的调试应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                122,
+                312,
+                170
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/77896803d0434171b498867b09eaf242483dcd7a6531a8baec3415524da49089.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                83,
+                188,
+                383,
+                872
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "代码数量设置"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                459,
+                296,
+                589,
+                340
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "在读码类型里找到多代码设置，代码数量设为 2 ，如果两个码都是 Data Matrix 码，代码的最大数量也设为2"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "另允许部分结果输出意思是不勾选代表只有扫到两个码时才输出，勾选代表扫到一个码或两个码时都能输出。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                459,
+                355,
+                766,
+                696
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                34,
+                966,
+                41,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2020 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多代码的调试与应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                46,
+                366,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 两个码的调试应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                122,
+                312,
+                170
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/56c3f50aaa1cb68f346c984fb1dffd7373ae2609b9dcf93307e407010caa509b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                78,
+                235,
+                446,
+                405
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fe8653898977026f5e82d98a8b746faffe06bfb37df0dfe4963833a8d5190742.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "载具码"
+                    },
+                    {
+                        "type": "text",
+                        "content": "盖板码"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                74,
+                450,
+                446,
+                779
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "代码输出顺序"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                483,
+                307,
+                612,
+                346
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "在读码类型里找到多代码设置，在最下方，有条码输出顺序设置，可以根据条码在图像里的位置或类型等来设置输出结果"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "如左图，如果要先输出载具码，后输出盖板码，那就设置排列"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                482,
+                364,
+                787,
+                705
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（从左到右）顶到最上。"
+                    }
+                ]
+            },
+            "bbox": [
+                516,
+                720,
+                724,
+                764
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                34,
+                966,
+                37,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2020 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多代码的调试与应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                46,
+                366,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 两个码的调试应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                122,
+                312,
+                170
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1fca3d2509044f602fbb260d4c8275bdcada27351d9b9567d26cd9d035eb2bee.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                72,
+                203,
+                410,
+                881
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "代码输出格式"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                459,
+                296,
+                590,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在数据格式中勾选通用的标准进入设置界面，添加全部字符，多代码分隔符选择逗号，如果设备商需要别的数据格式，我们也可以进行相应的设置。"
+                    }
+                ]
+            },
+            "bbox": [
+                459,
+                355,
+                765,
+                596
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                966,
+                38,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2020 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多代码的调试与应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                46,
+                366,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 两个码的调试应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                122,
+                312,
+                170
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a09e62ba38a0f6a81f7463ca7e9d5101c6710c0e62c8304dc1a6b0a980cd384c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                188,
+                656,
+                709
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "代码重读设置 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                107,
+                744,
+                238,
+                787
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 勾选相同代码从不读取两次，如果是两个以上代码，请设置不要重新读取上 N 个代码的个数。"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                803,
+                725,
+                885
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                34,
+                966,
+                38,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2020 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多代码的调试与应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                46,
+                367,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 十一个码的调试应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                79,
+                122,
+                337,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ANDA-PAMD2 设备使用的扫码枪型号是 DM374X, 需要扫 1 个载具码和 10 个 ROMEO 码 ,分为两次扫，第一次扫 1 个载具码和 5 个 ROMEO 码，第二次扫 5 个 ROMEO 码，如下图"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                242,
+                921,
+                348
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/707948f5bb722e5fe7dc89a9ca06fa319cb5f893535e3af9593f80afd1eecf13.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                92,
+                390,
+                670,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "备 注 ： 如 上 图 所 示 ， 第 一 次 扫 ZJ 码 加"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                724,
+                547,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.2.3.9.10 穴 ROMEO 码，平移扫码枪第二次扫"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                772,
+                547,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4.5.6.7.8 穴 ROMEO 码"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                822,
+                322,
+                861
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                34,
+                966,
+                37,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2020 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多代码的调试与应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                46,
+                366,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 十一个码的调试应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                122,
+                336,
+                170
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a11a089b29bac9b9317a9860ebdafdcfac41cb842b9fb493b43f0e0381b97345.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": " MultiROITool "
+                    },
+                    {
+                        "type": "text",
+                        "content": " Installer 0.7.0 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                169,
+                194,
+                283,
+                396
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8c07b2f7027aa00bb88e9822e5c7477740267cfe8398003006a92ab2cfa87d58.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                107,
+                535,
+                395,
+                838
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "代码数量设置及重读设置可以参考第4 页和第 7 页，代码输出顺序及格式，需要利用脚本"
+                    }
+                ]
+            },
+            "bbox": [
+                454,
+                344,
+                792,
+                466
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如图专门有个拉ROI的小软件MultiROITool Installer 0.7.0 生成脚本来控制代码的输出顺序及格式"
+                    }
+                ]
+            },
+            "bbox": [
+                455,
+                481,
+                806,
+                605
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                35,
+                966,
+                37,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2020 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多代码的调试与应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                65,
+                46,
+                366,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 十一个码的调试应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                122,
+                336,
+                170
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2b4e5633eea59f7c11ada4a191936c6aadf1a38925e4710bd7258a4237ee0225.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                76,
+                172,
+                337,
+                440
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f95448499ab4c8347251ceee6784d4bcf3ee825b856cf4f58072459302e79623.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                71,
+                440,
+                339,
+                716
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ee043b72f5bf604071582046b369ee7cc4104d43540704f2bc8bbb58aa35c491.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                77,
+                722,
+                269,
+                862
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "把两次生成的脚本ROI导入模板中，然后再把模板导入数据格式的脚本中，调试完成。"
+                    }
+                ]
+            },
+            "bbox": [
+                399,
+                335,
+                715,
+                459
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                966,
+                40,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2020 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                964,
+                186,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "T h a n k s "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                407,
+                474,
+                586,
+                542
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11 "
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                966,
+                40,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2020 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                964,
+                186,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ]
+]

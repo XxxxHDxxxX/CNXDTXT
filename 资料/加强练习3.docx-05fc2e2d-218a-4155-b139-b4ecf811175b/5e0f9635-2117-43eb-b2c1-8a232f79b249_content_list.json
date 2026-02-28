@@ -1,0 +1,1323 @@
+[
+    {
+        "type": "text",
+        "text": "一、填空题（每空 2 分，共 30 分）",
+        "text_level": 1,
+        "bbox": [
+            144,
+            93,
+            413,
+            109
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CogCalibCheckerboardTool 用于 _标定，其输出的变换类型是 ",
+        "bbox": [
+            144,
+            121,
+            741,
+            137
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图像形态学处理中，闭运算是先 _后 __，常用于填充 。",
+        "bbox": [
+            144,
+            148,
+            741,
+            164
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在C#异步编程中， 关键字用于等待异步操作， 属性获取 Task 的执行结果。",
+        "bbox": [
+            144,
+            175,
+            850,
+            191
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工业相机的 快门适合拍摄高速运动物体， _快门适合高分辨率静态拍摄。",
+        "bbox": [
+            144,
+            203,
+            826,
+            219
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "面向对象SOLID原则中，L代表 _原则，I 代表 _原则。",
+        "bbox": [
+            144,
+            231,
+            667,
+            247
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "VisionPro 中，CogFixtureTool 通过 _建立坐标系，CogPMAlignTool 使用 _算法",
+        "bbox": [
+            144,
+            259,
+            847,
+            274
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "进行模式匹配。",
+        "bbox": [
+            144,
+            286,
+            263,
+            300
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "二、不定向选择题（每空 2 分，共 20 分）",
+        "text_level": 1,
+        "bbox": [
+            144,
+            313,
+            463,
+            330
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.下列哪些是图像预处理技术（ ）",
+        "bbox": [
+            146,
+            341,
+            405,
+            357
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. 高斯滤波",
+        "bbox": [
+            146,
+            369,
+            242,
+            385
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B. Sobel 边缘检测 ",
+        "bbox": [
+            312,
+            370,
+            447,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. 直方图均衡化",
+        "bbox": [
+            146,
+            397,
+            275,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. Hough 变换 ",
+        "bbox": [
+            331,
+            397,
+            438,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.关于远心镜头，正确的描述是（ ）",
+        "bbox": [
+            146,
+            424,
+            421,
+            439
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. 消除透视畸变",
+        "bbox": [
+            146,
+            451,
+            275,
+            467
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B. 放大率恒定",
+        "bbox": [
+            336,
+            451,
+            445,
+            466
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. 适合厚度变化大的物体",
+        "bbox": [
+            146,
+            479,
+            344,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. 比普通镜头便宜",
+        "bbox": [
+            374,
+            480,
+            519,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.相机分辨率 $2 4 4 8 \\times 2 0 4 8$ ，传感器尺寸1/1.2\"，则像素尺寸约为（ ）",
+        "bbox": [
+            144,
+            507,
+            660,
+            523
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. 2.4μm ",
+        "bbox": [
+            146,
+            535,
+            216,
+            549
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B. 3.8μm ",
+        "bbox": [
+            309,
+            535,
+            374,
+            549
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. $5 . 6 \\mu \\mathrm { m }$ ",
+        "bbox": [
+            146,
+            561,
+            215,
+            575
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. 7.4μm ",
+        "bbox": [
+            307,
+            561,
+            374,
+            575
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4.以下C#代码输出结果是（ ）",
+        "bbox": [
+            144,
+            587,
+            373,
+            602
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "csharp ",
+        "bbox": [
+            146,
+            615,
+            200,
+            629
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "string $\\mathsf { \\Omega } _ { \\mathsf { S } } =$ null; ",
+        "bbox": [
+            146,
+            640,
+            250,
+            653
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Console.WriteLine(s?.Length ?? -1); ",
+        "bbox": [
+            146,
+            665,
+            403,
+            681
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. 0 ",
+        "bbox": [
+            146,
+            693,
+            179,
+            706
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B. null ",
+        "bbox": [
+            216,
+            694,
+            263,
+            706
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. -1 ",
+        "bbox": [
+            146,
+            719,
+            184,
+            733
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. 异常 ",
+        "bbox": [
+            216,
+            719,
+            273,
+            733
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5.影响景深的因素有（ ）",
+        "bbox": [
+            146,
+            746,
+            334,
+            762
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. 光圈值",
+        "bbox": [
+            146,
+            774,
+            221,
+            789
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B. 工作距离",
+        "bbox": [
+            275,
+            774,
+            366,
+            789
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. 焦距 ",
+        "bbox": [
+            146,
+            802,
+            203,
+            816
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. 像素大小 ",
+        "bbox": [
+            265,
+            802,
+            357,
+            816
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "6.Cognex工具中可用于测量尺寸的是（ ）",
+        "bbox": [
+            146,
+            829,
+            460,
+            844
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. CogCaliperTool ",
+        "bbox": [
+            146,
+            857,
+            277,
+            871
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B. CogDistancePointLineTool ",
+        "bbox": [
+            334,
+            857,
+            537,
+            871
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. CogBlobTool ",
+        "bbox": [
+            146,
+            883,
+            258,
+            896
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. CogPMAlignTool ",
+        "bbox": [
+            324,
+            883,
+            460,
+            897
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "7.提高 CogPMAlignTool 鲁棒性的方法包括（ ）",
+        "bbox": [
+            146,
+            93,
+            494,
+            109
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. 增加训练图像多样性",
+            "B. 降低对比度阈值 ",
+            "C. 使用多模型",
+            "D. 扩大搜索区域"
+        ],
+        "bbox": [
+            144,
+            121,
+            529,
+            162
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8.使用 0.35X 镜头，物体实际尺寸 $1 5 \\mathsf { m m }$ ，在 1/2\"传感器上成像（对角线尺寸 $8 \\mathsf { m m }$ ）将（ ）",
+        "bbox": [
+            144,
+            175,
+            847,
+            219
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. 完整显示",
+            "B. 部分显示",
+            "C. 超出视野",
+            "D. 无法确定"
+        ],
+        "bbox": [
+            144,
+            231,
+            423,
+            273
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9.CogHistogramTool 结果中， 表示灰度分布集中程度（ ）",
+        "bbox": [
+            144,
+            286,
+            643,
+            302
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Mean ",
+            "B. Median ",
+            "C. Mode ",
+            "D. StandardDeviation "
+        ],
+        "bbox": [
+            144,
+            315,
+            470,
+            353
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "10.在 C#中，关于 try-catch-finally，正确的是（ ）",
+        "bbox": [
+            146,
+            367,
+            515,
+            382
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. finally 总是最后执行",
+            "B. catch可捕获特定类型异常 ",
+            "C. 可嵌套多个 catch 块 ",
+            "D. finally 中不能使用 return"
+        ],
+        "bbox": [
+            144,
+            394,
+            594,
+            436
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三、判断题（每题2分，共10分）",
+        "text_level": 1,
+        "bbox": [
+            146,
+            448,
+            411,
+            464
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.全局快门相机会产生运动模糊。（ ）",
+            "2.直方图均衡化会改变图像内容。（ ）",
+            "3.C#中 async 方法必须有 await 调用。（ ）",
+            "4.光圈 f 值越小，进光量越大。（ ）",
+            "5.CogBlobTool 对低对比度图像效果优于 CogPMAlignTool。（ ）"
+        ],
+        "bbox": [
+            146,
+            476,
+            616,
+            602
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "四、简答题（共40分）",
+        "text_level": 1,
+        "bbox": [
+            146,
+            614,
+            324,
+            630
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.实现 C#方法，判断三点是否构成直角三角形（使用向量点积）（10 分）：",
+        "bbox": [
+            146,
+            642,
+            727,
+            658
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "csharp   \npublic struct Point { public double X; public double Y; }   \npublic static bool IsRightTriangle(Point a, Point b, Point c)   \n{ //补充代码 ",
+        "guess_lang": "txt",
+        "bbox": [
+            146,
+            671,
+            557,
+            816
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 选型设计：检测 $1 2 \\mathrm { m m } { \\times } 1 0 \\mathrm { m m }$ 零件，精度 0.008mm/pixel，速度 25 件/秒。计算相机分辨率并选择镜头（需计算过程）。（10 分）",
+        "bbox": [
+            144,
+            120,
+            848,
+            162
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.解释 CogFindLineTool 参数（10 分）：",
+        "bbox": [
+            144,
+            332,
+            442,
+            347
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ProjectionAngle ",
+        "bbox": [
+            144,
+            359,
+            265,
+            373
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ContrastThreshold ",
+        "bbox": [
+            146,
+            386,
+            282,
+            399
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FilterHalfSizePixels ",
+        "bbox": [
+            146,
+            412,
+            284,
+            425
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GapThreshold ",
+        "bbox": [
+            146,
+            438,
+            252,
+            451
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.修改 VisionPro 脚本：当 CogBlobTool 未检测到斑点时返回 false，否则返回 true（10 分）：",
+        "bbox": [
+            144,
+            594,
+            840,
+            611
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "csharp   \npublic override void Run()   \n{ CogBlobTool blobTool $=$ new CogBlobTool(); //现有代码...   \n} ",
+        "bbox": [
+            144,
+            623,
+            477,
+            770
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "答案",
+        "text_level": 1,
+        "bbox": [
+            147,
+            93,
+            188,
+            108
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一、填空题",
+        "text_level": 1,
+        "bbox": [
+            146,
+            121,
+            240,
+            136
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相机；CogTransform2DLinear",
+        "bbox": [
+            146,
+            149,
+            366,
+            162
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "膨胀；腐蚀；小孔 ",
+        "bbox": [
+            144,
+            202,
+            294,
+            218
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "await；Result ",
+        "bbox": [
+            146,
+            258,
+            253,
+            271
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全局；卷帘",
+        "bbox": [
+            146,
+            310,
+            240,
+            324
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "里氏替换；接口隔离",
+        "bbox": [
+            146,
+            363,
+            310,
+            379
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基准特征；PatMax",
+        "bbox": [
+            146,
+            417,
+            294,
+            432
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "二、不定向选择题 ",
+        "text_level": 1,
+        "bbox": [
+            146,
+            470,
+            294,
+            486
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ABC ",
+        "bbox": [
+            147,
+            499,
+            181,
+            511
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AB ",
+        "bbox": [
+            147,
+            551,
+            171,
+            563
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "C（ $( 1 / 1 . 2 \" \\approx 1 3 . 3 \\mathrm { m m }$ ，对角线像素 $\\scriptstyle { \\int ( 2 4 4 8 ^ { 2 } + 2 0 4 8 ^ { 2 } ) = 3 1 9 2 }$ ，13.3/3192≈0.00416mm=4.16μm）",
+            "C（空值安全访问）"
+        ],
+        "bbox": [
+            144,
+            602,
+            818,
+            671
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ABC ",
+        "bbox": [
+            147,
+            711,
+            181,
+            722
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AB ",
+        "bbox": [
+            147,
+            763,
+            171,
+            775
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AC ",
+        "bbox": [
+            147,
+            816,
+            171,
+            827
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B（成像尺寸 $1 5 { \\times } 0 . 3 5 { = } 5 . 2 5 \\mathrm { m m } < 8 \\mathrm { m m } )$ ",
+        "bbox": [
+            146,
+            866,
+            438,
+            882
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D ",
+        "bbox": [
+            147,
+            120,
+            164,
+            131
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ABC ",
+        "bbox": [
+            147,
+            172,
+            183,
+            185
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三、判断题",
+        "text_level": 1,
+        "bbox": [
+            147,
+            223,
+            240,
+            239
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "✗（全局快门减少运动模糊）",
+        "bbox": [
+            147,
+            250,
+            366,
+            268
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "✗（仅改变灰度分布）",
+        "bbox": [
+            147,
+            305,
+            314,
+            321
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "✗（可无 await 但会警告）",
+        "bbox": [
+            147,
+            359,
+            342,
+            375
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "✓ ",
+        "bbox": [
+            147,
+            412,
+            166,
+            424
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "四、简答题",
+        "text_level": 1,
+        "bbox": [
+            147,
+            517,
+            240,
+            532
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "直角三角形判断",
+        "bbox": [
+            147,
+            544,
+            275,
+            558
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "csharp ",
+        "bbox": [
+            146,
+            599,
+            200,
+            613
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "public static bool IsRightTriangle(Point a, Point b, Point c) ",
+        "bbox": [
+            146,
+            624,
+            557,
+            639
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "{ ",
+        "bbox": [
+            147,
+            651,
+            159,
+            664
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "// 计算向量",
+        "bbox": [
+            161,
+            677,
+            255,
+            692
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "double abx $=$ b.X - a.X, aby $=$ b.Y - a.Y; ",
+        "bbox": [
+            161,
+            703,
+            430,
+            719
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "double acx = c.X - a.X, acy = c.Y - a.Y; ",
+        "bbox": [
+            161,
+            730,
+            423,
+            745
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "double bcx $=$ c.X - b.X, bcy = c.Y - b.Y; ",
+        "bbox": [
+            161,
+            756,
+            425,
+            771
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "// 计算点积",
+        "text_level": 1,
+        "bbox": [
+            161,
+            809,
+            255,
+            824
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "double dot1 $=$ abx * acx + aby * acy; ",
+        "bbox": [
+            161,
+            835,
+            425,
+            851
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "double dot2 $=$ (-abx) * bcx + (-aby) * bcy; ",
+        "bbox": [
+            161,
+            862,
+            458,
+            878
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "double do $\\mathsf { \\Omega } \\cdot 3 = ( \\mathsf { - a c x } ) \\mathsf { \\Omega } ^ { \\ast } \\left( \\mathsf { - b c x } \\right) + ( \\mathsf { - a c y } ) \\mathsf { \\Omega } ^ { \\ast } \\left( \\mathsf { - b c y } \\right) ;$ $=$ : ",
+        "bbox": [
+            161,
+            888,
+            487,
+            903
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "//任意点积接近0则为直角const double tolerance $= 1\\mathrm{e} - 5$ return Math.Abs.dot1) $\\texttt{<}$ tolerance |Math.Abs.dot2) $\\texttt{<}$ tolerance |Math.Abs.dot3) $\\texttt{<}$ tolerance; ",
+        "bbox": [
+            147,
+            118,
+            433,
+            265
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "选型设计",
+        "bbox": [
+            147,
+            278,
+            221,
+            293
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最小分辨率：",
+        "bbox": [
+            146,
+            331,
+            247,
+            347
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "X方向：12mm/0.008mm/pixel = 1500 pixel",
+        "guess_lang": "txt",
+        "bbox": [
+            144,
+            360,
+            477,
+            376
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "Y方向：10mm/0.008mm/pixel = 1250 pixel",
+        "guess_lang": "txt",
+        "bbox": [
+            146,
+            387,
+            475,
+            403
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "相机选择： $\\geqslant 1 5 0 0 \\times 1 2 5 0$ 分辨率（如 1600×1200）",
+        "bbox": [
+            144,
+            439,
+            521,
+            456
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "镜头选型：",
+        "text_level": 1,
+        "bbox": [
+            146,
+            494,
+            228,
+            508
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "$\\textcircled{1}$ 放大率 $=$ 传感器尺寸/视野尺寸（如 1/1.8\"传感器选 0.5X）",
+            "$\\textcircled{2}$ 景深需满足零件高度公差 "
+        ],
+        "bbox": [
+            147,
+            521,
+            610,
+            565
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参数解释",
+        "text_level": 1,
+        "bbox": [
+            147,
+            602,
+            221,
+            618
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ProjectionAngle：投影角度（边缘检测方向）",
+        "bbox": [
+            146,
+            656,
+            484,
+            671
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ContrastThreshold：对比度阈值（过滤弱边缘）",
+        "bbox": [
+            146,
+            709,
+            500,
+            726
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FilterHalfSizePixels：滤波半宽（平滑边缘）",
+        "bbox": [
+            146,
+            764,
+            467,
+            778
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GapThreshold：最大间隙（允许的边缘间断）",
+        "bbox": [
+            146,
+            816,
+            485,
+            833
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "脚本修改",
+        "text_level": 1,
+        "bbox": [
+            147,
+            871,
+            221,
+            885
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "csharp   \npublic override void Run()   \n{ CogBlobTool blobTool $=$ new CogBlobTool(); blobTool.Image $\\equiv$ inputImage; blobTool. run(); if (blobTool.Results != null && blobTool.Results.GetBlobs( $! =$ null && blobTool.Results.GetBlobs().Count $>0$ ） { //成功检测到斑点 OutputResult $=$ true; } else { //未检测到斑点 OutputResult $=$ false; }",
+        "bbox": [
+            147,
+            118,
+            633,
+            609
+        ],
+        "page_idx": 6
+    }
+]

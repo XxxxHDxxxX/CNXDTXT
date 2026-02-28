@@ -1,0 +1,579 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/7351213f83290fdf44849af3121d91a480c53143ed23e52f12c9a08f9d33a116.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            0,
+            0,
+            1000,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CogFitLineTool ",
+        "text_level": 1,
+        "bbox": [
+            325,
+            653,
+            672,
+            729
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2019/12/19 ",
+        "bbox": [
+            36,
+            792,
+            163,
+            825
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Juan ",
+        "bbox": [
+            731,
+            787,
+            869,
+            825
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "几何学工具简介",
+        "text_level": 1,
+        "bbox": [
+            80,
+            40,
+            462,
+            118
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "创建工具",
+        "text_level": 1,
+        "bbox": [
+            37,
+            137,
+            209,
+            196
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "- 根据提供的输入创建指定的形状",
+        "bbox": [
+            37,
+            218,
+            438,
+            316
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "即建立圆形",
+        "bbox": [
+            83,
+            329,
+            256,
+            370
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(CreateCircle) 工具将输出一个圆圈，给定 X、Y 中心点和半径",
+        "bbox": [
+            109,
+            372,
+            459,
+            496
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5e08ae4d0a878199584afb782f7d3d2dd4500618b88a788a565e87adeb63c7d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            516,
+            198,
+            583,
+            240
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Geometry - Creation ",
+        "bbox": [
+            588,
+            205,
+            784,
+            238
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d305f05ee11417e1f51047f899a6660eb400c68092fe12a8762f4974c214b65.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            586,
+            242,
+            941,
+            579
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            76,
+            122
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            34,
+            955,
+            43,
+            970
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            52,
+            953,
+            186,
+            972
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "查找和匹配工具",
+        "text_level": 1,
+        "bbox": [
+            73,
+            50,
+            426,
+            120
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- 查找工具使用工具中包括的游标卡尺的结果创建指定的形状",
+            "匹配工具使用从其他工具的输入创建一个最佳匹配形状"
+        ],
+        "bbox": [
+            56,
+            205,
+            490,
+            553
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a744f038ad7b9ad0c197461de5dd96b05f20317c21762644604269ac72c046a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            570,
+            227,
+            901,
+            442
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            52,
+            953,
+            184,
+            972
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FitLine 简介",
+        "text_level": 1,
+        "bbox": [
+            62,
+            42,
+            315,
+            105
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此工具可以获取一个输入点集并返回最佳拟合这些输入点的线，同事生成最小均方根（RMSError）误差。FitLine 工具需要最少两个输入点。",
+        "bbox": [
+            23,
+            127,
+            927,
+            201
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FitLine 编辑控件用于选择输入点，指定要忽略的一系列输入点，以及查看视觉工具结果。",
+        "bbox": [
+            22,
+            209,
+            909,
+            285
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/28f4256cd4bf1bf6ae1972f7c309d338414c9f1a4ef269680b671e0d2e2f8add.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            19,
+            335,
+            925,
+            935
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            54,
+            116
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            34,
+            955,
+            43,
+            970
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            52,
+            955,
+            184,
+            972
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            955,
+            977,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设置选项卡",
+        "text_level": 1,
+        "bbox": [
+            69,
+            42,
+            295,
+            107
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": ">输入点",
+        "text_level": 1,
+        "bbox": [
+            25,
+            150,
+            170,
+            207
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用设置选项卡的 Input Points 网格，为此 Fit Line 工具指定输入点的数量和 $(x, y)$ 坐标，需要指定最少两个输入点。使用按钮添加、删除和重新排序输入点。要将输入点添加至列表，可直接输入 $(x, y)$ 坐标，或使用 Tool Group 编辑控件将其他工具中点结果的 $(x, y)$ 坐标链接至 Fit Line 工具输入参数的 $(x, y)$ 坐标。",
+        "bbox": [
+            18,
+            235,
+            975,
+            494
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": ">忽略点数",
+        "text_level": 1,
+        "bbox": [
+            25,
+            512,
+            211,
+            570
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用忽略点数文本框指定 Fit Line 工具在计算最佳拟合线时可忽略的输入点数。在确定要忽略的点时，Fit Line",
+        "bbox": [
+            19,
+            601,
+            969,
+            703
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "工具会考虑所有可能的子集并保留可能得分最高的集，在此处需注意，值越大，工具需要的执行时间越长。",
+        "bbox": [
+            18,
+            720,
+            962,
+            822
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            54,
+            116
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            33,
+            955,
+            43,
+            972
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            52,
+            953,
+            184,
+            972
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            854,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结果选项卡",
+        "text_level": 1,
+        "bbox": [
+            70,
+            53,
+            295,
+            116
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c924d733f0ee9a3c4935a9f7b319edb6c8b5ef12538af3acd94b9b768b76f7ee.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>区域</td><td>说明</td></tr><tr><td>线</td><td>显示输入图像的坐标空间以及线条的中心点和旋转角度。</td></tr><tr><td>RMS 误差</td><td>显示线条拟合的 RMS 误差</td></tr><tr><td>点</td><td>显示每个输入点的以下信息：\n· 输入点是否用于计算最佳拟合线条\n· 从点到线条的距离\n· (x, y) 坐标</td></tr></table>",
+        "bbox": [
+            6,
+            283,
+            981,
+            714
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            122
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            34,
+            955,
+            43,
+            972
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            52,
+            953,
+            186,
+            972
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thank you. ",
+        "text_level": 1,
+        "bbox": [
+            256,
+            325,
+            591,
+            416
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7 ",
+        "bbox": [
+            33,
+            955,
+            45,
+            970
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            52,
+            953,
+            186,
+            972
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 6
+    }
+]

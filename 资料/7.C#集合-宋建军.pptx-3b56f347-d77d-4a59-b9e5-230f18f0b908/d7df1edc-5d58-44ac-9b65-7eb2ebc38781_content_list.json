@@ -1,0 +1,1092 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/32f5bef5bb08127c9f2b5e1e0edf0e67f9bc24fd432758824200765ba31014f6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            0,
+            0,
+            1000,
+            566
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C# 集合",
+        "text_level": 1,
+        "bbox": [
+            63,
+            646,
+            204,
+            712
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jianjun.song | 2023/03/08 ",
+        "bbox": [
+            63,
+            825,
+            297,
+            870
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "This document contains Cognex Corporation confidential information, which must be protected and used only in accordance with the © 2022 Cognex CorporationMutual Confidentiality Agreement entered into by Cognex Corporation and Apple Inc. dated November 1, 2014 ",
+        "bbox": [
+            61,
+            944,
+            733,
+            988
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            811,
+            927,
+            967,
+            964
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "命名空间",
+        "text_level": 1,
+        "bbox": [
+            60,
+            59,
+            210,
+            129
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "System.Collcetions ",
+            "System.Collcetions.Generic "
+        ],
+        "bbox": [
+            58,
+            185,
+            265,
+            275
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            35,
+            966,
+            37,
+            983
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2022 Cognex Corporation ",
+        "bbox": [
+            56,
+            964,
+            185,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ArrayList ",
+        "text_level": 1,
+        "bbox": [
+            58,
+            68,
+            216,
+            140
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "创建和添加元素",
+        "bbox": [
+            58,
+            181,
+            164,
+            216
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ArrayList mList $=$ new ArrayList(); ",
+        "bbox": [
+            58,
+            244,
+            276,
+            275
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "mList.Add(12); ",
+        "bbox": [
+            58,
+            305,
+            155,
+            333
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "mList.Add(“ 张三” ); ",
+        "bbox": [
+            58,
+            362,
+            194,
+            392
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "mList.Add(12.33); ",
+        "bbox": [
+            58,
+            424,
+            176,
+            453
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "mList.AddRange(mList); ",
+        "bbox": [
+            58,
+            483,
+            217,
+            512
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "特点：",
+        "bbox": [
+            58,
+            600,
+            96,
+            629
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 不需要初始化其大小（区别于数组创建需要固定其大小）",
+            "2. 不需要区分值类型"
+        ],
+        "bbox": [
+            58,
+            657,
+            445,
+            746
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            966,
+            37,
+            983
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2022 Cognex Corporation ",
+        "bbox": [
+            54,
+            964,
+            185,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ArrayList ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            68,
+            218,
+            140
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "查找和删除元素",
+        "text_level": 1,
+        "bbox": [
+            58,
+            181,
+            164,
+            214
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 使用 foreach 方法对数组中的每个元素进行遍历",
+            "2. 使用下标可以拿到单个元素"
+        ],
+        "bbox": [
+            58,
+            240,
+            389,
+            333
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "mList.Contains(“ ”); ",
+        "bbox": [
+            58,
+            362,
+            190,
+            396
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "mList.Remove(“ 张三” ); ",
+        "bbox": [
+            58,
+            420,
+            224,
+            455
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "mList.RemoveAt(index); ",
+        "bbox": [
+            58,
+            481,
+            217,
+            514
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "mList.Clear(); ",
+        "bbox": [
+            58,
+            540,
+            149,
+            572
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "特点：",
+        "bbox": [
+            58,
+            598,
+            96,
+            629
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "3. 拥有和数组类似的 foreach 遍历",
+            "4. 查找值灵活方便"
+        ],
+        "bbox": [
+            58,
+            657,
+            291,
+            748
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            35,
+            966,
+            41,
+            985
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2022 Cognex Corporation ",
+        "bbox": [
+            54,
+            964,
+            185,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ArrayList ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            68,
+            218,
+            140
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "索引符",
+        "text_level": 1,
+        "bbox": [
+            58,
+            181,
+            105,
+            216
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "索引符 (indexer) 是一种特殊类型的属性，可以把它添加到一个类中，以提供类似于数组的访问。",
+        "bbox": [
+            57,
+            240,
+            673,
+            275
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "mCollection[0] --- 注意返回值属于 object 类型",
+        "bbox": [
+            58,
+            301,
+            358,
+            333
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "特点：",
+        "text_level": 1,
+        "bbox": [
+            58,
+            420,
+            96,
+            451
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 拥有和数组类似的 foreach 遍历",
+            "2. 查找值灵活方便"
+        ],
+        "bbox": [
+            58,
+            477,
+            293,
+            570
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            35,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2022 Cognex Corporation ",
+        "bbox": [
+            56,
+            964,
+            185,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "键控集合 &IDictionary",
+        "text_level": 1,
+        "bbox": [
+            58,
+            59,
+            441,
+            140
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Dictionary ",
+        "text_level": 1,
+        "bbox": [
+            58,
+            185,
+            127,
+            216
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " Add() 带有两个参数：一个键和一个值，储存在一起（键和值是 object 参数）",
+            "Remove() 以一个键而不是对象引用作为参数",
+            " Indexer 使用一个字符串键值，而不是一个索引，用于通过 Dictionary 的继承成员来访问储存的项，这里仍需进行数据类型转换"
+        ],
+        "bbox": [
+            57,
+            240,
+            900,
+            394
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Dictionary<string, double> dic $=$ new Dictionary<string, double>(); ",
+        "bbox": [
+            58,
+            479,
+            485,
+            512
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "dic.Add(\"2\", 123); ",
+        "bbox": [
+            106,
+            540,
+            223,
+            572
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "dic.Add(\"1\", 34); ",
+        "bbox": [
+            106,
+            600,
+            215,
+            631
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "foreach (KeyValuePair <string ,double> item in dic) ",
+        "bbox": [
+            106,
+            659,
+            438,
+            690
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "{ ",
+        "bbox": [
+            106,
+            718,
+            116,
+            750
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Console.WriteLine(item.Key $^ +$ item.Value.ToString()); ",
+        "bbox": [
+            123,
+            777,
+            468,
+            809
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "} ",
+        "bbox": [
+            106,
+            838,
+            116,
+            866
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3240043151ca8a3b70ded2d7d2ed60c843c9492f15ff236a13be47a07c4f01dc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            490,
+            444,
+            610,
+            796
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 使用 KeyValuePair 遍历 keys 和 value",
+            "2. 只遍历所有键元素",
+            "3. 只遍历所有值元素"
+        ],
+        "bbox": [
+            641,
+            568,
+            915,
+            690
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            35,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2022 Cognex Corporation ",
+        "bbox": [
+            56,
+            964,
+            185,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "封箱和拆箱 ",
+        "text_level": 1,
+        "bbox": [
+            58,
+            59,
+            249,
+            131
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " 封箱 boxing 是把值类型转换为 System.Object 类型，或者转换为由值类型实现的接口类型",
+            "拆箱 unboxing 是相反的转换过程"
+        ],
+        "bbox": [
+            57,
+            183,
+            669,
+            275
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从这些示例中可以看出，封箱是在没有用户干涉的情况下进行的 ( 即不需要编写任何代码 ) ，但拆箱一个值需要进行显式转换，即需要进行数据类型转换 ( 封箱是隐式的，所以不需要进行数据类型转换 ) 。",
+        "bbox": [
+            55,
+            301,
+            933,
+            364
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "封箱有两个非常重要的原因。它允许在项的类型是 object 的集合 ( 如 ArrayList) 中使用值类型。其次，有一个内部机制允许在值类型( 例如 int 和结构 ) 上调用 object 方法。最后需要注意的是，在访问值类型内容前，必须进行拆箱。",
+        "bbox": [
+            55,
+            390,
+            917,
+            457
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": " 在日常代码书写中，尽可能减少拆箱装箱的操作，耗费时间……",
+        "bbox": [
+            57,
+            537,
+            494,
+            572
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2022 Cognex Corporation ",
+        "bbox": [
+            54,
+            964,
+            185,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "is & as 运算符 ",
+        "text_level": 1,
+        "bbox": [
+            58,
+            61,
+            307,
+            133
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "is 运算符应不是用来说明对象是某种类型，而是用来检查对象是不是给定类型，返回 true 或者 false",
+        "bbox": [
+            59,
+            181,
+            706,
+            214
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.14 is double ",
+        "bbox": [
+            62,
+            244,
+            156,
+            272
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "as 把一种类型转换为指定的引用类型",
+        "bbox": [
+            62,
+            420,
+            308,
+            451
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "只适用于下列情况：",
+        "bbox": [
+            59,
+            479,
+            184,
+            509
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. < operand $>$ 的类型是 < type $>$ 类型",
+            "2. < operand $>$ 可以隐式转换为 $<$ type $>$ 类型",
+            "3. < operand $>$ 可以封箱到 $<$ type $>$ 类型中",
+            "4. 如果不能完成转换，返回 null"
+        ],
+        "bbox": [
+            58,
+            538,
+            363,
+            746
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            35,
+            966,
+            37,
+            985
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2022 Cognex Corporation ",
+        "bbox": [
+            54,
+            964,
+            185,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "泛型",
+        "text_level": 1,
+        "bbox": [
+            60,
+            62,
+            135,
+            127
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了更好的解决是一开始就使用强类型化的集合类。",
+        "bbox": [
+            58,
+            181,
+            389,
+            214
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "这种集合类派生于 CollectionBase, 并可以拥有自己的方法，来添加、删除和访问集合的成员，但它可能把集合成员限制为派生于某种基本类型，或者必须支持某个接口。这会带来一个问题。每次创建需要包含在集合中的新类时，就必须执行下列任务之一 :",
+        "bbox": [
+            58,
+            240,
+            933,
+            305
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 使用某个集合类，该类已经定义为可以包含新类型的项。",
+            "2. 创建一个新的集合类，它可以包含新类型的项，实现所有需要的方法。"
+        ],
+        "bbox": [
+            57,
+            331,
+            524,
+            420
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Using System.Colection.Generic; ",
+        "bbox": [
+            58,
+            451,
+            276,
+            481
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Collection<T> items $=$ new Collection<T> (); ",
+        "bbox": [
+            58,
+            511,
+            346,
+            542
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ArrayList<string> mList $=$ new ArrayList<string>(); ",
+        "bbox": [
+            58,
+            570,
+            381,
+            601
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dictionary<K,V> things $=$ new Dictionary<K,V> (); ",
+        "bbox": [
+            58,
+            629,
+            380,
+            659
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "特点：",
+        "bbox": [
+            58,
+            687,
+            96,
+            716
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "3. 泛型不只设计集合，但是集合特别适合使用泛型",
+            "4. Dictionary 既可以迭代集合中的键也可以迭代集合汇总的值，可以使用 KeyValuePair<K,V> 来实例获取字典元素"
+        ],
+        "bbox": [
+            58,
+            746,
+            808,
+            835
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 ",
+        "bbox": [
+            35,
+            966,
+            39,
+            985
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2022 Cognex Corporation ",
+        "bbox": [
+            56,
+            964,
+            185,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d278a0ce5679df9addeb86a0f039ad118186b8148e665fd6e824ceaf9a6232e3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            0,
+            0,
+            1000,
+            592
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Thank you ",
+        "bbox": [
+            405,
+            722,
+            593,
+            800
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 ",
+        "bbox": [
+            29,
+            966,
+            40,
+            983
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2022 Cognex Corporation ",
+        "bbox": [
+            54,
+            964,
+            185,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 9
+    }
+]

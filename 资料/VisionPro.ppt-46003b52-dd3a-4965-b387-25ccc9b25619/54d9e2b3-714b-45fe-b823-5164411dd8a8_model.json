@@ -1,0 +1,2609 @@
+[
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.0,
+                1.0,
+                0.628
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.285,
+                0.632,
+                0.625,
+                0.702
+            ],
+            "angle": 0,
+            "content": "VisionPro 介绍"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.793,
+                0.165,
+                0.827
+            ],
+            "angle": 0,
+            "content": "2019/12/19"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.733,
+                0.788,
+                0.87,
+                0.826
+            ],
+            "angle": 0,
+            "content": "Zhang Juan"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.324,
+                0.11
+            ],
+            "angle": 0,
+            "content": "VisionPro是什么？"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.208,
+                0.27,
+                0.35,
+                0.302
+            ],
+            "angle": 0,
+            "content": "迅速配置工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.39,
+                0.254,
+                0.786,
+                0.347
+            ],
+            "angle": 0,
+            "content": "应用程序向导调出保存的Quickbuild输出并且将其转化成一个完整的机器视觉应用程序的客户化代码。"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.214,
+                0.448,
+                0.358,
+                0.48
+            ],
+            "angle": 0,
+            "content": "迅速原型环境"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.385,
+                0.425,
+                0.784,
+                0.517
+            ],
+            "angle": 0,
+            "content": "图形的Quickbuild界面可以迅速地配置所述库到模板中，或者到工作的机器视觉应用程序核心中。"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.387,
+                0.544,
+                0.581,
+                0.588
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.212,
+                0.637,
+                0.332,
+                0.668
+            ],
+            "angle": 0,
+            "content": "基本软件库"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.348,
+                0.62,
+                0.779,
+                0.684
+            ],
+            "angle": 0,
+            "content": "提供与硬件互动所需框架的软件，以及一整套包括功能强大的视觉工具和算法的库。"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.388,
+                0.735,
+                0.581,
+                0.778
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.231,
+                0.803,
+                0.282,
+                0.834
+            ],
+            "angle": 0,
+            "content": "硬件"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.323,
+                0.802,
+                0.789,
+                0.864
+            ],
+            "angle": 0,
+            "content": "高功能相机和板卡平台，用于在计算机上采集数字图像。"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.009,
+                0.132,
+                0.197,
+                0.178
+            ],
+            "angle": 0,
+            "content": "四种开发模式"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.047,
+                0.197,
+                0.559,
+                0.24
+            ],
+            "angle": 0,
+            "content": "Quickbuild 视觉 + 向导生成的操作界面："
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.166,
+                0.244,
+                0.296,
+                0.34
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.18,
+                0.343,
+                0.283,
+                0.397
+            ],
+            "angle": 0,
+            "content": "使用Quickbuild互动开发视觉、输入/输出和工作控件"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.446,
+                0.24,
+                0.579,
+                0.336
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.483,
+                0.35,
+                0.574,
+                0.387
+            ],
+            "angle": 0,
+            "content": "使用应用程序向导生成操作界面"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.736,
+                0.252,
+                0.874,
+                0.33
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.749,
+                0.35,
+                0.853,
+                0.37
+            ],
+            "angle": 0,
+            "content": "配置生成的应用程序"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.058,
+                0.397,
+                0.461,
+                0.435
+            ],
+            "angle": 0,
+            "content": "Quickbuild 视觉 + 修改的操作界面:"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.166,
+                0.436,
+                0.296,
+                0.529
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.163,
+                0.53,
+                0.308,
+                0.565
+            ],
+            "angle": 0,
+            "content": "使用Quickbuild互动开发视觉、输入/输出和工作控件"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.373,
+                0.43,
+                0.505,
+                0.524
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.372,
+                0.539,
+                0.513,
+                0.576
+            ],
+            "angle": 0,
+            "content": "使用应用程序向导生成操作界面（选择VB或C#语言）"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.562,
+                0.43,
+                0.687,
+                0.524
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.547,
+                0.54,
+                0.687,
+                0.576
+            ],
+            "angle": 0,
+            "content": "使用 Microsoft Visual Studio 定制生成的操作界面"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.737,
+                0.436,
+                0.874,
+                0.513
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.749,
+                0.55,
+                0.853,
+                0.57
+            ],
+            "angle": 0,
+            "content": "配置定制的应用程序"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.055,
+                0.577,
+                0.483,
+                0.616
+            ],
+            "angle": 0,
+            "content": "Quickbuild 视觉 + 自定义的操作界面:"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.167,
+                0.619,
+                0.295,
+                0.713
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.155,
+                0.718,
+                0.306,
+                0.753
+            ],
+            "angle": 0,
+            "content": "使用Quickbuild互动开发视觉、输入/输出和工作控件"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.449,
+                0.619,
+                0.574,
+                0.702
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.448,
+                0.713,
+                0.583,
+                0.75
+            ],
+            "angle": 0,
+            "content": "使用 Microsoft Visual Studio 自定义操作界面"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.752,
+                0.618,
+                0.859,
+                0.696
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.749,
+                0.717,
+                0.853,
+                0.736
+            ],
+            "angle": 0,
+            "content": "配置自定义应用程序"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.06,
+                0.754,
+                0.246,
+                0.79
+            ],
+            "angle": 0,
+            "content": "自定义应用程序："
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.168,
+                0.795,
+                0.293,
+                0.877
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.168,
+                0.884,
+                0.316,
+                0.956
+            ],
+            "angle": 0,
+            "content": "使用 VisionPro API 并利用 Microsoft Visual Studio 开发自定义应用程序（视觉、输入/输出、控制，和操作界面）"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.752,
+                0.803,
+                0.859,
+                0.881
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.749,
+                0.905,
+                0.853,
+                0.925
+            ],
+            "angle": 0,
+            "content": "配置自定义应用程序"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.008,
+                0.151,
+                0.228,
+                0.194
+            ],
+            "angle": 0,
+            "content": "路径1开发模式"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.147,
+                0.216,
+                0.274,
+                0.365
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.129,
+                0.384,
+                0.282,
+                0.42
+            ],
+            "angle": 0,
+            "content": "使用Quickbuild互动开发视觉、输入/输出和工作控件"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.425,
+                0.206,
+                0.557,
+                0.359
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.408,
+                0.383,
+                0.567,
+                0.404
+            ],
+            "angle": 0,
+            "content": "使用应用程序向导生成操作界面"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.713,
+                0.228,
+                0.851,
+                0.35
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.724,
+                0.383,
+                0.828,
+                0.403
+            ],
+            "angle": 0,
+            "content": "配置生成的应用程序"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.53,
+                0.11,
+                0.558
+            ],
+            "angle": 0,
+            "content": "优点："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.561,
+                0.231,
+                0.59
+            ],
+            "angle": 0,
+            "content": "没有编程要求"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.593,
+                0.172,
+                0.621
+            ],
+            "angle": 0,
+            "content": "速度快"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.623,
+                0.587,
+                0.654
+            ],
+            "angle": 0,
+            "content": "- 可以继续使用QuickBuild修改视觉、工作和输入/输出"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.059,
+                0.561,
+                0.587,
+                0.654
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.717,
+                0.11,
+                0.745
+            ],
+            "angle": 0,
+            "content": "缺点："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.747,
+                0.406,
+                0.777
+            ],
+            "angle": 0,
+            "content": "- 操作界面受到应用程序向导的限制"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.305,
+                0.113
+            ],
+            "angle": 0,
+            "content": "路径2开发模式"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.149,
+                0.231,
+                0.282,
+                0.387
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.129,
+                0.405,
+                0.282,
+                0.444
+            ],
+            "angle": 0,
+            "content": "使用Quickbuild互动开发视觉、输入/输出和工作控件"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.361,
+                0.22,
+                0.497,
+                0.38
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.349,
+                0.405,
+                0.508,
+                0.444
+            ],
+            "angle": 0,
+            "content": "使用应用程序向导生成操作界面（选择VB或C#语言）"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.554,
+                0.233,
+                0.685,
+                0.37
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.548,
+                0.405,
+                0.684,
+                0.444
+            ],
+            "angle": 0,
+            "content": "使用 Microsoft Visual Studio 定制生成的操作界面"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.734,
+                0.233,
+                0.876,
+                0.361
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.757,
+                0.416,
+                0.86,
+                0.437
+            ],
+            "angle": 0,
+            "content": "配置定制的应用程序"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.529,
+                0.11,
+                0.559
+            ],
+            "angle": 0,
+            "content": "优点："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.561,
+                0.348,
+                0.59
+            ],
+            "angle": 0,
+            "content": "■ 易于客户化生成的应用程序"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.592,
+                0.529,
+                0.623
+            ],
+            "angle": 0,
+            "content": "仍然可以使用QuickBuild修改所述视觉应用程序"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.059,
+                0.561,
+                0.529,
+                0.623
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.685,
+                0.11,
+                0.714
+            ],
+            "angle": 0,
+            "content": "缺点："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.717,
+                0.251,
+                0.745
+            ],
+            "angle": 0,
+            "content": "要求一定的编程"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.748,
+                0.425,
+                0.777
+            ],
+            "angle": 0,
+            "content": "必须在向导生成的代码的框架内工作"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.779,
+                0.757,
+                0.81
+            ],
+            "angle": 0,
+            "content": "- 向导生成的代码修改后不能再次运行向导来更新，否则会丢失您的修改内容"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.059,
+                0.717,
+                0.757,
+                0.81
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.305,
+                0.113
+            ],
+            "angle": 0,
+            "content": "路径3开发模式"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.101,
+                0.225,
+                0.25,
+                0.395
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.093,
+                0.412,
+                0.246,
+                0.45
+            ],
+            "angle": 0,
+            "content": "使用Quickbuild互动开发视觉、输入/输出和工作控件"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.423,
+                0.226,
+                0.565,
+                0.376
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.423,
+                0.413,
+                0.559,
+                0.45
+            ],
+            "angle": 0,
+            "content": "使用 Microsoft Visual Studio 自定义操作界面"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.766,
+                0.223,
+                0.89,
+                0.363
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.779,
+                0.416,
+                0.881,
+                0.437
+            ],
+            "angle": 0,
+            "content": "配置自定义应用程序"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.529,
+                0.11,
+                0.559
+            ],
+            "angle": 0,
+            "content": "优点："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.561,
+                0.392,
+                0.59
+            ],
+            "angle": 0,
+            "content": "完全控制操作界面的外观和动作。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.592,
+                0.529,
+                0.624
+            ],
+            "angle": 0,
+            "content": "仍然可以使用QuickBuild修改所述视觉应用程序"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.058,
+                0.561,
+                0.529,
+                0.624
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.685,
+                0.11,
+                0.714
+            ],
+            "angle": 0,
+            "content": "缺点："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.717,
+                0.192,
+                0.747
+            ],
+            "angle": 0,
+            "content": "要求编程"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.305,
+                0.113
+            ],
+            "angle": 0,
+            "content": "路径4开发模式"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.138,
+                0.249,
+                0.275,
+                0.392
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.139,
+                0.406,
+                0.275,
+                0.496
+            ],
+            "angle": 0,
+            "content": "使用 VisionPro API 并利用 Microsoft Visual Studio 开发自定义应用程序（视觉、输入/输出、机器控制，和操作界面）"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.773,
+                0.264,
+                0.892,
+                0.398
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.774,
+                0.428,
+                0.877,
+                0.448
+            ],
+            "angle": 0,
+            "content": "配置自定义应用程序"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.53,
+                0.11,
+                0.558
+            ],
+            "angle": 0,
+            "content": "优点："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.562,
+                0.231,
+                0.591
+            ],
+            "angle": 0,
+            "content": "应用完全灵活"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.654,
+                0.11,
+                0.683
+            ],
+            "angle": 0,
+            "content": "缺点："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.717,
+                0.231,
+                0.747
+            ],
+            "angle": 0,
+            "content": "需要最高编程"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "7"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.567,
+                0.581,
+                0.817,
+                0.648
+            ],
+            "angle": 0,
+            "content": "QuickBuild"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "8"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.959,
+                0.168,
+                0.972
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.956,
+                0.978,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.305,
+                0.11
+            ],
+            "angle": 0,
+            "content": "路径1开发周期"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.047,
+                0.226,
+                0.357,
+                0.3
+            ],
+            "angle": 0,
+            "content": "QuickBuild 是进入 VisionPro 的互动窗口"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.047,
+                0.383,
+                0.357,
+                0.495
+            ],
+            "angle": 0,
+            "content": "几乎所有 VisionPro 用户都使用 QuickBuild 开始构建他们的应用程序"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.047,
+                0.226,
+                0.357,
+                0.495
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.364,
+                0.24,
+                0.95,
+                0.838
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "9"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.121
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.361,
+                0.113
+            ],
+            "angle": 0,
+            "content": "QuickBuild管理工作"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.234,
+                0.269,
+                0.272
+            ],
+            "angle": 0,
+            "content": "每个工作均有："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.283,
+                0.3,
+                0.317
+            ],
+            "angle": 0,
+            "content": "一个提供图像的像源"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.334,
+                0.445,
+                0.412
+            ],
+            "angle": 0,
+            "content": "在这些图像上运行的一些视觉工具组合"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.429,
+                0.273,
+                0.464
+            ],
+            "angle": 0,
+            "content": "多个工作平行执行"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.511,
+                0.19,
+                0.938,
+                0.695
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "10"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.305,
+                0.113
+            ],
+            "angle": 0,
+            "content": "给工作添加工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.752,
+                0.273
+            ],
+            "angle": 0,
+            "content": "工具是一种 VisionPro 对象，在指定图像上进行具体的分析"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.106,
+                0.342,
+                0.893,
+                0.898
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.04,
+                0.971
+            ],
+            "angle": 0,
+            "content": "11"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.085,
+                0.066,
+                0.273,
+                0.11
+            ],
+            "angle": 0,
+            "content": "如何添加工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.225,
+                0.412,
+                0.298
+            ],
+            "angle": 0,
+            "content": "在工具箱中选择工具并拖放进工作中"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.3,
+                0.412,
+                0.359
+            ],
+            "angle": 0,
+            "content": "插入标志表明工具在工具组中的位置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.148,
+                0.373,
+                0.406,
+                0.484
+            ],
+            "angle": 0,
+            "content": "- 当添加有多个工具时，执行顺序是从上至下依次进行"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.416,
+                0.208,
+                0.959,
+                0.591
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.97
+            ],
+            "angle": 0,
+            "content": "12"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.147,
+                0.113
+            ],
+            "angle": 0,
+            "content": "工作"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.023,
+                0.184,
+                0.845,
+                0.81
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "13"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.123
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.09,
+                0.065,
+                0.344,
+                0.113
+            ],
+            "angle": 0,
+            "content": "使用终端传送数据"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.233,
+                0.376,
+                0.317
+            ],
+            "angle": 0,
+            "content": "- 终端用于向某工具或者工具组显示数据元素。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.327,
+                0.376,
+                0.404
+            ],
+            "angle": 0,
+            "content": "拖放可以在工具或者工具组之间传送数据"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.39,
+                0.196,
+                0.97,
+                0.755
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "14"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.064,
+                0.359,
+                0.113
+            ],
+            "angle": 0,
+            "content": "保存项目/工具/工作"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.684,
+                0.219
+            ],
+            "angle": 0,
+            "content": "当您保存项目或者某个工具时，其被保存为 .vpp 文件"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.091,
+                0.342,
+                0.446,
+                0.766
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "15"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.07,
+                0.335,
+                0.115
+            ],
+            "angle": 0,
+            "content": "运行应用程序向导"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.239,
+                0.196,
+                0.943,
+                0.928
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.97
+            ],
+            "angle": 0,
+            "content": "16"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.427,
+                0.11
+            ],
+            "angle": 0,
+            "content": "配置已经完成的应用程序"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.121,
+                0.22,
+                0.87,
+                0.943
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "17"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.342,
+                0.419,
+                0.654,
+                0.486
+            ],
+            "angle": 0,
+            "content": "VisionPro资源"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.959,
+                0.042,
+                0.97
+            ],
+            "angle": 0,
+            "content": "18"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.067,
+                0.277,
+                0.11
+            ],
+            "angle": 0,
+            "content": "VisionPro资源"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.234,
+                0.49,
+                0.274
+            ],
+            "angle": 0,
+            "content": "VisionPro 提供各种不同层次的资源"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.284,
+                0.294,
+                0.317
+            ],
+            "angle": 0,
+            "content": "QuickBuild 导向面板"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.106,
+                0.335,
+                0.194,
+                0.366
+            ],
+            "angle": 0,
+            "content": "在线帮助"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.149,
+                0.38,
+                0.3,
+                0.418
+            ],
+            "angle": 0,
+            "content": "- 系统级访问"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.186,
+                0.424,
+                0.345,
+                0.46
+            ],
+            "angle": 0,
+            "content": "- VisionPro 库"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.187,
+                0.466,
+                0.36,
+                0.503
+            ],
+            "angle": 0,
+            "content": "- 视觉工具信息"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.186,
+                0.424,
+                0.36,
+                0.503
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.149,
+                0.513,
+                0.286,
+                0.548
+            ],
+            "angle": 0,
+            "content": "- QuickBuild"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.186,
+                0.552,
+                0.463,
+                0.59
+            ],
+            "angle": 0,
+            "content": "- 到工具信息的快捷方式"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.104,
+                0.602,
+                0.152,
+                0.633
+            ],
+            "angle": 0,
+            "content": "案例"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.149,
+                0.65,
+                0.286,
+                0.684
+            ],
+            "angle": 0,
+            "content": "- QuickBuild"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.149,
+                0.692,
+                0.285,
+                0.725
+            ],
+            "angle": 0,
+            "content": "- .Net 和 C#"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.149,
+                0.733,
+                0.225,
+                0.769
+            ],
+            "angle": 0,
+            "content": "- 脚本"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.149,
+                0.65,
+                0.286,
+                0.769
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.621,
+                0.284,
+                0.947,
+                0.909
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "19"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.067,
+                0.358,
+                0.112
+            ],
+            "angle": 0,
+            "content": "VisionPro资源-案例"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.03,
+                0.202,
+                0.507,
+                0.246
+            ],
+            "angle": 0,
+            "content": "QuickBuild 案例可在不同的地方找到"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.259,
+                0.237,
+                0.298
+            ],
+            "angle": 0,
+            "content": "QuickBuild 界面"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.318,
+                0.141,
+                0.356
+            ],
+            "angle": 0,
+            "content": "系统级"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.106,
+                0.368,
+                0.22,
+                0.402
+            ],
+            "angle": 0,
+            "content": "- 快捷方式"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.143,
+                0.408,
+                0.762,
+                0.443
+            ],
+            "angle": 0,
+            "content": "- 为系统上安装中包括的 VisionPro 案例建立了一个 HTML 链接"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.106,
+                0.448,
+                0.286,
+                0.481
+            ],
+            "angle": 0,
+            "content": "- Windows 浏览器"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.142,
+                0.485,
+                0.816,
+                0.522
+            ],
+            "angle": 0,
+            "content": "- 使用 Windows 浏览器，用户可以点击进入到包含有案例文件的目录"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.106,
+                0.368,
+                0.816,
+                0.522
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.059,
+                0.555,
+                0.952,
+                0.873
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "20"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.067,
+                0.358,
+                0.112
+            ],
+            "angle": 0,
+            "content": "VisionPro资源-案例"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.047,
+                0.202,
+                0.276,
+                0.247
+            ],
+            "angle": 0,
+            "content": "QuickBuild 案例"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.256,
+                0.382,
+                0.399
+            ],
+            "angle": 0,
+            "content": "选择一个案例可以将其作为一件工作添加到 QuickBuild 中"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.42,
+                0.382,
+                0.513
+            ],
+            "angle": 0,
+            "content": "通过案例工作的导向可以解释其使用方法。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.047,
+                0.551,
+                0.382,
+                0.645
+            ],
+            "angle": 0,
+            "content": "脚本安全也可以通过导航方式来浏览"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.047,
+                0.202,
+                0.382,
+                0.645
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.386,
+                0.219,
+                0.969,
+                0.84
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "21"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.281,
+                0.33,
+                0.577,
+                0.409
+            ],
+            "angle": 0,
+            "content": "Thank you."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "22"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ]
+]

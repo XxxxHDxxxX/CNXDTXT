@@ -1,0 +1,1077 @@
+[
+    {
+        "type": "text",
+        "text": "本主题包含以下章节。",
+        "bbox": [
+            146,
+            102,
+            339,
+            118
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "Control Buttons ( 控件按钮 ) ",
+            "Settings Tab (Settings 选项卡 )",
+            "Graphics Tab (Graphics 选项卡 )",
+            "Results ",
+            "Diagnostics "
+        ],
+        "bbox": [
+            176,
+            155,
+            502,
+            322
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Affine Transform 编辑控件为 CogAffineTransformTool 视觉工具提供图形用户界面，此工具可转换 CogRectangleAffine 对象内包含的图像区域并生成新的矩形输出图像。此工具可移除仿射矩形在尺寸中呈现的任何旋转和倾斜效应，并且在您想减小或增大矩形所包含的这些特征时可以指定其他缩放系数。此外，您可以使 Affine Transform 工具生成选项输出 image mask。",
+        "bbox": [
+            144,
+            357,
+            847,
+            526
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Affine Transform 工具可以接受 16 位编码图像，从而可接受 8 位、10 位、12位、14 位和 16 位位深的图像。",
+        "bbox": [
+            144,
+            558,
+            847,
+            614
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "注意：输出图像的坐标空间目录树 adjusted（调整）为保留根空间与图像特征之间的关系。",
+        "bbox": [
+            144,
+            650,
+            843,
+            705
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Affine Transform 编辑控件用于定义仿射矩形，指定可选的缩放系数，确定工具如何处理 clipping（裁切），以及查看视觉工具结果。Affine Transform 编辑控件如下图所示：",
+        "bbox": [
+            144,
+            741,
+            843,
+            834
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/340797f9c10c87c9751c4906757f2a55d87cabfe59dec4f18a613e7c20f85e0c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            152,
+            90,
+            848,
+            373
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此编辑控件提供以下功能：",
+        "bbox": [
+            146,
+            485,
+            381,
+            502
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "一排位于左上角的控件按钮",
+            " 两个功能选项卡，用于设置运行时参数并确定工具生成的图像缓冲区",
+            " 一个图像显示窗口，用于显示 Affine Transform 工具图像和图形"
+        ],
+        "bbox": [
+            174,
+            539,
+            815,
+            630
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "您可以尝试使用 QuickBuild 来创建 CogAffineTransform 工具，以练习使用此编辑控件。新的 CogAffineTransform 工具带有两个输入点的输入终端，如下图所示：",
+        "bbox": [
+            144,
+            665,
+            847,
+            758
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/290da041cd999d9d98e6059c80c965b4fbabfcfcc42265f77c11ef5d88e934d6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            152,
+            785,
+            371,
+            839
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "要在自定义视觉应用程序中包含此编辑控件，必须先将其添加至您的 VisualStudio.NET 开发环境。有关更多信息，请参阅主题“Adding Edit Controls toVisual Studio”。",
+        "bbox": [
+            144,
+            102,
+            845,
+            193
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Control Buttons (控件按钮)",
+        "text_level": 1,
+        "bbox": [
+            144,
+            221,
+            418,
+            236
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二、 Settings Tab (Settings 选项卡)",
+        "text_level": 1,
+        "bbox": [
+            146,
+            275,
+            435,
+            292
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用 Settings 选项卡指定缩放系数，选择采样模式，以及确定工具如何处理裁切。下图所示为默认的 Settings 选项卡：",
+        "bbox": [
+            179,
+            319,
+            838,
+            376
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7676acf457921e781bd9766a91064e27b6f05fe3f397707fc28cffd34df8186.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            188,
+            400,
+            722,
+            728
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下表介绍了 Settings 选项卡中的选项：",
+        "bbox": [
+            181,
+            736,
+            470,
+            751
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Region 确定工具使用仿射矩形还是整个输出图像。默认情况下，Affine Transform 工具使用仿射矩形定义关注的输入图像区域。然而您也可选择使用整个输入图像。由于输入图像为矩形，输出图像将包含完全相同的图像信息。在完整输入图像上使用 Affine Transform 工具的应用程序通常使用它来减小或增大图像比例。例如，减小图像比例可加速其他视觉工具在缩小图像上的操作速度，不过减小尺寸会导致精度降低。",
+        "bbox": [
+            181,
+            753,
+            848,
+            862
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ScalingX 设置沿 $( \\mathsf { x } , \\mathsf { y } )$ 轴方向的缩放系数。对两者使用相同的缩放系数，以生成一致的缩放。如果想水平伸展图像则对 Scaling X 使用较大的值，如果想垂直伸展图",
+        "bbox": [
+            181,
+            865,
+            848,
+            900
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "像则对 Scaling Y 使用较大的值。",
+        "bbox": [
+            252,
+            93,
+            492,
+            109
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ScalingY ",
+        "bbox": [
+            181,
+            112,
+            247,
+            126
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SamplingMode 指定执行仿射变换操作时使用的采样模式。默认情况下，此工具使用双线性插值法。",
+        "bbox": [
+            181,
+            148,
+            848,
+            184
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ClipMode 指定仿射区域的任意部分位于输入图像外时采取的操作。选择以下选项之一：",
+        "bbox": [
+            181,
+            211,
+            840,
+            265
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Treat As Zero：将从输入图像裁切的像素的值视为 0。输出图像中所生成像素的值将为 0，沿裁切发生的边缘处的像素除外，在该处像素将在 0 与相邻未裁切输入像素的值之间变化。这是最快的裁切模式，但会导致输出图像沿裁切边界有模糊的边缘。",
+        "bbox": [
+            285,
+            302,
+            847,
+            432
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fill With Constant：如果用于计算输出像素值的输入图像像素已被裁切，则使用在 Fill Value 框中指定的灰度值填充输出像素。此裁切模式需要较长时间，但能确保输出图像中的每个像素完全利用未裁切像素计算或使用指定常数灰度值填充。",
+        "bbox": [
+            285,
+            467,
+            838,
+            596
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Generate Error：像素被裁切时生成错误消息。",
+        "bbox": [
+            285,
+            632,
+            704,
+            649
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ClipFillValue 使用 Fill With Constant 的裁切模式时，选择填充裁切像素的灰度值。",
+        "bbox": [
+            181,
+            659,
+            806,
+            676
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CreateOutputImageMask 使此工具生成可选的图像掩模，供将分析由 Affine Transform 工具所生成输出图像的其他视觉工具使用。",
+        "bbox": [
+            181,
+            703,
+            847,
+            796
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "要在 QuickBuild 中使用图像掩模，您必须启用OutputImageMask 的输出终端。",
+        "bbox": [
+            428,
+            832,
+            847,
+            887
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三、 Diagnostics",
+        "text_level": 1,
+        "bbox": [
+            147,
+            93,
+            304,
+            109
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ca6d906bac9a8a2d0319d4ef44f4a881fa0f84d83d1abf56ce2d34822a8e8cb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            189,
+            112,
+            800,
+            180
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Show Input Image 确定输入图像是否被记录为诊断记录的一部分，以及此图像是否已复制或保存至记录作为参考。",
+        "bbox": [
+            181,
+            186,
+            848,
+            219
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Show Region 启用代表仿射矩形的图形。",
+        "bbox": [
+            181,
+            223,
+            529,
+            239
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "现在可以分析来自仿射变换工具的输出，而不考虑可能出现在每个获得的图像中的任何",
+        "bbox": [
+            181,
+            241,
+            847,
+            275
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "旋转。",
+        "bbox": [
+            181,
+            279,
+            228,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "默认情况下，仿射矩形生成一个使用左手坐标系统的输出图像，当您顺时针方向移动时，",
+        "bbox": [
+            181,
+            315,
+            848,
+            350
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将出现正旋转。通过指定旋转值为90度(正或负)和倾斜值为180度(正或负)，该工具生成的输出图像将使用右手坐标系统，其中当您逆时针方向移动时将发生正旋转。",
+        "bbox": [
+            181,
+            351,
+            838,
+            387
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "仿射转换工具操作原理(Affine Transform Theory) ",
+        "text_level": 1,
+        "bbox": [
+            181,
+            93,
+            547,
+            110
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本主题包含以下部分。",
+        "bbox": [
+            181,
+            130,
+            354,
+            146
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "Affine Rectangles ",
+            "Sampling Methods ",
+            "Clipping ",
+            "Mask Creation ",
+            "Handedness and Orientation "
+        ],
+        "bbox": [
+            176,
+            174,
+            485,
+            338
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "该仿射变换工具对包含在CogRectangleAffine对象中的图像区域进行变换，并生成新的矩形输出图像。该工具消除了在仿射矩形的维度中出现的任何旋转和倾斜的效果，并",
+        "bbox": [
+            179,
+            367,
+            843,
+            419
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "允许您指定一个额外的缩放因子，如果您想要缩小或扩大矩形包含的那些特性。",
+        "bbox": [
+            181,
+            423,
+            793,
+            439
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "你可以用一个仿射变换工具调整输入图像的地区当感兴趣的对象可以出现从一个图像旋转到下一个,和你想要分析的图像视觉工具,不容忍太多的旋转,如CNLSearch工具。例如，下图显示了被检查对象周围的仿射矩形，以及仿射变换工具生成的输出图像:",
+        "bbox": [
+            179,
+            458,
+            842,
+            513
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/449b23a8f9ab659313ff2a8c3d14a94a0588d8a7a366211be706de98c03fca25.jpg",
+        "image_caption": [
+            "Input image "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            203,
+            539,
+            544,
+            722
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/45ce217f64f3393c3011019a41d7a9708a4ecb90bde178f46b5d6efbc5aab5a6.jpg",
+        "image_caption": [
+            "Output image "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            561,
+            541,
+            848,
+            665
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另一个例子，下图显示了如何使用仿射变换工具来增加输入图像的期望部分的比例:",
+        "bbox": [
+            181,
+            738,
+            826,
+            753
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d10954e2dfbcfb00074f59855b33d12893420ee288b6149a4a71963f3d8dace6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            188,
+            99,
+            522,
+            297
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcc9db3935cfc779aacf133cf934d76fa2fc2bea22d39ad3d4aa1f9801b8258f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            537,
+            99,
+            857,
+            291
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "该工具还可以对图像进行转换，实现坐标系统的切换，如下图所示:",
+        "bbox": [
+            181,
+            370,
+            705,
+            387
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9336934a7504ada661c1c219c99ca4bfb932d30af3de098523735649df864253.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            186,
+            397,
+            588,
+            646
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/babc8cf084506ba1dc0ff07eeb0df685b0eee303aea89a41eb80606d096bedd4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            628,
+            398,
+            862,
+            643
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Affine Rectangles ",
+        "text_level": 1,
+        "bbox": [
+            181,
+            687,
+            381,
+            702
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "仿射矩形是任何对边相互平行的四边形。正方形、矩形、平行四边形均为仿射矩形，如下图所示:",
+        "bbox": [
+            215,
+            703,
+            850,
+            739
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b56b65c361aac37085eaed356a4987ea31b72dbb5791d59ae49411f969f3ce1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            226,
+            93,
+            418,
+            186
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/647716fdcefd302f5f429b8e35b0d95e93a5077d705025189721e1012dd7c25a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            282,
+            210,
+            406,
+            299
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f2fa47eb5581f2551b6813b31ccf7df9fb52d3664b4e28383821d4c6d537c27.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            442,
+            92,
+            670,
+            250
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c098489bc3f315804708f0280ff765391eed36029ea97c40103ec50d2a56e8e9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            694,
+            92,
+            821,
+            290
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "一个仿射矩形使用以下标记的顶点:",
+        "bbox": [
+            144,
+            315,
+            420,
+            331
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Po:原点 ",
+        "bbox": [
+            144,
+            335,
+            210,
+            349
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Px：沿着x轴的顶点点",
+        "bbox": [
+            144,
+            353,
+            324,
+            368
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Py：沿y轴的顶点点",
+        "bbox": [
+            144,
+            372,
+            309,
+            387
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Popp：与原点相对的顶点点",
+        "bbox": [
+            144,
+            390,
+            364,
+            405
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "下面的图显示了与前一个图相同的仿射矩形，它们的顶点被标记为:",
+        "bbox": [
+            144,
+            407,
+            667,
+            423
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f16ec56a5c5ced2e0089e5141a18d3fe567435182e5b655b586d32bc8226c0a0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            152,
+            426,
+            243,
+            470
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3fff7f9ab587edc8640405f0b0abec107192c8b85b0be45353fb8e1330a2e63.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            255,
+            428,
+            364,
+            502
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cf37eb50abf7cdd14b84bc0f3502df522c4a3a0d25df933c05c806cc4ba7622.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            371,
+            426,
+            431,
+            521
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/14f23c0c517d3720ebb25fb095c9ffbd9008e51e3bd8d6ac976f87ebaacea241.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            181,
+            489,
+            243,
+            532
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "使 用 仿 射 变 换 工 具 将 矩 形 内 的 图 像 转 换 为 矩 形 输 出 图 像 ， 如 下 图 所 示 :",
+        "bbox": [
+            144,
+            538,
+            848,
+            554
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/12745370ee26f21fbe8c76ac22f78f9dbae2983275ac8656c86e48740b2538c9.jpg",
+        "image_caption": [
+            "Input image ",
+            "Destination image "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            161,
+            560,
+            618,
+            740
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "默认情况下，仿射变换工具使用一个仿射矩形来定义您感兴趣的输入图像的区域。但是，您可以选择使用整个输入图像。由于输入图像是矩形的，因此输出图像将包含完全相同的图像信息。在整个输入图像上使用仿射变换工具的应用程序通常使用它来缩小或扩大图像的比例。例如，缩小图像的尺寸可以使其他视觉工具在缩小后的图像上运行得更快，尽管缩小尺寸可能导致精度降低。",
+        "bbox": [
+            144,
+            796,
+            848,
+            888
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "二、 Sampling Methods",
+        "text_level": 1,
+        "bbox": [
+            181,
+            112,
+            391,
+            127
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了生成输出图像，仿射矩形工具使用了两种采样方法中的一种。第一种方法，双线性插值，考虑输入图像中最接近每个采样点中心的四个像素的值。有关双线性插值的更多信息请参阅主题双线性插值。",
+        "bbox": [
+            144,
+            130,
+            848,
+            183
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "该工具还支持高精度方法，该方法与双线性插值方法类似，只是在确定采样像素的值时考虑了额外的像素。",
+        "bbox": [
+            144,
+            205,
+            840,
+            239
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "双线性插值方法执行速度快于高精度插值方法，但高精度插值方法具有更高的精度。您可以试验这两种方法，以确定哪种最适合您的应用程序。",
+        "bbox": [
+            144,
+            256,
+            847,
+            291
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "三、 Clipping",
+        "text_level": 1,
+        "bbox": [
+            181,
+            313,
+            317,
+            329
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在某些情况下，当仿射矩形靠近或越过输入图像的边界时，它可以被剪切。例如，下图显示了一个超过输入图像边界的仿射矩形:",
+        "bbox": [
+            144,
+            349,
+            847,
+            384
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2bf0338e7d197541a195317b616f22746338b73e5251a9eb60904c2688fbc9a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            152,
+            404,
+            460,
+            542
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "例如，当仿射矩形依赖于夹具工具来确定其在输入图像上的位置时，就会发生这种情况。由于仿射变换工具实现采样方法的方式，如果您正在使用双线性插值方法，并且仿射矩形中任何像素的中心都在输入图像边缘的两个像素之内，那么裁剪也会发生。如果使用高精度采样方法，那么如果仿射矩形中任何像素的中心距离输入图像的边缘不到 4个像素，就会发生剪裁。",
+        "bbox": [
+            144,
+            552,
+            848,
+            643
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "下图演示了即使仿射矩形完全落在输入图像的边界内，剪切也是如何发生的:",
+        "bbox": [
+            147,
+            664,
+            739,
+            680
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9fca642dfdfb7d80f4b5382937dfb777b11ea7326823a3317fd7a5ff5f12dd9e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            154,
+            98,
+            815,
+            360
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "四、 Mask Creation",
+        "text_level": 1,
+        "bbox": [
+            181,
+            390,
+            361,
+            404
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如果您使用的是一个仿射变换工具的结果作为输入图像到另一个视觉工具,并有机会在仿射矩形像素可以省略,因为它们或外部输入图像的边界附近,你可以有工具生成一个可选的输出图像仿射变换面具。该工具为输出的图像掩码填充仿射矩形内的像素值为 255，为被裁剪的像素值为0。例如如下图所示为输入图像的仿射矩形，以及它所生成的输出掩模图像:",
+        "bbox": [
+            144,
+            407,
+            848,
+            481
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/20e83450ff427e05fc54d8db13aa2117fdece2445e014817a08cacb2548261a7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            154,
+            502,
+            411,
+            663
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/4821186d982cfffec9d029a652ba136e9ee3db9748c38f209ec5f272dd0b76fc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            426,
+            505,
+            621,
+            646
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1cd87d720291746656944d2010ab04098a0d0ca8e2ec6415bf6f392b6d0d599.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            638,
+            504,
+            831,
+            643
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "输出掩模图像可用于防止分析由仿射变换工具产生的输出图像的任何视觉工具分析被裁剪的像素值。",
+        "bbox": [
+            144,
+            686,
+            848,
+            721
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "五、 Handedness and Orientation ",
+        "text_level": 1,
+        "bbox": [
+            181,
+            780,
+            462,
+            794
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "默认情况下，仿射矩形生成一个使用左手坐标系统的输出图像，当您顺时针方向移动时，将出现正旋转。通过为仿射矩形的旋转和倾斜指定精确的值，可以将该工具配置为使用右手坐标系统生成输出图像，其中在逆时针方向移动时发生正旋转。具体来说，您必须将矩形旋转90度，并将倾斜设置为 180度(或-90度旋转和-180度倾斜)，以更改ou中的坐标系统：",
+        "bbox": [
+            144,
+            797,
+            850,
+            887
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "下图演示了如何在不移动矩形或不改变其原点位置的情况下改变仿射矩形的旋向性:",
+        "bbox": [
+            147,
+            93,
+            789,
+            108
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb2c923bf44d8b1b512e6b05018b0ff17fcc7571016d67daf9240bf22565877c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            152,
+            118,
+            685,
+            519
+        ],
+        "page_idx": 10
+    }
+]

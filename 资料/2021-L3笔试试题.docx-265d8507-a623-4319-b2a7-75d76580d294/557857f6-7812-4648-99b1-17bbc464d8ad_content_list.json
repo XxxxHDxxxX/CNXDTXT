@@ -1,0 +1,696 @@
+[
+    {
+        "type": "text",
+        "text": "姓名： 身份证号： 得分：",
+        "bbox": [
+            146,
+            101,
+            549,
+            122
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "视觉工程师三级笔试",
+        "text_level": 1,
+        "bbox": [
+            374,
+            136,
+            623,
+            158
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "填空题。（每空 1.5 分，共 30 分）",
+        "text_level": 1,
+        "bbox": [
+            144,
+            175,
+            510,
+            193
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.如下图所示，请解释 CogPMAlignTool 参数的意义",
+        "bbox": [
+            146,
+            215,
+            615,
+            233
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "_粗糙_ _精细_ ",
+        "bbox": [
+            147,
+            252,
+            384,
+            271
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "_弹性 自动边缘阈值 ",
+        "bbox": [
+            151,
+            288,
+            515,
+            307
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d40d2f982af3d80a0b1dd9c32f60e44743f0874fdc91712cb52421cc52292862.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            146,
+            313,
+            766,
+            450
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "2. CheckBoard 工具进行线线校正模式时候的五种自由度是__平移____、___旋转_、___倾斜___、__缩放__、___纵横比_ 。",
+            "3. 我们的 AssemblyPlus 软件自带的和 SI 的通信方式是__TCP_、__Serial 串口_",
+            "4. CogIPOneImageTool 常用的图像处理方法有__乘以常数__、__加/减常数__、_翻转/旋转___、腐蚀等处理（合理即可）",
+            "5. 使用Caliper工具，在选择单边模式时可使用的三种函数是__对比度 _位置 、 _PositionNeg _。",
+            "6. 3D 相机设置参数时，X-Scale 代表____X 缩放"
+        ],
+        "bbox": [
+            144,
+            475,
+            848,
+            815
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StepsPerLine 代表 每行编码器的步数。",
+        "bbox": [
+            144,
+            837,
+            732,
+            854
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Cognex GS FSE Test ",
+        "bbox": [
+            147,
+            49,
+            290,
+            64
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            709,
+            887,
+            810,
+            901
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姓名： 身份证号： 得分：",
+        "bbox": [
+            146,
+            102,
+            549,
+            123
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Measure Field 代表 测量场(决定 3D 相机的取像速度和景深大小)__。",
+        "bbox": [
+            144,
+            137,
+            843,
+            158
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、 不定项选择题（每空2分，共10分）",
+        "text_level": 1,
+        "bbox": [
+            144,
+            178,
+            534,
+            197
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.我们相机的触发模式有：（ ACD ）",
+        "bbox": [
+            146,
+            218,
+            490,
+            237
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A、手动",
+        "bbox": [
+            144,
+            266,
+            226,
+            284
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B、自由运行",
+        "bbox": [
+            263,
+            266,
+            379,
+            282
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C、硬件自动",
+        "bbox": [
+            144,
+            313,
+            265,
+            331
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "D、硬件半自动",
+        "bbox": [
+            285,
+            313,
+            423,
+            331
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 关于 PMAlignTool 中的接受阈值说法正确的是（ ABCD ）",
+        "bbox": [
+            144,
+            360,
+            700,
+            379
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A、范围在0到1",
+            "B、当结果分数为0.8时，提高接受度阈值到0.79，一定还有结果",
+            "C、提高阈值可以减少工具运行时间",
+            "D、降低阈值可能找到多个相似的特征"
+        ],
+        "bbox": [
+            144,
+            407,
+            729,
+            568
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.以下选项那些可能是标定失败的原因( ABCD )",
+        "bbox": [
+            144,
+            598,
+            606,
+            615
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A、机械手XY方向走点距离不一致",
+            "B、标定图片焦距模糊",
+            "C、打光不均匀 ",
+            "D、做机械手旋转中心校准时，机械手旋转的角度不精确"
+        ],
+        "bbox": [
+            144,
+            645,
+            648,
+            804
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. 使用 CogCopyRegionTool 可对指定区域（ A C ）",
+        "bbox": [
+            144,
+            834,
+            626,
+            853
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Cognex GS FSE Test ",
+        "bbox": [
+            147,
+            49,
+            290,
+            64
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            709,
+            887,
+            811,
+            901
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "姓名： 身份证号： 得分：",
+        "bbox": [
+            144,
+            102,
+            549,
+            122
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A 灰度填充 ",
+        "bbox": [
+            144,
+            137,
+            257,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B 空间变换",
+        "bbox": [
+            277,
+            137,
+            389,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C 像素复制",
+        "bbox": [
+            396,
+            137,
+            505,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "D 数据计算",
+        "bbox": [
+            512,
+            137,
+            623,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5．视场水平方向的长度是 $9 . 3 4 ^ { \\star } 7 . 8 \\mathsf { m m }$ ，相机水平分辨率是 $2 4 4 8 ^ { \\star } 2 0 4 8$ ，视",
+        "bbox": [
+            144,
+            185,
+            850,
+            204
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "觉系统的精度是多少？ （ D ）9.34/2448=0.00381",
+        "bbox": [
+            144,
+            241,
+            616,
+            259
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A 、 50Pixel/mm",
+            "B 、 262.09mm/Pixel",
+            "C 、 500Pixel/mm",
+            "D、0.0038mm/Pixel "
+        ],
+        "bbox": [
+            144,
+            288,
+            848,
+            361
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三、判断题。（每题 2 分，共 10 分）",
+        "text_level": 1,
+        "bbox": [
+            144,
+            391,
+            473,
+            409
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1、 CogPMAlignTool 中颗粒度参数的单位是 pixel。 （ Y ）",
+            "2、 CogFindLineTool 与 CogCaliperTool 都可以抓取边缘对。 （ Y ）",
+            "3、 CCD 对比 CMOS 的优势有：噪声高，耗电量低，技术较成熟。 （ X ）",
+            "4、 相机型号和打光效果都可以影响视觉检测的精度。 （ Y ）",
+            "5、使用PMAlign工具匹配特征时图像中的部分特征在视野外，可以设置区域以外计分参数增加特征匹配得分。 （ X ）"
+        ],
+        "bbox": [
+            144,
+            431,
+            847,
+            652
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "四．简答题",
+        "text_level": 1,
+        "bbox": [
+            144,
+            715,
+            253,
+            732
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. 简述 CheckBorad 标定工具中 Translation、Scaling、Rotation、Skew 的意义。（10 分）",
+        "bbox": [
+            144,
+            755,
+            847,
+            810
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择线性畸变校正时候的5种自由度中的4种：可以校正图像上这四种类型的",
+        "bbox": [
+            144,
+            829,
+            836,
+            847
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Cognex GS FSE Test ",
+        "bbox": [
+            147,
+            49,
+            290,
+            64
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            709,
+            887,
+            811,
+            901
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "姓名： 身份证号： 得分：",
+        "bbox": [
+            146,
+            101,
+            549,
+            122
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "线性畸变。",
+        "bbox": [
+            146,
+            137,
+            240,
+            155
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Translation 平移、Scaling 缩放、Rotation 旋转、Skew 倾斜",
+        "bbox": [
+            144,
+            175,
+            692,
+            193
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2、简述下面代码中序号 1-5 的含义。（15 分）",
+        "bbox": [
+            144,
+            212,
+            559,
+            231
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cffb459cff2695b7f06f7ebf5f4e89ab7beadfe6ecf373cb0d2c3dc8e141011.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            164,
+            243,
+            917,
+            495
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "答：",
+        "bbox": [
+            146,
+            521,
+            179,
+            537
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 将 graphicCollection 这个集合里东西清空",
+            "2. 赋值，将 CogToolBlock 中输出端的名为 CenterX 的值赋值为 999.9",
+            "3. 运行一下 processing_Fine 这个工具。",
+            "4. 修改 hist_cir 工具的空间名称为”@\\\\......Fixture_ImageUnify”",
+            "5. 赋值将 hist_cir 的半径值赋值为 0.45"
+        ],
+        "bbox": [
+            146,
+            562,
+            705,
+            652
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.相机标定时 RMS 误差过大，请阐述合理的分析排查步骤。（15 分）",
+        "bbox": [
+            144,
+            764,
+            757,
+            783
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "视觉：曝光不合适、焦距不合适导致抓取到的 Mark点少或不准确导致，校正模式不对导致等。",
+        "bbox": [
+            144,
+            804,
+            848,
+            859
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Cognex GS FSE Test ",
+        "bbox": [
+            147,
+            49,
+            290,
+            64
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            709,
+            887,
+            811,
+            901
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "姓名： 身份证号： 得分：",
+        "text_level": 1,
+        "bbox": [
+            146,
+            102,
+            549,
+            122
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "机构：走位不准确、旋转角度不准确或是不对、取放标定片时候位置抖动等",
+        "bbox": [
+            144,
+            137,
+            816,
+            155
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.写出至少 5 类造成抓边异常的原因以及对应的解决办法（10 分）",
+        "bbox": [
+            144,
+            212,
+            727,
+            231
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "$\\cdot$ 即使模板匹配好，但是有些边的位置相对于模板特征而言不太固定，需要合理设置大一些抓边工具的搜索长度，以保证这条边始终在抓边工具的搜索范围以内。",
+            "$\\textcircled{2}$ 图片亮度太暗或过曝等，边不存在导致抓边失败，调整合适曝光。",
+            "$\\cdot$ 物料本身边缘对比度不佳，适当降低对比度阈值。",
+            "$\\textcircled{4}$ 物料边缘凹凸不平，有凸起，凹陷等，可以适当忽略一些点数，把不稳定的因素排除掉。",
+            "$\\textcircled{5}$ 图像清晰度变的稍差，或者边缘黑白过滤的像素数比较多，可以适当增加抓边工具的过滤一半像素值。"
+        ],
+        "bbox": [
+            144,
+            249,
+            848,
+            563
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Cognex GS FSE Test ",
+        "bbox": [
+            147,
+            49,
+            290,
+            64
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            709,
+            887,
+            811,
+            901
+        ],
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,3784 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        0,
+                        959,
+                        306
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                959,
+                                306
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        959,
+                                        306
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                959,
+                                                306
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ccc2ca78e079013b3fa9da12014b39516f1abb0867b367d9fdcf5007a2b987dd.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        58,
+                        352,
+                        271,
+                        392
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                348,
+                                271,
+                                393
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        348,
+                                        271,
+                                        393
+                                    ],
+                                    "type": "text",
+                                    "content": "Script Demo",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        58,
+                        444,
+                        248,
+                        471
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                442,
+                                250,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        442,
+                                        250,
+                                        470
+                                    ],
+                                    "type": "text",
+                                    "content": "Leon Lei| 2023/04/08",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        55,
+                        509,
+                        705,
+                        536
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                507,
+                                706,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        507,
+                                        706,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "This document contains Cognex Corporation confidential information, which must be protected and used only in accordance with the",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                521,
+                                601,
+                                537
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        521,
+                                        601,
+                                        537
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2022 Cognex CorporationMutual Confidentiality Agreement entered into by Cognex Corporation and Apple Inc. dated November 1, 2014",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        776,
+                        500,
+                        931,
+                        523
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                774,
+                                497,
+                                933,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        774,
+                                        497,
+                                        933,
+                                        526
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        32,
+                        421,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                27,
+                                425,
+                                80
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        32,
+                                        269,
+                                        80
+                                    ],
+                                    "type": "text",
+                                    "content": "Script Demo",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        270,
+                                        27,
+                                        425,
+                                        78
+                                    ],
+                                    "type": "text",
+                                    "content": "学习目标",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        98,
+                        581,
+                        193
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 4,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                98,
+                                581,
+                                120
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        97,
+                                        584,
+                                        123
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                97,
+                                                584,
+                                                123
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 通过实战练习熟练掌握脚本控制 ToolBlock 的工具的运行参数",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                135,
+                                510,
+                                157
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        135,
+                                        511,
+                                        158
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                137,
+                                                79,
+                                                157
+                                            ],
+                                            "type": "text",
+                                            "content": "2.",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                94,
+                                                135,
+                                                511,
+                                                158
+                                            ],
+                                            "type": "text",
+                                            "content": "熟练掌握脚本控制 ToolBlock 的工具运行及结果获取",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                172,
+                                370,
+                                193
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        171,
+                                        372,
+                                        196
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                173,
+                                                76,
+                                                194
+                                            ],
+                                            "type": "text",
+                                            "content": "3.",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                97,
+                                                171,
+                                                372,
+                                                196
+                                            ],
+                                            "type": "text",
+                                            "content": "掌握相关信息在图像上显示的方法",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        35,
+                        531
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        54,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                179,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        179,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        55,
+                        32,
+                        783,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                28,
+                                786,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        28,
+                                        786,
+                                        77
+                                    ],
+                                    "type": "text",
+                                    "content": "Script Demo – 案例 1 零件尺寸的测量与显示",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        99,
+                        173,
+                        120
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                97,
+                                173,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        97,
+                                        173,
+                                        122
+                                    ],
+                                    "type": "text",
+                                    "content": " 如下图所示",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        106,
+                        140,
+                        410,
+                        346
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                106,
+                                140,
+                                410,
+                                346
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        140,
+                                        410,
+                                        346
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                106,
+                                                140,
+                                                410,
+                                                346
+                                            ],
+                                            "type": "image",
+                                            "image_path": "a75831353c7b5715577c77df1542250da96032573cc69d648ca633bf1801add6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        459,
+                        133,
+                        816,
+                        152
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                460,
+                                133,
+                                817,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        133,
+                                        817,
+                                        154
+                                    ],
+                                    "type": "text",
+                                    "content": "使用 CogCaliperTool 获取工件的宽度，要求如下：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        459,
+                        159,
+                        818,
+                        229
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 7,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                459,
+                                159,
+                                818,
+                                179
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        158,
+                                        820,
+                                        180
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                460,
+                                                158,
+                                                820,
+                                                180
+                                            ],
+                                            "type": "text",
+                                            "content": "1.CogCaliperTool 的对比度阈值在运行时设置为 15",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                460,
+                                184,
+                                696,
+                                204
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        459,
+                                        183,
+                                        698,
+                                        205
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                459,
+                                                183,
+                                                698,
+                                                205
+                                            ],
+                                            "type": "text",
+                                            "content": "Edge pair width 参数设置为 1000",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                460,
+                                209,
+                                804,
+                                229
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        208,
+                                        805,
+                                        231
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                460,
+                                                208,
+                                                805,
+                                                231
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 将宽度显示在 CogCaliperTool 抓取的两个中间",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        38,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                513,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        513,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        55,
+                        32,
+                        783,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                28,
+                                786,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        28,
+                                        786,
+                                        77
+                                    ],
+                                    "type": "text",
+                                    "content": "Script Demo – 案例 1 零件尺寸的测量与显示",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        98,
+                        190,
+                        120
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                98,
+                                191,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        98,
+                                        191,
+                                        122
+                                    ],
+                                    "type": "text",
+                                    "content": " 案例流程分析",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        87,
+                        223,
+                        832,
+                        356
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                87,
+                                223,
+                                832,
+                                356
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        223,
+                                        832,
+                                        356
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                223,
+                                                832,
+                                                356
+                                            ],
+                                            "type": "image",
+                                            "image_path": "708ee96b060bb1f8eb58c35b17e6f8031c82f2836b28f13252a58e9f04bf51e5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        34,
+                        522,
+                        40,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.68
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                513,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        513,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        32,
+                        783,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                28,
+                                786,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        28,
+                                        786,
+                                        77
+                                    ],
+                                    "type": "text",
+                                    "content": "Script Demo – 案例 1 零件尺寸的测量与显示",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        99,
+                        153,
+                        119
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                97,
+                                156,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        97,
+                                        156,
+                                        123
+                                    ],
+                                    "type": "text",
+                                    "content": "脚本示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        168,
+                        113,
+                        557,
+                        442
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                168,
+                                113,
+                                557,
+                                442
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        168,
+                                        113,
+                                        557,
+                                        442
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "text",
+                                            "content": "public class CogToolBlockAdvancedScript : CogToolBlockAdvancedScriptBase   \n{ #region Private Member Variables private Cognex.VisionPro.ToolBlock.CogToolBlock mToolBlock; //定义要显示的标签 private CogGraphicLabel mylabel; #endregion /public override bool GroupRun(ref string message, ref CogToolResultConstants result) { // To let the execution stop in this script when a debugger is attached, uncomment the following lines. //if DEBUG // if (System.DiagnosticsDBGger.IsAttached) System.DiagnosticsDBGger.Break(); // #endif mylabel "
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "="
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "text",
+                                            "content": " new CogGraphicLabel(); //获取Caliper工具的的引用 CogCaliperTool mycaliper "
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "="
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "text",
+                                            "content": " mToolBlock.Tools[\"CogCaliperTool11\"] as CogCaliperTool; //caliper运行前，按照要求设置运行参数 mycaliperRUNParams.ContrastThreshold "
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "= 15"
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "text",
+                                            "content": " . mycaliperRUNParams.FilterHalfSizeInPixels "
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "= 2"
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "text",
+                                            "content": " . mycaliperRUNParams.Ege0Position "
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "= -500"
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "text",
+                                            "content": " . mycaliperRUNParams.EdgelPosition "
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "= 500"
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "text",
+                                            "content": " . // Run each tool using the RunTool function foreach(ICogTool tool in mToolBlock.Tools) mToolBlock.CogTool tool, ref message, ref result); //获取结果,坐标x,y和宽度 double "
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\mathbf{x} ="
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "text",
+                                            "content": " mycaliper.Results[O].PositionX; double y "
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "="
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "text",
+                                            "content": " mycaliper.Results[O].PositionY; double width "
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "="
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "text",
+                                            "content": " mycaliper.Results[O].PositionX; //根据结果设置标签 mylabel.Color "
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "="
+                                        },
+                                        {
+                                            "bbox": [
+                                                168,
+                                                113,
+                                                557,
+                                                442
+                                            ],
+                                            "type": "text",
+                                            "content": " CogColorConstants.Green; mylabel.SetXYText(x,y, \"Width:\"+width.ToString(\"f3\")); return false; } When the Current Run Record is Created #region When the Last Run Record is Created /xx/ public override void ModifyLastRunRecord(Cognex.VisionPro.ICogRecord lastRecord) { //添加标签 mToolBlock.AddGraphicToRunRecord(mlabel,lastRecord,\"CogPMAlignTooll.InputImage\",\"s\"); } #endregion"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "algorithm"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        37,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                32,
+                                521,
+                                38,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        521,
+                                        38,
+                                        532
+                                    ],
+                                    "type": "text",
+                                    "content": "5",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                513,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        513,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        55,
+                        32,
+                        647,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                31,
+                                651,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        31,
+                                        651,
+                                        77
+                                    ],
+                                    "type": "text",
+                                    "content": "Script Demo – 案例 2 轴承安装检测",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        80,
+                        126,
+                        319,
+                        349
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                80,
+                                126,
+                                319,
+                                349
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        126,
+                                        319,
+                                        349
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                80,
+                                                126,
+                                                319,
+                                                349
+                                            ],
+                                            "type": "image",
+                                            "image_path": "703d871798c31fbd36ff80065cbc98457ceb329405381733b01982d304beb0ca.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                163,
+                                369,
+                                189,
+                                384
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        162,
+                                        367,
+                                        192,
+                                        390
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                162,
+                                                367,
+                                                192,
+                                                390
+                                            ],
+                                            "type": "text",
+                                            "content": "NG",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        486,
+                        126,
+                        729,
+                        339
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                486,
+                                126,
+                                729,
+                                339
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        486,
+                                        126,
+                                        729,
+                                        339
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                486,
+                                                126,
+                                                729,
+                                                339
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3fff552c67caac91ae343e5a1265d509935171942554f47f9965067f4011b157.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                578,
+                                369,
+                                605,
+                                384
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        577,
+                                        367,
+                                        607,
+                                        392
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                577,
+                                                367,
+                                                607,
+                                                392
+                                            ],
+                                            "type": "text",
+                                            "content": "OK",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        54,
+                        412,
+                        560,
+                        430
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                411,
+                                562,
+                                432
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        411,
+                                        562,
+                                        432
+                                    ],
+                                    "type": "text",
+                                    "content": "如图所示，轴承中红色圆圈部分存在部分的滚珠未安装到位，要求如下：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        55,
+                        442,
+                        596,
+                        492
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 8,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                55,
+                                442,
+                                596,
+                                462
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        442,
+                                        597,
+                                        462
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                442,
+                                                597,
+                                                462
+                                            ],
+                                            "type": "text",
+                                            "content": "1.我们需要使用合适的方法检测轴承滚珠是否安装到位， 19个滚珠有无缺失",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                474,
+                                284,
+                                492
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        473,
+                                        284,
+                                        494
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                473,
+                                                284,
+                                                494
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 对缺失部分大致位置进行标注",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        34,
+                        522,
+                        36,
+                        531
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.64
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        55,
+                        32,
+                        645,
+                        74
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                30,
+                                649,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        30,
+                                        649,
+                                        77
+                                    ],
+                                    "type": "text",
+                                    "content": "Script Demo – 案例 2 轴承安装检测",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        57,
+                        112,
+                        131,
+                        132
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                109,
+                                134,
+                                136
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        109,
+                                        134,
+                                        136
+                                    ],
+                                    "type": "text",
+                                    "content": "一些挑战",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        147,
+                        385,
+                        243
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 5,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                147,
+                                349,
+                                171
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        147,
+                                        350,
+                                        172
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                57,
+                                                147,
+                                                350,
+                                                172
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 图片质量，滚珠的对比度不是很好",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                184,
+                                385,
+                                206
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        184,
+                                        387,
+                                        208
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                57,
+                                                184,
+                                                387,
+                                                208
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 如何匹配到每个滚珠，以检测滚珠状况",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                221,
+                                286,
+                                243
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        220,
+                                        287,
+                                        244
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                220,
+                                                287,
+                                                244
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 如何将大致位置标注出来？",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        409,
+                        254,
+                        518,
+                        295
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                409,
+                                254,
+                                518,
+                                295
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        409,
+                                        254,
+                                        518,
+                                        295
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                409,
+                                                254,
+                                                518,
+                                                295
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ffc14d4d15f309d6aa0da35d04587180b56ab1d13d71ac17f38eb17098da9159.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        541,
+                        149,
+                        869,
+                        284
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 10,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                541,
+                                149,
+                                869,
+                                171
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        542,
+                                        149,
+                                        871,
+                                        172
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                542,
+                                                149,
+                                                871,
+                                                172
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 也许可以通过一些图像处理增强对比度",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                541,
+                                186,
+                                858,
+                                226
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 8,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        540,
+                                        184,
+                                        861,
+                                        209
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                540,
+                                                184,
+                                                861,
+                                                209
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 也许可以通过一些手段展开圆形图片，",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        542,
+                                        206,
+                                        654,
+                                        229
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                542,
+                                                206,
+                                                654,
+                                                229
+                                            ],
+                                            "type": "text",
+                                            "content": "循环匹配滚珠",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                543,
+                                243,
+                                863,
+                                284
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 9,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        544,
+                                        243,
+                                        865,
+                                        266
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                544,
+                                                243,
+                                                865,
+                                                266
+                                            ],
+                                            "type": "text",
+                                            "content": "3 . 展开后的极坐标图片上的坐标映射到",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        541,
+                                        263,
+                                        583,
+                                        287
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                541,
+                                                263,
+                                                583,
+                                                287
+                                            ],
+                                            "type": "text",
+                                            "content": "原图",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        37,
+                        531
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                32,
+                                521,
+                                38,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        521,
+                                        38,
+                                        532
+                                    ],
+                                    "type": "text",
+                                    "content": "7",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        54,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                179,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.68
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        179,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        55,
+                        32,
+                        647,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                31,
+                                651,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        31,
+                                        651,
+                                        77
+                                    ],
+                                    "type": "text",
+                                    "content": "Script Demo – 案例 2 轴承安装检测",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        80,
+                        126,
+                        831,
+                        313
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                80,
+                                126,
+                                831,
+                                313
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        126,
+                                        831,
+                                        313
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                80,
+                                                126,
+                                                831,
+                                                313
+                                            ],
+                                            "type": "image",
+                                            "image_path": "459174870f078ed687106c3456ce405b5cb79066fa09a61194f092ba93e4de7d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        345,
+                        348,
+                        444,
+                        368
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                345,
+                                348,
+                                444,
+                                368
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        345,
+                                        348,
+                                        444,
+                                        368
+                                    ],
+                                    "type": "text",
+                                    "content": "程序大致流程",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        181,
+                        382,
+                        376,
+                        477
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 7,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                182,
+                                382,
+                                234,
+                                400
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        180,
+                                        380,
+                                        235,
+                                        403
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                180,
+                                                380,
+                                                235,
+                                                403
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 定位",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                181,
+                                408,
+                                345,
+                                427
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        181,
+                                        407,
+                                        347,
+                                        428
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                181,
+                                                407,
+                                                347,
+                                                428
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 找到极性展开的区域",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                181,
+                                433,
+                                376,
+                                451
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        182,
+                                        433,
+                                        378,
+                                        453
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                182,
+                                                433,
+                                                378,
+                                                453
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 找到极性展开的起始角度",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                181,
+                                459,
+                                350,
+                                477
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        181,
+                                        457,
+                                        352,
+                                        477
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                181,
+                                                457,
+                                                352,
+                                                477
+                                            ],
+                                            "type": "text",
+                                            "content": "4.Patmax 循环匹配滚珠",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        34,
+                        522,
+                        36,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.66
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        32,
+                        645,
+                        74
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                31,
+                                649,
+                                76
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        31,
+                                        649,
+                                        76
+                                    ],
+                                    "type": "text",
+                                    "content": "Script Demo – 案例 2 轴承安装检测",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        80,
+                        126,
+                        832,
+                        313
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                80,
+                                126,
+                                832,
+                                313
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        126,
+                                        832,
+                                        313
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                80,
+                                                126,
+                                                832,
+                                                313
+                                            ],
+                                            "type": "image",
+                                            "image_path": "a989734513b654b2ffd4eca3847933957ad3037bae45bd7f8b20c9d25694c1d3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                356,
+                                370,
+                                454,
+                                389
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        356,
+                                        369,
+                                        456,
+                                        391
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                356,
+                                                369,
+                                                456,
+                                                391
+                                            ],
+                                            "type": "text",
+                                            "content": "脚本思路分析",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        34,
+                        522,
+                        36,
+                        531
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.66
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 8
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        55,
+                        32,
+                        645,
+                        74
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                30,
+                                649,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        30,
+                                        649,
+                                        77
+                                    ],
+                                    "type": "text",
+                                    "content": "Script Demo – 案例 2 轴承安装检测",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        55,
+                        99,
+                        131,
+                        119
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                98,
+                                134,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        98,
+                                        134,
+                                        124
+                                    ],
+                                    "type": "text",
+                                    "content": "结果展示",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        259,
+                        157,
+                        587,
+                        469
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                259,
+                                157,
+                                587,
+                                469
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        259,
+                                        157,
+                                        587,
+                                        469
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                259,
+                                                157,
+                                                587,
+                                                469
+                                            ],
+                                            "type": "image",
+                                            "image_path": "dd3b01935ad1718c8da3396d8a3b9625abf31d197b0b4cca3db4879f460300ae.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        28,
+                        522,
+                        39,
+                        531
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                520,
+                                41,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        520,
+                                        41,
+                                        532
+                                    ],
+                                    "type": "text",
+                                    "content": "10",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.7
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 9
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        56,
+                        32,
+                        384,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                27,
+                                390,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        29,
+                                        279,
+                                        82
+                                    ],
+                                    "type": "text",
+                                    "content": "Script Demo –",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        27,
+                                        390,
+                                        79
+                                    ],
+                                    "type": "text",
+                                    "content": "总结",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        56,
+                        98,
+                        397,
+                        122
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                97,
+                                397,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        97,
+                                        397,
+                                        123
+                                    ],
+                                    "type": "text",
+                                    "content": " 熟练进行 visionpro 脚本编写的要求分析",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        101,
+                        144,
+                        520,
+                        214
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 5,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                101,
+                                144,
+                                267,
+                                163
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        143,
+                                        267,
+                                        165
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                103,
+                                                143,
+                                                267,
+                                                165
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 熟悉掌握工具的参数",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                101,
+                                169,
+                                520,
+                                189
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        170,
+                                        520,
+                                        190
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                101,
+                                                170,
+                                                520,
+                                                190
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 可以快速通过帮助文档，查询到想要的工具的结果及说明",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                102,
+                                195,
+                                261,
+                                214
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        194,
+                                        262,
+                                        215
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                102,
+                                                194,
+                                                262,
+                                                215
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 熟练的 C# 编程能力",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        29,
+                        522,
+                        40,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                27,
+                                520,
+                                42,
+                                534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        520,
+                                        42,
+                                        534
+                                    ],
+                                    "type": "text",
+                                    "content": "11",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                513,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        513,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 10
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        0,
+                        959,
+                        320
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                959,
+                                320
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        959,
+                                        320
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                959,
+                                                320
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8d83799fdcc1feba6b8591e2d801cb6bcb8c5500046b63e1f184a869f69b2811.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        389,
+                        390,
+                        569,
+                        433
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                385,
+                                381,
+                                576,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        385,
+                                        381,
+                                        576,
+                                        440
+                                    ],
+                                    "type": "text",
+                                    "content": "Thank you",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        28,
+                        522,
+                        39,
+                        531
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                520,
+                                41,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        520,
+                                        41,
+                                        532
+                                    ],
+                                    "type": "text",
+                                    "content": "12",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        54,
+                        521,
+                        178,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                179,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        522,
+                                        62,
+                                        531
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.54
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        179,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2022 Cognex Corporation",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 11
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.5"
+}

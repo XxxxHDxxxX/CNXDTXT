@@ -1,0 +1,2584 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/df87a9f849854fe8ee0927ae76de2bf54fa2419438c4a5704f3d36bbc0d57a3d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            0,
+            0,
+            521,
+            938
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vision Tools Script ",
+        "text_level": 1,
+        "bbox": [
+            585,
+            411,
+            912,
+            489
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HuJianPeng/2023.4.10 ",
+        "bbox": [
+            764,
+            571,
+            937,
+            607
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "1 ",
+        "bbox": [
+            36,
+            964,
+            43,
+            985
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "培训内容",
+        "text_level": 1,
+        "bbox": [
+            43,
+            48,
+            226,
+            137
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.Vision Pro脚本的编写&脚本调试",
+            "2.工具的调用及其参数的输入输出",
+            "3.VPP界面显示（Inspection输入输出的介绍）"
+        ],
+        "bbox": [
+            49,
+            194,
+            717,
+            481
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            964,
+            41,
+            985
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VisionPro .net脚本",
+        "text_level": 1,
+        "bbox": [
+            39,
+            46,
+            321,
+            113
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• VisionPro脚本通常来说就是VisionPro自带的脚本编辑器，通过在脚本编辑器里编辑代码控制工具组运行。",
+            "可以让用户自定义和扩展VisionPro的功能"
+        ],
+        "bbox": [
+            42,
+            244,
+            904,
+            413
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "根据其他工具的结果有条件地执行工具",
+            "对工具结果执行额外的计算",
+            "创建定制的、可重用的工具",
+            "等等… "
+        ],
+        "bbox": [
+            153,
+            421,
+            448,
+            700
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            964,
+            39,
+            985
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "VisionPro .net脚本",
+        "text_level": 1,
+        "bbox": [
+            40,
+            46,
+            321,
+            113
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/76b76fb9f9ef56dedb94794ef5dd2df447f950e16fffe729545f60e3db5526b4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            328,
+            187,
+            637,
+            905
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            34,
+            964,
+            43,
+            985
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VisionPro .net脚本的作用",
+        "text_level": 1,
+        "bbox": [
+            39,
+            46,
+            422,
+            113
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 通过引用 “自定义工具/方法”执行VisionPro工具不能完成的动作。",
+            "获取工具终端不能获得的API部分。",
+            "例如：CobBlobResult.BoundingBox()",
+            "有条件地运行工具或者修改执行的顺序",
+            "检查工具组的运行状态(RunStatus)",
+            "解决VisionPro的设计人员不能预期的问题"
+        ],
+        "bbox": [
+            43,
+            232,
+            756,
+            635
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            36,
+            964,
+            41,
+            985
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "VisionPro .net脚本",
+        "text_level": 1,
+        "bbox": [
+            39,
+            46,
+            321,
+            113
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "• 首先，我们看一下VisionPro的结构",
+        "text_level": 1,
+        "bbox": [
+            65,
+            189,
+            547,
+            251
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/aae86210f741e0644aba8ed08c2a40695ee28f78c78a9256615c6520e05c9381.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            379,
+            342,
+            757
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CogToolGroup和CogToolBlock可以彼 此嵌套也可以自嵌套：",
+        "bbox": [
+            448,
+            278,
+            757,
+            352
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/33b9e0f76fb21ad3f5ca0cc570ec6c913174a8874565591d0a13b58c0fe759d2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            454,
+            362,
+            780,
+            805
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            964,
+            38,
+            985
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "VisionPro .net脚本",
+        "text_level": 1,
+        "bbox": [
+            39,
+            46,
+            321,
+            113
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Job Script ",
+        "bbox": [
+            49,
+            234,
+            220,
+            295
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "可以控制Job内的取像动作等",
+        "bbox": [
+            91,
+            308,
+            442,
+            358
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ToolGroup Script ",
+        "bbox": [
+            49,
+            398,
+            311,
+            457
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "• 可以控制ToolGroup内的工具行为,支持COM和.Net框架",
+        "bbox": [
+            90,
+            472,
+            733,
+            527
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "• ToolBlock Script ",
+        "bbox": [
+            49,
+            561,
+            302,
+            620
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "• 可以控制ToolBlock里的工具的运行和逻辑等等,但脚本编辑器相对于CogToolGroup更简洁高效",
+        "bbox": [
+            90,
+            635,
+            869,
+            748
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            33,
+            962,
+            41,
+            985
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            53,
+            962,
+            195,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ToolBlock Scripting ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            50,
+            338,
+            118
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从使用语言来分",
+        "bbox": [
+            58,
+            291,
+            289,
+            348
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "VB ",
+            "• C# "
+        ],
+        "bbox": [
+            100,
+            371,
+            169,
+            476
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从类型来分",
+        "bbox": [
+            58,
+            514,
+            232,
+            571
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "Simple script ",
+            "Advanced script "
+        ],
+        "bbox": [
+            100,
+            592,
+            315,
+            708
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在我们项目中基本使用C# 语言，推荐使用Advanced script",
+        "bbox": [
+            91,
+            786,
+            726,
+            839
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            34,
+            964,
+            41,
+            985
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            962,
+            195,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Simple vs Advanced ",
+        "text_level": 1,
+        "bbox": [
+            39,
+            50,
+            353,
+            120
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Simple优势 ",
+        "text_level": 1,
+        "bbox": [
+            39,
+            156,
+            147,
+            198
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "使用起来简单",
+        "bbox": [
+            89,
+            204,
+            245,
+            246
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Advanced优势 ",
+        "text_level": 1,
+        "bbox": [
+            39,
+            274,
+            174,
+            312
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "更加灵活（可以动态添加终端，等等）",
+            "功能强大（可以对图像显示等进行更改）",
+            "可以动态禁用启用工具",
+            "等等 "
+        ],
+        "bbox": [
+            89,
+            322,
+            469,
+            510
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Simple Script与Advanced Script区别：",
+        "bbox": [
+            38,
+            588,
+            404,
+            635
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1）Simple Script没有记录覆盖这一模块，如果需要在脚本编辑器添加界面显示，必须是在Advanced Script编辑模式下才可以。",
+            "2）在脚本编辑器实例化工具类,代码编辑方式不相同；",
+            "3） Inputs/Outputs输入输出，代码编辑方式也不相同；"
+        ],
+        "bbox": [
+            36,
+            654,
+            869,
+            940
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 ",
+        "bbox": [
+            33,
+            962,
+            41,
+            985
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            962,
+            195,
+            989
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Simple VS Advanced ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            50,
+            359,
+            118
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/9736e2a25d7cef54dc1f3e5ad93e3fb5e36215b269570159ea0a9526d17b94c0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            38,
+            147,
+            519,
+            919
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Simple ",
+        "text_level": 1,
+        "bbox": [
+            583,
+            289,
+            680,
+            350
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Advance ",
+        "text_level": 1,
+        "bbox": [
+            583,
+            706,
+            701,
+            757
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 ",
+        "bbox": [
+            30,
+            964,
+            40,
+            985
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "脚本编辑器中每个模块的作用",
+        "text_level": 1,
+        "bbox": [
+            19,
+            23,
+            458,
+            92
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            19,
+            126,
+            157,
+            147
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d891faf57b9cdf070033aff791d4a8a311e844d0f2ca47c6af71e2dd68fe466.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            19,
+            147,
+            859,
+            784
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": " 以上实例是以C# Advanced Script为例子，如果是Simple Script是没有记录覆盖这个模块的。",
+        "bbox": [
+            17,
+            869,
+            902,
+            917
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "11 ",
+        "bbox": [
+            30,
+            962,
+            40,
+            985
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            962,
+            195,
+            987
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "添加/删除/引用dll类 ",
+        "text_level": 1,
+        "bbox": [
+            41,
+            46,
+            342,
+            111
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b8074ef19ea1a6a5c366b40ccad675108589200ea64c6acdb5dd57d1fec6ee2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            46,
+            147,
+            802,
+            770
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "按照1~6步骤操作添加VisionPro工具类或者.Net类，以上实例是添加Cognex.VisionPro.PMAlign.dll.",
+        "bbox": [
+            27,
+            810,
+            763,
+            850
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "般情况下，在CogToolBlock/CogToolGroup工具组中没有添加对应的工具，而后添加工具就要引用当前工具的类，如果已经添加了当前工具的类，则不需要再次添加类。",
+        "bbox": [
+            27,
+            864,
+            878,
+            938
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12 ",
+        "bbox": [
+            29,
+            964,
+            40,
+            985
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "添加/删除/引用dll类 ",
+        "text_level": 1,
+        "bbox": [
+            41,
+            46,
+            342,
+            111
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/66273ce116c4b1f4ec802f02e6ee9ee51ce48d492d276bb98e7f4152ffaca0eb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            47,
+            147,
+            830,
+            801
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": " 按照1~5步骤操作删除类，以上实例是删除Cognex.VPE.Publish.dll",
+        "bbox": [
+            54,
+            841,
+            691,
+            888
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "13 ",
+        "bbox": [
+            30,
+            964,
+            40,
+            985
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "工具的调用",
+        "text_level": 1,
+        "bbox": [
+            42,
+            46,
+            210,
+            111
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1fa7f2916d2823a0c7549204a68e813c39ae855b14cbd939bf5c81f0eb7b51c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            41,
+            137,
+            893,
+            687
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "工具的调用步骤：",
+        "bbox": [
+            24,
+            658,
+            182,
+            698
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1）先运行工具",
+            "2）再实例化工具",
+            "3）通过上一步实例化工具，获取工具的终端结果当然也可以先实例化工具，再给工具赋值属性参数，最后运行工具后获取工具的终端结果也是可以。"
+        ],
+        "bbox": [
+            24,
+            708,
+            934,
+            902
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            30,
+            964,
+            40,
+            983
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "工具的调用-参数的输入输出",
+        "text_level": 1,
+        "bbox": [
+            41,
+            44,
+            458,
+            111
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/c70599dc630da502396ffc4c3196409af89665a80f2ca956c0948ff5f85d0f53.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            40,
+            126,
+            853,
+            628
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "可以用脚本控制工具的运行参数并把输入端的值赋给它。也可以通过脚本运行工具，得到工具的结果赋给输出端输出。",
+        "bbox": [
+            30,
+            702,
+            977,
+            789
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "15 ",
+        "bbox": [
+            29,
+            962,
+            40,
+            985
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            962,
+            195,
+            989
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "脚本调试基本方法",
+        "text_level": 1,
+        "bbox": [
+            42,
+            46,
+            312,
+            109
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b7dcadd85e0993381b2b35a3d37c6b6f7fce0832c431847855ef3cbc674d278.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            15,
+            122,
+            463,
+            390
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0d804f2d52e771a4bb3a665718e6643e7bee6206c0f0ca86e7d9e5561963a69.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            214,
+            390,
+            239,
+            426
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/00e5e7fd66910c62a2dc3f93e2757f6edd1f53cd06814a4124f637a898b25d24.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            15,
+            419,
+            463,
+            544
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/61a7aebc15ef908a2ac9de66e38ae9305b8be7dd9f078a38ab36563c5d0c339f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            214,
+            546,
+            239,
+            578
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a564e35d643bc07616a43209f828a691b910556b9aa25f32dacf446287d8bd1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            13,
+            578,
+            463,
+            930
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/52b817ab92a83108a2bdbe83be0d5b2cd9643891d8e52a2d85891eafa6209612.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            535,
+            109,
+            921,
+            396
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c1cc6b7eca7f67a8fe79c783015b1456c8eddacb06026087ece7b3720962988.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            701,
+            398,
+            725,
+            430
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/5565303a45ab4101086e092af0e5d3f5a4b60d783e8c3bf15aad9641a9c98cf8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            536,
+            426,
+            922,
+            666
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/12f8f97c919192bbe96c0b993ac8977d0d3ae8132739d8f1afa6afa70f19106c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            701,
+            668,
+            724,
+            702
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcafebda16bf7001a2a228d041a6ada31f2283655913b72de4fce11770a9997e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            538,
+            704,
+            922,
+            930
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "16 ",
+        "bbox": [
+            30,
+            964,
+            40,
+            983
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "课堂演练 ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            46,
+            180,
+            111
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1.动手练习添加CogPMAlignTool,CogFindLineTool,CogCreateLineTool,CogFixtureTool, CogHistogramTool工具的引用。 ",
+        "bbox": [
+            49,
+            158,
+            698,
+            232
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2.用如下图片添加两个CogPMAlignTool，设置不同的参数，用高级脚本实现逻辑：当第一个CogPMAlignTool抓到输出第一个CogPMAlignTool分数，没抓到时，启用第二个CogPMAlignTool，并用脚本将第二个CogPMAlignTool的接受阈值设为0.3抓取，抓到输出第二个CogPMAlignTool分数，没抓到输出999。",
+        "bbox": [
+            49,
+            356,
+            776,
+            502
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e1fb5d0cec6fcfd0e0fde9d4890147fa48523b67374d7694358698a4f0e08b8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            257,
+            497,
+            570,
+            888
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "17 ",
+        "bbox": [
+            30,
+            962,
+            42,
+            983
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "显示函数介绍 | Label",
+        "text_level": 1,
+        "bbox": [
+            41,
+            46,
+            355,
+            111
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "a. CogCreateGraphicLabelTool ",
+        "text_level": 1,
+        "bbox": [
+            46,
+            160,
+            347,
+            204
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cf6c0bdccfb5d26f01a4935c5ee2536a0ca3c80c4ddf767e16f4e3cc32bc36a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            52,
+            213,
+            220,
+            447
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/1672b6908544f336f6aa7c89f7e6b199de0103e30ec790008199c338b817a526.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            62,
+            466,
+            496,
+            902
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8ff7fc2f9cc9f9dfec2d79b7e5f3162864f4f56d4c7ad1d6109645d6e815a2a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            513,
+            466,
+            942,
+            896
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            30,
+            964,
+            40,
+            983
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "显示函数介绍 | CogGraphicLabel",
+        "text_level": 1,
+        "bbox": [
+            41,
+            44,
+            540,
+            118
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "b. CogGraphicLabel ",
+        "text_level": 1,
+        "bbox": [
+            46,
+            143,
+            245,
+            189
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "CogGraphicLabel myLabelX = new CogGraphicLabel(); //声明Label对象\nArrayList labelList = new ArrayList(); //声明列表对象\nmyLabelX.SelectedSpaceName = \"#\";\n//显示空间\nmyLabelX.Font = myFont; //显示字体\nmyLabelX.setXYText(100, 100, \"text\"); //显示位置，内容\nmyLabelX.Color = CogColorConstants.Red; //显示颜色\nmyLabelX.Rotation = CogMisc.DegToRad(0); //显示角度\nlabelList.Add(myLabelX); //添加到列表 ",
+        "guess_lang": "javascript",
+        "bbox": [
+            46,
+            196,
+            731,
+            601
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "ICogRecord hold = lastRecord.SubRecords[\"CogIPOnelmageTool1.OutputImage\"]; //创建指定的ICogRecordlastRecord.SubRecords.Clear(); //清空所有的RecordlastRecord.SubRecords.Add(hold); //添加指定的Recordforeach(CogGraphicLabel label in labelList){ //将list中所有的label逐一加入到Record中mToolBar.AddGraphicToRunRecord.label, lastRecord, \"CogIPOnelmageTool1.OutputImage\", \"script\");}",
+        "guess_lang": "javascript",
+        "bbox": [
+            45,
+            656,
+            966,
+            905
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "19 ",
+        "bbox": [
+            29,
+            962,
+            40,
+            985
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            962,
+            195,
+            987
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "显示函数介绍 | CogPointMarker",
+        "text_level": 1,
+        "bbox": [
+            40,
+            44,
+            520,
+            118
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "c. CogPointMarker ",
+        "text_level": 1,
+        "bbox": [
+            46,
+            143,
+            233,
+            189
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "CogPointMarker centerPoint $=$ new CogPointMarker(); ",
+        "bbox": [
+            46,
+            196,
+            513,
+            242
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "ArrayList pointGraphicList $=$ new ArrayList(); ",
+        "bbox": [
+            46,
+            246,
+            434,
+            295
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "centerPoint.SelectedSpaceName = “#”; ",
+        "bbox": [
+            46,
+            299,
+            389,
+            345
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "centerPoint. $\\mathsf { X } = 5 0 0$ ; centerPoint. $\\textsf { Y } = 5 0 0$ ",
+        "bbox": [
+            46,
+            352,
+            416,
+            392
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "centerPoint.LineStyle $=$ CogGraphicLineStyleConstants.Solid; //线体类型",
+        "bbox": [
+            46,
+            400,
+            667,
+            447
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "centerPoint.LineWidthInScreenPixels $= 2$ ; //线体宽度",
+        "bbox": [
+            46,
+            451,
+            667,
+            495
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "centerPoint.SizeInScreenPixels $= 3 0$ ; //点的尺寸 ",
+        "bbox": [
+            46,
+            502,
+            695,
+            548
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "centerPoint.Color $=$ CogColorConstants.Red; ",
+        "bbox": [
+            46,
+            556,
+            431,
+            599
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "pointGraphicList.Add(centerPoint); ",
+        "bbox": [
+            46,
+            607,
+            347,
+            651
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "ICogRecord hold $=$ lastRecord.SubRecords[\"CogIPOneImageTool1.OutputImage\"]; ",
+        "bbox": [
+            46,
+            704,
+            742,
+            753
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "lastRecord.SubRecords.Clear(); ",
+        "bbox": [
+            46,
+            759,
+            319,
+            803
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "lastRecord.SubRecords.Add(hold); ",
+        "bbox": [
+            46,
+            810,
+            345,
+            854
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "foreach(CogPointMarker point in pointGraphicList){ ",
+        "bbox": [
+            46,
+            860,
+            490,
+            907
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "mToolBlock.AddGraphicToRunRecord(point, lastRecord, \"CogIPOneImageTool1.OutputImage\", \"script\");} ",
+        "bbox": [
+            46,
+            911,
+            927,
+            957
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            28,
+            964,
+            41,
+            985
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "显示函数介绍 | CogLine&CogLineSegment",
+        "text_level": 1,
+        "bbox": [
+            40,
+            44,
+            692,
+            118
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "d. CogLine&CogLineSegment ",
+        "bbox": [
+            46,
+            141,
+            340,
+            189
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "CogLine myline $=$ new CogLine (); ",
+        "bbox": [
+            48,
+            196,
+            340,
+            242
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "ArrayList lineGraphicList $=$ new ArrayList(); ",
+        "bbox": [
+            48,
+            246,
+            416,
+            293
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "myline.SelectedSpaceName = “#”; ",
+        "bbox": [
+            48,
+            297,
+            347,
+            343
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "myline. $. \\mathsf { X } = 1 5 0$ ; myline. $\\Upsilon = 1 5 0$ ; ",
+        "bbox": [
+            49,
+            350,
+            340,
+            394
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "myline.Color $=$ CogColorConstants.Red; ",
+        "bbox": [
+            49,
+            402,
+            389,
+            447
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "myline.SelectedLineStyle $=$ CogGraphicLineStyleConstants.Solid; ",
+        "bbox": [
+            49,
+            451,
+            603,
+            497
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "lineGraphicList.Add(myline); ",
+        "bbox": [
+            49,
+            502,
+            293,
+            550
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "ICogRecord hold $=$ lastRecord.SubRecords[\"CogIPOneImageTool1.OutputImage\"]; ",
+        "bbox": [
+            46,
+            605,
+            742,
+            651
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "lastRecord.SubRecords.Clear(); ",
+        "bbox": [
+            48,
+            656,
+            319,
+            702
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "lastRecord.SubRecords.Add(hold); ",
+        "bbox": [
+            49,
+            706,
+            345,
+            751
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "foreach(CogLine line in lineGraphicList){ ",
+        "bbox": [
+            49,
+            757,
+            394,
+            803
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "mToolBlock.AddGraphicToRunRecord(line, lastRecord,\"CogIPOneImageTool1.OutputImage\", \"script\");} ",
+        "bbox": [
+            49,
+            808,
+            910,
+            858
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "page_number",
+        "text": "21 ",
+        "bbox": [
+            29,
+            962,
+            42,
+            985
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            962,
+            195,
+            989
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Inspections(.vpp)输入输出端口 ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            42,
+            501,
+            118
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b13ef9429f3df2d845866e8ceb4a1651d9639b9a9f0d7aa763d8facb21d2c68.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            35,
+            149,
+            519,
+            911
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "CogToolBlock输入输出端口是显示当前CogToolBlock的输入输出值，该值包括图像，Visionpro工具，数据，数组等等类型。",
+        "bbox": [
+            533,
+            210,
+            915,
+            392
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/42e032a50d3c24c8944d887373d9bb074c1aa971c498b3f6b97fdf808a802a53.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            527,
+            402,
+            747,
+            858
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            28,
+            964,
+            40,
+            983
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Inspections(.vpp)输入输出端口 ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            44,
+            501,
+            118
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": " CogToolBlock输入输出的常见类型",
+        "text_level": 1,
+        "bbox": [
+            49,
+            160,
+            401,
+            206
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ff4c3376697227f875cbc00ed29bf082e773e7bfc3e71be30a7bb6807324218.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            43,
+            221,
+            573,
+            599
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/55cd66c991ca266d80a14608bf9443c9c03519100c076f27fb2317c62b04a3b3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            43,
+            611,
+            573,
+            919
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": " System 类型",
+        "bbox": [
+            606,
+            358,
+            757,
+            405
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": " Visionpro 类型",
+        "bbox": [
+            606,
+            746,
+            777,
+            793
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            28,
+            964,
+            40,
+            983
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Inspections(.vpp)输入输出端口 ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            44,
+            501,
+            118
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " CogToolBlock输入输出的常见类型",
+        "text_level": 1,
+        "bbox": [
+            49,
+            160,
+            401,
+            204
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea938a9091c86f7d38195dc60d2b93a9af78383ce0d11f8acdf60247f545e0f9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            52,
+            206,
+            359,
+            565
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/008143baf590af3822d622f9b98266af84ff938262b0c43f1b18c01ce63053cd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            52,
+            584,
+            359,
+            919
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " 点击Browse进去后，会看到所有的System 类型和 Visionpro类型",
+            " 如果在里面找不到我们想要的类型，我们可以在脚本里面添加，例如：输入端添加一个ArrayList类型"
+        ],
+        "bbox": [
+            408,
+            196,
+            866,
+            495
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "ArrayList ss = new ArrayList();  \nmToolBlock.Inputs.Add(new CogToolBlockTerminal(\"list\", ss)); ",
+        "guess_lang": "javascript",
+        "bbox": [
+            428,
+            552,
+            808,
+            599
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " 在C#Advanced script 里面输入上图代码，再运行一次该ToolBlock，就自动添加了该ArrayList输入端口，添加完要屏蔽或者删除该代码",
+        "bbox": [
+            408,
+            637,
+            861,
+            814
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "page_number",
+        "text": "24 ",
+        "bbox": [
+            28,
+            964,
+            40,
+            983
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            55,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            978,
+            987
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "课堂演练 ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            46,
+            180,
+            111
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "如图所示，抓取两个圆，显示出左边圆心XY坐标，画出两个圆心连成的线段并用红色显示",
+        "bbox": [
+            49,
+            156,
+            714,
+            196
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/54c0873a37e81499ca0070b13341f252ddfef8dac021ca3524cb72829e09b1a5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            207,
+            255,
+            701,
+            902
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_number",
+        "text": "25 ",
+        "bbox": [
+            28,
+            964,
+            40,
+            985
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "课后练习 ",
+        "text_level": 1,
+        "bbox": [
+            41,
+            46,
+            176,
+            111
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "使用PMAlign工具实现如图显示，抓出所有滚珠，显示滚珠数量（20分），如果滚珠个数小于15，该产品用红色字体显示为NG，反之，绿色字体显示为OK（20分），抓取每一个滚珠的中心点，再根据抓取的每一个滚珠的中心点，拟合一个圆，并在界面显示出拟合圆的圆心坐标（30分），在每个滚珠中心位置显示各滚珠的得分（30分）。",
+        "bbox": [
+            38,
+            135,
+            951,
+            295
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/d09543be14587e248c412381cdc14c1d0fe59e377b10004f56f7c6c85d44ba06.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            230,
+            305,
+            686,
+            907
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "page_number",
+        "text": "26 ",
+        "bbox": [
+            28,
+            964,
+            40,
+            983
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            964,
+            195,
+            987
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "COGNEX ",
+        "bbox": [
+            117,
+            282,
+            214,
+            350
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "FASTER FORWA ",
+        "text_level": 1,
+        "bbox": [
+            16,
+            367,
+            500,
+            746
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Thank You ",
+        "bbox": [
+            641,
+            476,
+            862,
+            550
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "page_number",
+        "text": "27 ",
+        "bbox": [
+            28,
+            962,
+            42,
+            985
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2023 Cognex Confidential ",
+        "bbox": [
+            54,
+            962,
+            195,
+            987
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            856,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 26
+    }
+]

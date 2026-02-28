@@ -1,0 +1,3959 @@
+[
+    {
+        "type": "text",
+        "text": "COGNEX 机器视觉概述",
+        "text_level": 1,
+        "bbox": [
+            250,
+            316,
+            719,
+            387
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            656,
+            825,
+            937,
+            881
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目录",
+        "text_level": 1,
+        "bbox": [
+            55,
+            35,
+            138,
+            92
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "机器视觉概念",
+            "机器视觉的四大应用",
+            "视觉技术典型的应用行业",
+            "COGNEX完整的涵盖机器视觉范围 ",
+            "相机的发展历史"
+        ],
+        "bbox": [
+            98,
+            183,
+            554,
+            670
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            45,
+            966,
+            56,
+            983
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            248,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            957,
+            984,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "机器视觉概念",
+        "text_level": 1,
+        "bbox": [
+            51,
+            33,
+            306,
+            94
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用成像技术（通常使用相机）获取被测目标的图像，再经过快速图像处理与图形识别算法，从摄取图像中获取目标的尺寸、方位、光谱、结构、缺陷等信息，从而可以执行产品检验、分类与分组，装配线上的机械手运动引导、零部件的识别与定位，生产过程中质量监控与过程控制反馈等等任务。",
+        "bbox": [
+            58,
+            172,
+            938,
+            392
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/15652d1f56a2001fabeaab830d0b924a7a41a2f948de341ff2edb773f4606a1d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            427,
+            890,
+            888
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            45,
+            966,
+            52,
+            983
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            837,
+            955,
+            983,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "机器视觉的四大应用",
+        "text_level": 1,
+        "bbox": [
+            50,
+            29,
+            426,
+            90
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e44f00a8a0f04bd8eaf5856114987fb16bcf586d36689a4961380178ab2ba481.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            55,
+            175,
+            184,
+            350
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6afc98973f974f05140f248f3a4de554c9dcbbbd5bf04a3c8616e46b34c4d0d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            202,
+            175,
+            334,
+            346
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ade2503eb639a7edfca353de3b14ffaa87b3e9bbdf83cdd139b62e97f10df3b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            356,
+            175,
+            488,
+            346
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/369791e72469e467538746868445a5e82411b520bae2859fce64cff0857d4f94.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            509,
+            175,
+            638,
+            346
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/111849b68982729ebd60711da6b75130cc3100a5975c62e17dc9fa45e472956e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            659,
+            175,
+            788,
+            346
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c409dd5b9898de9c06e9dfa156e7f68739999ab34a969efdb9c0c5c2d2d6de0c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            813,
+            175,
+            941,
+            346
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b2d79b528030575aa808a6227e29a0ee638fe47467b988a818098f93470c42e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            56,
+            394,
+            184,
+            566
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4efaeb14ee8e49652896752cc1ecd9e1c9b074ae71a65d73e7fa5bcb41fcd61.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            205,
+            394,
+            334,
+            566
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f253d2fcd5b75036dbe1a0d55277fea09cddda50300d3adb9d571cc3d684e89b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            356,
+            394,
+            486,
+            568
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2241d39c6baadddabfe5dbbcfc265c700653c36faef33fed260b82853783c02c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            508,
+            394,
+            637,
+            568
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fef11f0a24374fba39e0ce6dcb9de2d8348511caaa6ed15bf3e10ffc49bd6f8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            659,
+            392,
+            788,
+            564
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/993b3a576f47da40101369144d0f2f19c09b5c2de0bfa779f05ef5ec43af173b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            813,
+            394,
+            941,
+            564
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "引导 Guide",
+        "text_level": 1,
+        "bbox": [
+            100,
+            614,
+            233,
+            655
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 实现生产自动化",
+            "• 提供灵活性",
+            "• 提高质量和产量"
+        ],
+        "bbox": [
+            91,
+            668,
+            241,
+            762
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "检验 Inspect ",
+        "text_level": 1,
+        "bbox": [
+            311,
+            614,
+            461,
+            657
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "• $100 \\%$ 检验 ",
+        "bbox": [
+            326,
+            670,
+            445,
+            700
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "– 完整性",
+        "bbox": [
+            354,
+            712,
+            434,
+            740
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "–位置的正确性",
+        "bbox": [
+            327,
+            751,
+            461,
+            781
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "– 质量",
+        "bbox": [
+            363,
+            794,
+            423,
+            822
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "– 流程控制",
+        "bbox": [
+            345,
+            835,
+            443,
+            862
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测量 Gauge",
+        "text_level": 1,
+        "bbox": [
+            519,
+            616,
+            656,
+            659
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "• 精确、快速、非接触式测量",
+        "bbox": [
+            509,
+            668,
+            680,
+            727
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "识别 Identify ",
+        "text_level": 1,
+        "bbox": [
+            751,
+            614,
+            906,
+            657
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 读取代码、字符或通过色彩、形状或装配识别",
+            "• 控制物料流程、实现可追溯性、收集重要数据"
+        ],
+        "bbox": [
+            734,
+            668,
+            925,
+            842
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            45,
+            966,
+            54,
+            983
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            248,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            983,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 、视觉引导系统的构成 Guidance",
+        "text_level": 1,
+        "bbox": [
+            50,
+            29,
+            688,
+            90
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ab1abfcfb414831000fa93edf9ab9f38a027a4ff8f867e76e34f04e25558f57.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            101,
+            170,
+            886,
+            851
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            45,
+            966,
+            52,
+            983
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            957,
+            984,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "视觉引导系统的构成 Guidance",
+        "text_level": 1,
+        "bbox": [
+            50,
+            29,
+            612,
+            90
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d048cd24cee7d4787898d869a557391f2536d6847a1fee2027a2a1e52cdbd854.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            106,
+            137,
+            922,
+            820
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            45,
+            966,
+            52,
+            983
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            983,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "视觉引导系统的构成 Guidance",
+        "text_level": 1,
+        "bbox": [
+            50,
+            29,
+            612,
+            90
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            52,
+            162,
+            311,
+            211
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Vision Guided Robotics (VGR) ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            220,
+            470,
+            270
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "Pick-and-Place ",
+            "-提供x,Y,0 ",
+            "-2D&3D ",
+            "的柔韧性"
+        ],
+        "bbox": [
+            101,
+            294,
+            456,
+            640
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "·定位和放置 ",
+        "text_level": 1,
+        "bbox": [
+            54,
+            675,
+            245,
+            724
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Alignment&Placement",
+        "text_level": 1,
+        "bbox": [
+            70,
+            733,
+            384,
+            779
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            102,
+            809,
+            251,
+            850
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9aa7faf9618e1d6decdf90891c246c12b999f9570ff5b16db1715d1521792d2f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            488,
+            135,
+            937,
+            562
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4d6ac750b18df8bdacbb5a2523e4b57b3d28cebc4d124882cc0219d5c8aa02b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            494,
+            579,
+            723,
+            812
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd09e52380b128ffd132683a36c451032801cfaf3d0da1f3a0abec324fb01ea3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            759,
+            581,
+            927,
+            805
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            45,
+            966,
+            54,
+            983
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            984,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "组装和质量检测 Inspection ",
+        "text_level": 1,
+        "bbox": [
+            48,
+            25,
+            534,
+            90
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "·有/无_Presence/absence ",
+            "·检测不合格品_Detectingbad products ",
+            "·计数_Counting products ",
+            "·表面缺陷_Surface Inspection "
+        ],
+        "bbox": [
+            83,
+            162,
+            630,
+            601
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/74172b17c796dc955a3e4989cc8602518d1aff294ab944a252a2a5b404461b40.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            466,
+            137,
+            647,
+            294
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec1433bc9b3a73bb7edf014f58d4d8dc969e22baf6dd30dc01b9839d95a97e5d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            526,
+            427,
+            697,
+            594
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7eb73a21f3fb15800d1d407504f67c1683ca7041a0bdb162ff6dbdab5060c773.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            709,
+            227,
+            904,
+            444
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a07a6f7aacbbf32a452e1ea5e84d6f095a3b6becf132c5b93d1a02256b2c6f5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            133,
+            646,
+            740,
+            859
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8 ",
+        "bbox": [
+            45,
+            966,
+            52,
+            983
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            984,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "尺寸测量类应用 Gauging ",
+        "text_level": 1,
+        "bbox": [
+            50,
+            25,
+            506,
+            92
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "精确的尺寸 ",
+            "自动测量及数据记录",
+            "确保严格的公差 ",
+            "直径、间隙、套管、螺纹等"
+        ],
+        "bbox": [
+            95,
+            240,
+            490,
+            600
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9879870c2e3bf1b2242980c5b60adc93c8dd1d3dc1c0d7f1a1d4f00bc38aeb3e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            558,
+            177,
+            894,
+            520
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/64683f7a4208c174c4e74e376628c565037ae8b3e0271a77bfd3857025c03500.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            556,
+            551,
+            894,
+            896
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 ",
+        "bbox": [
+            45,
+            966,
+            52,
+            983
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            983,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "测量精度",
+        "text_level": 1,
+        "bbox": [
+            50,
+            31,
+            219,
+            92
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "精度 : 测量值与真实值的差别",
+            "重复度 : 多次测量的数值差",
+            "公差 : 工件大小允许的变化量"
+        ],
+        "bbox": [
+            223,
+            201,
+            658,
+            396
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d638f0f77a5b411d930b846f4740158b01a72bb1550e7d9488609502ac2039d3.jpg",
+        "image_caption": [
+            "64x48mmFOV "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            87,
+            470,
+            594,
+            812
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF O V _ {\\text {h o r i z o n t a l}} = 6 4 \\mathrm {m m}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            618,
+            490,
+            761,
+            518
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\text {A c c u r a c y} _ {\\text {V i s i o n}, \\text {T o o l}} = \\frac {1}{4} \\text {p i x e l}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            609,
+            527,
+            808,
+            581
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\# \\text {P i e x i l s} _ {\\text {h o r i z o n t a l}} = 1 6 0 0 \\text {p i e x i l s}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            609,
+            588,
+            808,
+            616
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\text {A c c u r a c y} _ {\\text {h o r i z o n t a l}} = \\frac {\\text {F O V} \\times \\text {A c c u r a c y} _ {\\text {V i s i o n - T o o l}}}{\\# \\text {P i x e l s}}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            609,
+            625,
+            927,
+            688
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\text {A c c u r a c y} _ {\\text {h o r i z o n t a l}} = \\frac {6 4 \\times (\\frac {1}{2}) \\text {p i x e l}}{4}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            609,
+            696,
+            866,
+            783
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/372cc8074ce4a53803297b39edc1a9ae55e67e1f577e5f2fa4eb01e2bdb00f0f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            609,
+            805,
+            684,
+            855
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Accuracy 0.02mm ",
+        "bbox": [
+            691,
+            807,
+            875,
+            842
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 ",
+        "bbox": [
+            38,
+            964,
+            54,
+            983
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            984,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "识别类应用 Identification ",
+        "text_level": 1,
+        "bbox": [
+            47,
+            31,
+            506,
+            92
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "代码读取",
+            "Bar Codes & 2D Matrix ",
+            "– 标签码和 DPM 码 Labels & Direct Part Mark ",
+            "读取字符 ",
+            "–OCR / OCV ",
+            "模式识别",
+            "– 基于颜色、形状等"
+        ],
+        "bbox": [
+            70,
+            212,
+            365,
+            788
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/d66b25a5091db28714186832628603164bdaf7c31e689f5ac8f6e2b5c8b03f84.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            431,
+            214,
+            634,
+            401
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/027ee237943a4ff26ac3021c0fddec7d93dfffa7fd6527a266f3e8e6205038aa.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            433,
+            435,
+            634,
+            581
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/67cd9d98ea1bd590b52eae2f61d4f602f85c5bf4421956cecf401f46092e3cc9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            431,
+            592,
+            541,
+            703
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb7e382256ebfa944319e154e96bf7a3a0f268eda34570d8087219749969c7f1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            545,
+            592,
+            656,
+            703
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1cf3ffeaa93b05dc88c51310e5f29e4d3cfe39b52b0abd2ee96978c1a9493c5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            431,
+            707,
+            541,
+            818
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/acf27d3235c8641a45bdedd0eec54ebd77d0d70eba1e5bde89c11a455c4d1130.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            547,
+            707,
+            659,
+            818
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd0e143a4bc2827de5e1db0f596b54d9322ddf10a5ae677a5edaf83286267a8f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            680,
+            238,
+            943,
+            390
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e79d9ffc0b20303ad26d722fe2829a0351605358c52455ed630c8a893260723c.jpg",
+        "image_caption": [
+            "字符笔划的宽度变化和歪斜 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            684,
+            425,
+            945,
+            481
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb41047bf9225fddb1902776acaec94cf27be5cf712271d6272574fcfe36d9fa.jpg",
+        "image_caption": [
+            "背景噪声"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            684,
+            514,
+            945,
+            570
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/58a45b03ed3f65b61db10790d98cfb54ffcc9a3898cadf39545390641a1ea56f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            681,
+            625,
+            737,
+            705
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a11510825bea7fcfb00b5e9f915daf6560d8ed29db09401a73c6eeb5b2e252c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            752,
+            625,
+            808,
+            705
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1c56822348cda8c4b55c5f67eaa8b9a11fa0b496c743e763a40f810f016de05.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            826,
+            625,
+            881,
+            705
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/53e5143c410e56ad3f7a7312914d4827fd08f07f95936f4fa36fea738cd47c21.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            898,
+            625,
+            952,
+            705
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/93847b4a77bc1f41457ba18bf8be4b6ec2564b41e988507dfc16135ba36fed7e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            681,
+            714,
+            737,
+            794
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/0481d32db0ee8a64466550f57723c22e87fa4ea5b9dbae26a219f22ee1a1b70c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            752,
+            714,
+            808,
+            794
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c9f6f3990be8d1ba90863cca6b6ae99582f47b7ad60b523655f2b97d128b4fe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            826,
+            714,
+            880,
+            794
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e9a2bdbe4d3776ba1458b76c58285d984ff760e9ce8bcf55d3a5e27dc002ab7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            898,
+            714,
+            952,
+            794
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "11 ",
+        "bbox": [
+            40,
+            966,
+            54,
+            983
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            248,
+            987
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            983,
+            987
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "典型包装线上的序列化",
+        "text_level": 1,
+        "bbox": [
+            45,
+            31,
+            469,
+            92
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• OCRMax & 2DMax+ 具有最高的读取率和读取速度",
+            "• 图形用户界面设置和OCRMax自整定可以简化部署",
+            "• 支持用户达到 GS1 & 食品药物管理局对药品的规定"
+        ],
+        "bbox": [
+            100,
+            181,
+            766,
+            342
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d643e903faf59ec3ae03e9a586f688e2128722a726164428d41db594c64a1934.jpg",
+        "image_caption": [
+            "离线数据阵质量验证"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            45,
+            435,
+            97,
+            516
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/7584c70a84fc4e3057eee202e658a965851ef9544009d7cb4a4fbf3e00a1e4b7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            109,
+            437,
+            145,
+            488
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "GTIN00012345679995 ",
+        "bbox": [
+            151,
+            438,
+            220,
+            450
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LOT 10JA28A ",
+        "bbox": [
+            151,
+            451,
+            195,
+            461
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "EXP12/2012 ",
+        "bbox": [
+            151,
+            464,
+            194,
+            475
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "S/N 1234567890180 ",
+        "bbox": [
+            151,
+            477,
+            213,
+            488
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "读取箱代码，分级代码，验证数据",
+        "bbox": [
+            276,
+            401,
+            345,
+            500
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "读取批量代码",
+        "bbox": [
+            366,
+            453,
+            406,
+            518
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd2fd9474bdbbc8db41484a95ed772d9cc3654dc52bb3f9ff5f7e3fd75833aab.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            359,
+            518,
+            412,
+            562
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "读取批量代码",
+        "bbox": [
+            490,
+            457,
+            526,
+            559
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e88c4f4c1a6d17ec5e1d4948be657b3e7c19fc79dfe449bb0073ea743f240a5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            256,
+            557,
+            327,
+            661
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/da350466cac60971d9806bb212864801731b370828f25ecc88f9c640db441f80.jpg",
+        "image_caption": [
+            "打印批量代码"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            458,
+            700,
+            502,
+            761
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            569,
+            450,
+            620,
+            524
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e824819da614de2a71b28ec7c7eb587e5bbbccb393d183623dbcfe48dfef880.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            570,
+            518,
+            622,
+            655
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            612,
+            448,
+            647,
+            522
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/ecdd59b33e839a182fe02039098bf2a02c38a8b390858e4e90077bff7e0554ab.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            569,
+            518,
+            620,
+            655
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/103d39c335a53c1c80cb86e11ad7062469ff11d251291d8f69cf6bcdd08e1f32.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            681,
+            342,
+            961,
+            675
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/4264ad9e88dce77d750a3e0ed8788067e1a88b3c958371c8804d0ef49b5a9a9a.jpg",
+        "image_caption": [
+            "读取货盘代码"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            698,
+            700,
+            738,
+            761
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "打印箱代码和",
+        "bbox": [
+            237,
+            768,
+            308,
+            818
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "可读数据",
+        "bbox": [
+            238,
+            827,
+            308,
+            855
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12 ",
+        "bbox": [
+            38,
+            966,
+            56,
+            983
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            983,
+            987
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "视觉技术典型的应用行业",
+        "text_level": 1,
+        "bbox": [
+            50,
+            29,
+            512,
+            92
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/3de623f067c10f9bae70c851d55e5c02e4367a7e853fc7f69b632f77db03bcfb.jpg",
+        "image_caption": [
+            "汽车"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            157,
+            350,
+            448
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ac0128d1140a18591b326f1cbd20285492f7909383ec3bdf1b60b04696ac681.jpg",
+        "image_caption": [
+            "手机"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            355,
+            157,
+            623,
+            446
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/7896f96e61dc292c4f0bd81952187b649106b962f26e8d53ee489378c3f4b926.jpg",
+        "image_caption": [
+            "电子电路"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            627,
+            159,
+            897,
+            446
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/5178a5d92b1616f04823fe266f756cc87f91fead7aa7cd7b2aed8fe2bebd9338.jpg",
+        "image_caption": [
+            "医疗器械"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            79,
+            525,
+            350,
+            816
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/81055441925e76810cab17a975de0e4d5d01af3f18846909d587ad42cf83a17c.jpg",
+        "image_caption": [
+            "制药"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            355,
+            527,
+            623,
+            816
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/491dc0369f78b2441482ca5bd400eee8751a718c0e155e6ff67febfdf47fbdb8.jpg",
+        "image_caption": [
+            "饮料食品"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            627,
+            527,
+            897,
+            816
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "13 ",
+        "bbox": [
+            38,
+            966,
+            56,
+            983
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            983,
+            987
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "汽车行业",
+        "text_level": 1,
+        "bbox": [
+            50,
+            31,
+            220,
+            88
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c3aa8c2ca9fe5fb80c36e9ade373a44c9903ea4faacf4c8b5d329e893db8839.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            44,
+            187,
+            277,
+            425
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/727241fbd3fd0204e7d0d7f944b5b63f9137954c8c3a697c87882a7c8b24bda4.jpg",
+        "image_caption": [
+            "轮胎检 测 ",
+            "挡风玻璃胶珠安装"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            30,
+            509,
+            288,
+            762
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f7516b04a318a26bd2f6f7c5c6bbcc679af0d964b2ea8efd5c7bd75cb7a927d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            365,
+            187,
+            620,
+            433
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/54091af6411af951c1995c127563a46eb940cd22dc526ddc078ddaaba725efcc.jpg",
+        "image_caption": [
+            "制动垫检测",
+            "仪表组检 测 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            363,
+            509,
+            620,
+            762
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/79de7e65a015b76f1f9447be81b04160dfd03ab81e9b71ebe024769b92be5917.jpg",
+        "image_caption": [
+            "安全气囊组件检测"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            712,
+            187,
+            962,
+            431
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/415de272948cbd56153436deb3c055484127ef18d46498ed2d9cc9e993fdbd5d.jpg",
+        "image_caption": [
+            "安全带组件检测"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            713,
+            511,
+            961,
+            762
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            40,
+            966,
+            52,
+            983
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            248,
+            987
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            957,
+            984,
+            987
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "电子行业",
+        "text_level": 1,
+        "bbox": [
+            52,
+            31,
+            220,
+            88
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/740d69925ec1b9d2251904a8ccf08b9020db95e26d19c26b56c2c81a53d6b846.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            47,
+            246,
+            326,
+            459
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dac25450107fa56c6fb3500d06268fb030d2e6e2532e714370e66ade241fabe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            376,
+            214,
+            659,
+            468
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/38d98858280af1558cec626a7eb874283d675220d14ea1728c3496c57271dbeb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            734,
+            222,
+            931,
+            516
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e0a7b19d55a4b2228092815f095a65814fd9dfeee088c433e94cf9efb0f518a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            41,
+            537,
+            330,
+            720
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac17cd2aab026d29d9bab8df86a98e500437700b21647badd6dfc3d8e26f6c78.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            376,
+            503,
+            666,
+            748
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/941d23d054a9b2531ecd7f91edb3614ca6c7a62094c3e262cd082c6d05ef21ad.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            727,
+            533,
+            952,
+            748
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "15 ",
+        "bbox": [
+            38,
+            966,
+            56,
+            983
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            248,
+            987
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            957,
+            984,
+            987
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "半导体",
+        "text_level": 1,
+        "bbox": [
+            52,
+            29,
+            181,
+            92
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/33e74ac658a7b0945165326f1d937b0beafaf0323929c1e1224b950d9e7cdb52.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            212,
+            284,
+            559
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/66c1f39f0868ddc1c32d6c54f980629006ffadeccf02605b6ed1a404e4164e5e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            557,
+            293,
+            757
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/9fd6eabade4a8fcb3bb39af54c70e58f2b6e679979c80e439af10a3a9bbca439.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            372,
+            248,
+            584,
+            472
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a86513e9cf609435f3c65f94fa3a5d646aa380ee50841a21828b9cbfd0fdefa.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            340,
+            548,
+            531,
+            766
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a49b84f5bd27ad7a81a4b5420476393acb5d528d7a29ac7ea5ae5ace71a471a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            681,
+            235,
+            884,
+            507
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbfb7898fe819a79f7e3476ac4e68f8d4b49d8225d5d3107effa29b986da242b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            636,
+            538,
+            929,
+            766
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "16 ",
+        "bbox": [
+            38,
+            966,
+            56,
+            983
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            984,
+            987
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "食品和饮料",
+        "text_level": 1,
+        "bbox": [
+            52,
+            31,
+            263,
+            92
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/79f1bad0a318bc678057efbe434761bb003f393f46c91d3d2b378480d80f5788.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            66,
+            233,
+            306,
+            475
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd1c8e02acd2625ab0d3f6ba1d63fda7bd4e0548431c6f6ab3a6b9dcdcb83f39.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            368,
+            235,
+            595,
+            472
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/da195649f9f53e54c1aacabe3743538e48cf3e6fbc72aa39ba5cb635d61f0653.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            687,
+            235,
+            909,
+            472
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c09ac41058741ad12b6209737d1b59aa80e2cde1e66b4682a9f3a51e2ece333.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            79,
+            533,
+            306,
+            762
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d253015cd507ec159a6d4a577d5cbb3ad12add752c9faa201a66073af6f0693.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            445,
+            542,
+            545,
+            775
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a20002d8bfc6751af8f0ca6b7968d43078e230e30a609ebb796b139b415aad9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            687,
+            548,
+            925,
+            770
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "17 ",
+        "bbox": [
+            38,
+            966,
+            56,
+            983
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            984,
+            987
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "太阳能",
+        "text_level": 1,
+        "bbox": [
+            51,
+            31,
+            181,
+            92
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/690407b9d8a1fe78188a2dc4a8548beaf4457e4426abbe26d703fc83b382442b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            148,
+            212,
+            370,
+            475
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/e186ec93fe6b552fb707fc212b44ab8613bdff3d55845248673f98938d12c0c3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            468,
+            212,
+            875,
+            488
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/181ebb48d7613062dca5d16aa45c042f72303b9b4bd2c0064aa9733c0d68e321.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            165,
+            507,
+            369,
+            757
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/30b4d9b353e54829ea4ae32ad9047ef8140c19ec8bdfb7d42e09dd7f4798386d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            468,
+            546,
+            780,
+            751
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "18 ",
+        "bbox": [
+            38,
+            966,
+            56,
+            983
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            984,
+            987
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "物流行业",
+        "text_level": 1,
+        "bbox": [
+            50,
+            29,
+            220,
+            88
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c34a06fb0e2a5977cde29def99fcbdd00fc9c7f6c671196b6e19169f6d54e09.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            220,
+            220,
+            766,
+            546
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cf1f021e1fe30e22b4c597e34f8303fe39ca46cdfb22aff318e64394a825522.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            574,
+            358,
+            788
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5316dbc0a493cf1d81cc6e245561b4b3b7d0c3a2f6e122ee6f139a386874516.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            370,
+            572,
+            634,
+            783
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/54eba8832d7e3b088bef67f1caa02cb3c9ed5fd40b7adfcd133e313db0854a47.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            648,
+            572,
+            909,
+            783
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "19 ",
+        "bbox": [
+            38,
+            966,
+            56,
+            983
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            984,
+            987
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "医疗 / 医药",
+        "text_level": 1,
+        "bbox": [
+            52,
+            31,
+            251,
+            88
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/1930fd10b442e8c7f156f57d20c980d4d4bc02992ae3844e9b787b07bb1f8a2f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            63,
+            194,
+            272,
+            553
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5481cb704bc3322241d0db97f18b98356ed56e5b152d1fbb09635f8796be834.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            76,
+            566,
+            254,
+            807
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb5c71e72868ae29824c5d94cd048a1653a511466cec25f460a8a70f12540662.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            345,
+            246,
+            616,
+            494
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/f76997f618f8cb5c3b8b0ad60ed28863a13c78f0b63eaafacc3e4b13ee8b74b3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            295,
+            561,
+            652,
+            801
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d2d51d6c2bd56c87a9571d77fabd5b280f95d57d148a1429dad8008a4bb3b62.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            697,
+            235,
+            927,
+            503
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e0ad638b0e7481610fe954d6439fdbacda18253d8e5cacb56139fb600cf1d8c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            722,
+            564,
+            909,
+            809
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            38,
+            966,
+            54,
+            983
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            957,
+            984,
+            987
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "康耐视产品系列",
+        "text_level": 1,
+        "bbox": [
+            47,
+            31,
+            341,
+            92
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In-Sight® ",
+        "bbox": [
+            112,
+            203,
+            209,
+            235
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "视觉系统",
+        "bbox": [
+            115,
+            244,
+            206,
+            281
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/0dbe7a4b60e1f234df4e8bdd29ebf4ad143c128bfcd8c63d564b2d4f8cc83036.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            316,
+            240,
+            509
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "坚固耐用的一体化封装系统，具有易于使用的界面，用于配置广泛的应用。",
+        "bbox": [
+            95,
+            555,
+            233,
+            751
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "VisionPro® ",
+        "bbox": [
+            318,
+            203,
+            431,
+            233
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "视觉软件",
+        "bbox": [
+            330,
+            244,
+            420,
+            281
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcf4fcb19f999acfec61d56320178464a32932045ffa98873480309d7694ed64.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            316,
+            335,
+            438,
+            500
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "从PC及相机和图像采集卡运行的强大视觉工具库，供您选择。",
+        "bbox": [
+            312,
+            555,
+            451,
+            718
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Checker $\\textsuperscript { \\textregistered }$ ",
+        "bbox": [
+            541,
+            203,
+            641,
+            233
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "视觉传感器",
+        "bbox": [
+            534,
+            244,
+            650,
+            281
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bd476c1ab5c7d0ff99ef1c357b9ff0b1448e59200e05a139f117d8cf429453f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            516,
+            348,
+            593,
+            416
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/d49c53c7942b8e6b094f38fc9cf4c0ab6c7175fcea9857b0378d2b24e8e96de3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            595,
+            348,
+            670,
+            416
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/08b8179182530e9cf04da2494c504a91b69a8e04ee6283213a5ce47f0faa2b8f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            516,
+            422,
+            593,
+            490
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/567d9a723d84f27790b17eacd70ea53306c3c96fa9892ddc45851b6692944ea1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            595,
+            422,
+            670,
+            490
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "通过/未通过高速传感器，成本低廉，适用于元件存在性和测量应用。",
+        "bbox": [
+            525,
+            555,
+            662,
+            750
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "DataMan® ",
+        "bbox": [
+            752,
+            203,
+            863,
+            231
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "条码读码器",
+        "bbox": [
+            752,
+            231,
+            865,
+            264
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d8ef7bc73c561979872ce34f89c4f94ed082374321f6f9c8b5b28771fdc3227.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            737,
+            324,
+            891,
+            503
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "适用于高对比度的一维和二维代码读取应用以及直接元件标记验证，提供固定式和手持式两种型号。",
+        "bbox": [
+            750,
+            555,
+            909,
+            781
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            38,
+            966,
+            54,
+            983
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            984,
+            987
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "COGNEX 完整的涵盖机器视觉范围 ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            27,
+            690,
+            88
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/591f56d5712dbd03759def4407ff52c75d86d07ee2fc29ba5ebb81c197ba1054.jpg",
+        "image_caption": [
+            "性能"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            50,
+            150,
+            937,
+            812
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "page_number",
+        "text": "22 ",
+        "bbox": [
+            38,
+            964,
+            55,
+            983
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            984,
+            987
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "In-Sight 智能相机",
+        "text_level": 1,
+        "bbox": [
+            50,
+            29,
+            384,
+            94
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcf470ac283231eb9e9005da4480637c23c766c5160e828d7c6b7cf315fbbbfc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            50,
+            146,
+            450,
+            609
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c3a4a5ca40a6f6b325de792c0cd32aa98bba7e918cbb2a26cf30ced53c8c1ca.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            477,
+            150,
+            916,
+            466
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9a47ac7ca222e7d2f752f2cb988173c46cb8936b03f51adfb84a19f84938796.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            50,
+            653,
+            537,
+            833
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/103a44786dd86817e78cdb80005991369fb56846f2ff3af09b561e9a8767b65c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            550,
+            414,
+            891,
+            866
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            38,
+            966,
+            54,
+            983
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            248,
+            987
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            957,
+            984,
+            987
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "工业相机",
+        "text_level": 1,
+        "bbox": [
+            50,
+            29,
+            219,
+            87
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/8765e17a6dc4d9a4b3b22646c4d4095817e25662ff3503ac2684465b102c9804.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            106,
+            255,
+            509,
+            705
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4af5923478419e742e69c92d2be3df79f772e9c6144e8bb83bd1c3d930a744c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            568,
+            300,
+            859,
+            687
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            38,
+            966,
+            54,
+            983
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            983,
+            987
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "3D 相机",
+        "text_level": 1,
+        "bbox": [
+            48,
+            29,
+            200,
+            87
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/42dc0b33174b5efb1725b4e6a147cd8e2692411fefb9412cf71bff387001ce74.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            52,
+            192,
+            941,
+            807
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_number",
+        "text": "25 ",
+        "bbox": [
+            38,
+            966,
+            55,
+            983
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            957,
+            984,
+            987
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "激光轮廓仪 ",
+        "text_level": 1,
+        "bbox": [
+            48,
+            27,
+            263,
+            88
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c64f0b0e861ff0ccb4102c1414c4d71ee5693bbe8b48e68e5f2d234329f126f.jpg",
+        "image_caption": [
+            "螺丝插入深度检测 ",
+            "轴承检测 ",
+            "车座起皱检测 ",
+            "发动机组活塞头高度检测",
+            "制动垫检测"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            52,
+            218,
+            272,
+            390
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/db40891eed9f5810d13d42df5c38ce7672acf6378ce74f3f8f29b2b1a1fdb485.jpg",
+        "image_caption": [
+            "离合器片检测 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            275,
+            218,
+            495,
+            392
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1fbc8bf56a1eddee6f01520fa7d1015e70d71cf7c158b7668c14de6e9dce6c7.jpg",
+        "image_caption": [
+            "天窗粘接检测"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            218,
+            720,
+            390
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfd4e4b09c580cc699f71907a6ce3c46315ef34433da9caa907ab6c7d9bf3b51.jpg",
+        "image_caption": [
+            "胎面轮廓检测 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            725,
+            218,
+            945,
+            390
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/24d1a316a38a67db964696bcb8e03cdb2f1c410c1d364e3d8c514398c0f9cbdb.jpg",
+        "image_caption": [
+            "齐平度和空隙测量"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            52,
+            444,
+            272,
+            614
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/853283fc4fa247048c451022d8036ded452a3bb1049d6a61d54211648dd01470.jpg",
+        "image_caption": [
+            "发动机组对齐检测"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            275,
+            444,
+            495,
+            614
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2d0fcac4163d70611739f0c8348706e46cdc7d7e819663f71d73d80b9ed43fa.jpg",
+        "image_caption": [
+            "焊接缝检测 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            444,
+            720,
+            614
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/74b64480389ef9649496347cf63b5456c3c86a9a746d526a46f12633ac95502c.jpg",
+        "image_caption": [
+            "气囊组件罩空隙检测 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            725,
+            444,
+            945,
+            614
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/29f8fe517df610d1bd84ad730d715d6c40bf0347f88276f8891965f50e135cd7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            52,
+            664,
+            272,
+            835
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cd2240215d949e79a42257061f3d69ca1247d7eae814c0199d608936d95a09c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            275,
+            664,
+            495,
+            835
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/529e234f5b90866fbfec3c134fa981f686896da1e731bbe78920edbc8607dbe8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            664,
+            720,
+            835
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/b587d5af26b3800b2e12fecc44b47f97b8a87d4237d85572055225799d0774be.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            725,
+            664,
+            945,
+            835
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            38,
+            966,
+            54,
+            983
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            983,
+            987
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "工业读码器",
+        "text_level": 1,
+        "bbox": [
+            50,
+            29,
+            263,
+            88
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "工业固定式读码器",
+        "bbox": [
+            50,
+            166,
+            126,
+            305
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2945ab4a047a23d747424c3697cb4d7afbd89b80d325b88205f8692ff29bcb7.jpg",
+        "image_caption": [
+            "DataMan50/60 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            191,
+            170,
+            352,
+            383
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ad35b50ce6a61bf6f68ec66608791832f85dd99529897d5ab32cc5f562a3b5c.jpg",
+        "image_caption": [
+            "DataMan150/260 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            398,
+            159,
+            545,
+            394
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/947a97367d1ceeb03619fc6bfef597768cbf5002af0ad13ee71ec5b27be8cc09.jpg",
+        "image_caption": [
+            "DataMan300/503 ",
+            "DataMan750/8050 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            658,
+            135,
+            937,
+            396
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "工业手持式读码器",
+        "bbox": [
+            34,
+            551,
+            108,
+            688
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaa6ce6dd855530829dca82f58a43cd209328fc41b6a5bc88691ba01825cb9c7.jpg",
+        "image_caption": [
+            "超值系列"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            131,
+            566,
+            333,
+            772
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/0add5a552cadc5a9acaf3cc4cae7527d5c2667c84a9851392517a499feb7fb65.jpg",
+        "image_caption": [
+            "DataMan8050X ",
+            "中端系列"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            438,
+            559,
+            584,
+            781
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b01264d553cbb4121ab2452deb21254ffdf9749614dd8259c429cc24fc0518a.jpg",
+        "image_caption": [
+            "DataMan8500/8600 ",
+            "高性能"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            704,
+            550,
+            897,
+            764
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "page_number",
+        "text": "27 ",
+        "bbox": [
+            38,
+            964,
+            56,
+            983
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            984,
+            987
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "相机的发展历史",
+        "text_level": 1,
+        "bbox": [
+            47,
+            27,
+            343,
+            88
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4b2dd4b391527989a3b69ffd5249f7023a30b6d3e6e2fa20998c5077ae5db16.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            29,
+            227,
+            206,
+            451
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/ede45654e42080edf52f131da754e8910288c5814e43272139b62666c87e2485.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            215,
+            207,
+            400,
+            392
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/39c3f662a33b2337e29dedb165a79cfd20efdd6f63de5c1cdb8c0d3509186a24.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            222,
+            396,
+            266,
+            450
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "柯达",
+        "bbox": [
+            270,
+            396,
+            326,
+            433
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "express影像网络",
+        "bbox": [
+            269,
+            435,
+            395,
+            450
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/f556f07ccfa037957d53d11992c626c47c01748343c161507b56eb8a8ef2fc92.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            438,
+            218,
+            619,
+            450
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc69c8d2280ad58a4c0cbc5fe4d4d1ff1962889dd7d65eb46f8949fcd2ff7987.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            623,
+            240,
+            800,
+            446
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/f54e559523dd2e670e8511cd6a7257e2673f8d667c14dae660d628b8da8cdaa8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            802,
+            281,
+            950,
+            442
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "1826 1839 年",
+        "bbox": [
+            79,
+            470,
+            231,
+            505
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "1888 ",
+        "bbox": [
+            277,
+            472,
+            334,
+            505
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "1969 年",
+        "bbox": [
+            369,
+            470,
+            456,
+            505
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "1974 年",
+        "bbox": [
+            481,
+            470,
+            568,
+            505
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "1981 ",
+        "bbox": [
+            593,
+            468,
+            651,
+            505
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "2000 年",
+        "bbox": [
+            675,
+            468,
+            763,
+            505
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "20 世纪",
+        "bbox": [
+            781,
+            468,
+            868,
+            505
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/8702f70f18ae9307fd3f1dcf37dc89e26c1f7db130b95ded0a8327932136804c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            86,
+            514,
+            276,
+            759
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "年",
+        "bbox": [
+            295,
+            507,
+            320,
+            535
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/28484684499b954163cde7fc504ad3cca02859ce8720ab523430277b957ae7a6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            308,
+            527,
+            506,
+            759
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c8776f384eabcfa757c129bff0ee616d0a833e2f8b73f9a2a963873ffa6cb92.jpg",
+        "image_caption": [
+            ""
+        ],
+        "image_footnote": [],
+        "bbox": [
+            534,
+            546,
+            706,
+            709
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/477b8743542c6ea169c566020466ddd335714784c886668f897733275149e6f6.jpg",
+        "image_caption": [
+            ""
+        ],
+        "image_footnote": [],
+        "bbox": [
+            720,
+            520,
+            913,
+            685
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            38,
+            966,
+            54,
+            983
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            955,
+            984,
+            987
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Thanks ",
+        "text_level": 1,
+        "bbox": [
+            400,
+            416,
+            597,
+            481
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            38,
+            966,
+            56,
+            983
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Cognex Confidential ",
+        "bbox": [
+            73,
+            964,
+            250,
+            987
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            838,
+            957,
+            984,
+            987
+        ],
+        "page_idx": 28
+    }
+]

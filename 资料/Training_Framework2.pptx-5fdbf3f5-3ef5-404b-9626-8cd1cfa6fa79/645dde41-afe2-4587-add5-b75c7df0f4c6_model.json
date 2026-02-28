@@ -1,0 +1,3869 @@
+[
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.0,
+                1.0,
+                0.567
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.65,
+                0.445,
+                0.714
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                162,
+                975,
+                1186,
+                975,
+                1186,
+                1071,
+                162,
+                1071
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.822,
+                0.301,
+                0.872
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                162,
+                1233,
+                802,
+                1233,
+                802,
+                1308,
+                162,
+                1308
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.059,
+                0.942,
+                0.736,
+                0.994
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                157,
+                1413,
+                1962,
+                1413,
+                1962,
+                1491,
+                157,
+                1491
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.81,
+                0.925,
+                0.971,
+                0.969
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2159,
+                1387,
+                2588,
+                1387,
+                2588,
+                1453,
+                2159,
+                1453
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.064,
+                0.074,
+                0.128,
+                0.132
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                170,
+                111,
+                341,
+                111,
+                341,
+                198,
+                170,
+                198
+            ]
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.054,
+                0.166,
+                0.945,
+                0.922
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>分类</td><td>课程</td><td>培训内容</td><td>课堂</td><td>责任人</td></tr><tr><td>Vision Basic</td><td>1.视觉项目评估</td><td>整体视觉项目评估方案,相机,镜头,光源</td><td>0</td><td></td></tr><tr><td rowspan=\"5\">Vision Tools Script</td><td>1.Vision Pro 脚本的编写 &amp; 脚本调试</td><td></td><td rowspan=\"3\">1</td><td rowspan=\"3\">胡建鹏</td></tr><tr><td>2.工具的调用及其参数的输入输出</td><td>工具的调用及其参数的输入输出</td></tr><tr><td>3.VPP界面显示(Inspection输入输出的介绍)</td><td>VPP界面显示(Inspection输入输出)</td></tr><tr><td>4.Vision Tools Script Demo 1</td><td>练习 Vision Tools Script</td><td>1</td><td>甲文</td></tr><tr><td>5.Vision Tools Script Demo 2</td><td>练习 Vision Tools Script</td><td>1</td><td>雷过</td></tr><tr><td rowspan=\"13\">Framework</td><td>1.Framework 框架介绍</td><td>Framework 框架介绍</td><td rowspan=\"4\">1</td><td rowspan=\"4\">锦涛</td></tr><tr><td>2.创建一个新的 MachineSupport</td><td>项目启动,创建一个空的 machinesupport。</td></tr><tr><td>3.相机调用</td><td>相机的设置调用等</td></tr><tr><td>4.标定及 inspection 模块</td><td>标定及 Inspection 的添加,功能设置等</td></tr><tr><td>5.IMachineSupport 接口主要函数介绍</td><td>MS 中最重要的,要用户实现的接口介绍</td><td rowspan=\"2\">1</td><td rowspan=\"2\">建军</td></tr><tr><td>6.其他 Framework 中主要函数介绍</td><td>其他常用的 Framework 函数讲解</td></tr><tr><td rowspan=\"3\">7.通讯模块</td><td>控制 inspection 输入输出</td><td rowspan=\"6\">1</td><td rowspan=\"6\">认同</td></tr><tr><td>控制对应 Inspection 运行</td></tr><tr><td>与 SI 通讯的建立,按照 SI 指令运行inspection,获取结果,发送坐标等结果到 SI。</td></tr><tr><td>8.Vpp 间数据传输介绍</td><td>跨 vpp 数据分享及传递</td></tr><tr><td>9.MachineSupport 自定义窗口的添加</td><td>项目自定义窗体的添加和设计。</td></tr><tr><td>10.存图模块</td><td>项目存图逻辑如 Group 模块。</td></tr><tr><td>11.从 0 开始搭建一个简单的三相机对位项目。</td><td>综合演练</td><td>1</td><td>黄海</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.967,
+                0.038,
+                0.985
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                95,
+                1450,
+                101,
+                1450,
+                101,
+                1477,
+                95,
+                1477
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.967,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                151,
+                1450,
+                495,
+                1450,
+                495,
+                1482,
+                151,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2610,
+                1432,
+                2610,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.06,
+                0.054,
+                0.408,
+                0.125
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                159,
+                81,
+                1087,
+                81,
+                1087,
+                187,
+                159,
+                187
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.053,
+                0.178,
+                0.573,
+                0.877
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.589,
+                0.179,
+                0.92,
+                0.472
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.595,
+                0.509,
+                0.821,
+                0.541
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1586,
+                763,
+                2188,
+                763,
+                2188,
+                811,
+                1586,
+                811
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.595,
+                0.561,
+                0.93,
+                0.636
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1586,
+                841,
+                2479,
+                841,
+                2479,
+                954,
+                1586,
+                954
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.595,
+                0.509,
+                0.93,
+                0.636
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.967,
+                0.039,
+                0.987
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                93,
+                1450,
+                103,
+                1450,
+                103,
+                1480,
+                93,
+                1480
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.966,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                146,
+                1449,
+                495,
+                1449,
+                495,
+                1482,
+                146,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2612,
+                1432,
+                2612,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.06,
+                0.052,
+                0.408,
+                0.125
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                159,
+                78,
+                1087,
+                78,
+                1087,
+                187,
+                159,
+                187
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.055,
+                0.147,
+                0.283,
+                0.183
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                146,
+                220,
+                754,
+                220,
+                754,
+                274,
+                146,
+                274
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.056,
+                0.203,
+                0.841,
+                0.922
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.923,
+                0.187,
+                0.948
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                151,
+                1384,
+                498,
+                1384,
+                498,
+                1422,
+                151,
+                1422
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.071,
+                0.956,
+                0.236,
+                0.978
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                189,
+                1434,
+                629,
+                1434,
+                629,
+                1467,
+                189,
+                1467
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.262,
+                0.927,
+                0.333,
+                0.948
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                698,
+                1390,
+                887,
+                1390,
+                887,
+                1422,
+                698,
+                1422
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.263,
+                0.956,
+                0.333,
+                0.976
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                701,
+                1434,
+                887,
+                1434,
+                887,
+                1464,
+                701,
+                1464
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.374,
+                0.925,
+                0.434,
+                0.948
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                997,
+                1387,
+                1157,
+                1387,
+                1157,
+                1422,
+                997,
+                1422
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.375,
+                0.956,
+                0.457,
+                0.978
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                999,
+                1434,
+                1218,
+                1434,
+                1218,
+                1467,
+                999,
+                1467
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.494,
+                0.928,
+                0.523,
+                0.946
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1317,
+                1392,
+                1394,
+                1392,
+                1394,
+                1419,
+                1317,
+                1419
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.494,
+                0.956,
+                0.523,
+                0.976
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1317,
+                1434,
+                1394,
+                1434,
+                1394,
+                1464,
+                1317,
+                1464
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.645,
+                0.926,
+                0.823,
+                0.954
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1719,
+                1389,
+                2194,
+                1389,
+                2194,
+                1431,
+                1719,
+                1431
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.967,
+                0.044,
+                0.986
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                95,
+                1450,
+                117,
+                1450,
+                117,
+                1479,
+                95,
+                1479
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2612,
+                1432,
+                2612,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.061,
+                0.346,
+                0.13
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                162,
+                91,
+                922,
+                91,
+                922,
+                195,
+                162,
+                195
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.064,
+                0.279,
+                0.942,
+                0.808
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.967,
+                0.04,
+                0.986
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                95,
+                1450,
+                106,
+                1450,
+                106,
+                1479,
+                95,
+                1479
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.967,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                151,
+                1450,
+                495,
+                1450,
+                495,
+                1482,
+                151,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2610,
+                1432,
+                2610,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.061,
+                0.346,
+                0.13
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                162,
+                91,
+                922,
+                91,
+                922,
+                195,
+                162,
+                195
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.064,
+                0.274,
+                0.92,
+                0.786
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.968,
+                0.038,
+                0.985
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                95,
+                1452,
+                101,
+                1452,
+                101,
+                1477,
+                95,
+                1477
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.967,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                151,
+                1450,
+                495,
+                1450,
+                495,
+                1482,
+                151,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2610,
+                1432,
+                2610,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.061,
+                0.346,
+                0.13
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                162,
+                91,
+                922,
+                91,
+                922,
+                195,
+                162,
+                195
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.059,
+                0.223,
+                0.95,
+                0.786
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.967,
+                0.04,
+                0.987
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                93,
+                1450,
+                106,
+                1450,
+                106,
+                1480,
+                93,
+                1480
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.967,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                151,
+                1450,
+                495,
+                1450,
+                495,
+                1482,
+                151,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2610,
+                1432,
+                2610,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.061,
+                0.346,
+                0.13
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                162,
+                91,
+                922,
+                91,
+                922,
+                195,
+                162,
+                195
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.099,
+                0.184,
+                0.81,
+                0.932
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.968,
+                0.038,
+                0.986
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                95,
+                1452,
+                101,
+                1452,
+                101,
+                1479,
+                95,
+                1479
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.967,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                151,
+                1450,
+                495,
+                1450,
+                495,
+                1482,
+                151,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2610,
+                1432,
+                2610,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.061,
+                0.345,
+                0.13
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                162,
+                91,
+                919,
+                91,
+                919,
+                195,
+                162,
+                195
+            ]
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.054,
+                0.181,
+                0.702,
+                0.901
+            ],
+            "angle": 0,
+            "content": "```java\nnamespace Cognex.VS.MachineSupport\n{\n    public class MachineSupportFactory\n    {\n        public static IMachineSupport Create()\n        }\n    public class MachineSupportSample : IMachineSupport\n    {\n        private IFrameworkSupport m_framework;\n        public string MachineName;\n        public List<int> SimulatorCommandParserIDs;\n        public List<string> SimulatorCommandStrings;\n        public List<Tuple<String, Int16>> SimulatorPLCCommands;\n        public void ForceRecordFlush()\n        {\n            public Cognex.VisionPro.CogGraphicCollection GetAcquisitionSetupOverlayGraphics(int)\n            public void Init(IFrameworkSupport framework)\n            public ProfinetUserData ProfinetJobParser(CommandAndInfo command);\n            public void Shutdown()\n            {\n                public string TCPAcqArmed(CommandAndInfo command);\n                public string TCPAcqComplete(CommandAndInfo command);\n                public string TCPJobParser(CommandAndInfo command);\n            }\n        }\n}"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.967,
+                0.04,
+                0.986
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                95,
+                1450,
+                106,
+                1450,
+                106,
+                1479,
+                95,
+                1479
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.967,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                151,
+                1450,
+                495,
+                1450,
+                495,
+                1482,
+                151,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2610,
+                1432,
+                2610,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.06,
+                0.053,
+                0.577,
+                0.131
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                159,
+                79,
+                1538,
+                79,
+                1538,
+                196,
+                159,
+                196
+            ]
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.104,
+                0.196,
+                0.615,
+                0.467
+            ],
+            "angle": 0,
+            "content": "runJobParams.Inputs[\"WedingPadSort\"] = padsort;   \ncommand.WaitForDisplayResultCompleted = true;   \nsuccess \\(=\\) m_frameworkRUNJob commanded,LightControllAction.AutoOnAndOff, true, runJobParams);   \n//20180728//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ///AutoOnTurn lig   \nbRunStatus \\(=\\) success;   \nif(!success) { MessageManager.gOnly.Info(\"Vision Tool Run Error,\\r\\nCogGraphicLabel errorLabel \\(\\equiv\\) new CogGraphicLabel();"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.533,
+                0.287,
+                0.563
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                231,
+                799,
+                765,
+                799,
+                765,
+                844,
+                231,
+                844
+            ]
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.099,
+                0.583,
+                0.601,
+                0.609
+            ],
+            "angle": 0,
+            "content": "success = m_frameworkRunJob(command, LightControlAction.AutoOnAndOff, true, runJobParams);"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.652,
+                0.343,
+                0.683
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                231,
+                978,
+                914,
+                978,
+                914,
+                1024,
+                231,
+                1024
+            ]
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.1,
+                0.742,
+                0.603,
+                0.79
+            ],
+            "angle": 0,
+            "content": "CommandWaitDisplayResultCompleted True, success = m_frameworkRunJob commanded, LightControlAction.NoAction, true, runJobParams);"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.967,
+                0.041,
+                0.986
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                79,
+                1450,
+                109,
+                1450,
+                109,
+                1479,
+                79,
+                1479
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.966,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                146,
+                1449,
+                495,
+                1449,
+                495,
+                1482,
+                146,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2612,
+                1432,
+                2612,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.06,
+                0.052,
+                0.543,
+                0.134
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                159,
+                78,
+                1447,
+                78,
+                1447,
+                201,
+                159,
+                201
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.07,
+                0.196,
+                0.101,
+                0.221
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.086,
+                0.204,
+                0.101,
+                0.218
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                229,
+                306,
+                269,
+                306,
+                269,
+                327,
+                229,
+                327
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.067,
+                0.226,
+                0.232,
+                0.251
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                178,
+                339,
+                618,
+                339,
+                618,
+                376,
+                178,
+                376
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.067,
+                0.254,
+                0.247,
+                0.281
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                178,
+                381,
+                658,
+                381,
+                658,
+                421,
+                178,
+                421
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.067,
+                0.288,
+                0.25,
+                0.31
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                178,
+                431,
+                666,
+                431,
+                666,
+                465,
+                178,
+                465
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.067,
+                0.313,
+                0.252,
+                0.338
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                178,
+                469,
+                671,
+                469,
+                671,
+                507,
+                178,
+                507
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.067,
+                0.342,
+                0.252,
+                0.368
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                178,
+                513,
+                671,
+                513,
+                671,
+                552,
+                178,
+                552
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.067,
+                0.254,
+                0.252,
+                0.368
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.261,
+                0.198,
+                0.338,
+                0.221
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                695,
+                297,
+                901,
+                297,
+                901,
+                331,
+                695,
+                331
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.262,
+                0.228,
+                0.338,
+                0.25
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                698,
+                342,
+                901,
+                342,
+                901,
+                375,
+                698,
+                375
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.262,
+                0.257,
+                0.333,
+                0.279
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                698,
+                385,
+                887,
+                385,
+                887,
+                418,
+                698,
+                418
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.262,
+                0.287,
+                0.344,
+                0.308
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                698,
+                430,
+                917,
+                430,
+                917,
+                462,
+                698,
+                462
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.262,
+                0.315,
+                0.337,
+                0.337
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                698,
+                472,
+                898,
+                472,
+                898,
+                505,
+                698,
+                505
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.262,
+                0.345,
+                0.344,
+                0.366
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                698,
+                517,
+                917,
+                517,
+                917,
+                549,
+                698,
+                549
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.261,
+                0.198,
+                0.344,
+                0.366
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.375,
+                0.199,
+                0.406,
+                0.221
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                999,
+                298,
+                1082,
+                298,
+                1082,
+                331,
+                999,
+                331
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.375,
+                0.228,
+                0.406,
+                0.25
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                999,
+                342,
+                1082,
+                342,
+                1082,
+                375,
+                999,
+                375
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.375,
+                0.257,
+                0.522,
+                0.278
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                999,
+                385,
+                1391,
+                385,
+                1391,
+                417,
+                999,
+                417
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.375,
+                0.286,
+                0.522,
+                0.307
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                999,
+                428,
+                1391,
+                428,
+                1391,
+                460,
+                999,
+                460
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.375,
+                0.315,
+                0.522,
+                0.337
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                999,
+                472,
+                1391,
+                472,
+                1391,
+                505,
+                999,
+                505
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.375,
+                0.345,
+                0.522,
+                0.366
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                999,
+                517,
+                1391,
+                517,
+                1391,
+                549,
+                999,
+                549
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.375,
+                0.199,
+                0.522,
+                0.366
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.401,
+                0.205,
+                0.425
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                154,
+                601,
+                546,
+                601,
+                546,
+                637,
+                154,
+                637
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.433,
+                0.168,
+                0.457
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                181,
+                649,
+                447,
+                649,
+                447,
+                685,
+                181,
+                685
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.467,
+                0.135,
+                0.489
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                181,
+                700,
+                359,
+                700,
+                359,
+                733,
+                181,
+                733
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.498,
+                0.218,
+                0.519
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                181,
+                747,
+                581,
+                747,
+                581,
+                778,
+                181,
+                778
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.068,
+                0.433,
+                0.218,
+                0.519
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.529,
+                0.206,
+                0.554
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                793,
+                549,
+                793,
+                549,
+                831,
+                186,
+                831
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.563,
+                0.196,
+                0.583
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                844,
+                522,
+                844,
+                522,
+                874,
+                186,
+                874
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.593,
+                0.259,
+                0.618
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                181,
+                889,
+                690,
+                889,
+                690,
+                927,
+                181,
+                927
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.626,
+                0.495,
+                0.65
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                181,
+                939,
+                1319,
+                939,
+                1319,
+                975,
+                181,
+                975
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.656,
+                0.186,
+                0.682
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                181,
+                984,
+                495,
+                984,
+                495,
+                1023,
+                181,
+                1023
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.688,
+                0.158,
+                0.71
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                181,
+                1032,
+                421,
+                1032,
+                421,
+                1065,
+                181,
+                1065
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.068,
+                0.563,
+                0.495,
+                0.71
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.73,
+                0.479,
+                0.765
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                162,
+                1095,
+                1277,
+                1095,
+                1277,
+                1147,
+                162,
+                1147
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.967,
+                0.041,
+                0.986
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                82,
+                1450,
+                109,
+                1450,
+                109,
+                1479,
+                82,
+                1479
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.056,
+                0.966,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                149,
+                1449,
+                495,
+                1449,
+                495,
+                1482,
+                149,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2612,
+                1432,
+                2612,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.052,
+                0.724,
+                0.131
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                157,
+                78,
+                1930,
+                78,
+                1930,
+                196,
+                157,
+                196
+            ]
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.06,
+                0.202,
+                0.363,
+                0.498
+            ],
+            "angle": 0,
+            "content": "List<string> strings = new List<string>(); //strings.Add(\"P0\"); strings.Add(\"P1,SN\"); //strings.Add(\"P100\"); strings.Add(\"P200,SN,0,0,0\"); strings.Add(\"P300,SN,0,0,0,0.085,0.08\"); strings.Add(\"P400,SN,0,0,0,0.085,0.08\"); //strings.Add(\"P500\"); strings.Add(\"CheckPosition,FOV\"); strings.Add(\"CheckSize,FOV\"); strings.Add(\"GROUP,SN,OK\");"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.406,
+                0.199,
+                0.923,
+                0.274
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1082,
+                298,
+                2460,
+                298,
+                2460,
+                411,
+                1082,
+                411
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.407,
+                0.292,
+                0.881,
+                0.327
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1085,
+                438,
+                2348,
+                438,
+                2348,
+                490,
+                1085,
+                490
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.967,
+                0.043,
+                0.985
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                77,
+                1450,
+                114,
+                1450,
+                114,
+                1477,
+                77,
+                1477
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.966,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                151,
+                1449,
+                495,
+                1449,
+                495,
+                1482,
+                151,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2612,
+                1432,
+                2612,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.054,
+                0.724,
+                0.13
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                157,
+                81,
+                1930,
+                81,
+                1930,
+                195,
+                157,
+                195
+            ]
+        },
+        {
+            "type": "code_caption",
+            "bbox": [
+                0.086,
+                0.178,
+                0.125,
+                0.193
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                229,
+                267,
+                333,
+                267,
+                333,
+                289,
+                229,
+                289
+            ]
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.086,
+                0.193,
+                0.621,
+                0.615
+            ],
+            "angle": 0,
+            "content": "public string TCPJobParser(CCommandAndInfo command) //收到客户端的指令，对指令进行解析，返回客户端的响应  \n{ bool runStatus; string strResult = \"\"; String cmd = command.Command.Trim(); string[] strArray = cmd.Split〔,〕); if (strArray.Length == 0) return \"Unsupported Command\"; mStepName = strArray[0]; if (command.IsSimulatorCommand) { mSN = strArray[1]; } else { mSN = strArray[1]; } try {"
+        },
+        {
+            "type": "code_caption",
+            "bbox": [
+                0.63,
+                0.202,
+                0.81,
+                0.221
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1679,
+                303,
+                2159,
+                303,
+                2159,
+                331,
+                1679,
+                331
+            ]
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.632,
+                0.226,
+                0.732,
+                0.249
+            ],
+            "angle": 0,
+            "content": "str4AnnotatedImgPath"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.253,
+                0.708,
+                0.275
+            ],
+            "angle": 0,
+            "content": "str4RawImgPath"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.28,
+                0.7,
+                0.298
+            ],
+            "angle": 0,
+            "content": "strMaterialSN"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.305,
+                0.716,
+                0.327
+            ],
+            "angle": 0,
+            "content": "strMaterialSNTmp"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.331,
+                0.682,
+                0.352
+            ],
+            "angle": 0,
+            "content": "strTypeG"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.357,
+                0.68,
+                0.379
+            ],
+            "angle": 0,
+            "content": "strTypeP"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.384,
+                0.898,
+                0.404
+            ],
+            "angle": 0,
+            "content": "TBU_Function(CommandAndInfo command, String[] commandParts)"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.41,
+                0.813,
+                0.428
+            ],
+            "angle": 0,
+            "content": "TCPAcqArmed(CommandAndInfo command)"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.436,
+                0.824,
+                0.455
+            ],
+            "angle": 0,
+            "content": "TCPAcqComplete(CommandAndInfo command)"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.462,
+                0.81,
+                0.481
+            ],
+            "angle": 0,
+            "content": "TCPJobParser.CommandAndInfo command)"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.489,
+                0.95,
+                0.535
+            ],
+            "angle": 0,
+            "content": "TCPRjpResultRea TCPJobParser(CCommandAndInfo command) meters parameters) UpdateInspVeri"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.54,
+                0.703,
+                0.56
+            ],
+            "angle": 0,
+            "content": "WriteSettings0"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.636,
+                0.565,
+                0.944,
+                0.585
+            ],
+            "angle": 0,
+            "content": "WriteXML(string Label_Fir, string Label_Sec, string Label_Thir, string Label_Value)"
+        },
+        {
+            "type": "code_caption",
+            "bbox": [
+                0.131,
+                0.655,
+                0.215,
+                0.675
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                349,
+                982,
+                573,
+                982,
+                573,
+                1012,
+                349,
+                1012
+            ]
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.178,
+                0.678,
+                0.365,
+                0.763
+            ],
+            "angle": 0,
+            "content": "//Rest AlginTimes and AllExecTime  \nmAlignTimes = 0;  \nmAllExecTime = 0;  \nif (mSN.Length < 3)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.431,
+                0.625,
+                0.928,
+                0.74
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1149,
+                937,
+                2474,
+                937,
+                2474,
+                1110,
+                1149,
+                1110
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.967,
+                0.043,
+                0.986
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                77,
+                1450,
+                114,
+                1450,
+                114,
+                1479,
+                77,
+                1479
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.965,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                146,
+                1447,
+                495,
+                1447,
+                495,
+                1482,
+                146,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2612,
+                1432,
+                2612,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.054,
+                0.761,
+                0.134
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                157,
+                81,
+                2028,
+                81,
+                2028,
+                201,
+                157,
+                201
+            ]
+        },
+        {
+            "type": "code_caption",
+            "bbox": [
+                0.072,
+                0.184,
+                0.668,
+                0.228
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                191,
+                276,
+                1780,
+                276,
+                1780,
+                342,
+                191,
+                342
+            ]
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.071,
+                0.228,
+                0.603,
+                0.81
+            ],
+            "angle": 0,
+            "content": "//Rest stopwatch\nspWatch Reset();\nspWatch.Start();\nmStratTime = DateTime.Now.ToString(\"yyyyMMdd_HHmmss_fff\");\nstring reslut = \"\";\nbool runStatus;\nulong partID = 0;\nJobParameters jobParamsP1 = new JobParameters(0, m_currentPartID);\njobParamsP1.Inputs[\"I_RunNum\"] = 1;\njobParamsP1.Inputs[\"Str_SN\"] = mSN;\njobParamsP1.Inputs[\"Str_Command\"] = command.Command.Trim();\nrunStatus = m_framework.RunJob commanded, LightControlAction.AutoOnAndOff, true, jobParamsP1);\nif (runStatus)\n{\nreslut = (string)jobParamsP1.Outputs[\"Str_SendDate)];\n}\nelse\n{\nreslut = (string)jobParamsP1.Outputs[\"Str 默认Data)];\n}\nspWatch_Stop();\nmEndTime = DateTime.Now.ToString(\"yyyyMMdd_HHmmss_fff\");\nmExecTime = spWatch.Milliseconds;\nmAllExecTime += mExecTime;\nThread T1 = new Thread(new ParameterizedThreadStart(SaveImage));\nT1.Start(jobParamsP1);\nreturn reslut;\n}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.625,
+                0.315,
+                0.969,
+                0.351
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1666,
+                472,
+                2583,
+                472,
+                2583,
+                526,
+                1666,
+                526
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.618,
+                0.655,
+                0.779,
+                0.87
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.782,
+                0.655,
+                0.941,
+                0.87
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.967,
+                0.043,
+                0.985
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                77,
+                1450,
+                114,
+                1450,
+                114,
+                1477,
+                77,
+                1477
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.966,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                146,
+                1449,
+                495,
+                1449,
+                495,
+                1482,
+                146,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2610,
+                1432,
+                2610,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.054,
+                0.804,
+                0.134
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                157,
+                81,
+                2143,
+                81,
+                2143,
+                201,
+                157,
+                201
+            ]
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.072,
+                0.181,
+                0.651,
+                0.823
+            ],
+            "angle": 0,
+            "content": "public string CamjobParserP100(CommandAndInfo command, string[] strArray) // 方法：这是一个处理联系ToolBlock的方法  \n{ spWatch Reset(); spWatch.Start(); mStratTime = DateTime.Now.ToString(\"yyyyMMdd_HHmmss_fff\"); string reslut = \"\"; bool runStatus; ulong partID = 0; RunJobParameters jobParamsP100 = new RunJobParameters(0, m_currentPartID); jobParamsP100.Inputs[\"I_RunNum\"] = 100; jobParamsP100.Inputs[\"Str_Command\"] = command.Command.Trim(); runStatus = m_framework.runJob commanded, LightControlAction.AutoOnAndOff, true, jobParamsP100); if (runStatus) { reslut = (string)jobParamsP100.Outputs[\"Str_S新闻发布Data\"]; } else { reslut = (string)jobParamsP100.Outputs[\"Str 默认Data\"]; } string dataStr = \"\"; for (int i = 0; DataToController != null && i < DataToController.Count; ++i) { Tuple<string, double> entry = (Tuple<string, double>) DataToController[i]; dataStr += string.Format(\"\\\\d:\\\\{0:F3\\\\}\", entry.Item2); } spWatch.Stop(); mEndTime = DateTime.Now.ToString(\"yyyyMMdd_HHmmss_fff\"); mExecTime = spWatch.Milliseconds; mAllExecTime += mExecTime; return reslut; }"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.625,
+                0.315,
+                0.972,
+                0.351
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1666,
+                472,
+                2591,
+                472,
+                2591,
+                526,
+                1666,
+                526
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.618,
+                0.661,
+                0.779,
+                0.878
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.788,
+                0.662,
+                0.905,
+                0.702
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2100,
+                993,
+                2412,
+                993,
+                2412,
+                1053,
+                2100,
+                1053
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.849,
+                0.717,
+                0.907,
+                0.815
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.967,
+                0.043,
+                0.986
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                77,
+                1450,
+                114,
+                1450,
+                114,
+                1479,
+                77,
+                1479
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.965,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                146,
+                1447,
+                495,
+                1447,
+                495,
+                1482,
+                146,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2612,
+                1432,
+                2612,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.052,
+                0.861,
+                0.131
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                157,
+                78,
+                2295,
+                78,
+                2295,
+                196,
+                157,
+                196
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.19,
+                0.759,
+                0.226
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                157,
+                285,
+                2023,
+                285,
+                2023,
+                339,
+                157,
+                339
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.053,
+                0.23,
+                0.303,
+                0.66
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.434,
+                0.615,
+                0.92,
+                0.687
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1157,
+                922,
+                2452,
+                922,
+                2452,
+                1030,
+                1157,
+                1030
+            ]
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.432,
+                0.69,
+                0.79,
+                0.825
+            ],
+            "angle": 0,
+            "content": "strReturn \\(+ =\\) (string)InspRunParams_TBU[j].Outputs[\"strSend\"]; 1 return strReturn;"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.967,
+                0.042,
+                0.985
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                79,
+                1450,
+                111,
+                1450,
+                111,
+                1477,
+                79,
+                1477
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.966,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                146,
+                1449,
+                495,
+                1449,
+                495,
+                1482,
+                146,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2612,
+                1432,
+                2612,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.052,
+                0.861,
+                0.131
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                157,
+                78,
+                2295,
+                78,
+                2295,
+                196,
+                157,
+                196
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.188,
+                0.251,
+                0.222
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                162,
+                282,
+                669,
+                282,
+                669,
+                333,
+                162,
+                333
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.053,
+                0.23,
+                0.293,
+                0.251
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                141,
+                345,
+                781,
+                345,
+                781,
+                376,
+                141,
+                376
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.053,
+                0.258,
+                0.241,
+                0.28
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                141,
+                387,
+                642,
+                387,
+                642,
+                420,
+                141,
+                420
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.14,
+                0.285,
+                0.479,
+                0.305
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                373,
+                427,
+                1277,
+                427,
+                1277,
+                457,
+                373,
+                457
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.14,
+                0.307,
+                0.478,
+                0.328
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                373,
+                460,
+                1274,
+                460,
+                1274,
+                492,
+                373,
+                492
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.14,
+                0.33,
+                0.478,
+                0.35
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                373,
+                495,
+                1274,
+                495,
+                1274,
+                525,
+                373,
+                525
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.14,
+                0.352,
+                0.478,
+                0.372
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                373,
+                528,
+                1274,
+                528,
+                1274,
+                558,
+                373,
+                558
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.14,
+                0.374,
+                0.399,
+                0.394
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                373,
+                561,
+                1063,
+                561,
+                1063,
+                591,
+                373,
+                591
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.14,
+                0.396,
+                0.344,
+                0.417
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                373,
+                594,
+                917,
+                594,
+                917,
+                625,
+                373,
+                625
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.119,
+                0.419,
+                0.126,
+                0.438
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                317,
+                628,
+                335,
+                628,
+                335,
+                657,
+                317,
+                657
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.119,
+                0.463,
+                0.306,
+                0.484
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                317,
+                694,
+                815,
+                694,
+                815,
+                726,
+                317,
+                726
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.14,
+                0.507,
+                0.468,
+                0.641
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                373,
+                760,
+                1247,
+                760,
+                1247,
+                961,
+                373,
+                961
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.14,
+                0.661,
+                0.468,
+                0.73
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                373,
+                991,
+                1247,
+                991,
+                1247,
+                1095,
+                373,
+                1095
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.141,
+                0.75,
+                0.41,
+                0.772
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                375,
+                1125,
+                1093,
+                1125,
+                1093,
+                1158,
+                375,
+                1158
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.14,
+                0.816,
+                0.468,
+                0.907
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                373,
+                1224,
+                1247,
+                1224,
+                1247,
+                1360,
+                373,
+                1360
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.559,
+                0.256,
+                0.875,
+                0.281
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1490,
+                384,
+                2332,
+                384,
+                2332,
+                421,
+                1490,
+                421
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.479,
+                0.305,
+                0.803,
+                0.33
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1277,
+                457,
+                2140,
+                457,
+                2140,
+                495,
+                1277,
+                495
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.491,
+                0.347,
+                0.525,
+                0.373
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.536,
+                0.348,
+                0.551,
+                0.373
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.564,
+                0.348,
+                0.624,
+                0.373
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.636,
+                0.348,
+                0.651,
+                0.373
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.664,
+                0.348,
+                0.688,
+                0.373
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.69,
+                0.348,
+                0.716,
+                0.373
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.721,
+                0.348,
+                0.746,
+                0.373
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.751,
+                0.346,
+                0.828,
+                0.37
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.847,
+                0.346,
+                0.871,
+                0.37
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.479,
+                0.385,
+                0.591,
+                0.408
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1277,
+                577,
+                1575,
+                577,
+                1575,
+                612,
+                1277,
+                612
+            ]
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.478,
+                0.414,
+                0.856,
+                0.912
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>名称</td><td>类型</td><td>值</td></tr><tr><td>MovingPoseX</td><td>System.Double</td><td>450.8</td></tr><tr><td>MovingPoseY</td><td>System.Double</td><td>58</td></tr><tr><td>MovingPoseDeg</td><td>System.Double</td><td>0</td></tr><tr><td>Input_Command</td><td>System.String</td><td>T4C,1,2018060...</td></tr><tr><td>AutoCom</td><td>System.Boolean</td><td>False</td></tr><tr><td>InputImage0</td><td>Cognex.VisionPro.CogImage8Grey</td><td></td></tr><tr><td>InputImage0Home2D</td><td>Cognex.VisionPro.CogImage8Grey</td><td>Cognex.VisionP...</td></tr><tr><td>ProductName</td><td>System.String</td><td>Product 1</td></tr><tr><td>InputImageCameraSettings</td><td>System.String</td><td>Cam4_Exosur...</td></tr><tr><td>InputImage0CameraSettings</td><td>System.String</td><td>Cam4_Exosur...</td></tr><tr><td>InputImageLightChannels</td><td>System.String</td><td></td></tr><tr><td>Mean</td><td>System.Double</td><td>255</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.029,
+                0.967,
+                0.043,
+                0.986
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                77,
+                1450,
+                114,
+                1450,
+                114,
+                1479,
+                77,
+                1479
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.966,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                146,
+                1449,
+                495,
+                1449,
+                495,
+                1482,
+                146,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2612,
+                1432,
+                2612,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.054,
+                0.136,
+                0.122
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                162,
+                81,
+                362,
+                81,
+                362,
+                183,
+                162,
+                183
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.194,
+                0.918,
+                0.269
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                159,
+                291,
+                2447,
+                291,
+                2447,
+                403,
+                159,
+                403
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.288,
+                0.483,
+                0.323
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                159,
+                431,
+                1287,
+                431,
+                1287,
+                484,
+                159,
+                484
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.342,
+                0.554,
+                0.376
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                159,
+                513,
+                1476,
+                513,
+                1476,
+                564,
+                159,
+                564
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.395,
+                0.568,
+                0.429
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                159,
+                592,
+                1514,
+                592,
+                1514,
+                643,
+                159,
+                643
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.06,
+                0.194,
+                0.918,
+                0.429
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.449,
+                0.269,
+                0.481
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                162,
+                673,
+                717,
+                673,
+                717,
+                721,
+                162,
+                721
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.967,
+                0.042,
+                0.985
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                79,
+                1450,
+                111,
+                1450,
+                111,
+                1477,
+                79,
+                1477
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.966,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                151,
+                1449,
+                495,
+                1449,
+                495,
+                1482,
+                151,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2610,
+                1432,
+                2610,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.0,
+                1.0,
+                0.593
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.406,
+                0.724,
+                0.594,
+                0.802
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1082,
+                1086,
+                1583,
+                1086,
+                1583,
+                1203,
+                1082,
+                1203
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.967,
+                0.042,
+                0.987
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                79,
+                1450,
+                111,
+                1450,
+                111,
+                1480,
+                79,
+                1480
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.966,
+                0.186,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                146,
+                1449,
+                495,
+                1449,
+                495,
+                1482,
+                146,
+                1482
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                2284,
+                1432,
+                2610,
+                1432,
+                2610,
+                1482,
+                2284,
+                1482
+            ]
+        }
+    ]
+]

@@ -1,0 +1,1995 @@
+[
+    {
+        "type": "text",
+        "text": "Machine Vision Basic ",
+        "text_level": 1,
+        "bbox": [
+            227,
+            70,
+            716,
+            135
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/667fc19108e4a8966051dcb531e6b3afa62745817966c4143c0227a78709cda7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            216,
+            207,
+            759,
+            724
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "COGNEX ",
+        "bbox": [
+            650,
+            764,
+            950,
+            818
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "成像过程",
+        "text_level": 1,
+        "bbox": [
+            50,
+            18,
+            233,
+            81
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/37490033e27f5d14ebbd698db484d9c37858c85c1b0f6cea9898c4802c76142a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            50,
+            172,
+            916,
+            851
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            994,
+            164
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            51,
+            962,
+            59,
+            979
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2012 Cognex Corporation ",
+        "bbox": [
+            62,
+            962,
+            269,
+            981
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "硬件相关术语 ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            18,
+            377,
+            88
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            52,
+            135,
+            208,
+            181
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相机所能看到的现实世界的物理尺寸",
+        "bbox": [
+            79,
+            188,
+            527,
+            231
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            51,
+            250,
+            263,
+            288
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "被测物到相机镜头的距离",
+        "bbox": [
+            81,
+            301,
+            388,
+            344
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            51,
+            361,
+            234,
+            401
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "透镜中心到其焦点的距离",
+        "bbox": [
+            87,
+            420,
+            395,
+            462
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            51,
+            479,
+            444,
+            520
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "感光片成像区域的尺寸（通常由感光片长边决定）",
+        "bbox": [
+            93,
+            531,
+            691,
+            574
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            51,
+            592,
+            222,
+            631
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "被测物体清晰成像的最上表面与最下表面之间的距离",
+        "bbox": [
+            79,
+            644,
+            722,
+            685
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            50,
+            700,
+            297,
+            738
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "感光器尺寸与 FOV 之间的比值 ",
+        "bbox": [
+            81,
+            751,
+            461,
+            792
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            990,
+            164
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            945,
+            938
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            51,
+            962,
+            59,
+            979
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            62,
+            962,
+            268,
+            981
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相机所能看到的现实世界的物理尺寸",
+        "text_level": 1,
+        "bbox": [
+            54,
+            177,
+            422,
+            262
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5873f28a018869720e0462e69a567f5a6e9d23f3c4998be7c00570417fdae3f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            452,
+            174,
+            941,
+            846
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            45,
+            24,
+            295,
+            94
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            990,
+            164
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 | ",
+        "bbox": [
+            50,
+            962,
+            61,
+            981
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            63,
+            962,
+            269,
+            981
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            43,
+            22,
+            387,
+            88
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "被测物到相机镜头的距离",
+        "text_level": 1,
+        "bbox": [
+            56,
+            174,
+            369,
+            218
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0b2d70688801827c8f24da2d9968e338c35cfc0e14c9bcd12011be2ae16f590.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            452,
+            174,
+            941,
+            846
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            990,
+            164
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 | ",
+        "bbox": [
+            50,
+            962,
+            61,
+            981
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            65,
+            962,
+            269,
+            981
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "透镜中心到其焦点的距离",
+        "text_level": 1,
+        "bbox": [
+            56,
+            174,
+            369,
+            220
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3de259e8d936a6e7a02bd08c6c15ba45250632d23d7f1ee231d26e13795feaef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            452,
+            174,
+            941,
+            846
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            41,
+            22,
+            319,
+            94
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            998,
+            164
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            907,
+            947,
+            940
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 | ",
+        "bbox": [
+            50,
+            962,
+            61,
+            981
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            65,
+            962,
+            269,
+            981
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            41,
+            22,
+            570,
+            87
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "感光片成像区域的尺寸 （通常由感光片长边决定）",
+        "bbox": [
+            56,
+            174,
+            395,
+            259
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/13e60334aac68ecd23afc1c9d5259814c79bcdc81d5818205937bd3274f61c7b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            452,
+            174,
+            941,
+            846
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            990,
+            164
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            50,
+            962,
+            61,
+            979
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "Confidential © 2012 Cognex Corporation ",
+        "bbox": [
+            65,
+            962,
+            269,
+            981
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            43,
+            22,
+            569,
+            88
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "像元尺寸 (Pixel Size) ",
+        "text_level": 1,
+        "bbox": [
+            59,
+            118,
+            295,
+            159
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "一般为 3μm-10μm 。 (1/3’:7.4X7.4μm 1/1.8’:4.4X4.4μm)",
+        "bbox": [
+            59,
+            159,
+            704,
+            200
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/963c397eb9521029704612f8de44ed2206ac157148085d70a1c88d051ffbc1bc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td>1/4 inch</td><td>1/3 inch</td><td>1/2 inch</td><td>2/3 inch</td><td>1 inch</td></tr><tr><td>对角线（mm）</td><td>4</td><td>6</td><td>8</td><td>11</td><td>16</td></tr><tr><td>幅面尺寸</td><td>3.6X2.7</td><td>4.8X3.6</td><td>6.4X4.8</td><td>8.8X6.6</td><td>12.8X9.6</td></tr></table>",
+        "bbox": [
+            63,
+            209,
+            906,
+            424
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8b57b0d08e4b1c746b12c04ceb44292c2478c86281c7d3919b6f1a3a95de5a2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            70,
+            427,
+            316,
+            596
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/28b09bfa1167cfa82c997c3d64c94c9c2d092224df130f003cb101ec9950ae9c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            422,
+            446,
+            584,
+            624
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8af92309163727d3438a63a9ad9755d329745ab4720442a7fd5625173c42ba5a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            73,
+            614,
+            286,
+            757
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8eb419d8106f44ee501c498f7fa088f62a9eef02133271edf868d7675e6f5edc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            338,
+            666,
+            600,
+            875
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7612e5b64b48600407ba0d9d00ff13b5b2f7581d5588a9b79eda3721a6c22797.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            73,
+            766,
+            259,
+            875
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            993,
+            164
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8 | ",
+        "bbox": [
+            50,
+            962,
+            62,
+            981
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            65,
+            962,
+            269,
+            981
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "被测物体清晰成像的最上表面与最下表面之间的距离",
+        "text_level": 1,
+        "bbox": [
+            55,
+            174,
+            423,
+            262
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d34c5c6b8d637a6b8e19bdaaf59fc9a22c5d031b32b6f145bb1b2d408743c26c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            406,
+            174,
+            941,
+            846
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            41,
+            22,
+            319,
+            87
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            998,
+            164
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 | ",
+        "bbox": [
+            50,
+            962,
+            61,
+            981
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            65,
+            962,
+            269,
+            981
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            41,
+            22,
+            438,
+            87
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "感光器尺寸与 FOV 之间的比值 ",
+        "text_level": 1,
+        "bbox": [
+            56,
+            174,
+            438,
+            218
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/126ae396ee52ae1b9494ba7427df1008d33048933f4b723bca238756dbbd02c6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            268,
+            229,
+            605
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/9dbf2fb7f0b1b1b83a350b1b7ac26728af5d3b3369fe7973959d1c3797c6072e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            240,
+            268,
+            343,
+            603
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/008ea39e0fadd566ac407d920a51396f464e53d8eaff2e078fc37597ebc09750.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            356,
+            268,
+            459,
+            603
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc91965f4b19cd967876b72dfca4568930dcf5a189830f764ba81a592980f095.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            454,
+            175,
+            941,
+            857
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            991,
+            164
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 ",
+        "bbox": [
+            51,
+            962,
+            65,
+            979
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            69,
+            962,
+            275,
+            981
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "结果图像相关术语 ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            18,
+            476,
+            88
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "? 像素 （ Pixel)",
+            "感光器件上的基本感光单元，既相机识别到的图像上的最小单元",
+            "像素深度 (Pixel Depth)",
+            " 即每个像素数据的位数，一般常用的是 8Bit ，对于数字工业相机机一般还会有 10Bit 、 12Bit 等",
+            "? 分辨率 （ Resolution)",
+            "相机采集图像的像素点数",
+            "像素分辨率 （ mm/pixel)",
+            "每个像素代表的毫米值"
+        ],
+        "bbox": [
+            47,
+            146,
+            895,
+            622
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            990,
+            164
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            945,
+            938
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            51,
+            962,
+            65,
+            979
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            69,
+            962,
+            275,
+            981
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "相机的世界",
+        "text_level": 1,
+        "bbox": [
+            41,
+            22,
+            266,
+            87
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Can you calculate what this is? ",
+        "bbox": [
+            40,
+            153,
+            245,
+            235
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Now maybe you can see it… ",
+        "bbox": [
+            41,
+            312,
+            276,
+            394
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Here it is: ",
+        "bbox": [
+            41,
+            475,
+            152,
+            509
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2D Code ",
+        "bbox": [
+            41,
+            551,
+            143,
+            587
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/519742c179fbf73c056ac1f56259358a6b55be9f1d3300fe47811d4c7dd1ed01.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            33,
+            687,
+            286,
+            901
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/3172485b0819043b7e7138b2d8cdc344bb9fa13177472290d211168015c97210.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 102 103 103 103 103 103 103 103 103 103 103 103 103 103 103 103 103 103 103 103 103 103 103 103 103 103 104 104 104 104 104 104 104 104 104 104 104 104 104 104 104 104 104 104 104 104 104 104 104 104 104 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 106 106 106 106 106 106 106 106 106 106 106 106 106 106 106 106 106 106 106 106 106 106 106 106 106 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 109 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98 98\n99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 85 62 77 92 73 73 65 62 80 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99\n99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99\n88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 98\n88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88\n88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88\n88 88 88 88 77 73 73 65 62 80 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99\n88 88 88 88 77 73 73 65 62 80 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99\n88 88 88 88 77 73 73 65 62 80 99 99 99\n88 88 88 88 77 73 73 65 62 80 99 99 99\n88 88 88 88 77 73 73 65 62 80 99 99\n88 88 88 88 77 73 73 65 62 80 99\n88 88 88 88 77 73 73 65 62\n88 88 88 88 77 73 73 65 62\n88 88 88 88 77 73 73 65 62\n88 88 88 88 77 73 73 65 62\n88 88 88 88 77 73\n88 88 88 88 77 73\n88 88 88 88\n88 88 88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88\n88</td></tr></table>",
+        "bbox": [
+            297,
+            142,
+            963,
+            807
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Machine vision sees and interprets the world ",
+        "text_level": 1,
+        "bbox": [
+            316,
+            848,
+            943,
+            892
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12 ",
+        "bbox": [
+            51,
+            962,
+            65,
+            979
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2012 Cognex Corporation ",
+        "bbox": [
+            69,
+            962,
+            275,
+            981
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "一组矩阵亮度值",
+        "text_level": 1,
+        "bbox": [
+            72,
+            229,
+            388,
+            285
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddeb7290f47dad0899075171fd4b9255445f60c144ec8c039c294d428251a67c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            18,
+            325,
+            498,
+            888
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/290ab838babe47edf35753b953a3a6338e535c6bfc5fdec36c6adb304f1551c6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            495,
+            325,
+            990,
+            888
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            52,
+            40,
+            306,
+            107
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            994,
+            164
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "13 ",
+        "bbox": [
+            51,
+            962,
+            66,
+            979
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            70,
+            962,
+            275,
+            981
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/99ca3bdccd9ae7e0a991f3b53c136e77dfb7688d899833717d04f4a91946a998.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            101,
+            238,
+            252,
+            557
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            166,
+            642,
+            186,
+            674
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/48eec227cecaceb8f9f5640e210dd98f14225f1aad8337b8ea43c712456f28d8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            336,
+            229,
+            584,
+            553
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            444,
+            640,
+            476,
+            672
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/5eeaa53ddf489123bec226c6094eff37ab430b6b5b64f7ec32a691b032c2e431.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            641,
+            229,
+            894,
+            550
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "128 ",
+        "bbox": [
+            751,
+            637,
+            795,
+            670
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            45,
+            24,
+            480,
+            94
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            994,
+            164
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "63 = white ",
+        "bbox": [
+            372,
+            907,
+            488,
+            938
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "255 = white ",
+        "bbox": [
+            652,
+            907,
+            786,
+            935
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            907,
+            947,
+            938
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            51,
+            962,
+            65,
+            979
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2012 Cognex Corporation ",
+        "bbox": [
+            69,
+            962,
+            275,
+            981
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb4aa91407548bdc1c48bdaf5927e496c7ebbdde09a75b9cf9083bcc7c242817.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            40,
+            218,
+            445,
+            427
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcd31341fb70043f9f6b218939ad82b15dca89b6f39dbd1269d6b9f4b0b041ca.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            40,
+            450,
+            419,
+            809
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb5162ca3f963932cc8b8b4020682504cc531f355eee746b32a277e0fd2e7bbe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            527,
+            218,
+            941,
+            581
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/72c603f6670602901aca06fc1a1a4e092b912d63b562fb74617d3e51e860da42.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            427,
+            607,
+            859,
+            757
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            44,
+            24,
+            425,
+            94
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            994,
+            164
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "15 ",
+        "bbox": [
+            51,
+            962,
+            66,
+            979
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            69,
+            962,
+            275,
+            981
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "图像传感器",
+        "text_level": 1,
+        "bbox": [
+            72,
+            229,
+            309,
+            285
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/99afbae69c75f93497ac4eb5d4ec0634bac5032e81e09abd1103f0d6ffc1cef6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            151,
+            312,
+            936,
+            770
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            37,
+            29,
+            438,
+            100
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            994,
+            164
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "16 ",
+        "bbox": [
+            51,
+            962,
+            66,
+            979
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            69,
+            962,
+            275,
+            981
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4369604fe847e9432288e0e8d3db13e9d5d2e203f97a6325896526bcec72f6e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            105,
+            168,
+            470,
+            738
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "640 x 480 pixel ",
+        "bbox": [
+            197,
+            753,
+            340,
+            790
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(0.3 megapixels) ",
+        "bbox": [
+            200,
+            792,
+            352,
+            829
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb24fc6aea33dd7018d71c43c4c27e5fd22af4621e7a2f7e32aa4da8da43cd02.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            533,
+            166,
+            900,
+            735
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1600 x 1200 pixel ",
+        "bbox": [
+            641,
+            753,
+            804,
+            792
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2 megapixels) ",
+        "bbox": [
+            641,
+            794,
+            780,
+            829
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            44,
+            22,
+            445,
+            90
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "17 ",
+        "bbox": [
+            51,
+            962,
+            65,
+            979
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2012 Cognex Corporation ",
+        "bbox": [
+            69,
+            962,
+            275,
+            981
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "图像及微小特征",
+        "text_level": 1,
+        "bbox": [
+            72,
+            229,
+            388,
+            285
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "当特征很小时通常很难分辨其几何特性。",
+        "bbox": [
+            88,
+            318,
+            673,
+            372
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2ae099b4f48c1b016ae59e8d196b5d3b45ec72defc8104a888093a4f1b7aefd.jpg",
+        "image_caption": [
+            "Dot with fine resolution "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            118,
+            470,
+            302,
+            775
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/78d8144f58440e6dd00b166ed00f784ec6a05ee7d3b60f6f9bd2a487b2319942.jpg",
+        "image_caption": [
+            "Dot with coarse resolution "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            573,
+            490,
+            777,
+            762
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            41,
+            29,
+            444,
+            100
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            998,
+            164
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            51,
+            962,
+            65,
+            977
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "| Confidential © 2012 Cognex Corporation ",
+        "bbox": [
+            69,
+            962,
+            276,
+            981
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": ". FOV/Resolution ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            235,
+            369,
+            281
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb949a298e817e81ae34c9865abee2c3ccdba985622174750229f9942ec0a65e.jpg",
+        "image_caption": [
+            "50 x 30 mm Part "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            72,
+            392,
+            345,
+            629
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "64 x 48 mmFOV ",
+        "bbox": [
+            137,
+            716,
+            288,
+            744
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d09454677dfb7a5f9101a87945c3b3007ba36b57fe486298dae711ef334b061.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            463,
+            464,
+            559,
+            562
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "640 x 480 1600 x 1200 pixel Pixels on CC(2 Megapixel) ",
+        "bbox": [
+            455,
+            570,
+            609,
+            625
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} F O V _ {h o r i z o n t a l} = 6 4 m m \\\\ A c c u r a c y _ {V i s i o n \\_ T o o l} = \\frac {1}{4} p i x e l \\\\ \\# \\text {P i x e l s} _ {\\text {h o r i z o n t a l}} = 1 6 0 0 \\text {p i x e l s} \\\\ \\text {A c c u r a c y} _ {\\text {h o r i z o n t a l}} = \\frac {\\text {F O V} \\times \\text {A c c u r a c y} _ {\\text {V i s i o n} - \\text {T o o l}}}{\\# \\text {P i x e l s}} \\\\ \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            601,
+            353,
+            950,
+            572
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\text {A c c u r a c y} _ {\\text {h o r i z o n t a l}} = \\frac {6 4 \\times (\\frac {1}{4} \\times 2) p i x e l}{1 6 0 0 p i x e l s}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            601,
+            581,
+            883,
+            677
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/af1a57a3842dd8789773ede34ce7483558811868196293d32358695ef0c07239.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            586,
+            718,
+            669,
+            766
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Accuracy 0.02mm ",
+        "bbox": [
+            677,
+            722,
+            937,
+            762
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            44,
+            29,
+            506,
+            100
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "COGNEX SUPERHEROES 2013 ",
+        "bbox": [
+            827,
+            5,
+            994,
+            164
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            804,
+            909,
+            947,
+            938
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            51,
+            962,
+            65,
+            977
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "Confidential $\\circledcirc$ 2012 Cognex Corporation ",
+        "bbox": [
+            72,
+            962,
+            275,
+            981
+        ],
+        "page_idx": 18
+    }
+]

@@ -1,0 +1,2046 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/078d85dc7fbe7b6332a58dcff5a861a4dfa00d4461c66706d4ac35cb88881410.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                0,
+                0,
+                1000,
+                627
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CheckerboardTool "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                262,
+                712,
+                698,
+                783
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2022/1/6 "
+                    }
+                ]
+            },
+            "bbox": [
+                26,
+                927,
+                130,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "学习目标"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                59,
+                220,
+                109
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "掌握CogCalibCheckerboardTool工具含义以及作用"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "掌握CogCalibCheckerboardTool使用方法"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                194,
+                680,
+                305
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 介绍 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                59,
+                609,
+                116
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 物体通过镜头成像都会过多过少产生一定的扭曲，从而影响设备精度，为了提高精度以及完成其他执行单元的功能，我们需要对通过镜头取到的图像进行校正，进而获取精度较高的数据。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "那么今天我们要学习的CogCalibCheckerboardTool这个工具就可以完成校正这一工作。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                188,
+                838,
+                494
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 简介 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                77,
+                59,
+                559,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如右图所示为"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                242,
+                252,
+                281
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool "
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                287,
+                420,
+                325
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "工具所在位置"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                325,
+                254,
+                361
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1697b3c837392358d4cc4d3258eba3a1d85da5c9b249de463cb50498b194dff6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                506,
+                135,
+                834,
+                927
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                968
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 作用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                77,
+                57,
+                559,
+                107
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为什么用 CogCalibCheckerboardTool？"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                170,
+                573,
+                218
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/18cf62f11abd7d9881edc938c8de1020be96ca2e4afc2369cb856ba435b97ce4.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "未扭曲图像"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                109,
+                268,
+                230,
+                520
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/af652dc81433ebd7f8e531d2fbb5ee0dcabc5d1a3473e3727ba5f8597290ec41.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "纵横 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "线性扭曲"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                295,
+                290,
+                413,
+                500
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0d3c910e1675d193562f062e311a0cb79f14c117d36a83397202fdc8ede80d32.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "透视 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                441,
+                268,
+                556,
+                520
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3f909eb744093e4b334ffa9580128c12e6f374abfa27f85baa8e6b082ce14344.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "放射 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "非线性扭曲"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                579,
+                264,
+                704,
+                522
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如上图所示，为三种常见的图像扭曲类型"
+                    }
+                ]
+            },
+            "bbox": [
+                209,
+                627,
+                615,
+                662
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为了提高检测精度，所以我们需要用到"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                751,
+                527,
+                792
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 来校正图像本身存在的扭曲"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                812,
+                725,
+                853
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 作用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                79,
+                61,
+                562,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 作用:"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                168,
+                469,
+                209
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 棋盘格校准使用一个棋盘格板来计算像素和真实单位（mm）之间的转换"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 可以计算线性和非线性转换（非线性转换说明图像存在光学或透视扭曲）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                227,
+                919,
+                327
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1830c1f84647914d47e05876fafdee18669201bd6954a2e530b9aa6692a071ed.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                223,
+                366,
+                787,
+                862
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 工具界面如上图所示"
+                    }
+                ]
+            },
+            "bbox": [
+                252,
+                892,
+                745,
+                929
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 使用方法"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                66,
+                641,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如右图所示，为"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                233,
+                281,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 基本操作步骤："
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                294,
+                395,
+                392
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.抓取校正图像"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 选择校正模式"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 选择特性搜寻器"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 标明在您的校准版上是否存在一个基准（原点）标志"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. 输入校正板尺寸 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. 计算校正，查看转换结果"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                412,
+                393,
+                811
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/174d74f4f03bddc4a2f9ebb708be820cd6c64bc0afd03739d8dc689b3ce55c37.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                416,
+                266,
+                912,
+                788
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 使用方法"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                79,
+                66,
+                622,
+                116
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "首先，点击抓取校正图像按钮，将标定板的图片传进来，之后就可以选择校正模式了"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                168,
+                515,
+                327
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "校正模式"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                90,
+                429,
+                172,
+                462
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "Linear   \nLinear   \nPerspectiveAndRadialWarp LinescanWarp Linescan2DWarp SineTanLawProjectionWarp ThreeParamRadialWarp NoDistortionWarp "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                88,
+                474,
+                530,
+                712
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如左图所示，为校正模式："
+                    }
+                ]
+            },
+            "bbox": [
+                575,
+                350,
+                865,
+                388
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.Liner (线性畸变) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Perspective And Radial "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                576,
+                409,
+                875,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Warp (透视和放射畸变) "
+                    }
+                ]
+            },
+            "bbox": [
+                576,
+                529,
+                858,
+                572
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.LinescanWarp "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.Linescan2Dwarp "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. SineTanLawProjectionWarp "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. ThreeParamRadialWarp "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7.NoDistortionWarp "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                577,
+                592,
+                919,
+                872
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 使用方法"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                55,
+                615,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如右图所示，根据标定板类型选择特性搜寻器"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                268,
+                400,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "特性搜寻器："
+                    }
+                ]
+            },
+            "bbox": [
+                466,
+                214,
+                569,
+                246
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fd4960d7f9de441658117e153f4f67b219f64838bc2b432863284d4b986a5dcc.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                468,
+                250,
+                816,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如右图所示，为两种常见的标定板类型，棋盘格与点网格"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                562,
+                400,
+                722
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/098762ec8c6dba54020aa87da0e620c0b77963058197cd2fae5fd0524aaf7ce0.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "棋盘格"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Checkerboard plate "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                418,
+                514,
+                654,
+                805
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3ccc5681fae257416b66fde8dfc510edc1a0375a611285d5670623c2c9909966.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "点网格"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Grid-of-dots plate "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                672,
+                514,
+                908,
+                807
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 使用方法"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                55,
+                615,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如右图所示，选择是否有基准（原点）在标定板上"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                220,
+                450,
+                320
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "基准符号："
+                    }
+                ]
+            },
+            "bbox": [
+                525,
+                162,
+                602,
+                190
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/088451493fa979a37d8ae4ddc8c6fc23e9eaf6d2c20d38151096b7f5225a6d09.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                525,
+                190,
+                836,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如右图所示，为带有基准（原点）的棋盘格，图中红色标注出来的即为原点。"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                468,
+                508,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：如果找到基准，该点将成为原始校准空间的原点；如果没有找到，原始校准空间的原点是最接近校准图像中心的顶点。"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                650,
+                511,
+                868
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/137e023c797772499d03c5263aea0e94fdaa5177a5a619eb1e4092696af13008.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                534,
+                468,
+                830,
+                866
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 使用方法"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                81,
+                55,
+                625,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如右图所示，输入校正板的尺寸（非常重要，不能输错）输入校正板尺寸之后，点击计算校正即可。"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                214,
+                434,
+                435
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c018892c8857c645057078e056e6deaef12c36dbdc392cdcdab8fa0c186bafe4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                495,
+                155,
+                768,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如右图所示，为计算校正之后转换结果界面，我们可以看到相关的校正系数，至此便完成了图像校正。"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                546,
+                415,
+                766
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8bc4617d99045d5d0bbbe7a16d4a0d413546ba783eae846df9f7b8d141f3cf84.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                431,
+                507,
+                937,
+                868
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CogCalibCheckerboardTool 使用方法"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                77,
+                55,
+                619,
+                103
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "怎么使用校正后的结果:"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                203,
+                384,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如右图所示，当我们完成图像校正之后，就可以使用该工具对我们的输入图像进行校正了。"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                359,
+                476,
+                520
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "只需要把另外的图像输入进该工具，再将输出图像传递给其他工具，此时的图像就已经是被校正过的图像了。"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                538,
+                476,
+                759
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ad6289b1b69887aa8ea5a67ea10982ceca2139b111e9d2da2965943a50077220.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                526,
+                281,
+                875,
+                792
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Thank you. "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                256,
+                337,
+                591,
+                431
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ]
+]

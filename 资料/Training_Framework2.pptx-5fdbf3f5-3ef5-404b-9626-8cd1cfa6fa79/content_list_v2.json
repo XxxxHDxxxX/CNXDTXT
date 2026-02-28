@@ -1,0 +1,3378 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a894fa9c854492f37e6d1d3f5e02ec2e02d52a35cb6ce41d5c254cde0f822f51.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                0,
+                0,
+                1000,
+                566
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Framework Introduce "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                60,
+                650,
+                444,
+                712
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jianjun.song | 2023/05/03 "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                820,
+                300,
+                870
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "This document contains Cognex Corporation confidential information, which must be protected and used only in accordance with the © 2023 Cognex CorporationMutual Confidentiality Agreement entered into by Cognex Corporation and Apple Inc. dated November 1, 2014 "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                940,
+                735,
+                992
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                809,
+                924,
+                970,
+                968
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目录"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                72,
+                127,
+                131
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f1c87df5dc28379701c3e4f59d9e1b19f3a3ff8c417e99846dd1cb8d515ebac3.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>分类</td><td>课程</td><td>培训内容</td><td>课堂</td><td>责任人</td></tr><tr><td>Vision Basic</td><td>1.视觉项目评估</td><td>整体视觉项目评估方案,相机,镜头,光源</td><td>0</td><td></td></tr><tr><td rowspan=\"5\">Vision Tools Script</td><td>1.Vision Pro 脚本的编写 &amp; 脚本调试</td><td></td><td rowspan=\"3\">1</td><td rowspan=\"3\">胡建鹏</td></tr><tr><td>2.工具的调用及其参数的输入输出</td><td>工具的调用及其参数的输入输出</td></tr><tr><td>3.VPP界面显示(Inspection输入输出的介绍)</td><td>VPP界面显示(Inspection输入输出)</td></tr><tr><td>4.Vision Tools Script Demo 1</td><td>练习 Vision Tools Script</td><td>1</td><td>甲文</td></tr><tr><td>5.Vision Tools Script Demo 2</td><td>练习 Vision Tools Script</td><td>1</td><td>雷过</td></tr><tr><td rowspan=\"13\">Framework</td><td>1.Framework 框架介绍</td><td>Framework 框架介绍</td><td rowspan=\"4\">1</td><td rowspan=\"4\">锦涛</td></tr><tr><td>2.创建一个新的 MachineSupport</td><td>项目启动,创建一个空的 machinesupport。</td></tr><tr><td>3.相机调用</td><td>相机的设置调用等</td></tr><tr><td>4.标定及 inspection 模块</td><td>标定及 Inspection 的添加,功能设置等</td></tr><tr><td>5.IMachineSupport 接口主要函数介绍</td><td>MS 中最重要的,要用户实现的接口介绍</td><td rowspan=\"2\">1</td><td rowspan=\"2\">建军</td></tr><tr><td>6.其他 Framework 中主要函数介绍</td><td>其他常用的 Framework 函数讲解</td></tr><tr><td rowspan=\"3\">7.通讯模块</td><td>控制 inspection 输入输出</td><td rowspan=\"6\">1</td><td rowspan=\"6\">认同</td></tr><tr><td>控制对应 Inspection 运行</td></tr><tr><td>与 SI 通讯的建立,按照 SI 指令运行inspection,获取结果,发送坐标等结果到 SI。</td></tr><tr><td>8.Vpp 间数据传输介绍</td><td>跨 vpp 数据分享及传递</td></tr><tr><td>9.MachineSupport 自定义窗口的添加</td><td>项目自定义窗体的添加和设计。</td></tr><tr><td>10.存图模块</td><td>项目存图逻辑如 Group 模块。</td></tr><tr><td>11.从 0 开始搭建一个简单的三相机对位项目。</td><td>综合演练</td><td>1</td><td>黄海</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                53,
+                164,
+                944,
+                920
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                35,
+                966,
+                37,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                966,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Framework 框架介绍 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                59,
+                53,
+                407,
+                124
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/486f28cc853b6559174605976f3247fb2a125988144a150cf6544f777248313f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                52,
+                177,
+                572,
+                875
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b6e7a1be4c1d012d63bde52253cd65ee124605c4a922333a548bf2aead551ed5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                588,
+                177,
+                919,
+                470
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.打开程序后找到：视觉系统设置"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 按照左图中 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{1} \\textcircled{2} \\textcircled{3}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "顺序添加 VPP 并命名连线，最后确定，该名字就是在 Inspection中显示的名字"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                594,
+                507,
+                929,
+                635
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                966,
+                38,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Framework 框架介绍 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                59,
+                51,
+                407,
+                124
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Framework 文件分布如下 :"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                54,
+                146,
+                282,
+                181
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cc0c04517ebfff90d4d32ebb623d443c15f3991986c906ca98929523613c50ab.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                55,
+                201,
+                840,
+                920
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "图 Cognex.Vs.MachineSu"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                922,
+                186,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": " Cognex.VS.MachineSupport.pdb "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                955,
+                235,
+                977
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                261,
+                925,
+                332,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                262,
+                955,
+                332,
+                975
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "应用程序扩展"
+                    }
+                ]
+            },
+            "bbox": [
+                373,
+                924,
+                433,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                374,
+                955,
+                456,
+                977
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                493,
+                927,
+                522,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                493,
+                955,
+                522,
+                975
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "MachineSupport 生成类库文件"
+                    }
+                ]
+            },
+            "bbox": [
+                644,
+                925,
+                822,
+                953
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                35,
+                966,
+                43,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                60,
+                59,
+                345,
+                129
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/69f2bd1e36ac45e0c5338148f1c158862d01ad977bd1a26abf20fff6eb5a18a4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                63,
+                277,
+                941,
+                807
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                35,
+                966,
+                39,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                966,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                60,
+                59,
+                345,
+                129
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7f39cf9860c04bf31c9ec5da442548c9bf08ce5c5af108d36201ffb37030e895.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                63,
+                272,
+                919,
+                785
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                35,
+                966,
+                37,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                966,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                60,
+                59,
+                345,
+                129
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1a3e75005be4a244ffb308bdd9da3a1598e8bf2a7f0e7ba7a4388cf2dc612a87.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                58,
+                222,
+                949,
+                785
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                34,
+                966,
+                39,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                966,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                60,
+                59,
+                345,
+                129
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4dd68cc0c5eccf2863bee7cd76a02a4beb1334dacc11dadf33a18be0e18165dc.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                98,
+                183,
+                809,
+                931
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                35,
+                966,
+                37,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                966,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                60,
+                59,
+                344,
+                129
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "namespace Cognex.VS.MachineSupport\n{\n    public class MachineSupportFactory\n    {\n        public static IMachineSupport Create()\n        }\n    public class MachineSupportSample : IMachineSupport\n    {\n        private IFrameworkSupport m_framework;\n        public string MachineName;\n        public List<int> SimulatorCommandParserIDs;\n        public List<string> SimulatorCommandStrings;\n        public List<Tuple<String, Int16>> SimulatorPLCCommands;\n        public void ForceRecordFlush()\n        {\n            public Cognex.VisionPro.CogGraphicCollection GetAcquisitionSetupOverlayGraphics(int)\n            public void Init(IFrameworkSupport framework)\n            public ProfinetUserData ProfinetJobParser(CommandAndInfo command);\n            public void Shutdown()\n            {\n                public string TCPAcqArmed(CommandAndInfo command);\n                public string TCPAcqComplete(CommandAndInfo command);\n                public string TCPJobParser(CommandAndInfo command);\n            }\n        }\n} "
+                    }
+                ],
+                "code_language": "cs"
+            },
+            "bbox": [
+                53,
+                179,
+                701,
+                900
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9 "
+                    }
+                ]
+            },
+            "bbox": [
+                35,
+                966,
+                39,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                966,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support ：光源的调用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                59,
+                51,
+                576,
+                129
+            ]
+        },
+        {
+            "type": "algorithm",
+            "content": {
+                "algorithm_caption": [],
+                "algorithm_content": [
+                    {
+                        "type": "text",
+                        "content": "runJobParams.Inputs[\"WedingPadSort\"] = padsort;   \ncommand.WaitForDisplayResultCompleted = true;   \nsuccess  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " m_frameworkRUNJob commanded,LightControllAction.AutoOnAndOff, true, runJobParams);   \n//20180728//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ///AutoOnTurn lig   \nbRunStatus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " success;   \nif(!success) { MessageManager.gOnly.Info(\"Vision Tool Run Error,\\r\\nCogGraphicLabel errorLabel  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\equiv"
+                    },
+                    {
+                        "type": "text",
+                        "content": " new CogGraphicLabel(); "
+                    }
+                ]
+            },
+            "bbox": [
+                103,
+                194,
+                614,
+                466
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一般通过软指令触发光源开关："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                86,
+                531,
+                286,
+                562
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "success = m_frameworkRunJob(command, LightControlAction.AutoOnAndOff, true, runJobParams); "
+                    }
+                ],
+                "code_language": "javascript"
+            },
+            "bbox": [
+                98,
+                581,
+                600,
+                607
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "在飞拍或者 3D 相机等需要硬件触发的："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                86,
+                651,
+                342,
+                681
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "CommandWaitDisplayResultCompleted True, success = m_frameworkRunJob commanded, LightControlAction.NoAction, true, runJobParams); "
+                    }
+                ],
+                "code_language": "javascript"
+            },
+            "bbox": [
+                99,
+                740,
+                602,
+                788
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                29,
+                966,
+                40,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support ：文件介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                59,
+                51,
+                542,
+                133
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/aecdfa4bdb16465a2419ea44cf868605ac4b18b8bb5a31b60967e46af225783e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                69,
+                194,
+                100,
+                220
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                85,
+                203,
+                100,
+                216
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " ShelfAlignmentMachineSupport "
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                225,
+                231,
+                250
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": " ShelfAlignmentMachineSupport.sln "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": " ShelfAlignmentMachineSupport.suo "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": " ShelfAlignmentMachineSupport.v1... "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": " ShelfAlignmentMachineSupport.v1.. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                253,
+                251,
+                366
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": []
+            },
+            "bbox": [
+                260,
+                196,
+                343,
+                364
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": []
+            },
+            "bbox": [
+                374,
+                198,
+                521,
+                364
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " SimulatorCommandStrings "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                400,
+                204,
+                424
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "@ SetupCustomGUI0 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": " Shutdown0 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "F SimulatorCommandParserlDs "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                431,
+                217,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SimulatorCommandStrings "
+                    }
+                ]
+            },
+            "bbox": [
+                69,
+                527,
+                205,
+                553
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "P SimulatorPLCCommands "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "@ SingedNormDegrees(double degrees) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "@ Sortlmages(int nTBlndex, string strRawlmgPath, string strAnnotatedlmgPath, int nErrCode) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "@a str1AnnotatedlmgPath "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": " @ str1RawlmaPath "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                562,
+                494,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "打开 MachineSupport ，找到“ SimulatorCommandStings” 进入"
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                729,
+                478,
+                764
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11 "
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                966,
+                40,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                964,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support ：添加 command 指令"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                51,
+                723,
+                129
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "List<string> strings = new List<string>(); //strings.Add(\"P0\"); strings.Add(\"P1,SN\"); //strings.Add(\"P100\"); strings.Add(\"P200,SN,0,0,0\"); strings.Add(\"P300,SN,0,0,0,0.085,0.08\"); strings.Add(\"P400,SN,0,0,0,0.085,0.08\"); //strings.Add(\"P500\"); strings.Add(\"CheckPosition,FOV\"); strings.Add(\"CheckSize,FOV\"); strings.Add(\"GROUP,SN,OK\"); "
+                    }
+                ],
+                "code_language": "typescript"
+            },
+            "bbox": [
+                59,
+                201,
+                362,
+                496
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "添加一个你想要的界面指令，可以先仿照上面的指令添加一个自己的指令，这个会在MachineSupport 里重新生成后显示程序预设命令中"
+                    }
+                ]
+            },
+            "bbox": [
+                405,
+                198,
+                922,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当然如果你不知道添加什么命令，可以先空着不添加，后面需要了再添加"
+                    }
+                ]
+            },
+            "bbox": [
+                406,
+                290,
+                880,
+                325
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12 "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                966,
+                42,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                964,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support ：添加 TCPJobParser"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                53,
+                723,
+                129
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [
+                    {
+                        "type": "text",
+                        "content": "U个5用"
+                    }
+                ],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "public string TCPJobParser(CCommandAndInfo command) //收到客户端的指令，对指令进行解析，返回客户端的响应  \n{ bool runStatus; string strResult = \"\"; String cmd = command.Command.Trim(); string[] strArray = cmd.Split〔,〕); if (strArray.Length == 0) return \"Unsupported Command\"; mStepName = strArray[0]; if (command.IsSimulatorCommand) { mSN = strArray[1]; } else { mSN = strArray[1]; } try { "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                85,
+                192,
+                620,
+                614
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [
+                    {
+                        "type": "text",
+                        "content": "TCPJobParser(CommandAndInfo command) "
+                    }
+                ],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "str4AnnotatedImgPath "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                631,
+                225,
+                730,
+                248
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "str4RawImgPath "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                251,
+                706,
+                274
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "strMaterialSN "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                279,
+                699,
+                296
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "strMaterialSNTmp "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                303,
+                715,
+                325
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "strTypeG "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                329,
+                681,
+                351
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "strTypeP "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                355,
+                679,
+                377
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "TBU_Function(CommandAndInfo command, String[] commandParts) "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                383,
+                897,
+                403
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "TCPAcqArmed(CommandAndInfo command) "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                409,
+                812,
+                427
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "TCPAcqComplete(CommandAndInfo command) "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                435,
+                823,
+                453
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "TCPJobParser.CommandAndInfo command) "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                461,
+                809,
+                479
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "TCPRjpResultRea TCPJobParser(CCommandAndInfo command) meters parameters) UpdateInspVeri "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                488,
+                949,
+                533
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "WriteSettings0 "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                538,
+                702,
+                559
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "WriteXML(string Label_Fir, string Label_Sec, string Label_Thir, string Label_Value) "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                635,
+                564,
+                943,
+                583
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [
+                    {
+                        "type": "text",
+                        "content": "case \"P1\": "
+                    }
+                ],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "//Rest AlginTimes and AllExecTime  \nmAlignTimes = 0;  \nmAllExecTime = 0;  \nif (mSN.Length < 3) "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                177,
+                677,
+                364,
+                762
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "找到TCPJobParser，添加你上面命令对应的指令，这里分了P1和P100调用不同的 Calibration, 记得后面的 return SendData 中调用不同的函数，比如我们借调的 CamjobParserP1 和 CamjobParserP100"
+                    }
+                ]
+            },
+            "bbox": [
+                430,
+                624,
+                927,
+                738
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13 "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                966,
+                42,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support ：添加 CamjobParserP1"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                53,
+                760,
+                133
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [
+                    {
+                        "type": "text",
+                        "content": "public string CamjobParserP1(CommandAndInfo command，string[] strArray）// 方法：这是一个处理联系ToolBlock的方法"
+                    }
+                ],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "//Rest stopwatch\nspWatch Reset();\nspWatch.Start();\nmStratTime = DateTime.Now.ToString(\"yyyyMMdd_HHmmss_fff\");\nstring reslut = \"\";\nbool runStatus;\nulong partID = 0;\nJobParameters jobParamsP1 = new JobParameters(0, m_currentPartID);\njobParamsP1.Inputs[\"I_RunNum\"] = 1;\njobParamsP1.Inputs[\"Str_SN\"] = mSN;\njobParamsP1.Inputs[\"Str_Command\"] = command.Command.Trim();\nrunStatus = m_framework.RunJob commanded, LightControlAction.AutoOnAndOff, true, jobParamsP1);\nif (runStatus)\n{\nreslut = (string)jobParamsP1.Outputs[\"Str_SendDate)];\n}\nelse\n{\nreslut = (string)jobParamsP1.Outputs[\"Str 默认Data)];\n}\nspWatch_Stop();\nmEndTime = DateTime.Now.ToString(\"yyyyMMdd_HHmmss_fff\");\nmExecTime = spWatch.Milliseconds;\nmAllExecTime += mExecTime;\nThread T1 = new Thread(new ParameterizedThreadStart(SaveImage));\nT1.Start(jobParamsP1);\nreturn reslut;\n} "
+                    }
+                ],
+                "code_language": "proto"
+            },
+            "bbox": [
+                70,
+                227,
+                602,
+                809
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "该方法通过抓取十字 mark 定位 CurObjectplacement"
+                    }
+                ]
+            },
+            "bbox": [
+                624,
+                314,
+                968,
+                350
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ab7dc3a637f06832395eab3891558051c2347bd0050ec4d591b62f674c151af6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                617,
+                653,
+                778,
+                868
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2201005d552304ee80a892bca2b030b54d41a24a35ad32e2e572a2ffec73a5ce.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                781,
+                653,
+                940,
+                868
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14 "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                966,
+                42,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support ：添加 CamjobParserP100"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                53,
+                803,
+                133
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "public string CamjobParserP100(CommandAndInfo command, string[] strArray) // 方法：这是一个处理联系ToolBlock的方法  \n{ spWatch Reset(); spWatch.Start(); mStratTime = DateTime.Now.ToString(\"yyyyMMdd_HHmmss_fff\"); string reslut = \"\"; bool runStatus; ulong partID = 0; RunJobParameters jobParamsP100 = new RunJobParameters(0, m_currentPartID); jobParamsP100.Inputs[\"I_RunNum\"] = 100; jobParamsP100.Inputs[\"Str_Command\"] = command.Command.Trim(); runStatus = m_framework.runJob commanded, LightControlAction.AutoOnAndOff, true, jobParamsP100); if (runStatus) { reslut = (string)jobParamsP100.Outputs[\"Str_S新闻发布Data\"]; } else { reslut = (string)jobParamsP100.Outputs[\"Str 默认Data\"]; } string dataStr = \"\"; for (int i = 0; DataToController != null && i < DataToController.Count; ++i) { Tuple<string, double> entry = (Tuple<string, double>) DataToController[i]; dataStr += string.Format(\"\\\\d:\\\\{0:F3\\\\}\", entry.Item2); } spWatch.Stop(); mEndTime = DateTime.Now.ToString(\"yyyyMMdd_HHmmss_fff\"); mExecTime = spWatch.Milliseconds; mAllExecTime += mExecTime; return reslut; } "
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                71,
+                179,
+                650,
+                822
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "该方法通过抓取圆圈 mark 定位 DesObjectplacement"
+                    }
+                ]
+            },
+            "bbox": [
+                624,
+                314,
+                971,
+                350
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/38b9182987b236bb50d375f7eb945fae2d845a8219a38ad49341d5508add8ed6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                617,
+                659,
+                778,
+                877
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/347f3c5ece09b991cb1dbfef07422abbde76f36d881748f7809049dc1128cfb6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                848,
+                716,
+                906,
+                814
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15 "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                966,
+                42,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support ：和 VPP 进行数据交换和传递"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                51,
+                860,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "比如我们在 Output 中添加 string 变量 Str_SendData ，将 X Y A 输入给它，当然你也可以添加或者减少数据"
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                188,
+                758,
+                225
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f5b19fcbb926fbf7098b639c372bd96f890f6554d0bc7b5f18e447edc10cd925.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                52,
+                229,
+                302,
+                659
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "将 Output 中的 str_SendData 传输给 MachineSupport 中 strReturn 并返回，需要修改协议时也可以添加其他数据或者 ErrorCode 之类"
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                614,
+                919,
+                685
+            ]
+        },
+        {
+            "type": "algorithm",
+            "content": {
+                "algorithm_caption": [],
+                "algorithm_content": [
+                    {
+                        "type": "text",
+                        "content": "strReturn  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "+ ="
+                    },
+                    {
+                        "type": "text",
+                        "content": " (string)InspRunParams_TBU[j].Outputs[\"strSend\"]; 1 return strReturn; "
+                    }
+                ]
+            },
+            "bbox": [
+                431,
+                688,
+                789,
+                824
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                29,
+                966,
+                41,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Machine Support ：和 VPP 进行数据交换和传递"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                51,
+                860,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "将数据输入到 vpp 的 Input 中"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                60,
+                187,
+                250,
+                220
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "esupport.cs 中XHACiemplate_iviacninesupport "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                229,
+                291,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "eSupport.HACTemplate_MachineSupport "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                257,
+                240,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " CogTransform2DLinear MotionB_Pose "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " new CogTransform2DLinear () "
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                283,
+                478,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MotionB_Pose.TranslationX "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "double.Parse (commandParts[i "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ +"
+                    },
+                    {
+                        "type": "text",
+                        "content": "1]）"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                305,
+                477,
+                327
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MotionB_Pose.TranslationY "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "double.Parse(commandParts[i + 2]) "
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                329,
+                477,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MotionB_Pose.Rotation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "CogMisc.DegToRad(double.Parse (command "
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                351,
+                477,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "m_Cave_Pose_Info[j].Camera_Pose "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "MotionB_Pose: "
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                372,
+                398,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "m_Cave_Pose_Info[j].CaveID "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "Cave_ID: "
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                394,
+                343,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                118,
+                418,
+                125,
+                437
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "for (int "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ~ \\small ~ \\frac ~ { ~ i ~ } ~ } = \\mathrm { ~ \\scriptsize ~ 0 ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ":i<Cave_Num;i++) "
+                    }
+                ]
+            },
+            "bbox": [
+                118,
+                462,
+                305,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FrameworkConfiguration. gOnly.SetInspectionInputLink (GetCalil RobotPose Moving_Pose "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "new RobotPose(m_Cave_Pose_Info[i].C // RobotPose Moving_Pose "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " new RobotPose(m_Cave_Pose_Info[i InspRunParams_Temp_Check [i] "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "new RunJobParameters (GetInspe InspRunParams_Temp_Check[i]. Inputs[\"Input_Command\"] "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "comma InspRunParams_Temp_Check[i]. Inputs[\"CaveID\"] "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "m_Cave_Pose_ "
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                505,
+                467,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "InspRunParams_Temp_Check[i]. Inputs[\"MovingPoseX\"] "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "m_Cave_ InspRunParams_Temp_Check[i]. Inputs[\"MovingPoseY\"] "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "m_Cave_ InspRunParams_Temp_Check[i].Inputs[\"MovingPoseDeg\"] "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "CogMi "
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                659,
+                467,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "InspRunParams_Temp_Check[i].Inputs[\"Mean\"] = 255: "
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                750,
+                409,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "if((m_TerminalDatas_T2[m_Cave_Pose_Info[i].CaveID - 1]!=] { InspRunParams_Temp_Check[i]. Inputs[\"TerminalDatas_T2\"] InspRunParams_Temp_Check[i].Inputs[\"TerminalDatas_T3\"] "
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                814,
+                467,
+                905
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Function_Finallnspection(CommandAndInfo command, int nDispl: "
+                    }
+                ]
+            },
+            "bbox": [
+                558,
+                255,
+                874,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " VisionTool Configuration - Inspection 5 - Insp 5 T4C Final Recheck "
+                    }
+                ]
+            },
+            "bbox": [
+                478,
+                303,
+                802,
+                329
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6a5647c724a4e90ccca413a97d7540bf7702867af8926ce1f6044241b5b9d4a4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                490,
+                346,
+                524,
+                372
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a4bdcce78a079b858c11c1aa7db380e138eb9774b0523ae4e25643d2c3d74e0f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                535,
+                346,
+                550,
+                372
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2d3e27672926a670396e9d3f4cfdbc0bf8047d6ea7af8a8dcd6978988206b4b0.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                563,
+                346,
+                623,
+                372
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ca35da7860357c669e30b89029030c8c661539fda344dbd455583fb715e0d171.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                635,
+                346,
+                650,
+                372
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/75bcc0ea1daee9397ff5b3e3188f97e8848a3953f485ed5bdfb8b28786cc6093.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                663,
+                346,
+                687,
+                372
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/aa5ae409ff34836a157b9866910f2fad22051ee42096631e90f0d1747019b267.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                689,
+                346,
+                715,
+                372
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d0fc1334f029857684e19f924e2751fb0fa48bb79a842d34939f90c76ccd7f3b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                720,
+                346,
+                745,
+                372
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d1c20590e912a16589611892dea78070027b0e214269402d960ca18ae9275e5c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                750,
+                344,
+                827,
+                368
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7cf51edeb7822970e6fb1f5d43fa25fdacd2d242476f5e2c6c2b41005a0622e1.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                846,
+                344,
+                870,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "工具输入/输出图形"
+                    }
+                ]
+            },
+            "bbox": [
+                478,
+                383,
+                590,
+                407
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/de54f6673bb198e8fb38e960f07ca3a2d4546940a4b5e54cf9576f2f322ad7a9.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>名称</td><td>类型</td><td>值</td></tr><tr><td>MovingPoseX</td><td>System.Double</td><td>450.8</td></tr><tr><td>MovingPoseY</td><td>System.Double</td><td>58</td></tr><tr><td>MovingPoseDeg</td><td>System.Double</td><td>0</td></tr><tr><td>Input_Command</td><td>System.String</td><td>T4C,1,2018060...</td></tr><tr><td>AutoCom</td><td>System.Boolean</td><td>False</td></tr><tr><td>InputImage0</td><td>Cognex.VisionPro.CogImage8Grey</td><td></td></tr><tr><td>InputImage0Home2D</td><td>Cognex.VisionPro.CogImage8Grey</td><td>Cognex.VisionP...</td></tr><tr><td>ProductName</td><td>System.String</td><td>Product 1</td></tr><tr><td>InputImageCameraSettings</td><td>System.String</td><td>Cam4_Exosur...</td></tr><tr><td>InputImage0CameraSettings</td><td>System.String</td><td>Cam4_Exosur...</td></tr><tr><td>InputImageLightChannels</td><td>System.String</td><td></td></tr><tr><td>Mean</td><td>System.Double</td><td>255</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                477,
+                412,
+                855,
+                911
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "17 "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                966,
+                42,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "作业"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                60,
+                53,
+                135,
+                120
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 用自己添加的 MachineSupport ，将第 2 个 Inspection 的 Output 端输出 X Y （ x y 都是 double 类型）传到第 3 个 Inspection 中的Input 中对应坐标 X Y"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.假定调用2个实体相机，相机分辨率是 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "2 4 4 8 ^ { \\star } 2 0 4 8"
+                            },
+                            {
+                                "type": "text",
+                                "content": "，要求完成"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a- 相机 1 实时界面时显示一条横线和一条竖线（标记视野中心，线显示绿色）"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b-相机2实时界面时显示三条横线和四条竖线（横线显示红色，竖线显示绿色）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                192,
+                917,
+                427
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "使用合适的函数，完成上述要求"
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                448,
+                267,
+                479
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                29,
+                966,
+                41,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                964,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c491645569ec2ec89510158dd750bb2403836da656a1d88f0c59b0cae6ce14f8.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                0,
+                0,
+                1000,
+                592
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Thank you "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                405,
+                722,
+                593,
+                801
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                966,
+                41,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                185,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ]
+]

@@ -1,0 +1,4802 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        87,
+                        79,
+                        187,
+                        91
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                79,
+                                187,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        79,
+                                        187,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "本主题包含以下部分:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        91,
+                        109,
+                        180,
+                        186
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 6,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                91,
+                                109,
+                                180,
+                                120
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 1,
+                            "lines": []
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                126,
+                                163,
+                                137
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        123,
+                                        164,
+                                        138
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                92,
+                                                123,
+                                                164,
+                                                138
+                                            ],
+                                            "type": "text",
+                                            "content": "· Settings Tab",
+                                            "score": 0.977
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                142,
+                                157,
+                                154
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": []
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                159,
+                                173,
+                                171
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": []
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                175,
+                                165,
+                                186
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": []
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        216,
+                        502,
+                        278
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                217,
+                                497,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        217,
+                                        497,
+                                        230
+                                    ],
+                                    "type": "text",
+                                    "content": "Copy Region 工具编辑控件为 CogCopyRegionTool 工具提供图形用户界面，此工具可将",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                232,
+                                499,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        232,
+                                        499,
+                                        246
+                                    ],
+                                    "type": "text",
+                                    "content": "输入图像的一部分复制到新的输出图像，将输入图像的一部分复制到现有目标图像，或使",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                249,
+                                502,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        249,
+                                        502,
+                                        262
+                                    ],
+                                    "type": "text",
+                                    "content": "用恒定灰度值填充输入区域的一部分。有关如何使用 Copy Region 工具的更多信息，请参",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                264,
+                                237,
+                                280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        264,
+                                        237,
+                                        280
+                                    ],
+                                    "type": "text",
+                                    "content": "阅主题“Copy Region Theory”。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        294,
+                        508,
+                        322
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                293,
+                                511,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        293,
+                                        511,
+                                        308
+                                    ],
+                                    "type": "text",
+                                    "content": "Copy Region 工具可以接受 16 位编码图像，从而可使用和生成位深为 8 位、10 位、12 位、",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                308,
+                                190,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        308,
+                                        190,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "14 位和 16 位的图像。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        338,
+                        503,
+                        352
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                338,
+                                505,
+                                353
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        338,
+                                        505,
+                                        353
+                                    ],
+                                    "type": "text",
+                                    "content": "注意：输出图像的坐标空间目录树 adjusted（调整）为保留根空间与图像特征之间的关系。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        385,
+                        273,
+                        397
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                385,
+                                275,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        385,
+                                        275,
+                                        397
+                                    ],
+                                    "type": "text",
+                                    "content": "Copy Region 工具编辑控件如下图所示：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        413,
+                        261,
+                        426
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                414,
+                                261,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        414,
+                                        261,
+                                        427
+                                    ],
+                                    "type": "text",
+                                    "content": "下图显示了复制区域工具的编辑控件:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        91,
+                        428,
+                        498,
+                        661
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                91,
+                                428,
+                                498,
+                                661
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        428,
+                                        498,
+                                        661
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                91,
+                                                428,
+                                                498,
+                                                661
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f0352458e305506d566d710222814673a9b66228446a593ee7379708cb896f9c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        87,
+                        684,
+                        227,
+                        698
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                684,
+                                229,
+                                700
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        684,
+                                        229,
+                                        700
+                                    ],
+                                    "type": "text",
+                                    "content": "此编辑控件提供以下功能：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        104,
+                        729,
+                        407,
+                        743
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                729,
+                                407,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        729,
+                                        407,
+                                        744
+                                    ],
+                                    "type": "text",
+                                    "content": " 一排位于左上角的控件按钮，可完成大部分常规操作。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        104,
+                        86,
+                        506,
+                        193
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 2,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                104,
+                                86,
+                                497,
+                                161
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        86,
+                                        498,
+                                        102
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                111,
+                                                86,
+                                                498,
+                                                102
+                                            ],
+                                            "type": "text",
+                                            "content": "一组功能选项卡，用于选择是否从输入图像中复制像素，是否用常数值",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        132,
+                                        116,
+                                        498,
+                                        133
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                132,
+                                                116,
+                                                498,
+                                                133
+                                            ],
+                                            "type": "text",
+                                            "content": "（灰度或颜色）填充输出图像，确定要使用的输入区域的类型，以及选",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        123,
+                                        148,
+                                        396,
+                                        164
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                123,
+                                                148,
+                                                396,
+                                                164
+                                            ],
+                                            "type": "text",
+                                            "content": "择控制输入图像与输出图像的映射方式的配对方法。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                179,
+                                506,
+                                193
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        178,
+                                        508,
+                                        195
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                105,
+                                                178,
+                                                508,
+                                                195
+                                            ],
+                                            "type": "text",
+                                            "content": " 一个图像显示窗口，用于显示取像和 Copy Region 工具生成的输出图像。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        226,
+                        208,
+                        238
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                225,
+                                210,
+                                243
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        225,
+                                        210,
+                                        243
+                                    ],
+                                    "type": "text",
+                                    "content": "一、Control Buttons",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        271,
+                        187,
+                        286
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                270,
+                                189,
+                                292
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        270,
+                                        189,
+                                        292
+                                    ],
+                                    "type": "text",
+                                    "content": "二、Settings Tab",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        311,
+                        177,
+                        322
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                311,
+                                177,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        311,
+                                        177,
+                                        324
+                                    ],
+                                    "type": "text",
+                                    "content": "本节包含以下子节:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        89,
+                        327,
+                        277,
+                        373
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 9,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                327,
+                                166,
+                                339
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        326,
+                                        167,
+                                        341
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                98,
+                                                326,
+                                                167,
+                                                341
+                                            ],
+                                            "type": "text",
+                                            "content": "Inside Region",
+                                            "score": 0.995
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                344,
+                                230,
+                                356
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": []
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                360,
+                                277,
+                                373
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 8,
+                            "lines": []
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        410,
+                        499,
+                        486
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                410,
+                                502,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        410,
+                                        502,
+                                        428
+                                    ],
+                                    "type": "text",
+                                    "content": "使用 Settings 选项卡确定输出图像是否包含输入图像的像素，或是否包含常数",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                441,
+                                498,
+                                459
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        441,
+                                        498,
+                                        459
+                                    ],
+                                    "type": "text",
+                                    "content": "灰度或颜色值，以及确定工具如何处理位于输入区域之外区域限定框的边框之",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                472,
+                                340,
+                                491
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        472,
+                                        340,
+                                        491
+                                    ],
+                                    "type": "text",
+                                    "content": "内的像素。下图所示为默认的 Settings 选项卡：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        94,
+                        79,
+                        469,
+                        403
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                94,
+                                79,
+                                469,
+                                403
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        79,
+                                        469,
+                                        403
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                94,
+                                                79,
+                                                469,
+                                                403
+                                            ],
+                                            "type": "image",
+                                            "image_path": "a2ecf0685fdd2d82ebf7c67271f1ab58f4a404df7cec2f230a9bded4fe2df518.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        88,
+                        423,
+                        166,
+                        435
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                421,
+                                167,
+                                437
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        421,
+                                        167,
+                                        437
+                                    ],
+                                    "type": "text",
+                                    "content": "1、 Inside Region",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        91,
+                        437,
+                        454,
+                        518
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                91,
+                                437,
+                                454,
+                                518
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        437,
+                                        454,
+                                        518
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                91,
+                                                437,
+                                                454,
+                                                518
+                                            ],
+                                            "type": "image",
+                                            "image_path": "70138e90753c72d3f65fecbea5ead77d9880db2a1631ca5fbc46cd13d6e983a8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        86,
+                        552,
+                        499,
+                        597
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                553,
+                                498,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        553,
+                                        498,
+                                        566
+                                    ],
+                                    "type": "text",
+                                    "content": "使用以下选项确定输出图像是否包含来自输入图像的像素或是否包含常数灰度",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                87,
+                                581,
+                                113,
+                                600
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        581,
+                                        113,
+                                        600
+                                    ],
+                                    "type": "text",
+                                    "content": "值：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        621,
+                        409,
+                        634
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                622,
+                                409,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        622,
+                                        134,
+                                        637
+                                    ],
+                                    "type": "text",
+                                    "content": "FillRegion",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        152,
+                                        622,
+                                        409,
+                                        634
+                                    ],
+                                    "type": "text",
+                                    "content": "从输入图像的输入区域获取像素以将其复制到输出图像。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        657,
+                        498,
+                        703
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                657,
+                                498,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        657,
+                                        148,
+                                        676
+                                    ],
+                                    "type": "text",
+                                    "content": "FillRegion",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        172,
+                                        658,
+                                        498,
+                                        672
+                                    ],
+                                    "type": "text",
+                                    "content": "根据所使用的输入区域和输入图像的格式使用常数灰度或颜色",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                172,
+                                689,
+                                264,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        172,
+                                        689,
+                                        264,
+                                        704
+                                    ],
+                                    "type": "text",
+                                    "content": "值填充输出图像。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        170,
+                        734,
+                        436,
+                        749
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                172,
+                                732,
+                                436,
+                                751
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        172,
+                                        732,
+                                        436,
+                                        751
+                                    ],
+                                    "type": "text",
+                                    "content": "如果使用的是灰度图像，请指定 FillRegionValue。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        170,
+                        86,
+                        506,
+                        101
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                170,
+                                84,
+                                507,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        170,
+                                        84,
+                                        507,
+                                        104
+                                    ],
+                                    "type": "text",
+                                    "content": "如 果 使 用 的 是 彩 色 图 像 ， 请 指 定",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        171,
+                        117,
+                        506,
+                        132
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                172,
+                                115,
+                                508,
+                                134
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        172,
+                                        116,
+                                        301,
+                                        134
+                                    ],
+                                    "type": "text",
+                                    "content": "FillRegionPlane0Value",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        336,
+                                        116,
+                                        464,
+                                        133
+                                    ],
+                                    "type": "text",
+                                    "content": "FillRegionPlane1Value",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        489,
+                                        115,
+                                        508,
+                                        134
+                                    ],
+                                    "type": "text",
+                                    "content": "和",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        170,
+                        148,
+                        506,
+                        163
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                173,
+                                148,
+                                506,
+                                163
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        173,
+                                        148,
+                                        506,
+                                        163
+                                    ],
+                                    "type": "text",
+                                    "content": "FillRegionPlane2Value 的值，这些值分别对应 RGB 图像中的",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        170,
+                        179,
+                        504,
+                        195
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                172,
+                                179,
+                                505,
+                                195
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        172,
+                                        179,
+                                        505,
+                                        195
+                                    ],
+                                    "type": "text",
+                                    "content": "红色、绿色和蓝色平面，或 HSI 图像中的色调、饱和度和亮度。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        205,
+                        224,
+                        217
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                202,
+                                224,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        202,
+                                        224,
+                                        221
+                                    ],
+                                    "type": "text",
+                                    "content": "2、 Default Output Image Type",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        108,
+                        236,
+                        268,
+                        272
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                108,
+                                236,
+                                268,
+                                272
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        236,
+                                        268,
+                                        272
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                108,
+                                                236,
+                                                268,
+                                                272
+                                            ],
+                                            "type": "image",
+                                            "image_path": "a54c28c2c77b701a8b2eac06bb170bab45161775f540754c1b3fa71b56a509ef.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        104,
+                        281,
+                        504,
+                        311
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                107,
+                                281,
+                                504,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        281,
+                                        504,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": "在 选 择 使 用 常 数 灰 度 或 颜 色 值 填 充 输 入 区 域 的 像 素 时 ， 指 定 要 生 成 的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                297,
+                                255,
+                                311
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        297,
+                                        255,
+                                        311
+                                    ],
+                                    "type": "text",
+                                    "content": "DefaultOutputImageType 的类型。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        314,
+                        270,
+                        327
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                314,
+                                268,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        314,
+                                        268,
+                                        328
+                                    ],
+                                    "type": "text",
+                                    "content": "3、 Outside Region, Within Bounding Box",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        110,
+                        343,
+                        472,
+                        448
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                110,
+                                343,
+                                472,
+                                448
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        343,
+                                        472,
+                                        448
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                110,
+                                                343,
+                                                472,
+                                                448
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0e130db6e7499a582eafd64d56a2c23591d9f08bd13eab0463711da33b8fea7a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        104,
+                        468,
+                        504,
+                        497
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                107,
+                                470,
+                                503,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        470,
+                                        503,
+                                        481
+                                    ],
+                                    "type": "text",
+                                    "content": "使用以下选项来配置工具如何处理圆形、椭圆形或感兴趣的仿射矩形区域外但在外接",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                485,
+                                415,
+                                496
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        485,
+                                        415,
+                                        496
+                                    ],
+                                    "type": "text",
+                                    "content": "矩形内的像素，并且您正在使用像素对齐边框调整蒙版的区域模式:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        105,
+                        515,
+                        505,
+                        560
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                516,
+                                504,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        516,
+                                        178,
+                                        529
+                                    ],
+                                    "type": "text",
+                                    "content": "FillBoundingBox",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        193,
+                                        516,
+                                        504,
+                                        528
+                                    ],
+                                    "type": "text",
+                                    "content": "如果不使用目标图像，则此选项将使用未初始化值填充该区域以外",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                193,
+                                530,
+                                505,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        193,
+                                        530,
+                                        505,
+                                        544
+                                    ],
+                                    "type": "text",
+                                    "content": "但在封闭边框内的像素。但是，如果使用的是目标图像，则此选项",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                193,
+                                547,
+                                399,
+                                559
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        193,
+                                        547,
+                                        399,
+                                        559
+                                    ],
+                                    "type": "text",
+                                    "content": "允许区域以外的像素保留基础目标图像的值。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        105,
+                        562,
+                        505,
+                        606
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                107,
+                                562,
+                                504,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        563,
+                                        177,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "FillBoundingBox",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        193,
+                                        562,
+                                        504,
+                                        575
+                                    ],
+                                    "type": "text",
+                                    "content": "根据所使用的输入区域和输入图像的格式，使用恒定的灰度或颜色",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                193,
+                                577,
+                                357,
+                                590
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        193,
+                                        577,
+                                        357,
+                                        590
+                                    ],
+                                    "type": "text",
+                                    "content": "值填充区域以外但在边框内的像素。",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                193,
+                                593,
+                                451,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        193,
+                                        593,
+                                        451,
+                                        608
+                                    ],
+                                    "type": "text",
+                                    "content": "如果使用的是灰度图像，请指定 FillBoundingBoxValue；",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        191,
+                        608,
+                        506,
+                        684
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                192,
+                                608,
+                                507,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        192,
+                                        608,
+                                        418,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": "如 果 使 用 彩 色 图 像",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        434,
+                                        616,
+                                        439,
+                                        621
+                                    ],
+                                    "type": "text",
+                                    "content": "，",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        461,
+                                        608,
+                                        507,
+                                        623
+                                    ],
+                                    "type": "text",
+                                    "content": "请 为",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                192,
+                                624,
+                                506,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        192,
+                                        624,
+                                        506,
+                                        637
+                                    ],
+                                    "type": "text",
+                                    "content": "FillBoundingBoxPlane0Value 、 FillBoundingBoxPlane1Value 和",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                193,
+                                641,
+                                506,
+                                653
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        193,
+                                        641,
+                                        506,
+                                        653
+                                    ],
+                                    "type": "text",
+                                    "content": "FillBoundingBoxPlane2Value 指定值，它们对应于 RGB 图像中的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                193,
+                                655,
+                                505,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        193,
+                                        655,
+                                        505,
+                                        669
+                                    ],
+                                    "type": "text",
+                                    "content": "红色、绿色和蓝色的单独平面，或 HSI图像中的色调、饱和度和强",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                192,
+                                671,
+                                213,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        192,
+                                        671,
+                                        213,
+                                        685
+                                    ],
+                                    "type": "text",
+                                    "content": "度。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        709,
+                        182,
+                        725
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                708,
+                                183,
+                                729
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        708,
+                                        183,
+                                        729
+                                    ],
+                                    "type": "text",
+                                    "content": "三、Region Tab",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        740,
+                        202,
+                        756
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                740,
+                                204,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        740,
+                                        204,
+                                        759
+                                    ],
+                                    "type": "text",
+                                    "content": "四、Alignment Tab",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        79,
+                        505,
+                        125
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                79,
+                                505,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        79,
+                                        505,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "复制区域工具允许您复制输入图像的输入区域，并将其粘贴到某个目标图像的内容中。默",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                95,
+                                505,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        95,
+                                        505,
+                                        108
+                                    ],
+                                    "type": "text",
+                                    "content": "认情况下，输入图像和目标图像在当前坐标空间的图像坐标(0,0)处对齐到每个图像的左上",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                111,
+                                451,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        111,
+                                        451,
+                                        123
+                                    ],
+                                    "type": "text",
+                                    "content": "角。这种对齐导致将输入区域置于目标图像中它在输入图像中使用的相同位置。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        141,
+                        506,
+                        202
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                141,
+                                505,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        141,
+                                        505,
+                                        154
+                                    ],
+                                    "type": "text",
+                                    "content": "使用“复制区域编辑”控件的“对齐”选项卡可指定两个图像之间的不同对齐方式。例如",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                157,
+                                505,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        157,
+                                        505,
+                                        169
+                                    ],
+                                    "type": "text",
+                                    "content": "如果为输入图像指定一个坐标(25,25)，并将目标图像上的对齐点保留为(0,0)，则该工具将",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                172,
+                                506,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        172,
+                                        506,
+                                        186
+                                    ],
+                                    "type": "text",
+                                    "content": "输入图像上的点(25,25)与目标图像上的点(0,0)对齐。这进而导致输入区域出现在目标图像",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                188,
+                                294,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        188,
+                                        294,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "中，相对于其在输入图像中的位置的偏移量。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        219,
+                        483,
+                        233
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                219,
+                                481,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        219,
+                                        481,
+                                        232
+                                    ],
+                                    "type": "text",
+                                    "content": "如果不为工具提供目标图像，此选项卡中的设置将无效。下图显示了默认对齐选项卡:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        91,
+                        250,
+                        467,
+                        575
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                91,
+                                250,
+                                467,
+                                575
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        250,
+                                        467,
+                                        575
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                91,
+                                                250,
+                                                467,
+                                                575
+                                            ],
+                                            "type": "image",
+                                            "image_path": "91971e536217f5e727cdfa41ecca33be44d1a117998acf045a29c4abad7392be.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        86,
+                        608,
+                        195,
+                        621
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                608,
+                                195,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        608,
+                                        195,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": "ImageAlignmentEnabled",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        624,
+                        503,
+                        655
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                624,
+                                503,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        624,
+                                        503,
+                                        637
+                                    ],
+                                    "type": "text",
+                                    "content": "启用输入图像与目标图像的特定对齐。默认情况下，该工具将图像对齐到每个图像的坐",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                640,
+                                244,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        640,
+                                        244,
+                                        655
+                                    ],
+                                    "type": "text",
+                                    "content": "(0,0)。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        671,
+                        188,
+                        684
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                671,
+                                188,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        671,
+                                        188,
+                                        687
+                                    ],
+                                    "type": "text",
+                                    "content": "Input Image Alignment",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        212,
+                        671,
+                        505,
+                        700
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                670,
+                                507,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        670,
+                                        507,
+                                        687
+                                    ],
+                                    "type": "text",
+                                    "content": "使用 InputImageAlignmentX 和 InputImageAlignmentY 字段来",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                214,
+                                687,
+                                395,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        687,
+                                        395,
+                                        701
+                                    ],
+                                    "type": "text",
+                                    "content": "指定要用于对齐图像的输入图像中的点",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        213,
+                        702,
+                        495,
+                        715
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                214,
+                                702,
+                                496,
+                                717
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        702,
+                                        496,
+                                        717
+                                    ],
+                                    "type": "text",
+                                    "content": "单击 Fit In Input Image 按钮将对齐点移动到输入图像的中心。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        719,
+                        214,
+                        730
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                717,
+                                215,
+                                733
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        717,
+                                        215,
+                                        733
+                                    ],
+                                    "type": "text",
+                                    "content": "Destination Image Alignment",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        734,
+                        506,
+                        762
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                732,
+                                506,
+                                749
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        732,
+                                        506,
+                                        749
+                                    ],
+                                    "type": "text",
+                                    "content": "使用 DestinationImageAlignmentX 和 DestinationImageAlignmentY 字段来指定目标图像",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                747,
+                                200,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        747,
+                                        200,
+                                        763
+                                    ],
+                                    "type": "text",
+                                    "content": "中要用于对齐图像的点。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        79,
+                        379,
+                        92
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                79,
+                                379,
+                                93
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        79,
+                                        379,
+                                        93
+                                    ],
+                                    "type": "text",
+                                    "content": "单击“适合目标图像”按钮，将对齐点移动到目标图像的中心。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        79,
+                        188,
+                        91
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                79,
+                                188,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        79,
+                                        188,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "本主题包含以下部分:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        90,
+                        95,
+                        204,
+                        135
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 4,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                90,
+                                95,
+                                204,
+                                106
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        93,
+                                        205,
+                                        108
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                102,
+                                                93,
+                                                205,
+                                                108
+                                            ],
+                                            "type": "text",
+                                            "content": " Example: Subsampling",
+                                            "score": 0.977
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                110,
+                                190,
+                                121
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        109,
+                                        189,
+                                        121
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                102,
+                                                109,
+                                                189,
+                                                121
+                                            ],
+                                            "type": "text",
+                                            "content": " Single-Image Tools",
+                                            "score": 0.948
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                124,
+                                180,
+                                135
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        123,
+                                        181,
+                                        136
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                97,
+                                                123,
+                                                181,
+                                                136
+                                            ],
+                                            "type": "text",
+                                            "content": "Two-Imaqe Tools",
+                                            "score": 0.988
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        141,
+                        504,
+                        169
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                142,
+                                505,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        142,
+                                        505,
+                                        154
+                                    ],
+                                    "type": "text",
+                                    "content": "当您使用图像处理工具通过处理输入图像中的像素来生成新图像时，图像处理工具负责建",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                157,
+                                211,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        157,
+                                        211,
+                                        169
+                                    ],
+                                    "type": "text",
+                                    "content": "立输出图像的坐标空间树。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        172,
+                        504,
+                        200
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                173,
+                                505,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        173,
+                                        505,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "图像处理工具通常对图像的坐标空间树进行修改，使像素空间(\"#\")与根空间的关系反映图",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                187,
+                                180,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        187,
+                                        180,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "像处理操作的效果。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        203,
+                        498,
+                        232
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                204,
+                                500,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        204,
+                                        500,
+                                        216
+                                    ],
+                                    "type": "text",
+                                    "content": "例如，如果使用高斯采样工具对图像进行子采样和平滑，结果输出图像将调整其空间树，",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                219,
+                                409,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        219,
+                                        409,
+                                        232
+                                    ],
+                                    "type": "text",
+                                    "content": "以便特征在平滑和采样图像中的位置与它们在输入图像中的位置相同。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        257,
+                        332,
+                        274
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                256,
+                                333,
+                                275
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        256,
+                                        333,
+                                        275
+                                    ],
+                                    "type": "text",
+                                    "content": "一、 Example: Subsampling（二次采样）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        122,
+                        281,
+                        504,
+                        310
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                280,
+                                506,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        280,
+                                        448,
+                                        296
+                                    ],
+                                    "type": "text",
+                                    "content": "下图显示了其工作原理。在输入图像中，像素空间(# space)和根空间(",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        449,
+                                        282,
+                                        460,
+                                        295
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "@",
+                                    "score": 0.8
+                                },
+                                {
+                                    "bbox": [
+                                        460,
+                                        280,
+                                        506,
+                                        296
+                                    ],
+                                    "type": "text",
+                                    "content": "space)是",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                297,
+                                362,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        297,
+                                        362,
+                                        310
+                                    ],
+                                    "type": "text",
+                                    "content": "相同的。所指示的点在两个空间中具有相同的位置。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        122,
+                        312,
+                        504,
+                        341
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                313,
+                                505,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        313,
+                                        505,
+                                        326
+                                    ],
+                                    "type": "text",
+                                    "content": "在对图像进行子采样之后(X和y方向的采样系数都为 2)，输出图像的像素数是输",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                327,
+                                215,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        327,
+                                        215,
+                                        343
+                                    ],
+                                    "type": "text",
+                                    "content": "入图像的四分之一。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        123,
+                        343,
+                        368,
+                        356
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                125,
+                                344,
+                                368,
+                                357
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        344,
+                                        368,
+                                        357
+                                    ],
+                                    "type": "text",
+                                    "content": "因此，相同的位置(绿色显示)在像素空间中已经改变。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        122,
+                        359,
+                        504,
+                        387
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                125,
+                                360,
+                                503,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        360,
+                                        503,
+                                        371
+                                    ],
+                                    "type": "text",
+                                    "content": "但是在根空间中，位置并没有改变，因为高斯采样工具更新了输出图像的根空间来",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                375,
+                                246,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        375,
+                                        246,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "反映图像处理操作的效果。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        122,
+                        390,
+                        504,
+                        419
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                391,
+                                503,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        391,
+                                        503,
+                                        402
+                                    ],
+                                    "type": "text",
+                                    "content": "这种自动更改为根空间意味着，当您使用模式定位工具、指定区域或使用图像的根",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                407,
+                                446,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        407,
+                                        446,
+                                        419
+                                    ],
+                                    "type": "text",
+                                    "content": "空间执行任何其他操作时，您指定的位置将与原始图像中的位置对应。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        129,
+                        425,
+                        536,
+                        553
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                129,
+                                425,
+                                536,
+                                553
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        425,
+                                        536,
+                                        553
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                129,
+                                                425,
+                                                536,
+                                                553
+                                            ],
+                                            "type": "image",
+                                            "image_path": "05d55d86455d8f47fb19fde6156239bba156dbdf4466f724a84d10a1b0f8ac85.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        86,
+                        585,
+                        235,
+                        601
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                583,
+                                236,
+                                602
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        583,
+                                        236,
+                                        602
+                                    ],
+                                    "type": "text",
+                                    "content": "二、 Single-Image Tools",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        122,
+                        608,
+                        504,
+                        637
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 16,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                608,
+                                505,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        608,
+                                        505,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": "下表总结了采用单个输入图像的各种图像处理工具所做的调整类型。有关特定工具",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                624,
+                                288,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        624,
+                                        288,
+                                        637
+                                    ],
+                                    "type": "text",
+                                    "content": "的详细信息，请参阅该工具的文档。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        123,
+                        640,
+                        226,
+                        651
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 17,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                640,
+                                227,
+                                653
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        640,
+                                        227,
+                                        653
+                                    ],
+                                    "type": "text",
+                                    "content": "Affine Transformations",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        122,
+                        655,
+                        504,
+                        700
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 18,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                655,
+                                506,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        655,
+                                        506,
+                                        669
+                                    ],
+                                    "type": "text",
+                                    "content": "如果你使用 CogAffineTransformTool 或如果你使用 CogRegionModeConstants 区",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                671,
+                                506,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        671,
+                                        506,
+                                        685
+                                    ],
+                                    "type": "text",
+                                    "content": "域模式与Cognex一个图像或两个影像工具,输出图像的图像处理工具集的根空间之",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                687,
+                                414,
+                                700
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        687,
+                                        414,
+                                        700
+                                    ],
+                                    "type": "text",
+                                    "content": "间的转换,以反映所提供的输入区域(一个仿射矩形)和输出图像。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        125,
+                        75,
+                        345,
+                        223
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                125,
+                                75,
+                                345,
+                                223
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        75,
+                                        345,
+                                        223
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                125,
+                                                75,
+                                                345,
+                                                223
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0a599d7bd531a4a6871479606694a96e1176a3af5887e2150dcaa97b66e2fd91.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        361,
+                        76,
+                        540,
+                        265
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                361,
+                                76,
+                                540,
+                                265
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        361,
+                                        76,
+                                        540,
+                                        265
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                361,
+                                                76,
+                                                540,
+                                                265
+                                            ],
+                                            "type": "image",
+                                            "image_path": "df445570652fa26f05faa9e927eba702e4ffb59c34b08d7a24448b625d54513b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        123,
+                        281,
+                        217,
+                        294
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                123,
+                                281,
+                                218,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        123,
+                                        281,
+                                        218,
+                                        296
+                                    ],
+                                    "type": "text",
+                                    "content": "Image Flip or Rotate.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        123,
+                        296,
+                        506,
+                        326
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                125,
+                                297,
+                                504,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        297,
+                                        504,
+                                        310
+                                    ],
+                                    "type": "text",
+                                    "content": "如果使用单图像工具来翻转或旋转输入图像，则输出图像的根空间将反映翻转或旋",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                123,
+                                312,
+                                144,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        123,
+                                        312,
+                                        144,
+                                        327
+                                    ],
+                                    "type": "text",
+                                    "content": "转。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        125,
+                        332,
+                        301,
+                        470
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                125,
+                                332,
+                                301,
+                                470
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        332,
+                                        301,
+                                        470
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                125,
+                                                332,
+                                                301,
+                                                470
+                                            ],
+                                            "type": "image",
+                                            "image_path": "466e4472c7534017e777e5074d23037d8339b785da9de6dcf9e2ca629fe5a858.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        339,
+                        327,
+                        536,
+                        502
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                339,
+                                327,
+                                536,
+                                502
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        339,
+                                        327,
+                                        536,
+                                        502
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                339,
+                                                327,
+                                                536,
+                                                502
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0f537a932b71e45265539bdf78cafeee0c31018a730ab7e6c2916126f44694c8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        122,
+                        545,
+                        506,
+                        575
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                547,
+                                504,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        547,
+                                        504,
+                                        560
+                                    ],
+                                    "type": "text",
+                                    "content": "CogCopyRegionTool的行为类似于仿射变换(如上所述)。输出图像的根空间反映了",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                562,
+                                331,
+                                575
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        562,
+                                        331,
+                                        575
+                                    ],
+                                    "type": "text",
+                                    "content": "输入图像的根空间与被复制区域之间的转换。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        130,
+                        581,
+                        333,
+                        727
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                130,
+                                581,
+                                333,
+                                727
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        581,
+                                        333,
+                                        727
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                130,
+                                                581,
+                                                333,
+                                                727
+                                            ],
+                                            "type": "image",
+                                            "image_path": "61c0da89d7953e882ea8007fa4b1e8d28d94a12fe0a26a967006ae6a5539a447.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        359,
+                        581,
+                        524,
+                        747
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                359,
+                                581,
+                                524,
+                                747
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        581,
+                                        524,
+                                        747
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                359,
+                                                581,
+                                                524,
+                                                747
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3d71fefdd612c069653bb00fcd8b8a1916461b985d1cb9429f808fb101b86f55.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        123,
+                        79,
+                        285,
+                        91
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                78,
+                                286,
+                                93
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        78,
+                                        286,
+                                        93
+                                    ],
+                                    "type": "text",
+                                    "content": "Kernel-based Image Processing Tools",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        122,
+                        95,
+                        504,
+                        122
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                95,
+                                505,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        95,
+                                        505,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "通过对输入图像中的像素依次应用内核来执行图像处理操作的大多数工具都会生成",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                111,
+                                246,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        111,
+                                        246,
+                                        122
+                                    ],
+                                    "type": "text",
+                                    "content": "比输入图像小的输出图像。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        123,
+                        125,
+                        504,
+                        154
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                125,
+                                505,
+                                139
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        125,
+                                        296,
+                                        139
+                                    ],
+                                    "type": "text",
+                                    "content": "大小的缩减取决于内核的大小。对于",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        296,
+                                        126,
+                                        315,
+                                        138
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "3 { \\times } 3",
+                                    "score": 0.64
+                                },
+                                {
+                                    "bbox": [
+                                        316,
+                                        125,
+                                        505,
+                                        139
+                                    ],
+                                    "type": "text",
+                                    "content": "内核(最常见的大小)，图像在X和y方向",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                142,
+                                226,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        142,
+                                        226,
+                                        154
+                                    ],
+                                    "type": "text",
+                                    "content": "上都缩小了2个像素。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        123,
+                        157,
+                        351,
+                        169
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                157,
+                                351,
+                                170
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        157,
+                                        351,
+                                        170
+                                    ],
+                                    "type": "text",
+                                    "content": "输出图像中的根空间会自动调整以补偿这种效果。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        123,
+                        172,
+                        504,
+                        200
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                173,
+                                505,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        173,
+                                        505,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "高斯采样工具是这个规则的一个例外。该工具综合生成“缺失”的像素，因此其输",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                189,
+                                257,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        189,
+                                        257,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "出图像与输入图像大小相同。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        130,
+                        208,
+                        299,
+                        338
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                130,
+                                208,
+                                299,
+                                338
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        208,
+                                        299,
+                                        338
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                130,
+                                                208,
+                                                299,
+                                                338
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8867f87be80e1e403dccef412a19ac363640c0c55b7a2da7edc7a88029594860.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        348,
+                        208,
+                        532,
+                        369
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                348,
+                                208,
+                                532,
+                                369
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        348,
+                                        208,
+                                        532,
+                                        369
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                348,
+                                                208,
+                                                532,
+                                                369
+                                            ],
+                                            "type": "image",
+                                            "image_path": "d41e142ec553c46b73cf07cfffb64ff87c94c627da58682ccea2aa5602b65d19.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        87,
+                        382,
+                        223,
+                        398
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                379,
+                                226,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        379,
+                                        226,
+                                        404
+                                    ],
+                                    "type": "text",
+                                    "content": "三、 Two-Image Tools",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        122,
+                        406,
+                        505,
+                        434
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                123,
+                                404,
+                                506,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        123,
+                                        404,
+                                        506,
+                                        422
+                                    ],
+                                    "type": "text",
+                                    "content": "默认情况下，接受两个输入图像的图像处理工具(例如 CogIPTwoImageAddTool)的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                423,
+                                351,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        423,
+                                        351,
+                                        435
+                                    ],
+                                    "type": "text",
+                                    "content": "操作方式与上一节中描述的单图像工具完全相同。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        122,
+                        437,
+                        504,
+                        466
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                125,
+                                438,
+                                503,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        438,
+                                        503,
+                                        449
+                                    ],
+                                    "type": "text",
+                                    "content": "输出图像的根空间是基于输入图像的根空间与第一个图像的输入区域所隐含的任何",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                454,
+                                488,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        454,
+                                        488,
+                                        466
+                                    ],
+                                    "type": "text",
+                                    "content": "转换的组合。除了计算图像对齐之外，第二幅图像的坐标空间树基本上被忽略。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        122,
+                        483,
+                        504,
+                        513
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                125,
+                                485,
+                                504,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        485,
+                                        504,
+                                        497
+                                    ],
+                                    "type": "text",
+                                    "content": "但是，在某些情况下，您可能希望在输出图像的坐标空间树中保存来自两个输入图",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                498,
+                                174,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        498,
+                                        174,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "像的信息。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        123,
+                        515,
+                        505,
+                        544
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                123,
+                                514,
+                                507,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        123,
+                                        514,
+                                        507,
+                                        529
+                                    ],
+                                    "type": "text",
+                                    "content": "可 以 通 过 为 工 具 的 SpaceTreeMode 属 性 指 定",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                530,
+                                506,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        531,
+                                        329,
+                                        545
+                                    ],
+                                    "type": "text",
+                                    "content": "CogIPTwoImageSpaceTreeModeConstants",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        492,
+                                        530,
+                                        506,
+                                        544
+                                    ],
+                                    "type": "text",
+                                    "content": "或",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        123,
+                        547,
+                        366,
+                        560
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                546,
+                                367,
+                                561
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        546,
+                                        367,
+                                        561
+                                    ],
+                                    "type": "text",
+                                    "content": "CogIPTwoImageSpaceTreeModeConstants 来实现。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        122,
+                        562,
+                        504,
+                        606
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                561,
+                                504,
+                                575
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        561,
+                                        504,
+                                        575
+                                    ],
+                                    "type": "text",
+                                    "content": "当您这样做时，双图像工具将第二幅图像的空间树与第一幅图像的空间树合并。它",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                576,
+                                505,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        576,
+                                        505,
+                                        592
+                                    ],
+                                    "type": "text",
+                                    "content": "通过创建一个新的空间，使用 MergedSpaceTreeName属性指定名称，然后使用",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                593,
+                                373,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        593,
+                                        250,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "标识转换(I)将第二幅图像的",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        251,
+                                        594,
+                                        261,
+                                        606
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "@",
+                                    "score": 0.74
+                                },
+                                {
+                                    "bbox": [
+                                        262,
+                                        593,
+                                        373,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "空间附加到这个新空间。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        123,
+                        608,
+                        504,
+                        637
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                609,
+                                505,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        609,
+                                        505,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": "新创建的空间反映了第二幅图像相对于第一幅图像的对齐。这种合并允许您使用输",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                624,
+                                362,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        624,
+                                        362,
+                                        637
+                                    ],
+                                    "type": "text",
+                                    "content": "入图像空间树中的坐标继续引用合并图像中的特性。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        123,
+                        655,
+                        265,
+                        668
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                126,
+                                655,
+                                265,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        655,
+                                        265,
+                                        668
+                                    ],
+                                    "type": "text",
+                                    "content": "下图显示了合并是如何完成的:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 8
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

@@ -1,0 +1,1238 @@
+[
+    {
+        "type": "text",
+        "text": "1、Settings Tab (Settings 选项卡)",
+        "text_level": 1,
+        "bbox": [
+            147,
+            93,
+            391,
+            109
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d324c2a536bf451ca4ae43f780ee09c097a10672473e3e751291d64b05d5c38e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            152,
+            128,
+            771,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EdgeMode 确定 Caliper 工具要搜索的结果是单个边缘还是边缘对。",
+        "bbox": [
+            144,
+            483,
+            650,
+            498
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Edge0Polarity, Edge1Polarity ",
+        "bbox": [
+            146,
+            501,
+            354,
+            514
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如果选择 Single Edge 模式，则只有 Edge 0 Polarity 值可用，这是第一个（唯一一个）边缘所需的极性。",
+        "bbox": [
+            144,
+            519,
+            847,
+            552
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如果您选择 Edge Pair 模式，则 Edge 1 Polarity 值可用，这是第二个边缘所需的极性",
+        "bbox": [
+            146,
+            556,
+            779,
+            571
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Edge Pair Width ",
+        "bbox": [
+            146,
+            594,
+            265,
+            607
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如果您选择Edge Pair 计分，则必须设置Edge Pair Width，即每个边缘对中两条边缘之间的距离（单位为所选的空间）。衍生自 Edge0Position 和 Edge1Position 属性。",
+        "bbox": [
+            144,
+            612,
+            847,
+            646
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ContrastThreshold 计分阶段中所考虑的边缘需要的最小对比度。",
+        "bbox": [
+            144,
+            668,
+            633,
+            682
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MaxResults 找到的最大结果数;",
+        "bbox": [
+            146,
+            686,
+            403,
+            701
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FilterHalfSizeInPixels 指定过滤器的半宽。",
+        "bbox": [
+            146,
+            705,
+            473,
+            720
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2、Scoring Tab (Scoring 选项卡) ",
+        "text_level": 1,
+        "bbox": [
+            146,
+            741,
+            381,
+            758
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "计分方法",
+        "bbox": [
+            146,
+            778,
+            221,
+            793
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "尺寸–根据边线之间的宽度与边线模型的不同程度",
+        "bbox": [
+            146,
+            797,
+            537,
+            812
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• $\\boldsymbol { \\mathsf { W } } =$ 边线模型的宽度(设定值)",
+            "• ${ \\sf d } =$ 边线对子的宽度(测量值)",
+            "• 0 - Size_Diff_Norm |w - d|/w ",
+            "• 1 - Size_Norm d/w",
+            "• 2 - Size_Diff_Norm_Asym (d-w)/w "
+        ],
+        "bbox": [
+            146,
+            816,
+            460,
+            904
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "位置- 边缘与投影窗口的中心之间的距离",
+        "bbox": [
+            146,
+            93,
+            465,
+            108
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "• a = 边缘的原点与边缘窗口中心之间的距离(结果中得出的距离）",
+        "bbox": [
+            146,
+            112,
+            638,
+            127
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "•W-为设定值 ",
+        "bbox": [
+            147,
+            131,
+            253,
+            145
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "• 0 - Pos | a | ",
+        "bbox": [
+            147,
+            149,
+            326,
+            164
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "• 1 - Pos_Norm | a | / w ",
+        "bbox": [
+            147,
+            168,
+            332,
+            181
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "• 2 - Pos_Neg a ",
+        "bbox": [
+            147,
+            187,
+            302,
+            200
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "• 3 - Pos_Norm_Neg a / w ",
+        "bbox": [
+            147,
+            206,
+            364,
+            219
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Straddle ",
+        "bbox": [
+            146,
+            242,
+            211,
+            254
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卡尺中线位于 2 边缘对中间，则得分为 1，否则为 0；",
+        "bbox": [
+            146,
+            260,
+            552,
+            275
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一、Caliper Tool Overview(概述)",
+        "text_level": 1,
+        "bbox": [
+            146,
+            149,
+            389,
+            165
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节包含以下小节:Projections(投影)Edge ModeCaliper Tool Result",
+        "bbox": [
+            144,
+            186,
+            300,
+            256
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "卡尺工具是一种视觉工具，用于测量对象的宽度、边缘或特征的位置以及图像中边缘对的位置和间距。卡尺工具不同于其他视觉工具，它要求您知道要测量或定位的特征或边缘的大致位置和特征。",
+        "bbox": [
+            144,
+            278,
+            850,
+            332
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Caliper工具通常用于开发关于对象中特征的精确位置的详细信息。它不适合开发关于对象或特征形状的信息",
+        "bbox": [
+            144,
+            351,
+            847,
+            387
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "卡钳工具使用边缘模式方法定位图像中的边缘或边缘对，在这种方法中，使用简单的一维核检测边缘峰值",
+        "bbox": [
+            144,
+            407,
+            850,
+            443
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一旦确定了图像中感兴趣的边缘或边缘对的位置和方向，就可以执行以下步骤来应用Caliper 工具：",
+        "bbox": [
+            144,
+            463,
+            847,
+            498
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "指定一个覆盖感兴趣的边或边对的投影区域。",
+        "bbox": [
+            181,
+            501,
+            529,
+            514
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择一个过滤器大小和对比度阈值，以隔离感兴趣的边缘。",
+        "bbox": [
+            181,
+            519,
+            633,
+            535
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义描述感兴趣的边或边对的边模型。",
+        "bbox": [
+            181,
+            539,
+            475,
+            552
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义用于在图像中对边缘模式候选项进行评分的评分方法。",
+        "bbox": [
+            181,
+            557,
+            633,
+            571
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应用卡钳工具对测量结果进行分析。",
+        "bbox": [
+            181,
+            575,
+            457,
+            590
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1、Projections ",
+        "text_level": 1,
+        "bbox": [
+            146,
+            613,
+            268,
+            627
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用卡钳工具的第一步是在图像中指定要应用该工具的投影区域。卡钳工具依赖于一个精心定义的投影区域，将边缘信息从图像的一小部分中分离出来。",
+        "bbox": [
+            144,
+            649,
+            848,
+            684
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "你指定一个投影区域的卡钳工具，以下列任何一种方式:",
+        "bbox": [
+            144,
+            705,
+            579,
+            720
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "提供仿射矩形和仿射采样参数；",
+        "bbox": [
+            181,
+            722,
+            423,
+            738
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义投影区域的位置、大小以及倾斜和旋转的角度；",
+        "bbox": [
+            181,
+            741,
+            581,
+            757
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通常，投影区域包含图像具有感兴趣特征的部分。投影运算对投影区域内的所有信息进行了累加，增强了与投影射线平行的边缘的强度，减少了噪声的影响。",
+        "bbox": [
+            144,
+            778,
+            847,
+            813
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1显示了投影如何在二维图像中突出边缘信息。注意，在投影图像中边缘的强度比在初始图像中更强。",
+        "bbox": [
+            144,
+            834,
+            850,
+            868
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1所示。用投影突出边缘信息",
+        "bbox": [
+            144,
+            885,
+            398,
+            902
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/60b103ef554d662799ee76bbb53bdb2e3c7845d62e98cb7dc31697c8a1f1787a.jpg",
+        "image_caption": [
+            "图 1"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            174,
+            101,
+            831,
+            424
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一旦卡尺工具产生一个投影图像，它使用边缘模式定位边缘。",
+        "bbox": [
+            144,
+            494,
+            616,
+            508
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2、Edge Mode",
+        "text_level": 1,
+        "bbox": [
+            144,
+            529,
+            268,
+            544
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This section contains the following subsection 本节包含以下小节： ",
+        "bbox": [
+            164,
+            562,
+            608,
+            576
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Filtering ",
+        "bbox": [
+            200,
+            589,
+            267,
+            602
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Edge Mode Scoring ",
+        "bbox": [
+            200,
+            615,
+            359,
+            631
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节描述卡钳工具如何在边缘模式下检测边缘。",
+        "bbox": [
+            144,
+            644,
+            509,
+            658
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Filtering ",
+        "text_level": 1,
+        "bbox": [
+            144,
+            671,
+            221,
+            686
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "卡钳工具使用投影区域产生包含感兴趣的边缘的图像部分的一维表示。这种一维投影图像不仅包含感兴趣的边缘，还包括原始图像中由于噪声和不需要的信息而引起的其他边缘。对一维投影图像进行滤波可以增强感兴趣边缘的强度，同时降低图像噪声。",
+        "bbox": [
+            144,
+            699,
+            847,
+            751
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "卡尺工具通过将一维投影图像与滤波算子进行卷积来进行滤波。滤波器运算符是一组算术运算符，它依次应用于一维投影图像中的像素块，以产生滤波图像中的像素值。",
+        "bbox": [
+            144,
+            763,
+            838,
+            797
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2演示了一个简单的3元素筛选操作符示例。在这种情况下，filter操作符减去每个像素的左邻域的值，然后加上每个像素的右邻域的值，从而在过滤后的图像中生成像素值。",
+        "bbox": [
+            144,
+            809,
+            847,
+            843
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2 滤波投影图像",
+        "text_level": 1,
+        "bbox": [
+            144,
+            854,
+            292,
+            871
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/875ebe97a1cfc621a351024142a99f8f4aa3a77ecc7a73a5200a5b34bf284bfd.jpg",
+        "image_caption": [
+            "图3 过滤大小为1"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            157,
+            105,
+            826,
+            470
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图 2",
+        "bbox": [
+            480,
+            491,
+            517,
+            506
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "过滤后的图像在视觉上不再与输入图像相似。然而，它确实有一个重要的新特性:经过过滤的像素值的图形显示，这些值中的峰值(包括正值和负值)与初始图像中的边缘位置相对应。卡尺工具在经过过滤的图像中使用这些峰值来确定原始图像中边缘的位置。",
+        "bbox": [
+            147,
+            518,
+            850,
+            571
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了产生与输入图像中的边缘相对应的峰值图像外，图像过滤还从输入图像中去除噪声和虚假边缘。图3展示了一个示例，其中图像包含两条真实的边缘，以及由边缘周围像素值变化引起的伪边缘。",
+        "bbox": [
+            147,
+            582,
+            850,
+            636
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当对图像应用大小为1的滤波器时，感兴趣的边缘和伪边缘都以峰值的形式出现在滤波后的投影图像中。",
+        "bbox": [
+            147,
+            646,
+            850,
+            682
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/95c55bd95158b3f5391e006f6ddda4ac20dbe4030682eabb2a437293596a8405.jpg",
+        "image_caption": [
+            "图 3",
+            "图4显示了应用宽度为2的过滤器的效果。与感兴趣的边缘相对应的峰值更宽，图3中的大多数伪峰值不再出现在经过过滤的投影图像中。",
+            "图4过滤大小为2"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            166,
+            87,
+            836,
+            429
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c94599a72342fbfbaab3660423c24ba81283bdbf5f59ba608cb581c7803d740.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            152,
+            92,
+            830,
+            451
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Edge Mode Scoring ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            472,
+            317,
+            488
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "一旦定位了原始图像中的边缘，Caliper工具就会为图像中的每个潜在边缘模式计算一个分数。图像中每个边缘模式的得分是根据图像中的边缘模式与您定义的理想边缘模式之间的相似性计算的。图像中的边缘模式称为边缘模式候选，而理想的边缘模式称为边缘模型。您可以定义包含单个边或一对边的边缘模型。",
+        "bbox": [
+            144,
+            500,
+            848,
+            571
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过执行以下步骤，您可以控制Caliper工具用于对边缘模式候选项进行评分的方法:",
+        "bbox": [
+            146,
+            583,
+            803,
+            599
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "定义描述要搜索的边或边对的边模型；",
+        "bbox": [
+            181,
+            609,
+            477,
+            626
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "定义一个或多个评分方法，这些方法定义如何评估边缘模式候选项与边缘模型的相似性。",
+        "bbox": [
+            181,
+            638,
+            840,
+            673
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "边缘模型是对您希望在图像中看到的边缘模式的描述。边缘模型包括边缘间距、位置和极性(暗到光或光到暗)；",
+        "bbox": [
+            144,
+            684,
+            848,
+            719
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对于图像中的每个边缘模式候选，Caliper工具计算一个分数。在计算边缘的总分时，您可以精确地指定如何计算每个边缘属性，例如位置、强度或极性。该工具根据您提供的计分方法为每个边缘模式候选对象的每个属性计算一个单独的值，然后通过组合单个得分计算每个边缘模式候选对象的总体得分；",
+        "bbox": [
+            144,
+            730,
+            848,
+            802
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3、Caliper Tool Results",
+        "text_level": 1,
+        "bbox": [
+            146,
+            814,
+            339,
+            829
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "卡钳工具返回图像中所有边缘模式候选人的总分和位置，这些候选人的得分高于您提供的最低接受分数。",
+        "bbox": [
+            144,
+            840,
+            840,
+            875
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "二、How the Caliper Tool Works",
+        "text_level": 1,
+        "bbox": [
+            146,
+            887,
+            406,
+            903
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本节包含以下小节：",
+        "bbox": [
+            144,
+            93,
+            300,
+            108
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Specifying the Projection Region ",
+        "bbox": [
+            144,
+            121,
+            406,
+            136
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Sampling the Affine Rectangle ",
+        "bbox": [
+            144,
+            148,
+            389,
+            162
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Clipped Projections ",
+        "bbox": [
+            144,
+            175,
+            302,
+            190
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Edge Mode Edge Detection ",
+        "bbox": [
+            144,
+            203,
+            366,
+            217
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Edge Mode Scoring ",
+        "bbox": [
+            144,
+            231,
+            305,
+            244
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Evaluating Results ",
+        "bbox": [
+            144,
+            258,
+            297,
+            272
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1、Specifying the Projection Region ",
+        "bbox": [
+            144,
+            287,
+            433,
+            300
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Specifying an Affine Rectangle and Sampling Parameters ",
+        "bbox": [
+            144,
+            313,
+            600,
+            326
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "可以将投影区域指定为仿射矩形和仿射矩形采样参数。投影方向被定义为平行于仿射矩形的Po-Py边，由仿射采样参数指定的Po-Px划分的个数定义了投影区域内的采样个数。",
+        "bbox": [
+            144,
+            340,
+            838,
+            374
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0c81380783bd259a157eb4c33dcfbb987addb1035499339a3297be8c9542b63.jpg",
+        "image_caption": [
+            "图 5"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            347,
+            394,
+            673,
+            631
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Specifying an Affine Rectangle(指定放射矩形)",
+        "bbox": [
+            144,
+            682,
+            509,
+            697
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Sampling the Affine Rectangle ",
+        "bbox": [
+            144,
+            737,
+            388,
+            751
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Bilinear Interpolation(双线性插值法) ",
+        "bbox": [
+            144,
+            765,
+            428,
+            778
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "双线性插值考虑的是仿射采样矩形中最靠近每个仿射像素中心的四个像素的值。计算四像素值的距离加权平均值，并用于仿射像素值。",
+        "bbox": [
+            144,
+            791,
+            847,
+            825
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/45ca9372bf783275b88c904d663a24aa074656f23c5c5ac9aaab80431ce9f79f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            166,
+            89,
+            838,
+            425
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "插值仿射像素值的计算公式如下:",
+        "bbox": [
+            147,
+            462,
+            403,
+            479
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n(1 - a) (p 2 \\times (1 - b) + p 1 \\times b) + a (p 3 \\times (1 - b) + p 4 \\times b)\n$$",
+        "text_format": "latex",
+        "bbox": [
+            189,
+            510,
+            668,
+            530
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/451c21c669a1a188bf65e9df181e022bdfa842f8ca1176b75be3a8809c2df3cf.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            164,
+            568,
+            830,
+            879
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Clipped Projections ",
+        "text_level": 1,
+        "bbox": [
+            149,
+            120,
+            304,
+            136
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "当投影旋转或倾斜时，投影区域可以延伸到图像边界之外，尤其是当投影区域的大小接近图像时。图13显示了延伸到图像之外的投影区域;剪切区域以灰色显示",
+        "bbox": [
+            149,
+            147,
+            850,
+            181
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d9f7d71cf2809aad32ab705ddc8b1b56f09484c8a91d1e717eeffcb6a120cb9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            200,
+            212,
+            823,
+            456
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如果卡尺工具检测到剪切，它会自动调整投影区域。卡钳工具在计算投影图像时，通过计算权重图像来检测裁剪。权值图像是一种一维图像，其中每个像素被设置为来自输入图像的像素数，这些像素贡献给投影图像中的相应像素。图14显示了权重图像是如何计算的",
+        "bbox": [
+            147,
+            479,
+            850,
+            533
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/feba9b348d9e449b8e0b12d023e3ce407191ff96b87d30f330a9a08bb9f9895a.jpg",
+        "image_caption": [
+            "Edge Mode Edge Detection(检查) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            218,
+            98,
+            830,
+            487
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Filter Size ",
+        "bbox": [
+            181,
+            537,
+            265,
+            551
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "当您指定接近边缘大小的筛选器大小时，Caliper工具会在筛选器图像中产生更强的边缘峰值。如果指定的滤波器大小过大或过小，滤波器图像将包含宽的、低的峰值。图16说明了在锐边和钝边上应用不同大小的过滤器的效果。",
+        "bbox": [
+            144,
+            562,
+            848,
+            618
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddbcc136fcc842f3c4831c9df2149bc26dc434312bf13b29da87002f6c3a01ce.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            163,
+            639,
+            821,
+            868
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图 16 说明，过滤大小与图像中感兴趣的边缘的大小匹配得越紧密，经过过滤的图像中所需的峰值就越清晰，虚假峰值就越少。",
+        "bbox": [
+            144,
+            120,
+            848,
+            156
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Filter Type ",
+        "bbox": [
+            181,
+            193,
+            270,
+            210
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "卡钳工具支持一个滤波器核，近似负的一阶导数的高斯分布。这个内核提供了比传统boxcar过滤器更好的平滑。",
+        "bbox": [
+            144,
+            221,
+            850,
+            256
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "指定滤波器的半宽，其中半宽等于4乘以高斯分布。图17说明了如何指定过滤器的宽度",
+        "bbox": [
+            147,
+            265,
+            828,
+            284
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/79b9dfcfeb8c6e6958793cc9030cba73071d4d870a5281905af748a88ca04902.jpg",
+        "image_caption": [
+            "图17 高斯滤波器的滤波器大小"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            169,
+            323,
+            788,
+            632
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "滤波器本身是通过对高斯曲线一阶导数取负值来构造的，如图18所示",
+        "bbox": [
+            146,
+            664,
+            690,
+            680
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Edge Mode Scoring ",
+        "bbox": [
+            181,
+            719,
+            342,
+            734
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef61663acd13d718fbda301d6a037f106ab39417b141d865f083272f8208e983.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            321,
+            97,
+            682,
+            281
+        ],
+        "page_idx": 12
+    }
+]

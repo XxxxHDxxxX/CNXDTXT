@@ -1,0 +1,5212 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/99fb130cc8bbd3f28b013365546c29c52ae8aa8ab43b514b9d8dc322947a7fc7.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                0,
+                0,
+                1000,
+                627
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ID Basic Knowledge "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                262,
+                712,
+                734,
+                792
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2022/1/19 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                933,
+                148,
+                970
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "学习目标"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                211,
+                112
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "了解常见一维条码和二维码的种类及结构"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "知道一维条码和二维码的差异"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "激光识读器和图像式识读器"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                172,
+                547,
+                351
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "基本码制"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                209,
+                111
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "一维线性条码"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "PDF417 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "DataMatrix "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "QR-Code "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                172,
+                245,
+                420
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0271e23e19bf02d7b65c3ca5f3af78d8344a2bfd1b19f5320ccb308ace05fc15.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                383,
+                270,
+                633,
+                368
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ece66710ca044a286fa588a9f1eeb0a71afcc4109f21ec3bf322a49bd6a62507.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                88,
+                520,
+                436,
+                640
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/388182048fb009dbc0d3487f61ae36329761708195741a386fa84d505c04e1ee.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                497,
+                472,
+                618,
+                633
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/90d839e526e324977ad614d96d31e6bf9b9d190614a71216c421e9ca46f9d735.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                705,
+                166,
+                963,
+                242
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/64057296ff42b21db263664ca040d3bb957ad1ad38f85bdb785ccb13743eb4c1.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                725,
+                385,
+                850,
+                550
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/495e7d4a2c07585c30710154aa9310b8fc72b86ccaa794d2d99d38047529665f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                56,
+                705,
+                509,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "111111111111111111111111111 "
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                787,
+                486,
+                831
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1b3460aaf80b669460febce57ae34be6103bfe68705bb355086ae78a698f33d2.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                638,
+                753,
+                936,
+                831
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "常用一维条码"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                272,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "条和空的排列规则不同形成了不同的码制，常用的如："
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                172,
+                684,
+                212
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/06b34dc04c731caf5c84d119d691986328adcc47c50e3e85ef4a6bb417a1d600.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "EAN码"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                40,
+                351,
+                270,
+                542
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f39c3cf3c475783493f02ac4281210387ddb85d0720c2d66212de4e7eacbbe48.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "CODE39 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "39码"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                356,
+                388,
+                722,
+                525
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9fd15b76427c12390626ac8b74402007df5daa653b6d1a7c2676e3683379584a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "123456 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "交叉 25 码"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                781,
+                392,
+                970,
+                525
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eaaecc95bce4646a8ae99dca01c2088211485b2834160134f98dd561de465f19.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "UPC码"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                37,
+                618,
+                280,
+                811
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e4d73336c2afe7f89ac4f22301add11480e7582608eac41d3001b7afa28b84bc.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Code-128 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "128码"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                348,
+                644,
+                702,
+                779
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ffec05bf45b59c43b325be4b08e6c688425c6767862e6b82071cf52f67a094f1.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "A1234B "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Codabar 码"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                755,
+                638,
+                973,
+                770
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "常用二维条码"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                62,
+                269,
+                111
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/07f22b890a5edd65bc8eff29ee7fb638b351b924a39ebbbe3f1c1d528986ff6c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Data Matrix "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                130,
+                253,
+                245,
+                407
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/73b3d870ddfb8a4348f6dfcdb2c264cded357a487ee936283800060edba57a6b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "QR Code "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                134,
+                483,
+                245,
+                631
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c4138e2a212f15461cb4b7f3a748db2d05e76850ab9c950d26f90daf9ee8a556.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "PDF417 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                136,
+                709,
+                325,
+                812
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/17264e7ced67c526e8d92d7f2057baeb557dd5e0248d3d15645b6fee17113940.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Maxi Code "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                431,
+                240,
+                555,
+                403
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8fe4e54003b1fca9a1130cf490893a497dae4e066979bda44e2023c8aef651c5.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Vericode "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                450,
+                494,
+                554,
+                625
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e607243c6d7f8a0d065f4d0437a2fcb474cfa7e7ca63fd719d1b01a5d88d3dfa.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Code 49 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                394,
+                703,
+                562,
+                816
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/60bc4bf1129009d2d44baeadbbafbb8a79fa0cb8e48c1e0d1f258020da270dd7.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Aztec Code "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                695,
+                259,
+                811,
+                412
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1d204dbc17f5006e115ebcb84b0d326dd1dc10fa97ddd4c30da72001f93a9001.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Ultracode "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                687,
+                525,
+                884,
+                629
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9771dd9291d15f923cc2dd5ecea85b57932c02f67ed124f66735c8a628b12239.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Code 16K "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                638,
+                703,
+                806,
+                814
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                850,
+                755,
+                905,
+                768
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一维条码的结构"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                300,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5ce0a15e841a8af404b4940b0eaabdba61e3331fe64dc11ac709b6616a4212a8.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                91,
+                290,
+                877,
+                614
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二维矩阵码的结构"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                331,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/985833fe061b194b3a7d3158c880e700cbadf1b2d24156f3fddc77fe060a2464.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                209,
+                253,
+                750,
+                766
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "直接元件标示（DPM）工艺"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                477,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4种主要方法"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                175,
+                241,
+                211
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2c05b8ae43a2e5e75b88b701abe785e9faa5eb6ff24cb6d3684e8cfd6770b23b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "激光"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                40,
+                244,
+                241,
+                411
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/52d310ee0ead1fd5821d04b18ccdbf16c4c6fdde47bce664d9b94ff2688e04b8.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "喷墨 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                291,
+                242,
+                466,
+                455
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8f88b87521bbf2349cc53aff07adba322cbf8f9fb4d09082eb66c39ed6360f1c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "打点阵和复刻"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                518,
+                244,
+                694,
+                451
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c677077bf2220021a9af47fe0e317afcd242ee68085ce819efa6215ba52f0a85.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "电化蚀刻"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                716,
+                246,
+                963,
+                359
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "选择时的要素"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "元件期待寿命 表面质地"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "材料成分 编码数据量"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "环境磨损 空间"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "数量 位置"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                518,
+                326,
+                827
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "直接元件标示最佳实践：数据矩阵标示的放置"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                716,
+                112
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "在清晰、无障碍的位置标示"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "确保代码周围至少预留 3-4 个单元宽度的 “静音区”"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "在曲面上标示时，代码不得大于直径的  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "16\\%"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 或部件周长的  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "5\\%"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                174,
+                791,
+                350
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/46fbc59224423b8bc617c26c09dad60bcdd456c045167163c90170b609baaecf.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "低分辨率的小代码"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                131,
+                492,
+                377,
+                766
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/efe9d617d9aacb03ca97712f09ea851aaae039d3d5a8eac3b0ea9c9b17ba57a0.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "在弯曲表面上标记"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                444,
+                492,
+                709,
+                764
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "码密度：Mils "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                64,
+                266,
+                109
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f18de154c204effa22086a2f587a0aa8dbc27279e8fac8405b0b594939911c53.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Definition: One Module "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                163,
+                416,
+                213,
+                777
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2021e68868d1ee5fbec3989959810c8b14e08a5f5f7cfcb3264aa544a737f46a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Module Size Calculation: "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                475,
+                338,
+                745,
+                627
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "1 \\text {m o d u l e} = \\frac {3 \\mathrm {m m}}{1 2 \\text {m o d u l e s}} = 0. 2 5 \\mathrm {m m}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/2543743c0e2877914e7c791aae6ede3e275f80fdac4cc1bb3e06e776ae5eda16.jpg"
+                }
+            },
+            "bbox": [
+                468,
+                648,
+                909,
+                729
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left(\\frac {0 . 2 5 m m}{m o d u l e}\\right) \\left(\\frac {1 i n c h}{2 5 m m}\\right) \\left(\\frac {1 0 0 0 m i l}{1 i n c h}\\right) = 1 0 m i l / m o d u l e",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9a464e74ab74ef66113d1956a77f94b2c22b93d6afb56b831e356409771530f8.jpg"
+                }
+            },
+            "bbox": [
+                466,
+                772,
+                937,
+                840
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "什么是 PPM? (Pixels per Module)"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                81,
+                62,
+                566,
+                116
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A: How many pixels on the sensor for each module, at a focal distance. "
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                175,
+                883,
+                214
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0c71f9d252405eaf77e886f9cf07e8da0cb9abdeaf396f6391e859c07d58977e.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Example: "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                22,
+                374,
+                312,
+                927
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/34b0432f69c99ac9a8d00d0e2065b32a1519d028710dcccdade94f798cf4f466.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                375,
+                368,
+                937,
+                924
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "名词：读码 / 未读取 / 错误解码"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                538,
+                112
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Read: 正确解码"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "No-Read: 数据没有被提取"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 多种原因：时间不够，没有把握,etc."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Misread: 确信的解码, 但是数据错误"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                174,
+                506,
+                418
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "错误解码比未读取的危害更大"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cognex 解码原则宁可不解也不错解。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                444,
+                526,
+                550
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "读码过程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                209,
+                109
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c66225b33b63d18c37a4f9e2f22a15cc5710637da4f27d69c078005616309ffe.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                40,
+                251,
+                981,
+                431
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Training "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                68,
+                211,
+                105
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cc1b1b22f7754f5fb26764c5fd800f92c1102e3b8a13e4cb79179eaf4eb86882.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                44,
+                105,
+                494,
+                942
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eea57fd4bd64cf68d2253ed0ba7e1363be5d69beed03fad622ef3ef4ed9cd51a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                497,
+                101,
+                951,
+                287
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "限制寻找 & 解码"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                530,
+                296,
+                723,
+                333
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "降低出错的几率 -> 提高"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "常常（并不总是）能降低解码时间"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "什么是学习 / 训练"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "大概的尺寸（PPM）"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "极性"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "反射状况"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "行数 / # 列数 (2D)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "纠错类型 (2D)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "数据大小 (1D)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                550,
+                361,
+                936,
+                931
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c43fa7bf2500f887777037b5b985c1b1c4fe5492731f0d38fe3816977bd01a1a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                891,
+                590,
+                988,
+                853
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二维码与一维码的区别"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                291,
+                420,
+                706,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单击此处编辑母版文本样式"
+                    }
+                ]
+            },
+            "bbox": [
+                397,
+                509,
+                600,
+                533
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二维条码（2-D Barcode）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                448,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在水平和垂直方向的二维空间存储信息的条码，称为二维条码（2-dimensional bar code）。"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                172,
+                933,
+                261
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cd17537f2f93132ebeb2ac425a45afe076765c955b86df69feb4be3966655ed2.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                122,
+                553,
+                363,
+                694
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/04d6ab61d0f3574857e104a1e9b49c3e158ff40d01fb3cd3e1b36fbd88d6f747.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                606,
+                494,
+                883,
+                709
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "16 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二维条码（2-D Barcode）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                450,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0927da533f77f22acb6f2a1646128d0da316e4ea552b7176ae867bc976e32e8b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                309,
+                287,
+                694,
+                405
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PDF417 "
+                    }
+                ]
+            },
+            "bbox": [
+                702,
+                325,
+                795,
+                359
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2600b3cb535e2b1220087be001b1330e894c20122c58b1c88c9771edc17dfb73.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "线性堆叠式二维码"
+                    },
+                    {
+                        "type": "text",
+                        "content": "矩阵式二维码"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                58,
+                538,
+                206,
+                735
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Data Matrix "
+                    }
+                ]
+            },
+            "bbox": [
+                213,
+                614,
+                345,
+                650
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.1.1.1.1.1.1.1.1.1.1.1.1 "
+                    }
+                ]
+            },
+            "bbox": [
+                483,
+                642,
+                791,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MR P KIMMENS "
+                    }
+                ]
+            },
+            "bbox": [
+                484,
+                696,
+                695,
+                724
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "邮政码"
+                    }
+                ]
+            },
+            "bbox": [
+                597,
+                750,
+                675,
+                788
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BPO 4-State "
+                    }
+                ]
+            },
+            "bbox": [
+                825,
+                664,
+                969,
+                698
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "17 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                988
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二维条码错误纠正（数据冗余）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                494,
+                111
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/92fb91383561f7922d6ad9959645a1ebe90cbfbd0aad555413e20e7fce5d2301.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 3 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                44,
+                188,
+                212,
+                264
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c4195256fc3f319bd7ea903eb4e20a018b31d6ba931a0525a4eb2805c6aea076.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 8 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                251,
+                170,
+                384,
+                298
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/efc92260d3b588e56c413443db38e6b193152f490ecc1b3825332226e9cf2f1b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 0 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                491,
+                227,
+                590,
+                266
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f84583fd6da567178f51f391cbd827da488e96801b895c5bfb157a01a3bbf6ea.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 1 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                619,
+                227,
+                716,
+                270
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f0a48b2459772793caa734c6f66e6e30c3703184dcfa1e94ecf9ff375c7220db.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 2 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                745,
+                222,
+                844,
+                275
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/16b090559c870114f833a4bd3ec3f0832f9f8c0157a8a0174d85a67053d99944.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 3 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                866,
+                216,
+                966,
+                283
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4317028d8f3b5c67183ade6042f36e1872da9d0d38f387a6acfdb363ea8ccf27.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>错误纠正等级</td><td>错误纠正码字数</td></tr><tr><td>0</td><td>2</td></tr><tr><td>1</td><td>4</td></tr><tr><td>2</td><td>8</td></tr><tr><td>3</td><td>16</td></tr><tr><td>4</td><td>32</td></tr><tr><td>5</td><td>64</td></tr><tr><td>6</td><td>128</td></tr><tr><td>7</td><td>256</td></tr><tr><td>8</td><td>512</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                55,
+                338,
+                484,
+                759
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/56f66d3f39c1522a3de39dfac910a20a17e7ddff68bb0118657e4809a8f0aa50.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 4 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                488,
+                353,
+                588,
+                457
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/97e25bca047657e6c8ce9cb455e34bfd6e72bcd98b24d3cde110c82fbf548179.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 5 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                643,
+                342,
+                755,
+                457
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/60f05593aefbf155ea1d7fe9d76cf7f7b53d632c81b9b168bc27689881740b51.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 6 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                809,
+                350,
+                969,
+                455
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1d66866800ee961328a1d258a3d558556e856ec4b75ee020bfb857185bb9f804.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 7 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                488,
+                612,
+                679,
+                762
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fb0e15d8f308afbd31ec0ee10d5700b8e9c8351b22835640c3c637db16ccba61.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 8 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                751,
+                546,
+                972,
+                772
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                187,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二维码的优点 - 数据容量"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                422,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fc6524fb7b455fa6bc3f87f9ebb3be181e88719e6593c29d5534837ad664ea15.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "一维条码的局限"
+                    },
+                    {
+                        "type": "text",
+                        "content": "较小的数据容量"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                106,
+                409,
+                476,
+                472
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1234567890 "
+                    }
+                ]
+            },
+            "bbox": [
+                248,
+                477,
+                333,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a-z,A-Z,0-9 "
+                    }
+                ]
+            },
+            "bbox": [
+                645,
+                475,
+                736,
+                500
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7b6503d8081c18a1bf6c09cde3acab1a8ec5353d38dd12d42b1383d559e14d14.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "二维条码的优点"
+                    },
+                    {
+                        "type": "text",
+                        "content": "更大的数据容量 (2-3 KB)"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                787,
+                351,
+                902,
+                505
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二维码的优点 - 超越数字 / 字母"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                509,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1f5988a1ddf57e6ccf92116a9921414d021b85b1ff96391347717be33dc65705.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>一维条码的局限</td><td>二维条码的优点</td></tr><tr><td>通常只能表达字母、数字和一些符号有些可以表达128个ASCII字符</td><td>可以表达8位二进制数据，可以对图像、汉字等进行编码</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                81,
+                229,
+                913,
+                827
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "20 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                38,
+                968
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二维码的优点"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                272,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "小零件的标识 & 污损的标签"
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                174,
+                404,
+                214
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d51b61a1830b55314596071149ab87d321a68c0208b1873b3294cfff86f629fd.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>一维条码的局限</td><td>二维条码的优点</td></tr><tr><td>条码尺寸相对较大</td><td>条码尺寸相对较小</td></tr><tr><td>条码受损后不能阅读</td><td>条码受损后仍然可以阅读</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                79,
+                240,
+                916,
+                829
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "21 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "激光读码器与图像识读器差异 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                226,
+                420,
+                772,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单击此处编辑母版文本样式"
+                    }
+                ]
+            },
+            "bbox": [
+                397,
+                509,
+                601,
+                537
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "22 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "激光扫描技术"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                272,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b42ed60591fcc982ccfa0088208782c6d776e19b1f7368c72c575f78ad03333a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "目标反射光至光电池"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                63,
+                250,
+                644,
+                650
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e7b295d89cf00e6663b600f7a0d5528ed8a2654c6634ee17c042ae6807a75892.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "条形码"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                19,
+                670,
+                263,
+                777
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6bedede811e27949c862fb926d44bc940d2067fa2c9bccffb962d2c67e02f7c8.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "光探测器信号"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                363,
+                668,
+                620,
+                787
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/309289587401e2c6dd7b7359d38c6732b06b0001cc90fc28969f7d88ebe3283a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "数字信号"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                725,
+                668,
+                994,
+                785
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "23 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                988
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "激光扫描仪的局限性"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                362,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "难以扫描的条形码 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                174,
+                297,
+                212
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "印刷效果差"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "存在缺陷 / 受损"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "对比度低"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "镜面反射 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "高度窄"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                235,
+                318,
+                544
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "单向扫描"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                581,
+                197,
+                620
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "无全方位扫描（ "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "360^{\\circ}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "）或正交（ "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "0^{\\circ}"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 和  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "90^{\\circ}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "）读码"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "安装和定位受限 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                644,
+                661,
+                750
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "活动部件容易出现故障"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                787,
+                347,
+                827
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "不能读取 2 维代码"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                63,
+                857,
+                297,
+                896
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7a5c063ab57df306fff3c00e0a3c21009edc233729aa757e92f4240fbff5402e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                663,
+                114,
+                990,
+                377
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ddd820e1719ace1451786556ef5b003957e500fd316b1e9dbf6614d6e9e63d57.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                663,
+                388,
+                990,
+                648
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b62fa6d3a451bf375547052a1ea9063956f4d794711e46926771bdae91bdf9fb.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                663,
+                662,
+                990,
+                922
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "24 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "视觉识读器技术原理"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                362,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9a67ead6ed49b4c06d7c01631d221f0b14a81c8c93237421a7cb3b311f0cd33e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Source: Adome International, Inc. "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                233,
+                859,
+                825
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "25 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "基于图像读取1维条形码的优点"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                81,
+                62,
+                516,
+                112
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "可以轻松读取所有代码，从印刷好的到难读的受损的代码。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "印刷效果差"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "存在缺陷 / 受损 / 空洞"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "对比度低"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "镜面反射 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "高度低"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "过度透视 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                172,
+                652,
+                657
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "全向读码"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "无机械元件"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "较激光扫描仪更可靠 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "可以读取 1 维和 2 维代码"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                694,
+                373,
+                938
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bc6bf57f5f4f43788f1f1ca44ba4df72a89703d056a5ff23b43a713943f4c2ba.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                665,
+                114,
+                993,
+                377
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b973fb59eae4f29deedb5d6025bdff84b5a790365e83b23e096afd02ab86d165.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                665,
+                388,
+                994,
+                650
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/59a250ed19ec5c156a848be1cf470b5db1f78741d56db2b5ab7899894023df75.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                665,
+                661,
+                994,
+                924
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "26 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "为什么早期，成像仪不能取代激光识读器？"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                659,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "成本"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                174,
+                145,
+                211
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图像传感器和外围设备部件的成本降低。"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                235,
+                531,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "尺寸 "
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                309,
+                145,
+                346
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "如今可使用高密度和高集成的部件。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "如今可以使用火柴盒大小的基于图像的集成式读码器。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                374,
+                665,
+                477
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "性能"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                514,
+                145,
+                553
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图像处理算法现已超越激光扫描仪的性能。"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                577,
+                554,
+                614
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e0493327479045c09b81ee87c7d8f34046fa06069e445f753b27f5e5f5802044.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                666,
+                575,
+                998,
+                931
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "27 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "图像式和激光式解码器的区别 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                481,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/fe290f8008bf7471769281815dd978aab9cafa1f5d317edb8be7320c86b826db.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>图像式</td><td>激光式</td></tr><tr><td>内部结构</td><td>一体式，无活动部件，不易损坏</td><td>具有活动的摆镜，故障率高</td></tr><tr><td>解码方向</td><td>全向</td><td>单一方向</td></tr><tr><td>码制</td><td>一维码和二维码</td><td>一维码</td></tr><tr><td>解码能力</td><td>破损、质量差的代码</td><td>一般的条形码</td></tr><tr><td>图像反馈</td><td>有</td><td>无</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                52,
+                181,
+                941,
+                679
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                122
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "28 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                955,
+                188,
+                975
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "早期图像式识读器"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                331,
+                112
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "速度 帧率不够"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "景深（DOF）较小 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "DM 解决这些问题"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                174,
+                312,
+                350
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                957,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "从激光扫描到图像解码"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                62,
+                391,
+                112
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "激光扫描仪仍然占据在用的 1 维条形码读码器的最大份额。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "不过，激光扫描仪正快速地被基于图像读码器取代。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "基于图像读码器具有优越的读码性能（对比度低、损坏、噪音等。）"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "基于图像读码器还可以读取 2 维码 - 而现如今, 几乎所有主要行业均采用了 2 维码。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                172,
+                922,
+                461
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c171db14e36f162a942ef57a72ac4a6f667ad4a53a9afeba094c16b027e14bee.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                6,
+                694,
+                995,
+                933
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "30 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                38,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Thank you. "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                256,
+                337,
+                591,
+                431
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "31 "
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                955,
+                41,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                955,
+                188,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                988
+            ]
+        }
+    ]
+]

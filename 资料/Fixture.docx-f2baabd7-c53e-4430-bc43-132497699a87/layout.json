@@ -1,0 +1,587 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        87,
+                        79,
+                        172,
+                        89
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                79,
+                                174,
+                                92
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        79,
+                                        174,
+                                        92
+                                    ],
+                                    "type": "text",
+                                    "content": "Fixture Edit Control",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        95,
+                        480,
+                        108
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                93,
+                                482,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        93,
+                                        482,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Fixture 编辑控件为简单的 CogFixtureTool 视觉工具及其组件提供图形用户界面(GUI)。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        91,
+                        123,
+                        505,
+                        371
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                91,
+                                123,
+                                505,
+                                371
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        123,
+                                        505,
+                                        371
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                91,
+                                                123,
+                                                505,
+                                                371
+                                            ],
+                                            "type": "image",
+                                            "image_path": "df6ce88bac0ce953e2e86512c63d059601c75466fc672f67885b837a9decd7e0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        86,
+                        375,
+                        505,
+                        419
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                375,
+                                504,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        375,
+                                        504,
+                                        387
+                                    ],
+                                    "type": "text",
+                                    "content": "Fixture工具将固定的坐标空间附加到输入图像上，并提供更新后的图像作为输出，供其他",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                391,
+                                505,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        391,
+                                        505,
+                                        403
+                                    ],
+                                    "type": "text",
+                                    "content": "工 具 使 用 。 您 必 须 为 固 定 空 间 提 供 一 个 非 限 定 的 坐 标 空 间 名 称 ， 并 提 供 一 个",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                407,
+                                401,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        407,
+                                        401,
+                                        419
+                                    ],
+                                    "type": "text",
+                                    "content": "CogTransform2D，该2d定义了相对于非固定空间的固定坐标空间。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        437,
+                        505,
+                        497
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                438,
+                                505,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        438,
+                                        505,
+                                        450
+                                    ],
+                                    "type": "text",
+                                    "content": "夹具工具从您提供的输入图像和运行时参数中获取必要的信息来执行固定操作。未固定的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                452,
+                                506,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        452,
+                                        506,
+                                        467
+                                    ],
+                                    "type": "text",
+                                    "content": "空间名是输入图像中选择的空间名。您可以从另一个视觉工具(例如cogpmalignant工具)",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                468,
+                                505,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        468,
+                                        505,
+                                        481
+                                    ],
+                                    "type": "text",
+                                    "content": "获得2D转换。编辑控件允许您在将其附加到指定图像的坐标空间树之前编辑此转换的各",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                482,
+                                127,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        482,
+                                        127,
+                                        497
+                                    ],
+                                    "type": "text",
+                                    "content": "个组件。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        515,
+                        400,
+                        528
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                515,
+                                401,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        515,
+                                        401,
+                                        529
+                                    ],
+                                    "type": "text",
+                                    "content": "Fixture编辑控件公开用于创建数据链接的下列默认工具输入和输出:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        91,
+                        530,
+                        279,
+                        625
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 12,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                91,
+                                530,
+                                161,
+                                544
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        526,
+                                        163,
+                                        546
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                91,
+                                                526,
+                                                163,
+                                                546
+                                            ],
+                                            "type": "text",
+                                            "content": "·InputImage",
+                                            "score": 0.941
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                546,
+                                279,
+                                559
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        545,
+                                        280,
+                                        560
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                95,
+                                                545,
+                                                280,
+                                                560
+                                            ],
+                                            "type": "text",
+                                            "content": "UnfixturedFromFixturedTransform",
+                                            "score": 0.991
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                563,
+                                164,
+                                575
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 8,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        562,
+                                        166,
+                                        576
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                95,
+                                                562,
+                                                166,
+                                                576
+                                            ],
+                                            "type": "text",
+                                            "content": "·TranslationX",
+                                            "score": 0.973
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                580,
+                                163,
+                                592
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 9,
+                            "lines": []
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                597,
+                                145,
+                                608
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 10,
+                            "lines": []
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                613,
+                                169,
+                                625
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 11,
+                            "lines": []
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        640,
+                        505,
+                        700
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                640,
+                                505,
+                                653
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        640,
+                                        505,
+                                        653
+                                    ],
+                                    "type": "text",
+                                    "content": "请注意，尽管 Fixture 编辑控件将 unfixturedfromfixated 2D 转换公开为默认输入，但如果",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                656,
+                                503,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        656,
+                                        503,
+                                        669
+                                    ],
+                                    "type": "text",
+                                    "content": "希望调整fixturing转换的转换和旋转组件，则应该使用特定的转换和旋转输入。使用来自",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                671,
+                                505,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        671,
+                                        505,
+                                        685
+                                    ],
+                                    "type": "text",
+                                    "content": "其他视觉工具的 UnfixturedFromFixturedTransform 输入可能会在您的固定中引入意想不到",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                687,
+                                126,
+                                700
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        687,
+                                        126,
+                                        700
+                                    ],
+                                    "type": "text",
+                                    "content": "的差异。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

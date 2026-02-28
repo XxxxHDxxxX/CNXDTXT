@@ -1,0 +1,589 @@
+[
+    {
+        "type": "text",
+        "text": "一、填空题。（每空 1 分，共 20 分）",
+        "text_level": 1,
+        "bbox": [
+            40,
+            9,
+            326,
+            27
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1、在 C#中，short 类型数据占 2 __个字节，long 类型数据占 _8 _个字节。",
+            "2、C#中的接口使用 _interface _关键字来定义。",
+            "3、使用 _break_ _语句可以立即终止当前循环并跳出循环体。",
+            "4、设 $\\mathsf { y } = 5$ ; 则表达式 $\\mathsf { y } { > } 5 ? \\mathsf { y } { = } 1 0 { : } \\mathsf { y } { - }$ 的值为 5 。",
+            "5、表达式\" $\" 3 ^ { * } 1 5 < = 4 0 \"$ \"的值为 _false_ 。",
+            "6、计算表达式 $\" 7 ! = 7 !$ | $1 2 < 5 + 8 \"$ 的结果为 _true_ 。",
+            "7、基类与派生类的析构函数调用顺序是从最 _派生 _的类开始，直到最_基_ _的基类。",
+            "8、类的字段声明中，若没有显式指定访问修饰符，则默认为___private_ 。",
+            "9、要实现方法重写，需要在派生类方法中使用 __override__关键字。",
+            "10、异常处理中，_____finally____块用于执行无论是否发生异常都需要执行的代码。",
+            "11、在递归算法中，必须有一个明确的___终止___条件，否则会导致栈溢出。",
+            "12、使用__sealed___关键字声明的类不能被继承。 sealed 密封类",
+            "13、定义在方法内部，但在所有代码块之外声明的变量称为_ 局部 _变量。",
+            "14、被 const 关键字修饰的字段必须在声明时___赋值 因为const修饰的是常量，不可修改值。",
+            "15、在C#中，拆箱操作是把 _引用_ _类型转换为 值 _类型。"
+        ],
+        "bbox": [
+            42,
+            47,
+            830,
+            582
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "二、单项选择题。（每空 2 分，共 10 分）",
+        "text_level": 1,
+        "bbox": [
+            43,
+            583,
+            361,
+            601
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1、关于C#中的异常处理，以下说法正确的是（ B）",
+        "bbox": [
+            43,
+            611,
+            438,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. try 块必须后跟 catch 块 ",
+            "B. finally块在任何情况下都会执行",
+            "C. 一个 try 块只能有一个 catch 块 可以有多个catch块，多种类型的异常 ",
+            "D. throw 语句只能抛出 Exception 类型的异常 可以有多种类型的异常"
+        ],
+        "bbox": [
+            43,
+            631,
+            647,
+            702
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2、要定义一个 2 行 3 列的整型二维数组 arr，正确的定义语句是（ B ）",
+        "bbox": [
+            42,
+            722,
+            579,
+            739
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. int[] arr $=$ new int[2,3]; ",
+            "B. int[,] arr $=$ new int[2,3]; ",
+            "C. int[][] arr $=$ new int[2][3]; ",
+            "D. int arr $=$ new int[2,3]; "
+        ],
+        "bbox": [
+            43,
+            741,
+            245,
+            812
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3、值类型不包括以下哪种类型（ D）",
+        "bbox": [
+            43,
+            834,
+            329,
+            850
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. 结构体类型",
+            "B. 枚举类型",
+            "C. 整型",
+            "D. 字符串类型"
+        ],
+        "bbox": [
+            43,
+            853,
+            154,
+            923
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4、下面代码的输出结果是（ B）",
+        "bbox": [
+            42,
+            945,
+            290,
+            961
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni n t a = 3;\n$$",
+        "text_format": "latex",
+        "bbox": [
+            43,
+            964,
+            110,
+            978
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "int $\\mathsf { b } = + + \\mathsf { a } + \\mathsf { a } + +$ ; $^ { + + }$ 在前就先加再运算， 在后就是先运算再加",
+        "bbox": [
+            40,
+            9,
+            529,
+            27
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Console.Write(b); ",
+        "bbox": [
+            43,
+            28,
+            171,
+            43
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. 7 ",
+            "B. 8 ",
+            "C. 9 ",
+            "D. 10 "
+        ],
+        "bbox": [
+            43,
+            47,
+            85,
+            115
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5、关于 C#中的访问修饰符，以下说法错误的是（ D ）",
+        "bbox": [
+            43,
+            139,
+            455,
+            155
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. private 成员只能在声明它的类内部访问 ",
+            "B. protected 成员可以在派生类中访问",
+            "C. internal成员可以在同一程序集中访问",
+            "D. public 成员可以在任何地方访问，包括其他程序集"
+        ],
+        "bbox": [
+            42,
+            158,
+            448,
+            229
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三、判断题。（每题 1 分，共 10 分）",
+        "text_level": 1,
+        "bbox": [
+            43,
+            250,
+            324,
+            267
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1、break 语句可以用于 switch 语句和循环语句中。（ Y ）",
+            "2、C#中 const 修饰的常量在运行期间可以被修改。（ X ）",
+            "3、在 if-else 语句中，else 子句总是与最近的 if 配对。（ Y ）",
+            "4、抽象类可以被实例化。（ X ）",
+            "5、在for循环中，三个表达式都可以省略，包括分号。（ X） 分号不可以省略",
+            "6、接口中的方法默认是 public 和 abstract 的。（ Y ）",
+            "7、静态方法可以直接访问实例成员。（ X ）",
+            "8、值类型变量存储在堆中，引用类型变量存储在栈中。（ X） 值类型在栈，引用类型在堆",
+            "9、使用 ref 关键字传递参数时，必须在调用前初始化参数。（ Y ）",
+            "10、委托是一种引用类型，用于封装方法。（ Y ）"
+        ],
+        "bbox": [
+            42,
+            288,
+            752,
+            551
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "四、编程题。（共 60 分）",
+        "text_level": 1,
+        "bbox": [
+            43,
+            563,
+            238,
+            579
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1、编写一个选择排序方法。（10 分）",
+        "bbox": [
+            43,
+            590,
+            332,
+            607
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "public void SelectionSort(int[] array) ",
+        "bbox": [
+            42,
+            618,
+            305,
+            633
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "{ ",
+        "bbox": [
+            42,
+            645,
+            53,
+            659
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "for (int $\\mathsf { i } = 0$ ; i < array.Length - 1; i++)// 例如长为 5 ,{ 8,5,9,4,2}这样的数，这样取值最多到 4{",
+        "bbox": [
+            53,
+            670,
+            752,
+            714
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "int minIndex $=$ i; //设定最小值为第一位的索引。",
+        "bbox": [
+            73,
+            725,
+            527,
+            740
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "for (int $\\mathbf { j } = \\mathbf { i } + 1 ; \\mathbf { j } <$ array.Length; $\\left| + + \\right.$ ) //将第二位和第一位的值作比较，j取值最多到2{",
+        "bbox": [
+            73,
+            752,
+            726,
+            795
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "if (array[j] $<$ array[minIndex]) //对比二者的值， 选择小值的索引给到最小索引变量。",
+        "bbox": [
+            90,
+            806,
+            778,
+            822
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "{ minIndex $=$ j; } //这里因为5确实比8小，所以 此时最小索引为1. 通过多次循环找到最小的值的索引}",
+        "bbox": [
+            73,
+            833,
+            910,
+            876
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "int temp $=$ array[i]; //通过第三方变量交换值，把最小值放左边。",
+        "bbox": [
+            73,
+            887,
+            667,
+            903
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "array[i] $=$ array[minIndex];",
+        "bbox": [
+            73,
+            914,
+            265,
+            929
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "array[minIndex] $=$ temp; //然后下次循环时，因为 $\\mathrm { i } { + } { + }$ 所以i为1，j为2也即第二位和第三位比大小，因为第一位",
+        "bbox": [
+            73,
+            940,
+            937,
+            956
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "//是最小没必要参与比较,然后根据J的循环找出第2到最后中最小的一位然后还是交换",
+        "bbox": [
+            287,
+            967,
+            959,
+            984
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "//给到第二位，然后是第三和第四....比较找到剩余中最小的放在第三位。以此类推。",
+        "bbox": [
+            252,
+            8,
+            899,
+            27
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "} ",
+        "guess_lang": "txt",
+        "bbox": [
+            40,
+            36,
+            75,
+            79
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本质：在j循环中找最小，然后在 j循环结束后最小的放在最左侧，然后在第二位到最后期间找最小，完了放第二位，以此类推。",
+        "bbox": [
+            40,
+            89,
+            1000,
+            134
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2、创建一个包含8个元素的double类型数组，从键盘接收其值；当用户输入非法时，提示重新输入；找出数组中的最大值和最小值，并显示。（15分）",
+        "bbox": [
+            40,
+            143,
+            1000,
+            190
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "class Program { ",
+        "guess_lang": "txt",
+        "bbox": [
+            40,
+            200,
+            149,
+            240
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "static void Main(string[] args)  \n{double[] arr = new double[8]; //8长度的double类型数组。for (int i = 0; i < arr.Length; i++) {Console.Write($\"请输入第{i+1}个数: \"); //提示输入第1-8个数。try{arr[i] = Convert.ToDouble(Console.ReadLine()));//拿数并给arr数组，若是给的非double值就抛异常}catch{Console.WriteLine(\"输入非法，请重新输入！\");i--; //若是此次给的非法值，不能浪费此次循环，所以i--重来此次循环。continue;//输入有问题，就提示输的不对，但是不能停下来，需要重新输入。那就continue结束当次循环进入下一次循环。}Console.WriteLine($\"数组arr中最大值为{arr.Max(),最小值为{arr.Min()}\")；Console.ReadKey();}",
+        "guess_lang": "cs",
+        "bbox": [
+            40,
+            250,
+            1000,
+            681
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3、计算阶乘：编写一个递归方法计算 n 的阶乘。（15 分）",
+        "bbox": [
+            42,
+            690,
+            489,
+            707
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "class Program ",
+        "guess_lang": "txt",
+        "bbox": [
+            40,
+            718,
+            149,
+            733
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "{ static void Main(string[] args) { Console.WriteLine(Factorial(5)); } public static int Factorial(int n) { if $(n = 0||n = 1)$ { return 1;} ",
+        "bbox": [
+            40,
+            744,
+            305,
+            990
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "else{return n \\*Factorial(n-1);} //这里最终运行的结果可以看成是 $1^{*}2^{*}3^{*}4^{*}5$ 所以方法最后的返回值为120//首先5传进来，会走else里，然后返回的是//5\\*(方法(4\\*(方法3\\*(方法2\\*(方法(2-1)这里因为2-1=1满足if条件然后return了1出去))))//上一行会变成5\\*(方法(4\\*(方法3\\*(方法2\\*(1)))) $= 120$ 被返回}",
+        "bbox": [
+            42,
+            10,
+            868,
+            200
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4、创建一个 Shape 抽象类，要求：（20 分）",
+        "bbox": [
+            42,
+            218,
+            443,
+            237
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1). 定义 Shape（形状）类，包含：计算面积的抽象方法 getArea();",
+            "2). 定义 Rectangle（矩形）类，继承 Shape 类，实现 getArea()方法；",
+            "3). 定义 Circle（圆）类，继承 Shape 类，实现 getArea()方法；",
+            "4). 创建 Rectangle 和 Circle 对象，并调用 getArea 方法计算面积并输出。"
+        ],
+        "bbox": [
+            77,
+            255,
+            724,
+            385
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "class Program   \n{ public abstract class Shape //abstract 标记就是抽象类 { public abstract void GetArea();//抽象类，然后没有方法体。 } public class Rectangle : Shape //子类矩形继承父类。 { private double_width; private double_height; public double Width \\{ get; set; \\} //属性 public double Height \\{ get; set; \\} public Rectangle(double w, double h) //构造函数，用作传参用 this.Width = w; this.Height = h; } public override void GetArea() //面积方法需要override重写。 { Console.WriteLine(\\\\(\"矩形的面积为\\{this.Width* this.Height\\}\") ; }   \npublic class Circle : Shape //圆的子类 { private double _radius; public double Radius \\{ get; set; \\} public Circle(double r) { this.Radius = r; } public override void GetArea() ",
+        "guess_lang": "txt",
+        "bbox": [
+            48,
+            397,
+            569,
+            988
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "{ Console.WriteLine(\\$\"圆的面积为{Math.PI* this Radius * thisRadius}\"); } static void Main(string[] args) { Circle c = new Circle(6); //通过创建对象，构造函数传参 c.GetArea(); //调用获取面积方法。 Rectangle r = new Rectangle(5,3); r.GetArea(); Console.ReadKey(); }",
+        "guess_lang": "txt",
+        "bbox": [
+            55,
+            8,
+            643,
+            269
+        ],
+        "page_idx": 4
+    }
+]

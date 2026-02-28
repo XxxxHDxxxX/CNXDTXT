@@ -1,0 +1,1285 @@
+[
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.079,
+                0.165,
+                0.378,
+                0.222
+            ],
+            "angle": 0,
+            "content": "EXPANDING"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.249,
+                0.312,
+                0.335
+            ],
+            "angle": 0,
+            "content": "O U R"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.375,
+                0.397,
+                0.521
+            ],
+            "angle": 0,
+            "content": "EDGE"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.463,
+                0.298,
+                0.99,
+                0.38
+            ],
+            "angle": 0,
+            "content": "FW v3.6.6.11 Guide"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.535,
+                0.569,
+                0.705,
+                0.613
+            ],
+            "angle": 0,
+            "content": "Cognoid Name | Date"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.034,
+                0.965,
+                0.039,
+                0.987
+            ],
+            "angle": 0,
+            "content": "\\( \\therefore m = \\frac{3}{11} \\)"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.053,
+                0.965,
+                0.188,
+                0.988
+            ],
+            "angle": 0,
+            "content": "© 2024 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.954,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.025,
+                0.015,
+                0.562,
+                0.081
+            ],
+            "angle": 0,
+            "content": "1.支持带AIK方案的USB 3.0相机"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.14,
+                0.146,
+                0.194,
+                0.227
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.23,
+                0.19,
+                0.247
+            ],
+            "angle": 0,
+            "content": "MV Viewer"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.25,
+                0.172,
+                0.272,
+                0.228
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.294,
+                0.083,
+                0.929,
+                0.319
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.101,
+                0.324,
+                0.234,
+                0.356
+            ],
+            "angle": 0,
+            "content": "1.相机应用程序安装"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.011,
+                0.384,
+                0.307,
+                0.699
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.035,
+                0.704,
+                0.256,
+                0.736
+            ],
+            "angle": 0,
+            "content": "6.取像设置中修改光源及曝光参数"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.31,
+                0.329,
+                0.994,
+                0.743
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.845,
+                0.488,
+                0.883
+            ],
+            "angle": 0,
+            "content": "1 OPT 和 Huaray的USB3.0相机可以通过AIK的方式实现"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.894,
+                0.501,
+                0.932
+            ],
+            "angle": 0,
+            "content": "2.为了保证取像的稳定性，需要使用USB 3.0 PCI-E扩展卡"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.073,
+                0.845,
+                0.501,
+                0.932
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.56,
+                0.81,
+                0.871,
+                0.99
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.868,
+                0.954,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.966,
+                0.039,
+                0.985
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.966,
+                0.187,
+                0.988
+            ],
+            "angle": 0,
+            "content": "© 2024 Cognex Confidential"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.02,
+                0.023,
+                0.891,
+                0.093
+            ],
+            "angle": 0,
+            "content": "2.批量删图工具集成用于图像过滤的Everything解决方案"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.057,
+                0.128,
+                0.391,
+                0.358
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.417,
+                0.266,
+                0.441,
+                0.324
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.09,
+                0.47,
+                0.333,
+                0.505
+            ],
+            "angle": 0,
+            "content": "1.FW安装包中的Everything 安装程序"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.039,
+                0.572,
+                0.382,
+                0.844
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>时间</td><td>讯息</td></tr><tr><td>15:35:00.126</td><td>Start select raw and annotated images...</td></tr><tr><td>15:35:02.234</td><td>Search image total count 70656</td></tr><tr><td>15:35:02.250</td><td>Select raw and annotated images count 10000</td></tr><tr><td>15:35:02.250</td><td>在D:\\Images启动图像文件夹清理过程，所需的空闲空间为100 GB。</td></tr><tr><td>15:35:02.872</td><td>当前批处理清理图像计数:50，运行时间:7463 ms</td></tr><tr><td>15:35:04.438</td><td>当前批处理清理图像计数:50，运行时间:9029 ms</td></tr><tr><td>15:35:06.019</td><td>当前批处理清理图像计数:50，运行时间:10611 ms</td></tr><tr><td>15:35:07.647</td><td>当前批处理清理图像计数:50，运行时间:12238 ms</td></tr><tr><td>15:35:09.234</td><td>当前批处理清理图像计数:50，运行时间:13826 ms</td></tr><tr><td>15:35:10.821</td><td>当前批处理清理图像计数:50，运行时间:15412 ms</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.858,
+                0.197,
+                0.891
+            ],
+            "angle": 0,
+            "content": "4.图像删图Log信息："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.902,
+                0.397,
+                0.934
+            ],
+            "angle": 0,
+            "content": "开启“PrintCycletimeBreakdown”时显示橙色框信息"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.464,
+                0.111,
+                0.72,
+                0.462
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.485,
+                0.481,
+                0.692,
+                0.515
+            ],
+            "angle": 0,
+            "content": "2.按照默认路径及配置进行安装"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.421,
+                0.553,
+                0.795,
+                0.853
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.454,
+                0.858,
+                0.564,
+                0.89
+            ],
+            "angle": 0,
+            "content": "3.图像清理设置："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.454,
+                0.901,
+                0.764,
+                0.933
+            ],
+            "angle": 0,
+            "content": "开启图像删图和设置删图条件及单批次删图数量"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.756,
+                0.23,
+                0.972,
+                0.285
+            ],
+            "angle": 0,
+            "content": "启用图像自动删除功能，需要确保已安装Everything应用程序"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.695,
+                0.496,
+                0.726,
+                0.533
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.805,
+                0.622,
+                0.884,
+                0.649
+            ],
+            "angle": 0,
+            "content": "图像Tag分类:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.805,
+                0.658,
+                0.972,
+                0.686
+            ],
+            "angle": 0,
+            "content": "OK：全路径包含“OK”或“ok”；"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.805,
+                0.694,
+                0.967,
+                0.724
+            ],
+            "angle": 0,
+            "content": "NG：全路径包含“NG”或“ng”"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.805,
+                0.732,
+                0.981,
+                0.762
+            ],
+            "angle": 0,
+            "content": "Tossing: 全路径包含“Tossing”"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.805,
+                0.77,
+                0.872,
+                0.799
+            ],
+            "angle": 0,
+            "content": "或“tossing”,"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.805,
+                0.808,
+                0.913,
+                0.837
+            ],
+            "angle": 0,
+            "content": "其它为 Temporary"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.967,
+                0.039,
+                0.986
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.965,
+                0.187,
+                0.988
+            ],
+            "angle": 0,
+            "content": "© 2024 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.954,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.03,
+                0.015,
+                0.335,
+                0.08
+            ],
+            "angle": 0,
+            "content": "3.更新图像保存设置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.029,
+                0.142,
+                0.384,
+                0.21
+            ],
+            "angle": 0,
+            "content": "1. 图像保存路径可以支持原图截图分开设置用户可以在图像保存设置中配置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.028,
+                0.543,
+                0.38,
+                0.642
+            ],
+            "angle": 0,
+            "content": "2. 支持图像保存时不需要默认生成大的文件夹 Tag (OK/NG/Temporary), 用户可以在图像保存设置中配置, 图像保存路径如右图所示"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.4,
+                0.164,
+                0.652,
+                0.398
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.399,
+                0.522,
+                0.659,
+                0.853
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.764,
+                0.296,
+                1.0,
+                0.65
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.967,
+                0.042,
+                0.986
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.966,
+                0.187,
+                0.988
+            ],
+            "angle": 0,
+            "content": "© 2024 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.029,
+                0.015,
+                0.335,
+                0.08
+            ],
+            "angle": 0,
+            "content": "3.更新图像保存设置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.033,
+                0.218,
+                0.611,
+                0.288
+            ],
+            "angle": 0,
+            "content": "注意：由于原图截图可以分开保存了，部分图像路径相关的函数可能无法使用，如若MS中使用了这些函数则需要重新更改，以下为示例"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.022,
+                0.375,
+                0.554,
+                0.711
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.591,
+                0.375,
+                0.96,
+                0.82
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.967,
+                0.04,
+                0.985
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.966,
+                0.187,
+                0.988
+            ],
+            "angle": 0,
+            "content": "© 2024 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.02,
+                0.02,
+                0.595,
+                0.088
+            ],
+            "angle": 0,
+            "content": "4.显示窗口个数限制从6个增加到12个"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.021,
+                0.134,
+                0.43,
+                0.32
+            ],
+            "angle": 0,
+            "content": "在主界面的Display最大显示数量由6增加到12个用户可以在“Settings”->“AssemblyPlus Settings”中设置Display Layout设置是由字符串设置，设置规则如下行数：以，分割后的数量即为行数"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.333,
+                0.358,
+                0.371
+            ],
+            "angle": 0,
+            "content": "例如1_1_1_1, 1_1_1_1, 1_1_1_1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.383,
+                0.197,
+                0.42
+            ],
+            "angle": 0,
+            "content": "显示分为3行"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.433,
+                0.242,
+                0.47
+            ],
+            "angle": 0,
+            "content": "例如1\\_1\\_1\\_1, 1\\_1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.483,
+                0.196,
+                0.519
+            ],
+            "angle": 0,
+            "content": "显示分为2行"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.021,
+                0.532,
+                0.42,
+                0.573
+            ],
+            "angle": 0,
+            "content": "列数：每一行的显示多少个Display，是根据有几个“1”"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.583,
+                0.201,
+                0.619
+            ],
+            "angle": 0,
+            "content": "例如1_1_1_1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.632,
+                0.268,
+                0.67
+            ],
+            "angle": 0,
+            "content": "该行显示为4个Display"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.682,
+                0.163,
+                0.719
+            ],
+            "angle": 0,
+            "content": "例如1_1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.732,
+                0.268,
+                0.77
+            ],
+            "angle": 0,
+            "content": "该行显示为2个Display"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.024,
+                0.781,
+                0.514,
+                0.82
+            ],
+            "angle": 0,
+            "content": "Dummy占位：当数字为1时正常显示Display，为0时Display不显示"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.832,
+                0.195,
+                0.869
+            ],
+            "angle": 0,
+            "content": "例如0\\_1,1\\_1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.88,
+                0.482,
+                0.918
+            ],
+            "angle": 0,
+            "content": "第一个Display不显示，用Dummy代替，如右图所示"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.554,
+                0.129,
+                0.716,
+                0.385
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.506,
+                0.459,
+                0.583,
+                0.487
+            ],
+            "angle": 0,
+            "content": "Appearance"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.562,
+                0.496,
+                0.65,
+                0.523
+            ],
+            "angle": 0,
+            "content": "Result Displays:"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.654,
+                0.488,
+                0.771,
+                0.523
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.562,
+                0.554,
+                0.649,
+                0.581
+            ],
+            "angle": 0,
+            "content": "Display Layout:"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.654,
+                0.544,
+                0.771,
+                0.581
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.624,
+                0.623,
+                0.659,
+                0.661
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.554,
+                0.674,
+                0.725,
+                0.943
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.84,
+                0.413,
+                1.0,
+                0.662
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.967,
+                0.039,
+                0.986
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.965,
+                0.187,
+                0.988
+            ],
+            "angle": 0,
+            "content": "© 2024 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.954,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.022,
+                0.032,
+                0.368,
+                0.098
+            ],
+            "angle": 0,
+            "content": "5.增强Metadata功能"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.035,
+                0.123,
+                0.333,
+                0.16
+            ],
+            "angle": 0,
+            "content": "增加“DUT Color”和“Image Nickname”。"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.059,
+                0.171,
+                0.945,
+                0.778
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.808,
+                0.207,
+                0.837
+            ],
+            "angle": 0,
+            "content": "DUT Color: Product Color"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.036,
+                0.852,
+                0.45,
+                0.883
+            ],
+            "angle": 0,
+            "content": "ImageNickname格式：InspectionName_CamIndex_InputIndex"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.036,
+                0.894,
+                0.538,
+                0.928
+            ],
+            "angle": 0,
+            "content": "重构GetMetadataString(),增加ProductName,inspectionName,inputIDCounter"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.858,
+                0.846,
+                0.885,
+                0.888
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.645,
+                0.89,
+                0.774,
+                0.922
+            ],
+            "angle": 0,
+            "content": "Metadata读取工具:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.794,
+                0.894,
+                0.95,
+                0.918
+            ],
+            "angle": 0,
+            "content": "MetadataReader_V2.8_02202024.7z"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.034,
+                0.966,
+                0.04,
+                0.986
+            ],
+            "angle": 0,
+            "content": "7"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.054,
+                0.965,
+                0.187,
+                0.988
+            ],
+            "angle": 0,
+            "content": "© 2024 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.954,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.015,
+                0.03,
+                0.921,
+                0.095
+            ],
+            "angle": 0,
+            "content": "6. 增加ImagePlayback在连续运行过程中出现错误时停止的功能"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.016,
+                0.137,
+                0.98,
+                0.666
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.014,
+                0.816,
+                0.856,
+                0.856
+            ],
+            "angle": 0,
+            "content": "勾选启用“运行失败自动停止”后，程序在自动连续跑图过程中出现运行失败，跑图工具会自动停止运行，便于查看。"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.966,
+                0.044,
+                0.987
+            ],
+            "angle": 0,
+            "content": "8"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.965,
+                0.187,
+                0.988
+            ],
+            "angle": 0,
+            "content": "© 2024 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.954,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.079,
+                0.165,
+                0.378,
+                0.219
+            ],
+            "angle": 0,
+            "content": "EXPANDING"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.144,
+                0.249,
+                0.312,
+                0.335
+            ],
+            "angle": 0,
+            "content": "O U R"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.058,
+                0.375,
+                0.4,
+                0.521
+            ],
+            "angle": 0,
+            "content": "EDGE"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.597,
+                0.369,
+                0.895,
+                0.453
+            ],
+            "angle": 0,
+            "content": "Questions/"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.598,
+                0.468,
+                0.895,
+                0.543
+            ],
+            "angle": 0,
+            "content": "Thank You"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.967,
+                0.039,
+                0.985
+            ],
+            "angle": 0,
+            "content": "9"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.965,
+                0.187,
+                0.988
+            ],
+            "angle": 0,
+            "content": "© 2024 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ]
+]

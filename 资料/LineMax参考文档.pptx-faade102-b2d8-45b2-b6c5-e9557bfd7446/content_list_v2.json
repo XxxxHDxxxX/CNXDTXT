@@ -1,0 +1,1096 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "LineMax 参考文 档 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                171,
+                355,
+                485,
+                514
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/dbde1b13bbfb45f952bdbd9a9aff4c827c2b249bc31ba6736bf472cf0c784db8.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                512,
+                0,
+                1000,
+                1000
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                535,
+                903,
+                952,
+                935
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "LineMax "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                21,
+                33,
+                140,
+                81
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Caliper 工具和 Find Line 工具均需要提供一个预期线的位置从而去找到边缘点（找线工具即为多个卡尺工具的组合，根据卡尺找到的一系列边缘点进行拟合），这里提到的 LineMax 工具可以对图像中的一个或多个线段进行搜索，但是其不采用卡尺工具的方式，而是先找寻图像中的所有可能边缘点，然后利用这些边缘点根据设定的一些限制条件（例如方向，极性以及一些其他属性）去拟合线段。"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                131,
+                1000,
+                296
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "梯度向量"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                4,
+                309,
+                107,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 如前述， LineMax 首先需要找到图像中的所有可能边缘点，其利用一系列梯度向量表示边缘所包含的信息，对于每个梯度向量，主要由强度和方向组成， 1 ）方向即梯度向量的方向，表示亮度增强的方向， 2 ）强度即梯度向量的长度，表示前区域与其邻域之间的对比度大小。如下图 (a) 所示，对于图像中产生的一系列梯度向量即称为一个梯度场， LineMax 对图像中潜在候选边缘的搜索以及线段的拟合均是在梯度场中进行的，而不是直接对图像进行搜索。"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                368,
+                1000,
+                572
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "边缘点检测 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                0,
+                583,
+                117,
+                627
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• LineMax 工具中可通过设置一系列参数，从而快速找到感兴趣的特征，大大降低运行速度，因此在使用工具时，设置合适的参数值可节省运行时间。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 为了降低运行时间同时减少数据处理量， LineMax 工具通过采用图像采样的方式（即将图像分为多个方形区域，例如一个区域为 4*4pixel 大小，每个区域均会产生一个梯度向量），这个方形区域的操作称为梯度核（其和之前提到的卷积核以及形态学处理的结构元素等类似）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                637,
+                654,
+                892
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/de8804f32092d9539337123f20c462196989b0c4a523f3620f2c8fd135073796.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                665,
+                507,
+                811,
+                792
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/33ba8c4d27abfe6519235da3f73370eb1086c873b5b771b3fe8e8d2d61e9c7c9.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（ a)"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                836,
+                507,
+                983,
+                792
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                907,
+                947,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2 | Confidential © 2019 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                46,
+                962,
+                213,
+                983
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "LineMax "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                20,
+                33,
+                140,
+                81
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 一般情况下，梯度核的大小默认为 2 （即表示 2*2pixel 大小的区域），对于一些比较尖锐的特征，需要采用较小的梯核大小以提高精度，而对于一些平滑的特征，则需要较大的梯度核来定位边缘。总体来说，梯度核越小，精度越高但运行时间也越长，反之，梯度核越大，精度下降但运行时间加快。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• LineMax 工具利用梯度场投影来分析梯度场（类比于之前的卡尺工具和找线工具，其利用灰度投影进行分析），在利用梯度场投影时，需要给定一系列特定方向 ( 一般为垂直预期线的方向）的投影区域，如下图 (a) 所示 ."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 投影长度定义为投影区域的大小，投影长度越小，则表示投影区域内包含更少的梯度向量，运行速度也会更慢，当投影长度增大时，投影区域内梯度向量增多，且运行速度加快，但可能会得到一些无关的边缘点。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                133,
+                1000,
+                444
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note: 投影长度需要小于等于梯度核大小（即投影区域内至少包含一个梯度向量）， VisionPro 中若设置投影长度小于梯度大小，则梯度核大小会自动变成投影长度大小"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                457,
+                1000,
+                540
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 每个投影区域均会产生一个单独的梯度向量，并将其传递到直线拟合阶段"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 梯度向量的强度必须大于绝对对比度阈值和规范化对比度阈值，提高规范化对比度阈值，可以丢弃图像明亮区域中的错误边缘点。当将其设置为 1丢弃所有的边缘点。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                550,
+                660,
+                733
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b63afaa5af61b7d9c4bdd36784fda0e54ac953283e3e9a322dfd33aa59f5ba79.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（ a)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                635,
+                540,
+                993,
+                853
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                48,
+                962,
+                59,
+                979
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Confidential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2019 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                962,
+                212,
+                981
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "LineMax "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                21,
+                33,
+                140,
+                77
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": " 线段的拟合"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                5,
+                133,
+                125,
+                172
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 通过前述的梯度场投影，可以找到一系列的边缘点，对这些边缘点进行拟合即可得到一些列线段。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 内点和外点： LineMax 将找到的边缘点分为内点和外点，内点和外点的区别在于其是否满足线段拟合参数的要求，当足要求时则定义为内点，否则定义为外点，如下图 (a) 所示 , 绿色点表示内点，用于线段拟合，红色点和黄色点均表示为外"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                187,
+                1000,
+                316
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "点，其中红色点不考虑用于任何线段的拟合，黄色线表示用于考虑线段的拟合，但是最终却没有将其拟合为线段 ( 相当于找线工具里的忽略点）"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                316,
+                586,
+                396
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": " 线段的限制"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                5,
+                409,
+                125,
+                450
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 在线段拟合过程中可以设置相应参数，对拟合的线段进行限制，避免拟合得到一些不想要的线段。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 线段极性：极性主要包括四种模式， 1 ）明到暗， 2 ）暗到明， 3 ）任即以上两种极性的线段均会拟合， 4 ）混合，区别于任一，其相当于忽略如下图所示，利用混合模式找到的一条线段可能一半极性是暗到明，另一明到暗，而任一模式会将其作为两条线段看待。 Mi"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                6,
+                459,
+                694,
+                707
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bb3f39f892abcdedabde4973c304a0f4282a24648508a9f96c7ab72d0f062ad5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                27,
+                725,
+                159,
+                888
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d54be7a71d8904d1e2cedc4047cbe0f7bf637ccb7461a438fcd78749c584894e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                258,
+                725,
+                389,
+                888
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e5763667e641862d76f52bd653d26d74ab456a83131fd375a9d1b7d85b60c248.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                416,
+                690,
+                566,
+                892
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/524d223a8761d8d48a65a606c840c101baeee5a163d1e04de30d2c3c74b913b1.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Mixed: Dark to Light & Light to Dark "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                621,
+                320,
+                1000,
+                698
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3549da73d2d7c244ea20fa6af0c74cd6fb333ba568584d05aa467c33f7b2fef4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                632,
+                774,
+                757,
+                896
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                804,
+                907,
+                946,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "4 | Confidential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2019 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                962,
+                212,
+                981
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "LineMax "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                21,
+                33,
+                140,
+                79
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "图像掩膜"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                0,
+                120,
+                101,
+                159
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "拟合算法"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                0,
+                248,
+                101,
+                285
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "LineMax 的返回结果"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                0,
+                420,
+                194,
+                459
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• LineMax 支持图像掩膜器，可以利用图像掩膜将图像中的某些区域不纳入计算范围，如右图所示。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• LineMax 中的线段拟合算法主要分为随机抽样一致性 (RANSAC, 在保留大多数候选边缘点的情况下进行线段拟合 ) 和穷尽模式 ( 考虑所有的边缘点组合进行边缘拟合 ) ， LineMax 默认使用 RANSAC 算法，一般穷尽模式会非常耗时。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• LineMax返回的结果如下图所示，其中最大误差表示为最远的内点相对线段的距离。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                164,
+                665,
+                550
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/614353b0a66f7fe7d0b5da68411b9130acf428400f175a7596da99f4120c4e5c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                667,
+                120,
+                958,
+                601
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e405608e661fe3f7ed85a637c514d76525f4e89ac5aa3b1b2b9b1c991c8bd386.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>ID</td><td>起点X</td><td>起点Y</td><td>终点X</td><td>终点Y</td><td>内点数</td><td>覆盖范围</td><td>正切角</td><td>法角</td><td>长度</td><td>极性</td><td>高度</td><td>对比度</td><td>规范化对比度</td><td>RMS误差</td><td>最大误差</td></tr><tr><td>0</td><td>167.511</td><td>336.999</td><td>332.825</td><td>372.847</td><td>14</td><td>1</td><td>12.235</td><td>102.235</td><td>169.156</td><td>LightToDark</td><td>109.038</td><td>98.9839</td><td>0.453793</td><td>0.433428</td><td>0.886009</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                14,
+                690,
+                966,
+                759
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                804,
+                907,
+                946,
+                938
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "5 | Confidential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2019 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                962,
+                212,
+                981
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ebd1637594a9aeb003cf1727da8bf696a4a30bf7cb56e2dceb65edb01632ea3b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                0,
+                118,
+                437,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "用于拟合后线段的限制"
+                    }
+                ]
+            },
+            "bbox": [
+                2,
+                538,
+                193,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "预期线"
+                    }
+                ]
+            },
+            "bbox": [
+                15,
+                590,
+                75,
+                629
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/18a60f38f23955b0bf93357b9f25d3e3f0ff11eefd9218138a012793e40872ca.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                77,
+                635,
+                465,
+                875
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "向量，位于容差内的点为内点"
+                    }
+                ]
+            },
+            "bbox": [
+                225,
+                122,
+                679,
+                162
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a1528d2f8eb4b6fb901ace96766747716a20f2cda461f0d13eac518a0c2995e2.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "预期线的方向设置"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                488,
+                257,
+                720,
+                572
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/62bd18a0dcdebfe59bd60349c16f7fd69720dfd258e15822a7c5113c20e66f81.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                731,
+                261,
+                966,
+                570
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/dc15f2b4293e9e9b20ee8baaeeb39e7525adfdee5e433bda272c8457cf2ea2e7.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                491,
+                592,
+                717,
+                900
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5a762b8fd258ab074309d4325aede15ec4d68d3a8a20b248ec5b0e6de3facde4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                733,
+                594,
+                966,
+                896
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LineMax "
+                    }
+                ]
+            },
+            "bbox": [
+                21,
+                33,
+                140,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                804,
+                909,
+                946,
+                938
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                48,
+                962,
+                58,
+                981
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Confidential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2019 Cognex Corporation "
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                962,
+                212,
+                981
+            ]
+        }
+    ]
+]

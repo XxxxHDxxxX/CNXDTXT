@@ -1,0 +1,3637 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/d06e772f36aa079e7257b4a0a8445ed048ab13a34bf4368da4b6abb7927aa2a2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            0,
+            0,
+            1000,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CogBlobTool ",
+        "text_level": 1,
+        "bbox": [
+            305,
+            635,
+            605,
+            709
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2019/12/19 ",
+        "bbox": [
+            36,
+            792,
+            163,
+            825
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Juan ",
+        "bbox": [
+            733,
+            787,
+            868,
+            825
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学习目标",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            212,
+            112
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "学员将学会正确地：",
+        "text_level": 1,
+        "bbox": [
+            62,
+            174,
+            315,
+            212
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "□ 辨别斑点工具可能是视觉解决方案一个部分的应用场合",
+            "□ 创建并且配置一个斑点工具来"
+        ],
+        "bbox": [
+            113,
+            290,
+            669,
+            377
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "√ 在指定的灰度范围之内查找斑点",
+            "√ 根据给定的标准筛选斑点"
+        ],
+        "bbox": [
+            176,
+            387,
+            569,
+            468
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "斑点概述",
+        "text_level": 1,
+        "bbox": [
+            79,
+            62,
+            208,
+            109
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "斑点分析探测并且分析图像中的二维形状",
+            "斑点通过辨别处于用户定义的灰度范围内的像素不同组，来查找对象",
+            "斑点报告多种属性："
+        ],
+        "bbox": [
+            36,
+            183,
+            822,
+            361
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "面积",
+        "bbox": [
+            66,
+            370,
+            113,
+            403
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "质心",
+        "bbox": [
+            66,
+            422,
+            113,
+            455
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "周长",
+        "bbox": [
+            66,
+            474,
+            113,
+            505
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主轴",
+        "bbox": [
+            66,
+            525,
+            113,
+            557
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7b117f835538e6ce5bdcc017674a3a1362329ca6d82f704e807d2f15a87bfe8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            648,
+            468,
+            958,
+            918
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            116
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "何时使用斑点",
+        "text_level": 1,
+        "bbox": [
+            80,
+            72,
+            272,
+            118
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "斑点分析非常适合以下场合的应用：",
+        "text_level": 1,
+        "bbox": [
+            41,
+            177,
+            459,
+            212
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对象在尺寸、形状和/或方向上差异很大（训练模型很难或者不可能）对象有背景中找不到的截然不同的灰度对象没有重叠或者接触",
+        "bbox": [
+            70,
+            211,
+            829,
+            327
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "应用案例：",
+        "text_level": 1,
+        "bbox": [
+            41,
+            355,
+            184,
+            390
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "检查环氧树脂点分配的数量、尺寸和形状",
+        "bbox": [
+            70,
+            388,
+            527,
+            427
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "检查表示坏薄片模型的墨水点的正确位置和大小",
+        "bbox": [
+            70,
+            427,
+            601,
+            466
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "检查药片的破碎和大小 ",
+        "bbox": [
+            70,
+            468,
+            326,
+            505
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据对象的尺寸、形状或位置整理或者分类对象",
+        "bbox": [
+            70,
+            507,
+            601,
+            548
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            122
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            968
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            52,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图片",
+        "text_level": 1,
+        "bbox": [
+            86,
+            64,
+            147,
+            109
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c837c4fe584d990b600e61b27f88dd74a3df007912df517cbbdf9489c80ea27.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            26,
+            192,
+            976,
+            937
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            972
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分割",
+        "text_level": 1,
+        "bbox": [
+            83,
+            68,
+            145,
+            112
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "斑点在其运行时所做的第一件事就是图像分割，确定哪些像素是斑点像素以及哪些是背景像素",
+            "有数种模式可以指定哪些可以将斑点与背景像素分开"
+        ],
+        "bbox": [
+            36,
+            172,
+            506,
+            383
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b654e8e1ea1b1b796d144a81d741952ac1fcc323050e01d6469840d7dd137300.jpg",
+        "image_caption": [
+            "斑点像素",
+            "背景像素"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            531,
+            255,
+            973,
+            833
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            34,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分割",
+        "text_level": 1,
+        "bbox": [
+            84,
+            64,
+            150,
+            109
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "多数模式会要求：",
+        "text_level": 1,
+        "bbox": [
+            72,
+            231,
+            291,
+            270
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "极性",
+        "bbox": [
+            101,
+            281,
+            148,
+            316
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- 在光亮背景上的黑色斑点",
+            "- 在黑色背景上的光亮斑点"
+        ],
+        "bbox": [
+            145,
+            327,
+            451,
+            409
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "阀值 ",
+        "bbox": [
+            102,
+            418,
+            147,
+            453
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "- 将斑点像素从背景像素中分 开来的值",
+        "bbox": [
+            147,
+            464,
+            469,
+            540
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f6f9245c19cc1b39feda545e5339ac3aad66af2032d062fd4597a40814da03b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            480,
+            162,
+            859,
+            529
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3557dae8f5400821bce4f430407cca29904b1bc465429227f8c26fd216d5b08d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            573,
+            564,
+            970,
+            900
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "固定阀值",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            209,
+            105
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "在固定阈值中，斑点像素和背景像素分别根据灰度值来确定。",
+            "设置一个灰度级阈值："
+        ],
+        "bbox": [
+            38,
+            179,
+            731,
+            290
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a66b92f70dd48d182a215a55aac34f7ec279caaad621c0835ad888939f955558.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            230,
+            512,
+            787,
+            872
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            116
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "相对阀值",
+        "text_level": 1,
+        "bbox": [
+            84,
+            59,
+            212,
+            103
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "相对阈值解释为左尾和右尾之间全体像素的百分数",
+            "尾度代表柱状图两端的噪音级像素"
+        ],
+        "bbox": [
+            38,
+            185,
+            686,
+            303
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f622de3133d66084f333fd60912dca9416800656389b7435cdd7e996f57b7d0.jpg",
+        "image_caption": [
+            "图像："
+        ],
+        "image_footnote": [],
+        "bbox": [
+            100,
+            629,
+            234,
+            825
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "柱状图：",
+        "bbox": [
+            370,
+            625,
+            431,
+            655
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "最低值像素的 $5 \\%$ ",
+        "bbox": [
+            302,
+            746,
+            434,
+            772
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "左尾像素值",
+        "bbox": [
+            338,
+            857,
+            426,
+            883
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa3bbaccf652f00093e389dce7a52b58beca6846ab81d3d94815f377c23c0868.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            450,
+            557,
+            900,
+            888
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "使用相对阀值",
+        "text_level": 1,
+        "bbox": [
+            83,
+            64,
+            272,
+            109
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "相对阀值调整因为线性灯光变化",
+        "bbox": [
+            72,
+            233,
+            302,
+            314
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/54b3e37a52a78e06b909c7cb059ffbbca7009f9da4999b2d5876d5069a92da8e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            333,
+            209,
+            461,
+            401
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe3625df4e3ea4079527cef7528f54ae35e5c35ba2cd30e581bc358cdb453e75.jpg",
+        "image_caption": [
+            "40% 的"
+        ],
+        "image_footnote": [
+            "阀值 $= 30$ "
+        ],
+        "bbox": [
+            475,
+            231,
+            658,
+            375
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7250b18886e039e600be9220efccb0638a629fdc3d667ba01824dd6a8980a793.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            787,
+            229,
+            891,
+            388
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e7bd074b6ceba343cef8241f55e1d928acf86d620e2cd1460aa1ca220ae94ae.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            333,
+            414,
+            461,
+            609
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1dabfa09e1e054591ead83470921cd40b027351a43c8146a271ce975abe51df.jpg",
+        "image_caption": [
+            "40% 的"
+        ],
+        "image_footnote": [
+            "阀值 $= 100$ "
+        ],
+        "bbox": [
+            477,
+            437,
+            658,
+            592
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3f47b893af83e9de0d89f7022d8e6c6ea3efcaa03fb7539a920796505995dba.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            788,
+            435,
+            890,
+            592
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a27f94bcd9d57c803905559b5b84304b9f42136db892d743e73db489c58bd987.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            333,
+            618,
+            461,
+            809
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/51168272cea159fdd02d2ebcc75bbec047e9ff4430da12b7be1924bf993953ce.jpg",
+        "image_caption": [
+            "40%的"
+        ],
+        "image_footnote": [
+            "阀值 $= 140$ "
+        ],
+        "bbox": [
+            480,
+            644,
+            661,
+            792
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/deee0325b54c6d7b958e3588d89be11ba9f2f7a4de92235ae20856690c5deb68.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            788,
+            640,
+            888,
+            796
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            120
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "固定和相对阀值",
+        "text_level": 1,
+        "bbox": [
+            84,
+            64,
+            304,
+            109
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "固定的灰度阈值不提供线性灯光变化",
+        "bbox": [
+            72,
+            233,
+            377,
+            316
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/4733d236bc7290c7d66662cfa7a4696c5c7f412993a2198bcbd5f376853ed052.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            379,
+            200,
+            969,
+            807
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "11 ",
+        "bbox": [
+            30,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "固定和相对阀值",
+        "text_level": 1,
+        "bbox": [
+            76,
+            62,
+            295,
+            107
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "固定的阈值要比相对的速度快，因为与百分比对应灰度不必计算",
+            "- 固定阈值可以检测场景中是否有某特征，而相对阈值始终在场景中找到一个斑点"
+        ],
+        "bbox": [
+            36,
+            179,
+            534,
+            351
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d17b0009e01be7ba26989a456efd91f9d3f554e43d2c7f69f66fb843b92d5289.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            522,
+            294,
+            976,
+            707
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "硬性阀值 ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            57,
+            223,
+            101
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "到目前为止所有例子都使用了硬性阈值",
+        "text_level": 1,
+        "bbox": [
+            38,
+            181,
+            502,
+            220
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "该值（灰度或百分比）将斑点像素从背景像素中分开 ",
+        "bbox": [
+            70,
+            231,
+            552,
+            264
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/b833a7c1b8f7b3863b4dd8550815f353c9d7aafcb7ce874bd356ef227870df8e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            245,
+            474,
+            506,
+            705
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "检查柱状图确定阀值灰度",
+        "bbox": [
+            163,
+            762,
+            475,
+            805
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/8361ccdc973728eda57137714ef4d7780ec283bdaa05835537ada8a9ea962fe7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            527,
+            503,
+            752,
+            672
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe2f0ddb8c6b5d1165c088c682075f8b500afdb5e070bf115d92a62365bc47cc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            550,
+            694,
+            800,
+            900
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "13 ",
+        "bbox": [
+            30,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "硬性阈值 ",
+        "text_level": 1,
+        "bbox": [
+            83,
+            64,
+            212,
+            109
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e3ecd3c3095f9acb30ae8f1f8c4d4e907b67649f4a49938b19a3f92bc6efb28.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            36,
+            192,
+            986,
+            937
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "14 ",
+        "bbox": [
+            27,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "空间量化错误",
+        "text_level": 1,
+        "bbox": [
+            84,
+            64,
+            272,
+            109
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "当对象在不同图像降落在不同的像素格子上时，硬性阈值同时重现",
+            "可能导致斑点尺寸、周长和位置的错误结果",
+            "随着对象周长加大，错误变得更加明显 "
+        ],
+        "bbox": [
+            30,
+            211,
+            515,
+            548
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/b47529ab6ff1b4a3be584f95141e06388b4c6ce2597d3e9573aaedf8bfece28e.jpg",
+        "image_caption": [
+            "对象中的像素 = 64"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            538,
+            279,
+            745,
+            553
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b47352f1f218665bc6a13b5645481010f2cb607a054ddd919cc0097c766bdf0.jpg",
+        "image_caption": [
+            "对象中的像素 = 81"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            752,
+            281,
+            958,
+            553
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/4af5b2a7ff8c8e2a8ce5119c01b8215c7a93a003d0c158e0774dd007e3ed2f02.jpg",
+        "image_caption": [
+            "对象中的像素 $= 44$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            544,
+            614,
+            750,
+            868
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/b06d79f26f2491600292e7cc74fc0db7f90aa5cb447d2861c6a0d821d1a61c50.jpg",
+        "image_caption": [
+            "对象中的像素 $= 25$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            755,
+            614,
+            959,
+            868
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "15 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "像素加权 ",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            212,
+            112
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "空间量化错误可以通过应用像素加权来消除",
+            "当斑点对应于像素格子移动时，总权数保持不变"
+        ],
+        "bbox": [
+            36,
+            188,
+            597,
+            296
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/f411313e4b3f64d6ed8842821fb39af84c4da4f337cbb9487ec327aca733b7a0.jpg",
+        "image_caption": [
+            "总面积 $= 3$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            95,
+            522,
+            334,
+            809
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/d90098c7755da9584477fc1723572862cfcdf2482a2f9e83beaaaf081a37ae6d.jpg",
+        "image_caption": [
+            "总面积 $= 3$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            376,
+            522,
+            615,
+            809
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2da9d165f998a7272103a593b6eea19263bc7f840b76aae9694edf5568482ac.jpg",
+        "image_caption": [
+            "总面积 $= 3$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            659,
+            522,
+            900,
+            809
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "16 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "软性阀值 ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            64,
+            216,
+            112
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "使用软性阈值创建一个像素加权计划",
+            "软性阀值使用一系列阀值"
+        ],
+        "bbox": [
+            38,
+            187,
+            472,
+            296
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b19fbbe0498156b6ccdecf748bfc1a4f67d0091bee931b9a92886cab6f9cbd9.jpg",
+        "image_caption": [
+            "阀值用于光亮背景上的黑色对象"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            109,
+            509,
+            405,
+            790
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/67f21a85ef155ff4c06b4bfcbdf9a697f89713db28a89e36342f8620500ad93d.jpg",
+        "image_caption": [
+            "阀值用于黑色背景上的光亮对象"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            602,
+            512,
+            886,
+            792
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "17 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "软性阈值 ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            64,
+            211,
+            109
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "软性阀值例子",
+        "bbox": [
+            25,
+            201,
+            206,
+            238
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "低阀值 $= 50$ ",
+        "bbox": [
+            52,
+            253,
+            183,
+            292
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "高阀值 = 65",
+        "bbox": [
+            52,
+            312,
+            188,
+            351
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "软度 $= 3$ ",
+        "bbox": [
+            52,
+            374,
+            152,
+            411
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/b89000a5d36aca1d916871408203d276619212581cf0fed7a779f763ab0e61de.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            388,
+            190,
+            963,
+            888
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "18 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            52,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "软性阈值 ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            64,
+            211,
+            109
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9c1b6adb96e5f5a6db094b2d5635aa57ccd486ad09eb45ee7fe37bc52ebd4ad.jpg",
+        "image_caption": [
+            "阀值使用灰度表示"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            31,
+            183,
+            401,
+            559
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b173bb0a10b1937c80278236aa551ccde4be86f234d743c819a8733c633a9c9.jpg",
+        "image_caption": [
+            "阀值和尾度使用百分数表示"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            588,
+            172,
+            961,
+            646
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "19 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "使用一个减法图像",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            334,
+            112
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "当图像包含类似的背景和斑点灰度时，使用一个减法图像",
+            "阀值图像只包含背景信息",
+            "图像中的每个像素与阈值图像中的相应像素相差指定的数量，即斑点像素"
+        ],
+        "bbox": [
+            34,
+            175,
+            680,
+            409
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a50ed11ee086337c7c5567f11301410bb0801a9493f1b318278c10a385135f2.jpg",
+        "image_caption": [
+            "减法图像"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            733,
+            172,
+            901,
+            357
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/77d7fc34220771faeece5903a8de45570a9b6dad26db9085fb71f0538f297c82.jpg",
+        "image_caption": [
+            "待分割的图像"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            731,
+            420,
+            897,
+            603
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/71711d442b4e780b98a0ed189aecbc7a27090b0a85ddd754fa30d3d0b8e822f5.jpg",
+        "image_caption": [
+            "分割后的图像"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            733,
+            677,
+            897,
+            861
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            116
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "20 ",
+        "bbox": [
+            29,
+            957,
+            38,
+            968
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "像素映射 ",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            212,
+            112
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- 为不能使用硬性或者软性二进制阀值进行分割的图像使用一个像素映射（查找表）",
+            "要求一个比例因子，应用到像素映射值"
+        ],
+        "bbox": [
+            59,
+            172,
+            933,
+            327
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/4000968153d74fa27b317425f1dd7f361d4060a9b821a0b2a1b03d2a11506dc3.jpg",
+        "image_caption": [
+            "最初图形"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            195,
+            566,
+            401,
+            751
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/53c58d11ab94380fa12742ed26867c90b0588eb4ee96bdd2392c453c59090a56.jpg",
+        "image_caption": [
+            "像素图"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            416,
+            562,
+            665,
+            798
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/bee4ea82e5883c3227bcc2ee15513402b1fb0c58c9ee7a45b64e676b9aed4182.jpg",
+        "image_caption": [
+            "分段图形"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            697,
+            566,
+            820,
+            746
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "page_number",
+        "text": "21 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "像素映射 ",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            212,
+            112
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "为每个灰度提供一个输出值",
+        "bbox": [
+            70,
+            231,
+            406,
+            272
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/09584943752e21bdb2afdc385a3e62e563ebfc593598c8cc9fe8f89902568cd6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            222,
+            162,
+            858,
+            901
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "page_number",
+        "text": "22 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "连通性分析",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            241,
+            111
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "在将图像分区之后，斑点执行连通性分析",
+            "- 整个图像斑点分析返回图像中所有斑点像素的一个结果",
+            "灰度分析辨别离散的已连接斑点"
+        ],
+        "bbox": [
+            70,
+            231,
+            583,
+            455
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/f421bc79f8e967b3985c2300c39336a58c82ec4de30b35ccdb3afc72428c636b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            665,
+            162,
+            930,
+            366
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/6dd44b097b8ebe5b6d69d952a3c8facd77146f44f16485a8b3c0014c91e4f53f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            641,
+            383,
+            941,
+            596
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/024d2532224122f0890d6f57851b54d9048be5bac25954afb6e4bb693adefdd9.jpg",
+        "image_caption": [
+            "完整斑点分析",
+            "灰度分析 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            641,
+            642,
+            941,
+            857
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            120
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "page_number",
+        "text": "23 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "已连接斑点分析",
+        "text_level": 1,
+        "bbox": [
+            86,
+            62,
+            305,
+            112
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "对象像素必须",
+        "bbox": [
+            63,
+            174,
+            250,
+            211
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "垂直、横向或者对角相连 ",
+        "bbox": [
+            94,
+            222,
+            326,
+            257
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "背景像素只是 ",
+        "bbox": [
+            63,
+            294,
+            247,
+            331
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "垂直或者横向地连接 ",
+        "bbox": [
+            94,
+            342,
+            284,
+            375
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/528abfced6f7dfc4406b9b8fbacf40b41a6cafbc3ac58362ddf970a876e7257d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            333,
+            475,
+            623,
+            816
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "有多少个斑点",
+        "bbox": [
+            398,
+            840,
+            559,
+            879
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "处于图像中？",
+        "bbox": [
+            404,
+            881,
+            552,
+            920
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "page_number",
+        "text": "24 ",
+        "bbox": [
+            27,
+            955,
+            41,
+            970
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "应用形态筛选 ",
+        "text_level": 1,
+        "bbox": [
+            83,
+            64,
+            275,
+            109
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "首先从下拉列表中选择筛选方式",
+            "顺序问题！"
+        ],
+        "bbox": [
+            70,
+            231,
+            456,
+            409
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "要重新排序或者删除某操作，使用对话框中的按钮",
+        "bbox": [
+            101,
+            418,
+            563,
+            455
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/2544fb63f2b23dfd3a85253648c3f1cc608ab6da358ea4174f0ced1fab760a19.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            645,
+            187,
+            950,
+            633
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5f5d0bcfec012bb5a23f359e5e5d1778b42a19fb21f3d71620a0058053e9ae0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            647,
+            664,
+            963,
+            896
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_number",
+        "text": "25 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "修剪和填充",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            241,
+            109
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "修剪忽略但是不删除低于规定尺寸的特征。",
+            "填充使用灰度值从左边相邻的像素开始填充修剪后的特征"
+        ],
+        "bbox": [
+            62,
+            174,
+            722,
+            281
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/19e3beb9c029ccf3a57db8cef3b2cee1ca86324e69c3e254546d036fb8c58179.jpg",
+        "image_caption": [
+            "最初图形"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            241,
+            474,
+            373,
+            646
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "1个斑点围9个孔 ",
+        "bbox": [
+            258,
+            690,
+            358,
+            711
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "斑点面积 $= 900$ ",
+        "bbox": [
+            259,
+            712,
+            345,
+            731
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b6354a0a1748e8fe679abe97c3990a11c84fd6facadd702b6e559ca76cdefec.jpg",
+        "image_caption": [
+            "修正图形"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            418,
+            474,
+            550,
+            646
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "1个斑点围1个孔 ",
+        "bbox": [
+            426,
+            687,
+            525,
+            707
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "斑点面积=900",
+        "bbox": [
+            431,
+            707,
+            518,
+            727
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4e2ac8f58638e3ef17ceae733767f396b60963a92edbb1cabcf531a75bb618c.jpg",
+        "image_caption": [
+            "填充图形"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            595,
+            474,
+            726,
+            646
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "1个斑点围1个孔 ",
+        "bbox": [
+            612,
+            683,
+            709,
+            705
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "斑点面积=980",
+        "bbox": [
+            618,
+            705,
+            704,
+            722
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "孔仍然存在，但不会",
+        "bbox": [
+            227,
+            774,
+            430,
+            807
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "被报告",
+        "bbox": [
+            227,
+            809,
+            295,
+            842
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "孔被填充了",
+        "bbox": [
+            556,
+            803,
+            668,
+            838
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "page_number",
+        "text": "26 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            968
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "区域",
+        "text_level": 1,
+        "bbox": [
+            84,
+            64,
+            151,
+            109
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "默认状态下，斑点分析在整个图像上进行",
+            "要只在采集的图像的一个部分中探测斑点，需要使用一个区域形状可能在输入图像上图形定位和设定大小"
+        ],
+        "bbox": [
+            70,
+            231,
+            481,
+            472
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/4850c4eef8ee93af769fff8758cd97e642c8cde7eba70476b4563627b49e75e7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            538,
+            183,
+            956,
+            600
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "page_number",
+        "text": "27 ",
+        "bbox": [
+            27,
+            955,
+            41,
+            970
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "测量",
+        "text_level": 1,
+        "bbox": [
+            83,
+            64,
+            150,
+            109
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "- 允许你指定在每个斑点上计算的测量",
+        "bbox": [
+            70,
+            231,
+            413,
+            316
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/f81a8ec29f61bec7498db1d3a6fc06c1185ecbeffbb3fcf8b3c512e83a25bcb9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            433,
+            185,
+            952,
+            601
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "page_number",
+        "text": "28 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "测量",
+        "text_level": 1,
+        "bbox": [
+            83,
+            64,
+            150,
+            109
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "对于每种所选的测量，选择：",
+        "bbox": [
+            72,
+            231,
+            423,
+            272
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "网格",
+        "bbox": [
+            102,
+            283,
+            148,
+            316
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "运行期间",
+        "bbox": [
+            102,
+            333,
+            188,
+            366
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "筛选 ",
+        "bbox": [
+            102,
+            385,
+            150,
+            418
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6004cf08cabb8602f1304eefdaa0f165c8df6e90c934528b367c0ee6d12bab2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">MeasureFilter</td><td>Range</td><td>Low</td><td>High</td></tr><tr><td colspan=\"2\">Runtime</td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Runtime</td><td colspan=\"3\">Grid (computed only when displayed in results grid)</td></tr><tr><td colspan=\"2\">Runtime</td><td colspan=\"3\">✓ Runtime (computed when tool is run)</td></tr><tr><td colspan=\"2\">Runtime</td><td colspan=\"3\">Filter (filters blobs based on low/high range)</td></tr><tr><td colspan=\"2\">Runtime</td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            470,
+            185,
+            954,
+            351
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            116
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "page_number",
+        "text": "29 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "测量",
+        "text_level": 1,
+        "bbox": [
+            83,
+            64,
+            150,
+            109
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "针对任何属性，使用筛选来排除一定范围之外的斑点",
+        "bbox": [
+            70,
+            231,
+            372,
+            357
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "或者只包括在一定范围之内的",
+        "bbox": [
+            101,
+            370,
+            373,
+            444
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/36d917893c78f643d294c8c14408f524172fa2594ad39bc6067225056bcc63ef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            375,
+            185,
+            952,
+            435
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "page_number",
+        "text": "30 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "测量",
+        "text_level": 1,
+        "bbox": [
+            83,
+            64,
+            150,
+            109
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "结果可以按顺序整理，以便进行所选择的测量",
+        "bbox": [
+            70,
+            231,
+            544,
+            316
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "升序或者降序 ",
+        "bbox": [
+            101,
+            325,
+            230,
+            359
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/da43e25ac7f51b62e787a8fcc022a074a16e07e276f1a11c58104bdf8a07ee25.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            570,
+            198,
+            963,
+            522
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "page_number",
+        "text": "31 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "图形",
+        "text_level": 1,
+        "bbox": [
+            86,
+            66,
+            148,
+            109
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "选择，以便显示结果或诊断图形记住图形会增加时间",
+        "bbox": [
+            72,
+            231,
+            456,
+            316
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfc1986f7fa43e703a9037382e125a573bd1b0737dc579d171104ccb0185f555.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            520,
+            185,
+            959,
+            601
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "page_number",
+        "text": "32 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "结果",
+        "text_level": 1,
+        "bbox": [
+            83,
+            64,
+            150,
+            109
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "N斑点的索引 ",
+            "ID 处于分类标准外的独特的斑点标识号",
+            "测量为所选择的那些测量进行"
+        ],
+        "bbox": [
+            63,
+            175,
+            429,
+            601
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "page_number",
+        "text": "33 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "几何属性",
+        "text_level": 1,
+        "bbox": [
+            84,
+            64,
+            211,
+            109
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "- 几何属性为常量的斑点测量，不论斑点的方向",
+        "text_level": 1,
+        "bbox": [
+            62,
+            164,
+            595,
+            203
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "面积",
+        "bbox": [
+            94,
+            205,
+            138,
+            233
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "周长",
+        "bbox": [
+            94,
+            240,
+            138,
+            270
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "质心",
+        "bbox": [
+            94,
+            279,
+            138,
+            309
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "坐标轴周围惯量的第三个",
+        "bbox": [
+            91,
+            329,
+            326,
+            362
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "力矩 ",
+        "bbox": [
+            94,
+            383,
+            138,
+            412
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "几何延伸 ",
+        "bbox": [
+            94,
+            420,
+            179,
+            451
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "主要限制框",
+        "bbox": [
+            94,
+            459,
+            201,
+            490
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/558a7945f23097bac6b29881dfaf52af5cfd0bc871bb987fb4a19e091bffee52.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            484,
+            344,
+            952,
+            824
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "page_number",
+        "text": "34 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            968
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "非几何形属性",
+        "text_level": 1,
+        "bbox": [
+            84,
+            64,
+            272,
+            107
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "非几何性属性指那些随着斑点旋转或者位置变化而变化的属性",
+        "bbox": [
+            62,
+            172,
+            772,
+            211
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "斑点中位数",
+        "bbox": [
+            94,
+            222,
+            201,
+            255
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "坐标轴周围惯量的第二个",
+        "bbox": [
+            93,
+            275,
+            325,
+            307
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "力矩 ",
+        "bbox": [
+            94,
+            327,
+            138,
+            357
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "坐标延伸 ",
+        "bbox": [
+            94,
+            379,
+            180,
+            411
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "任意的限制框",
+        "bbox": [
+            94,
+            429,
+            222,
+            461
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9abababa10fb87b046da96005bff1fb8036354d9f815fd1612e2b06bda52b8e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            488,
+            387,
+            934,
+            868
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "page_number",
+        "text": "35 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "拓扑的属性",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            241,
+            109
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "辨别斑点、孔以及孔中的斑点",
+        "bbox": [
+            70,
+            212,
+            430,
+            257
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/83e4e596348c52cd6416a070ce2f89d30b9ac576f8195860f2b7e9a913cf8607.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            202,
+            361,
+            783,
+            757
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "page_number",
+        "text": "36 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Thank you. ",
+        "bbox": [
+            280,
+            329,
+            576,
+            407
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "page_number",
+        "text": "37 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 36
+    }
+]

@@ -1,0 +1,524 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        79,
+                        324,
+                        108
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                79,
+                                324,
+                                93
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        79,
+                                        324,
+                                        93
+                                    ],
+                                    "type": "text",
+                                    "content": "1、 CogTransform2DLinear. SetMatrixElement Method",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                94,
+                                293,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        94,
+                                        192,
+                                        108
+                                    ],
+                                    "type": "text",
+                                    "content": "在这个转换中访问",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        192,
+                                        95,
+                                        213,
+                                        107
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "2 \\times 2",
+                                    "score": 0.88
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        94,
+                                        293,
+                                        108
+                                    ],
+                                    "type": "text",
+                                    "content": "矩阵的选择元素。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        110,
+                        116,
+                        282,
+                        133
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                116,
+                                282,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        116,
+                                        282,
+                                        133
+                                    ],
+                                    "type": "text",
+                                    "content": "public void SetMatrixElement(",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        110,
+                        149,
+                        155,
+                        163
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                148,
+                                157,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        148,
+                                        157,
+                                        166
+                                    ],
+                                    "type": "text",
+                                    "content": "int row,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        110,
+                        179,
+                        176,
+                        195
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                178,
+                                177,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        178,
+                                        177,
+                                        196
+                                    ],
+                                    "type": "text",
+                                    "content": "int column,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        110,
+                        211,
+                        189,
+                        226
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                208,
+                                190,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        208,
+                                        190,
+                                        227
+                                    ],
+                                    "type": "text",
+                                    "content": "double value)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        235,
+                        375,
+                        264
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                236,
+                                375,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        236,
+                                        375,
+                                        248
+                                    ],
+                                    "type": "text",
+                                    "content": "2、 CogTransform2DLinear. SetMatrixElementsTranslation Method",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                251,
+                                249,
+                                263
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        251,
+                                        249,
+                                        263
+                                    ],
+                                    "type": "text",
+                                    "content": "根据给定的参数设置这个转换。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        133,
+                        272,
+                        375,
+                        289
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                132,
+                                271,
+                                376,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        271,
+                                        376,
+                                        289
+                                    ],
+                                    "type": "text",
+                                    "content": "public void SetMatrixElementsTranslation(",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        133,
+                        304,
+                        223,
+                        319
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                133,
+                                301,
+                                224,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        133,
+                                        301,
+                                        224,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "double elem00,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        133,
+                        335,
+                        224,
+                        350
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                134,
+                                334,
+                                224,
+                                352
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        134,
+                                        334,
+                                        224,
+                                        352
+                                    ],
+                                    "type": "text",
+                                    "content": "double elem01,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        133,
+                        366,
+                        224,
+                        380
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                133,
+                                364,
+                                224,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        133,
+                                        364,
+                                        224,
+                                        383
+                                    ],
+                                    "type": "text",
+                                    "content": "double elem10,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        133,
+                        397,
+                        224,
+                        412
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                134,
+                                396,
+                                224,
+                                414
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        134,
+                                        396,
+                                        224,
+                                        414
+                                    ],
+                                    "type": "text",
+                                    "content": "double elem11,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        133,
+                        428,
+                        250,
+                        444
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                134,
+                                427,
+                                251,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        134,
+                                        427,
+                                        251,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "double translationX,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        133,
+                        460,
+                        250,
+                        475
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                134,
+                                457,
+                                251,
+                                476
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        134,
+                                        457,
+                                        251,
+                                        476
+                                    ],
+                                    "type": "text",
+                                    "content": "double translationY)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

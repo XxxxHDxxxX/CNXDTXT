@@ -1,0 +1,1507 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Cognex 高级笔试题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                243,
+                99,
+                470,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "总分(100 分) 姓名 工号"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                137,
+                729,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": ".不定项选择题（每题 2 分，共 10 分）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                173,
+                494,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.如下图所示，CogCaliperTool 工具说法正确的是（ BC ）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                212,
+                636,
+                231
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b8119a6c10eda5c1f34ae3a28c469bba762877c7e95e6c74567d978ce49bdf94.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                237,
+                534,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A、水平方向为投影方向"
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                453,
+                379,
+                470
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B、垂直方向为投影方向"
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                453,
+                658,
+                470
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C、水平方向为扫描方向"
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                491,
+                378,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D、垂直方向为扫描方向"
+                    }
+                ]
+            },
+            "bbox": [
+                442,
+                491,
+                660,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 利用CogFixture工具建立空间坐标系需要输入 （ ABD ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                527,
+                715,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.X "
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                556,
+                181,
+                571
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.Y "
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                557,
+                258,
+                570
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. Center "
+                    }
+                ]
+            },
+            "bbox": [
+                307,
+                557,
+                386,
+                571
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. Angle "
+                    }
+                ]
+            },
+            "bbox": [
+                428,
+                557,
+                500,
+                571
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3：8704E 卡采用 4-Pin 电源连接器连接 B 电源。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                583,
+                563,
+                601
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.6V "
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                612,
+                191,
+                626
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.12V "
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                612,
+                341,
+                626
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.18V "
+                    }
+                ]
+            },
+            "bbox": [
+                430,
+                612,
+                480,
+                626
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.24V "
+                    }
+                ]
+            },
+            "bbox": [
+                571,
+                612,
+                623,
+                626
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4．图片保存路径：D:/Cognex/Images/ 软件备份路径 D:/Cognex/Backup 及按要求(B )备份一次。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                658,
+                848,
+                713
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.每天"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                732,
+                208,
+                747
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.每周 "
+                    }
+                ]
+            },
+            "bbox": [
+                253,
+                732,
+                312,
+                747
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.每半个月"
+                    }
+                ]
+            },
+            "bbox": [
+                359,
+                732,
+                458,
+                747
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.每个月"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                732,
+                579,
+                747
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5.PMAlign 工具输出结果数据（X,Y,Angle 等）是在哪个空间下（ B ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                769,
+                737,
+                787
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A、像素空间"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                806,
+                265,
+                822
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B、输入图像空间C、训练区域选取空间"
+                    }
+                ]
+            },
+            "bbox": [
+                270,
+                806,
+                620,
+                822
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D、搜索区域选取空间"
+                    }
+                ]
+            },
+            "bbox": [
+                628,
+                806,
+                823,
+                822
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. 图像训练正确顺序为"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                843,
+                352,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（ A ）"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                843,
+                596,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.获取图像 设置训练区域和原点 设置训练参数 训练图像 查看结果"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                879,
+                794,
+                897
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B.获取图像 训练图像 设置训练参数 查看结果"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. 获取图像 设置训练参数 设置训练区域和原点 训练图像 查看结果"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D. 获取图像 设置训练区域和原点 训练图像 查看结果"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                102,
+                794,
+                192
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. 图像保存时为什么最好保存为 BMP 格式 （ D ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                212,
+                610,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.文件小"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                250,
+                228,
+                267
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.快门速度保存在图像文件中"
+                    }
+                ]
+            },
+            "bbox": [
+                302,
+                250,
+                563,
+                267
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.转换为 FTP 更容易"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                287,
+                324,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.图像质量不会丢失 "
+                    }
+                ]
+            },
+            "bbox": [
+                354,
+                287,
+                536,
+                304
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8.LED光源的优势有哪些 （ABC）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                324,
+                450,
+                341
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A．寿命长"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                362,
+                243,
+                378
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.可以频闪"
+                    }
+                ]
+            },
+            "bbox": [
+                253,
+                362,
+                352,
+                378
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.多种颜色和形状的选择 "
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                362,
+                584,
+                378
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.强度永不衰减 "
+                    }
+                ]
+            },
+            "bbox": [
+                596,
+                362,
+                736,
+                378
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. 以下什么不是 DataMatrix 代码的特征 （B）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                398,
+                544,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.静区"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                435,
+                208,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.起始符/终止符和校验符 "
+                    }
+                ]
+            },
+            "bbox": [
+                236,
+                436,
+                465,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.查找特征 "
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                436,
+                574,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. 计时特征 "
+                    }
+                ]
+            },
+            "bbox": [
+                586,
+                436,
+                690,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10.对锯齿边缘轮廓检测，使用下面哪种光源比较合适 （C）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                472,
+                680,
+                489
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.带偏振环形光"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                508,
+                287,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.同轴光"
+                    }
+                ]
+            },
+            "bbox": [
+                300,
+                510,
+                379,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.背光源"
+                    }
+                ]
+            },
+            "bbox": [
+                391,
+                510,
+                468,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.高角度直 "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                510,
+                579,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "向型光源"
+                    }
+                ]
+            },
+            "bbox": [
+                589,
+                510,
+                665,
+                526
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二．判断题（每题 2 分，共 20 分）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                546,
+                447,
+                563
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.不同颜色的物料，所对应的打光效果也是不一样的。 ( √ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                583,
+                667,
+                601
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.做数据时 GRR 要跑 32 片料而 CPK 需要跑 10 片料。 ( × )"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                621,
+                643,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3.如果一个图像的效果太暗，我们可以通过调节光圈来进行设置，光圈的大小对于图像的效果的影响不大（×）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                657,
+                847,
+                712
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4.降低接受阈值参数，CogPMAlign 工具运行时间会变长。 ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": ")"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                732,
+                697,
+                749
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5.背光源适用于金属物体的表面打光。 （ × ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                769,
+                557,
+                785
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.CogPMAlignTool 查找概数中，值设置为 1 时，仍然可以找到多个结果。（×）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                806,
+                823,
+                822
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7.C 型接口的镜头可以匹配 CS 型接口的相机。 （√）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                843,
+                603,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8.只需要在镜头前端装上偏振片即可过滤掉产品上的眩光，得到想要的效果图片"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                879,
+                847,
+                897
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（×）"
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                102,
+                189,
+                118
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. 调机时，相机聚焦需先把光圈调到最大，聚焦完成后在调回正常光圈是为了使聚焦最好. ( √ )"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. 蓝色特征红色背景(黑白相机)，最佳使用红色光源。 （√）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                137,
+                848,
+                231
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三：简答题（60 分）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                268,
+                326,
+                287
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1：简述查询 8704E 的信息查询流程，并写出查询到的信息。（15 分）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                306,
+                757,
+                324
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.在开始菜单的搜索框中输入“cmd”指令；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.在cmd命令行黑色窗口中输入：cogtool –p 会提取出8704E卡的所有信息；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.输入完成后按回车键，就会显示如下信息：（板卡的SN和最大支持的相机数以及支持的工具名称）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                334,
+                845,
+                403
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2：相机无法触发，分析原因并写出解决方法？（写出三点即可）（15 分）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                491,
+                803,
+                508
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.确认相机是否连接正确"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.如果 VisionPro 可用，打开 Cognex GigE Vision Configuration，查看不拍照的相机是否在左侧的相机列表中。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.确认机构是否发送了正确的触发信号。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.可能由于主机卡顿，软件卡顿或BUG引起，将计算机关机，约十秒钟后，重新开启计算机"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5.检查相机是否损坏，如坏的话更换相机。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6.相机配置参数设置不正确，重新查看并配置好正确参数"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7.权限位丢失，检查8704E板卡权限 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8.磁盘已满或者图片删除设置参数不合理，重新设置图片保存参数"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                520,
+                847,
+                680
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3：在其他条件一定的情况下，说明光圈值与通光量之间的关系，光圈与景深之间的关系。（15分）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                768,
+                848,
+                825
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "光圈越大，通光量越大；光圈越小，通光量越小。"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                879,
+                618,
+                897
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "光圈越小，景深越大；光圈越大，景深越小。"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                102,
+                578,
+                120
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4：简述视觉软件无法正常开启的可能原因及措施（写出三条即可）（15 分）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                212,
+                825,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\textcircled{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "原因：视觉软件所在的文件夹中文件数量或者文件内存出错"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                250,
+                736,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "措施：替换备份程序"
+                    }
+                ]
+            },
+            "bbox": [
+                206,
+                287,
+                394,
+                305
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\textcircled{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "原因：VisionPro软件版本号错误或者未安装"
+                    }
+                ]
+            },
+            "bbox": [
+                196,
+                324,
+                621,
+                341
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "措施：卸载旧版本的VisionPro软件后安装正确版本的软件"
+                    }
+                ]
+            },
+            "bbox": [
+                206,
+                361,
+                732,
+                379
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\textcircled{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "原因：电脑运行卡死"
+                    }
+                ]
+            },
+            "bbox": [
+                196,
+                398,
+                406,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "措施：重启主机后再开启软件"
+                    }
+                ]
+            },
+            "bbox": [
+                206,
+                435,
+                475,
+                454
+            ]
+        }
+    ]
+]

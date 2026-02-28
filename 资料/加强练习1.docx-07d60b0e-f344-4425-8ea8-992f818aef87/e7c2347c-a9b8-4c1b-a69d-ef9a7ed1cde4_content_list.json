@@ -1,0 +1,1148 @@
+[
+    {
+        "type": "text",
+        "text": "一、填空题（每空 2 分，共 30 分）",
+        "text_level": 1,
+        "bbox": [
+            147,
+            93,
+            413,
+            109
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.CogFindLineTool 运行结果中 Rotation 是 （弧度/角度），转换为角度的公式是_。",
+            "2.图像处理中的开运算是先 _处理，然后 _处理。",
+            "3.在C#异常处理结构中， 块封装了可能引发异常的代码，抛出的异常要用_语句捕捉，无论代码是否抛出异常，都会执行 _语句。",
+            "4.工业相机按照传感器结构特性可以分为 _相机和 _相机。其中 _相机经常用来飞拍作业，更节省拍照时间。",
+            "5.在 C#中面向对象的三大特性是 ，，。",
+            "6.在C#中定义方法时使用的参数为 _，而调用方法时使用的参数是 。"
+        ],
+        "bbox": [
+            144,
+            121,
+            850,
+            357
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "二、不定向选择题（每空 2 分，共 20 分）",
+        "text_level": 1,
+        "bbox": [
+            147,
+            369,
+            463,
+            386
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.增亮图像亮度的方法有（ ）",
+        "bbox": [
+            147,
+            397,
+            369,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. 增大光源亮度，增大曝光值 ",
+            "B. 增大相机增益值 ",
+            "C. 减小光圈值 ",
+            "D. 增加图像像素灰度值或者乘以大于1的常数"
+        ],
+        "bbox": [
+            146,
+            425,
+            502,
+            521
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.String 类中，以下方法有哪些可以截取字符串（ ）",
+        "bbox": [
+            146,
+            535,
+            537,
+            550
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. Substring() ",
+        "bbox": [
+            146,
+            563,
+            247,
+            577
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B. ToUpper()",
+        "bbox": [
+            317,
+            563,
+            408,
+            577
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. EndWith ",
+        "bbox": [
+            146,
+            589,
+            231,
+            602
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. Remove() ",
+        "bbox": [
+            307,
+            589,
+            398,
+            602
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.如下图所示，判断该 PMAlign 工具结果是粗糙得分还是精细得分（ ）",
+        "bbox": [
+            146,
+            615,
+            682,
+            630
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[图片描述：表格显示“精细阶段”] ",
+        "bbox": [
+            146,
+            642,
+            426,
+            658
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. 拟合误差 ",
+        "bbox": [
+            146,
+            670,
+            240,
+            684
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B. 覆盖范围 ",
+        "bbox": [
+            324,
+            671,
+            416,
+            684
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. 缩放 ",
+        "bbox": [
+            146,
+            697,
+            203,
+            712
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. 精细阶段",
+        "bbox": [
+            305,
+            697,
+            396,
+            712
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4.以下关于 Machinesupport 中 TCPJobParser 方法描述正确的有（ ）",
+        "bbox": [
+            144,
+            725,
+            648,
+            740
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. 可以解析 command 指令",
+        "bbox": [
+            146,
+            753,
+            354,
+            766
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B. 运行 RunJob 方法",
+        "bbox": [
+            400,
+            753,
+            549,
+            766
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. 设置返回结果",
+        "bbox": [
+            146,
+            781,
+            273,
+            795
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. 可以返回取像完成指令",
+        "bbox": [
+            354,
+            781,
+            552,
+            795
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5.以下哪些工具可以用于图像区域分割（ ）",
+        "bbox": [
+            146,
+            808,
+            475,
+            822
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. CogBlobTool ",
+        "bbox": [
+            146,
+            835,
+            258,
+            850
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B. CogFindLineTool ",
+        "bbox": [
+            339,
+            835,
+            477,
+            848
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. CogCopyRegionTool ",
+        "bbox": [
+            146,
+            862,
+            310,
+            875
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. CogAffineTransformTool ",
+        "bbox": [
+            368,
+            862,
+            559,
+            875
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "6.景深和焦距、光圈、物距的关系是（ ）",
+        "bbox": [
+            146,
+            888,
+            457,
+            903
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. 光圈越小，景深越大",
+            "B. 拍摄距离越大，景深越大",
+            "C. 焦距越短，景深越大",
+            "D. 以上都是错误的"
+        ],
+        "bbox": [
+            146,
+            93,
+            361,
+            189
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7.下面哪些措施可以提高 CogPMAlignTool 的运行速度（ ）",
+        "bbox": [
+            146,
+            203,
+            583,
+            219
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. 减小搜索区域",
+            "B. 增大搜索区域",
+            "C. 提高硬件配置",
+            "D. 提高接受阈值"
+        ],
+        "bbox": [
+            146,
+            231,
+            443,
+            273
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8.以下语句得到 C 的值是多少？（ ）",
+        "bbox": [
+            146,
+            286,
+            421,
+            302
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "csharp ",
+        "bbox": [
+            146,
+            315,
+            200,
+            326
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "int $\\mathsf { A } = 6$ ",
+        "bbox": [
+            146,
+            340,
+            213,
+            351
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "int $\\mathtt { B } = 4$ ",
+        "bbox": [
+            146,
+            367,
+            213,
+            379
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "int $\\begin{array}{c} \\mathsf { C } = \\mathsf { A } > \\mathsf { B } \\overset { , } { : } 4 \\overset { , } { : } 1 4 \\overset { . } { \\underset { . } { \\end{array} } }$ ; ",
+        "bbox": [
+            146,
+            392,
+            297,
+            405
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A. 2 ",
+        "bbox": [
+            146,
+            419,
+            179,
+            431
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B. 4 ",
+        "bbox": [
+            205,
+            419,
+            233,
+            431
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C. 14 ",
+        "bbox": [
+            260,
+            419,
+            297,
+            431
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "D. 10 ",
+        "bbox": [
+            319,
+            419,
+            357,
+            431
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9.相机 CCD 芯片长边尺寸为 $8 . 4 \\mathsf { m m }$ ，分辨率为 $2 4 4 8 ^ { \\ast } 2 0 4 8$ ，若使用 0.2 倍的远心镜头，此时的像素精度是多少？（ ）",
+        "bbox": [
+            144,
+            444,
+            847,
+            487
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A. 0.017mm/Pixel ",
+        "bbox": [
+            146,
+            500,
+            278,
+            512
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B. 0.041mm/Pixel ",
+        "bbox": [
+            359,
+            500,
+            487,
+            512
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C. 0.042mm/Pixel ",
+        "bbox": [
+            146,
+            526,
+            277,
+            538
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "D. 0.002mm/Pixel ",
+        "bbox": [
+            359,
+            527,
+            487,
+            538
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "10.CogHistogramTool 工具中结果的 Mode 指的是（ ）",
+        "bbox": [
+            146,
+            552,
+            544,
+            568
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A. 平均灰度值",
+        "bbox": [
+            146,
+            580,
+            258,
+            593
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B. 灰度值中值 ",
+        "bbox": [
+            378,
+            581,
+            485,
+            594
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C. 众数，直方图中数量最多对应的灰阶值 ",
+        "bbox": [
+            144,
+            607,
+            468,
+            621
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "D. 灰度值方差",
+        "bbox": [
+            495,
+            608,
+            603,
+            621
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三、判断题（每题 2 分，共 10 分）",
+        "text_level": 1,
+        "bbox": [
+            146,
+            634,
+            411,
+            649
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "循环中，可以用continue语句跳出当前循环体，继续进行下一次循环。（ ）",
+        "bbox": [
+            144,
+            662,
+            724,
+            677
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "操作符（||）被用来说明两个条件同为真的情况。（ ）",
+        "bbox": [
+            144,
+            689,
+            566,
+            705
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VisionPro中，同一个图片根空间和像素空间的坐标一定相同。（ ）",
+        "bbox": [
+            144,
+            717,
+            657,
+            732
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "夏天叶子显示绿色是因为对绿光吸收得少，大部分绿光反射到人眼中。（ ）",
+        "bbox": [
+            144,
+            745,
+            724,
+            760
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CogBlobTool 对于形状多变，明暗对比比较强烈的特征定位效果比 CogPMAlignTool 要好。（ ）",
+        "bbox": [
+            144,
+            772,
+            836,
+            816
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "四、简答题（共40分）",
+        "text_level": 1,
+        "bbox": [
+            146,
+            828,
+            324,
+            843
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.实现下面的函数，返回任意整型数组的最小值。（10分）",
+        "bbox": [
+            146,
+            854,
+            598,
+            871
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "csharp ",
+        "bbox": [
+            146,
+            884,
+            200,
+            897
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "public static int GetMinValue.params int[] nums)   \n{ //补充代码 ",
+        "guess_lang": "java",
+        "bbox": [
+            144,
+            93,
+            499,
+            187
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.根据要求进行相机选型，检测料件大小： $1 5 \\mathsf { m m } ^ { * } 2 0 \\mathsf { m m }$ ，要求检测精度 0.01mm/Pixel，要求检测速度 17 件/秒，请问如何选择相机，并给出选择理由。（10 分）",
+        "bbox": [
+            144,
+            199,
+            848,
+            244
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.参数解释，如下图，解释下图中最大线数，角度容差（边缘限制），长度阈值，距离容差的意思。（10 分）",
+        "bbox": [
+            144,
+            411,
+            848,
+            455
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[图片描述：参数设置界面] ",
+        "bbox": [
+            146,
+            466,
+            357,
+            483
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最大线数：",
+        "bbox": [
+            146,
+            494,
+            230,
+            508
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "角度容差：",
+        "bbox": [
+            146,
+            521,
+            230,
+            537
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "长度阈值：",
+        "bbox": [
+            146,
+            549,
+            230,
+            564
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "距离容差：",
+        "bbox": [
+            146,
+            577,
+            230,
+            592
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.补全或修改脚本：当边或者blob抓不到时，输出999.999，不影响外层运行。（10分）",
+        "bbox": [
+            144,
+            604,
+            823,
+            621
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "csharp   \npublic class CogToolBlockAdvancedScript : CogToolBlockAdvancedScriptBase   \n{ public override bool GroupRun(ref string message, ref CogToolResultConstants result) { //现有代码略，需修改 }   \n} ",
+        "guess_lang": "swift",
+        "bbox": [
+            144,
+            633,
+            779,
+            832
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "答案",
+        "text_level": 1,
+        "bbox": [
+            147,
+            146,
+            188,
+            161
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一、填空题",
+        "text_level": 1,
+        "bbox": [
+            147,
+            173,
+            240,
+            187
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.弧度；CogMath.RadToDeg() ",
+            "2.腐蚀；膨胀 ",
+            "3.Try；catch；finally ",
+            "4.CCD；CMOS；CMOS ",
+            "5.封装；继承；多态 ",
+            "6.形参；实参 "
+        ],
+        "bbox": [
+            147,
+            200,
+            369,
+            354
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "二、不定向选择题 ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            366,
+            292,
+            381
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ABCD ",
+        "bbox": [
+            147,
+            394,
+            191,
+            406
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A ",
+            "D ",
+            "ABCD ",
+            "C ",
+            "A ",
+            "ACD ",
+            "B ",
+            "A ",
+            "C "
+        ],
+        "bbox": [
+            147,
+            420,
+            191,
+            640
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三、判断题",
+        "text_level": 1,
+        "bbox": [
+            147,
+            653,
+            240,
+            670
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "✓ ",
+        "bbox": [
+            147,
+            683,
+            164,
+            694
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "✗（|| 表示逻辑或，即两个条件至少一个为真）",
+            "$\\pmb { \\chi }$ （坐标不一定相同）",
+            "✓ ",
+            "✓ "
+        ],
+        "bbox": [
+            147,
+            708,
+            510,
+            801
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "四、简答题",
+        "text_level": 1,
+        "bbox": [
+            147,
+            816,
+            240,
+            831
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.代码实现 ",
+        "bbox": [
+            147,
+            843,
+            235,
+            859
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "csharp ",
+        "bbox": [
+            147,
+            872,
+            200,
+            885
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "public static int GetMinValue paramss int[] nums)   \n{ int min $=$ nums[0]; for (int $\\mathrm{i} = 1$ .i $<$ nums.Length; i++) { if (nums[i] < min) { min $=$ nums[i]; } } return min; ",
+        "bbox": [
+            146,
+            93,
+            497,
+            395
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.相机选型",
+        "text_level": 1,
+        "bbox": [
+            147,
+            407,
+            235,
+            422
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "计算最小像素需求：",
+        "bbox": [
+            146,
+            434,
+            299,
+            450
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "宽边： $1 5 \\mathrm { m m } / 0 . 0 1 \\mathrm { m m } / \\mathrm { p i x e l } = 1 5 0 0$ pixel ",
+        "bbox": [
+            146,
+            463,
+            453,
+            478
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "长边：20mm / 0.01mm/pixel $=$ 2000 pixel",
+        "bbox": [
+            147,
+            489,
+            453,
+            505
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "相机选择：CAM-CIC-5000-20-G（分辨率 $2 4 4 8 \\small { \\times } 2 0 4 8 > 1 5 0 0 \\small { \\times } 2 0 0 0$ ，帧率 20 帧/秒 $> 1 7$ 帧/秒），满足分辨率和速度要求。",
+        "bbox": [
+            144,
+            517,
+            848,
+            561
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.参数解释 ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            571,
+            235,
+            588
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "最大线数：允许检测到的最大直线数量（图中设置为 1）。",
+        "bbox": [
+            146,
+            600,
+            594,
+            615
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "角度容差：允许检测直线的角度与预期角度的偏差范围（图中 $\\pm 5 ^ { \\circ }$ ）。",
+        "bbox": [
+            146,
+            627,
+            673,
+            643
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "长度阈值：直线的最小有效长度（图中 0 表示无限制）。",
+        "bbox": [
+            146,
+            655,
+            579,
+            671
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "距离容差：允许的直线位置偏差范围（图中 0.5 单位）。",
+        "bbox": [
+            146,
+            683,
+            574,
+            697
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.脚本修改",
+        "text_level": 1,
+        "bbox": [
+            147,
+            709,
+            235,
+            725
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "csharp   \npublic override bool GroupRun(ref string message, ref CogToolResultConstants result)   \n{ CogBlobTool blob $=$ mToolBar.Contents[\"BlobTool\"] as CogBlobTool; CogFindLineTool findline $=$ mToolBar.Contents[\"CogFindLineTool1\"] as CogFindLineTool; CogDistancePointLineTool cdp $=$ mToolBar.Contents[\"CogDistancePointLineTool1\"] as ",
+        "bbox": [
+            144,
+            738,
+            850,
+            883
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CogDistancePointLineTool; ",
+        "bbox": [
+            147,
+            93,
+            339,
+            108
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "blobRUN(); findline.Run ",
+        "guess_lang": "javascript",
+        "bbox": [
+            161,
+            145,
+            248,
+            186
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "// 检查 Blob 结果和直线结果是否存在",
+        "bbox": [
+            161,
+            223,
+            455,
+            240
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "if (blob.Results == null || blob.Results.GetBlobs() == null || blob.Results.GetBlobs().Count == 0  \n|  \n    findline.Results == null || findline.Results.Count == 0)  \n{  \n    mToolBlock.Outputs[\"Distance\"].Value = 999.999;  \n}  \nelse  \n{  \n    // 确保距离工具执行  \n    cdp.run();  \n    mToolBlock.Outputs[\"Distance\"].Value = cdp Distance;  \n}  \nreturn false; ",
+        "guess_lang": "javascript",
+        "bbox": [
+            147,
+            250,
+            848,
+            609
+        ],
+        "page_idx": 5
+    }
+]

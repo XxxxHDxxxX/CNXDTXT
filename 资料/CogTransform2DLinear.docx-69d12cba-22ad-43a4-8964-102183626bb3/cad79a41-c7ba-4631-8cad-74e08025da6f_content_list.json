@@ -1,0 +1,145 @@
+[
+    {
+        "type": "text",
+        "text": "1、 CogTransform2DLinear. SetMatrixElement Method在这个转换中访问 $2 \\times 2$ 矩阵的选择元素。",
+        "bbox": [
+            147,
+            93,
+            544,
+            128
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "public void SetMatrixElement( ",
+        "bbox": [
+            184,
+            137,
+            473,
+            158
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "int row, ",
+        "bbox": [
+            184,
+            177,
+            260,
+            193
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "int column, ",
+        "bbox": [
+            184,
+            212,
+            295,
+            231
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "double value) ",
+        "bbox": [
+            184,
+            250,
+            317,
+            268
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2、 CogTransform2DLinear. SetMatrixElementsTranslation Method根据给定的参数设置这个转换。",
+        "bbox": [
+            146,
+            279,
+            630,
+            313
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "public void SetMatrixElementsTranslation( ",
+        "bbox": [
+            223,
+            323,
+            630,
+            343
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "double elem00, ",
+        "bbox": [
+            223,
+            361,
+            374,
+            379
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "double elem01, ",
+        "bbox": [
+            223,
+            398,
+            376,
+            416
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "double elem10, ",
+        "bbox": [
+            223,
+            435,
+            376,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "double elem11, ",
+        "bbox": [
+            223,
+            472,
+            376,
+            489
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "double translationX, ",
+        "bbox": [
+            223,
+            508,
+            420,
+            527
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "double translationY) ",
+        "bbox": [
+            223,
+            546,
+            420,
+            564
+        ],
+        "page_idx": 0
+    }
+]

@@ -1,0 +1,1111 @@
+[
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.0,
+                1.0,
+                0.628
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.698,
+                0.838,
+                0.806
+            ],
+            "angle": 0,
+            "content": "VisionPro ——ID 读码 CogIDTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.034,
+                0.888,
+                0.164,
+                0.934
+            ],
+            "angle": 0,
+            "content": "2019/12/19"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.731,
+                0.881,
+                0.87,
+                0.932
+            ],
+            "angle": 0,
+            "content": "Zhang Juan"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.106,
+                0.048,
+                0.399,
+                0.114
+            ],
+            "angle": 0,
+            "content": "ID 读码和验证工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.118,
+                0.142,
+                0.204,
+                0.176
+            ],
+            "angle": 0,
+            "content": "CogIDTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.347,
+                0.14,
+                0.417,
+                0.174
+            ],
+            "angle": 0,
+            "content": "功能原理"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.052,
+                0.254,
+                0.872,
+                0.346
+            ],
+            "angle": 0,
+            "content": "该工具是 VisionPro 新增的一个非常重要的解码工具，能够在同一张图像中读取不同种类的多个一维码，多个同种类的二维码，以及一些高度旋转和有透视变形的的码。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.051,
+                0.388,
+                0.856,
+                0.476
+            ],
+            "angle": 0,
+            "content": "和前面讲到的 Barcode、2DSymbol、PDF417 等读码工具（详见第五章读码工具）相比，CogIDTool 具有以下优点："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.052,
+                0.478,
+                0.855,
+                0.563
+            ],
+            "angle": 0,
+            "content": "1）同时支持一维码和二维码的读取（一维码时同一图像可以多码种，二维码是同一图片可以多个，但是码种必须相同）。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.08,
+                0.566,
+                0.466,
+                0.608
+            ],
+            "angle": 0,
+            "content": "(2) 能读取同一图像中种类不同的一维码。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.611,
+                0.321,
+                0.653
+            ],
+            "angle": 0,
+            "content": "3）支持最新的解码算法。"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.052,
+                0.478,
+                0.855,
+                0.653
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.051,
+                0.699,
+                0.866,
+                0.836
+            ],
+            "angle": 0,
+            "content": "注意：第五章讲到的读码工具虽然支持 Barcode、2DSymbol、PDF417 的读码，但是康耐视并不推荐使用这些工具，在后续的 VisionPro 的新版本中会逐渐放弃对这些工具的支持，会主推 CogIDTool 工具。"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.96,
+                0.04,
+                0.982
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.054,
+                0.959,
+                0.187,
+                0.983
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.113,
+                0.056,
+                0.406,
+                0.12
+            ],
+            "angle": 0,
+            "content": "ID 读码和验证工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.123,
+                0.135,
+                0.21,
+                0.168
+            ],
+            "angle": 0,
+            "content": "CogIDTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.313,
+                0.13,
+                0.497,
+                0.167
+            ],
+            "angle": 0,
+            "content": "功能原理 - 对图像的要求"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.08,
+                0.183,
+                0.386,
+                0.226
+            ],
+            "angle": 0,
+            "content": "该工具读码时对图像的要求如下："
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.08,
+                0.272,
+                0.252,
+                0.312
+            ],
+            "angle": 0,
+            "content": "读取一维码时——"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.051,
+                0.316,
+                0.736,
+                0.491
+            ],
+            "angle": 0,
+            "content": "1）对于一些非线性的码（码模块的宽度不同但高度相同），每一个模块的宽度要大于1.6个像素，高度要大于50个像素；对于邮政码（码模块的宽度相同但是高度不同），每一个模块的宽度要大于2.5个像素。一一要有差异性，便于区分。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.496,
+                0.405,
+                0.536
+            ],
+            "angle": 0,
+            "content": "(2) 码的最小值净水带必须存在。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.54,
+                0.458,
+                0.581
+            ],
+            "angle": 0,
+            "content": "(3) 码模块和背景的对比度要大于 32。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.584,
+                0.376,
+                0.625
+            ],
+            "angle": 0,
+            "content": "4）像素高度比不大于 1.35:1"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.051,
+                0.316,
+                0.736,
+                0.625
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.673,
+                0.256,
+                0.712
+            ],
+            "angle": 0,
+            "content": "读取二维码时——"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.051,
+                0.717,
+                0.734,
+                0.803
+            ],
+            "angle": 0,
+            "content": "对图像的要求比较低，一般来讲，需要在码四周的模块上周围有等宽度的净水带。"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.96,
+                0.04,
+                0.982
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.054,
+                0.959,
+                0.187,
+                0.983
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.954,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.106,
+                0.048,
+                0.399,
+                0.112
+            ],
+            "angle": 0,
+            "content": "ID 读码和验证工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.117,
+                0.146,
+                0.204,
+                0.179
+            ],
+            "angle": 0,
+            "content": "CogIDTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.294,
+                0.138,
+                0.532,
+                0.174
+            ],
+            "angle": 0,
+            "content": "功能原理 - 解码算法和结果输出"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.119,
+                0.22,
+                0.19,
+                0.255
+            ],
+            "angle": 0,
+            "content": "解码算法"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.288,
+                0.361,
+                0.33
+            ],
+            "angle": 0,
+            "content": "该工具提供了两种解码算法:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.127,
+                0.333,
+                0.717,
+                0.375
+            ],
+            "angle": 0,
+            "content": "IDQuick：适用于快速读取一些质量较好的具有较高对比度的码。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.128,
+                0.378,
+                0.494,
+                0.419
+            ],
+            "angle": 0,
+            "content": "IDMax：适用于读取一些质量不好的码。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.422,
+                0.373,
+                0.464
+            ],
+            "angle": 0,
+            "content": "该工具默认采用 IDMax 算法。"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.119,
+                0.496,
+                0.189,
+                0.531
+            ],
+            "angle": 0,
+            "content": "结果输出"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.055,
+                0.566,
+                0.744,
+                0.653
+            ],
+            "angle": 0,
+            "content": "只有被正确解码的一维和二维码才会有结果输出，对于被成功读到的码，会输出以下结果："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.108,
+                0.657,
+                0.491,
+                0.698
+            ],
+            "angle": 0,
+            "content": "1）会以弧度的方式输出读取到码的方向。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.108,
+                0.702,
+                0.431,
+                0.742
+            ],
+            "angle": 0,
+            "content": "2）会输出码的中心点的X\\Y坐标。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.108,
+                0.746,
+                0.451,
+                0.786
+            ],
+            "angle": 0,
+            "content": "(3) 会输出码的四个角点的 X\\Y 坐标。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.108,
+                0.79,
+                0.47,
+                0.831
+            ],
+            "angle": 0,
+            "content": "(4) 会以字符串的形式输出读取到的码。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.108,
+                0.835,
+                0.449,
+                0.876
+            ],
+            "angle": 0,
+            "content": "5）国际标准化组织的代码和修饰符。"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.108,
+                0.657,
+                0.491,
+                0.876
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.96,
+                0.042,
+                0.982
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.96,
+                0.187,
+                0.982
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.099,
+                0.052,
+                0.393,
+                0.117
+            ],
+            "angle": 0,
+            "content": "ID 读码和验证工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.152,
+                0.197,
+                0.188
+            ],
+            "angle": 0,
+            "content": "CogIDTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.302,
+                0.15,
+                0.493,
+                0.186
+            ],
+            "angle": 0,
+            "content": "示例用法——关于一维码"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.229,
+                0.709,
+                0.319
+            ],
+            "angle": 0,
+            "content": "该工具能够读取同一图像中的多个种类的一维码，在读取一维码时不需要训练，设置好参数直接读取即可："
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.354,
+                0.759,
+                0.844
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.96,
+                0.039,
+                0.982
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.959,
+                0.188,
+                0.983
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.989
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.098,
+                0.047,
+                0.389,
+                0.11
+            ],
+            "angle": 0,
+            "content": "ID 读码和验证工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.108,
+                0.126,
+                0.194,
+                0.159
+            ],
+            "angle": 0,
+            "content": "CogIDTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.31,
+                0.122,
+                0.501,
+                0.157
+            ],
+            "angle": 0,
+            "content": "示例用法——关于一维码"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.095,
+                0.18,
+                0.358,
+                0.222
+            ],
+            "angle": 0,
+            "content": "工具的相关设置和运算结果："
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.048,
+                0.269,
+                0.49,
+                0.776
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.396,
+                0.815,
+                0.474,
+                0.841
+            ],
+            "angle": 0,
+            "content": "解码结果输出"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.545,
+                0.194,
+                0.853,
+                0.489
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.515,
+                0.545,
+                0.898,
+                0.885
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.961,
+                0.04,
+                0.981
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.96,
+                0.187,
+                0.982
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.857,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.108,
+                0.048,
+                0.4,
+                0.112
+            ],
+            "angle": 0,
+            "content": "ID 读码和验证工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.117,
+                0.154,
+                0.204,
+                0.188
+            ],
+            "angle": 0,
+            "content": "CogIDTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.321,
+                0.15,
+                0.511,
+                0.186
+            ],
+            "angle": 0,
+            "content": "示例用法——关于二维码"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.074,
+                0.222,
+                0.816,
+                0.308
+            ],
+            "angle": 0,
+            "content": "该工具能够定位 2D Data Matrix 码或 QR Code 码, 同样能够读取多个二维码,但是不同的是同一图像上多个二维码必须是同一种类的。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.098,
+                0.312,
+                0.5,
+                0.352
+            ],
+            "angle": 0,
+            "content": "如果图像中的二维码都具有相同的特征——"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.074,
+                0.355,
+                0.832,
+                0.44
+            ],
+            "angle": 0,
+            "content": "在使用该工具时，可以训练一些参数，例如：二维码的尺寸、编码种类、纠错方法等，以便能重复成功读取二维码。"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.098,
+                0.445,
+                0.456,
+                0.485
+            ],
+            "angle": 0,
+            "content": "如果图像中的二维码参数是变化的——"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.074,
+                0.489,
+                0.836,
+                0.574
+            ],
+            "angle": 0,
+            "content": "在使用该工具时不需要训练参数，以确保CogIDTool在读码的时候能够包含所有的参数值。 VisionPro(R) QuickBuild 作业编辑器 - IDtool"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.067,
+                0.542,
+                0.712,
+                0.932
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.96,
+                0.042,
+                0.979
+            ],
+            "angle": 0,
+            "content": "7"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.96,
+                0.187,
+                0.982
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.109,
+                0.049,
+                0.401,
+                0.112
+            ],
+            "angle": 0,
+            "content": "ID 读码和验证工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.119,
+                0.149,
+                0.207,
+                0.184
+            ],
+            "angle": 0,
+            "content": "CogIDTool"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.321,
+                0.147,
+                0.511,
+                0.181
+            ],
+            "angle": 0,
+            "content": "示例用法——关于二维码"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.014,
+                0.208,
+                0.812,
+                0.838
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.961,
+                0.04,
+                0.982
+            ],
+            "angle": 0,
+            "content": "8"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.96,
+                0.187,
+                0.982
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.112,
+                0.04,
+                0.251,
+                0.105
+            ],
+            "angle": 0,
+            "content": "课堂活动"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.294,
+                0.32,
+                0.36
+            ],
+            "angle": 0,
+            "content": "1，工具的实践"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.613,
+                0.575,
+                0.788,
+                0.919
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.961,
+                0.04,
+                0.982
+            ],
+            "angle": 0,
+            "content": "9"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.96,
+                0.187,
+                0.982
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.257,
+                0.288,
+                0.592,
+                0.403
+            ],
+            "angle": 0,
+            "content": "Thank you."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.96,
+                0.042,
+                0.981
+            ],
+            "angle": 0,
+            "content": "10"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.959,
+                0.187,
+                0.982
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.954,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ]
+]

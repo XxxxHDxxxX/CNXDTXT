@@ -1,0 +1,2249 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、填空题（每空 2 分，共 30 分）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                93,
+                413,
+                109
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.CogFindCircleTool 运行结果中 CenterX 的单位是 （像素/毫米），转换为世界坐标需使用 _方法。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.图像处理中的顶帽运算是原始图像与 运算结果的差值，常用于增强 _特征。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.在C#中，使用 关键字定义委托类型， 关键字声明异步方法。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.工业相机的帧率单位是 _，全局快门相机更适合拍摄 _物体。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5.在面向对象设计中， 原则要求一个类只有一个引起变化的原因， _原则强 6.调对扩展开放，对修改关闭。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7.在 VisionPro 中，CogTransform2DLinear 工具用于实现 _变换和 _变换。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                121,
+                850,
+                357
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、不定向选择题（每空 2 分，共 20 分）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                369,
+                465,
+                386
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.提高图像对比度的方法有（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                397,
+                389,
+                413
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A. 直方图均衡化"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. 增加伽马值"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. 线性灰度拉伸 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D. 中值滤波"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                425,
+                442,
+                468
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.下列 Cognex 工具中可用于边缘检测的是（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                480,
+                500,
+                495
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A. CogCaliperTool "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. CogPMAlignTool "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. CogBlobTool "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D. CogFindLineTool "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                507,
+                482,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3.使用 0.5 倍远心镜头时，若物体实际尺寸为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 \\mathsf { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，在相机芯片上成像尺寸为（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                560,
+                784,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 40mm "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                588,
+                216,
+                601
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B. 20mm "
+                    }
+                ]
+            },
+            "bbox": [
+                305,
+                588,
+                371,
+                601
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. 10mm "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                614,
+                215,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. 5mm "
+                    }
+                ]
+            },
+            "bbox": [
+                305,
+                614,
+                363,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4.关于 C#中的泛型，正确的描述是（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                639,
+                445,
+                655
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. List<T>是类型安全的集合"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                667,
+                359,
+                682
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B. 泛型方法不能用于值类型"
+                    }
+                ]
+            },
+            "bbox": [
+                416,
+                667,
+                633,
+                682
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. where T : class 表示 T 必须是引用类型"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                695,
+                450,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. 泛型会降低代码执行效率"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                695,
+                680,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5.影响景深的因素包括（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                722,
+                352,
+                737
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 光圈大小"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                750,
+                240,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B. 焦距长短 "
+                    }
+                ]
+            },
+            "bbox": [
+                309,
+                750,
+                400,
+                764
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. 拍摄距离 "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                777,
+                238,
+                791
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. 传感器尺寸 "
+                    }
+                ]
+            },
+            "bbox": [
+                307,
+                777,
+                416,
+                791
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.下列哪些操作可以减少图像噪声（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                804,
+                440,
+                820
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 增加曝光时间"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                832,
+                275,
+                848
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B. 使用高斯滤波"
+                    }
+                ]
+            },
+            "bbox": [
+                319,
+                833,
+                447,
+                848
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. 提高 ISO 值"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                860,
+                253,
+                875
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. 均值滤波"
+                    }
+                ]
+            },
+            "bbox": [
+                305,
+                860,
+                398,
+                875
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7.以下代码的输出结果是（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                887,
+                369,
+                903
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "csharp "
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                120,
+                200,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "int "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { x } = 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                146,
+                213,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Console.WriteLine "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( x + + + + + x )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                172,
+                364,
+                186
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 10 B. 11 "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                198,
+                290,
+                211
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. 12 D. 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                224,
+                289,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8.相机传感器尺寸为 1/1.8\"，分辨率 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 0 0 \\times 1 2 0 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，单个像素尺寸约为（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                250,
+                695,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 1.5μm B. 3.0μm "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                278,
+                364,
+                292
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. 4.5μm D. 6.0μm "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                304,
+                364,
+                318
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9.CogHistogramTool 结果中的 StandardDeviation 表示（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                330,
+                571,
+                346
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 灰度平均值 B. 灰度中值"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                357,
+                411,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. 灰度分布离散程度 D. 最频灰度值"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                385,
+                455,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10.在 VisionPro 中，CogFixtureTool 的主要作用是（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                412,
+                544,
+                428
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 图像滤波 B. 坐标系统一"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                439,
+                413,
+                455
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. 特征匹配 D. 图像分割"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                468,
+                396,
+                482
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、判断题（每题2分，共10分）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                495,
+                411,
+                510
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "finally代码块中的语句无论是否发生异常都会执行。（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                523,
+                579,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "远心镜头可以完全消除透视畸变。（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                550,
+                443,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CMOS 相机比 CCD 相机更适合高速运动物体拍摄。（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                577,
+                564,
+                593
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "直方图均衡化会改变图像的像素位置。（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                605,
+                478,
+                620
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CogPMAlignTool 在低对比度图像中的匹配效果优于 CogCNLSearchTool。（ ）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                633,
+                717,
+                649
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四、简答题（共40分）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                659,
+                324,
+                676
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.实现C#方法，计算两个点之间的欧氏距离（10分）："
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                688,
+                569,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "csharp "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                715,
+                200,
+                730
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "public struct Point { public double X; public double Y; } "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                741,
+                536,
+                757
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "public static double Distance(Point p1, Point p2) "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                768,
+                492,
+                783
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "{ "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                795,
+                157,
+                808
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "// 补充代码"
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                821,
+                255,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "} "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                848,
+                157,
+                860
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.选型设计：检测 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\mathrm { m m } { \\times } 8 \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的精密零件，要求精度 0.005mm/pixel，速度 30 件/秒。请计算所需相机分辨率，并说明镜头选型要点（需给出具体计算过程）。（10 分）"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                120,
+                848,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3.解释以下 CogBlobTool 参数（10 分）："
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                280,
+                450,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Connectivity "
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                307,
+                243,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SegmentationParams.Mode "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                332,
+                352,
+                348
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MorphologyOperations "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                359,
+                319,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "AreaMin "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                386,
+                215,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4.修改 VisionPro 脚本：当 CogFindCircleTool 未找到圆时，输出圆心坐标(-1,-1)，否则输出实际圆心坐标（10 分）："
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                437,
+                848,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "csharp "
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                493,
+                200,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "public override void Run() "
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                519,
+                336,
+                533
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "{ "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                545,
+                159,
+                560
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CogFindCircleTool circleTool "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "new CogFindCircleTool(); "
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                571,
+                559,
+                587
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "// 现有代码..."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                596,
+                268,
+                613
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "} "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                625,
+                159,
+                639
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "答案"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                651,
+                188,
+                665
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、填空题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                678,
+                240,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "像素；MapImagePointToWorldPoint "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                707,
+                416,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "开运算；明亮区域"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                734,
+                294,
+                749
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "delegate；async "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                763,
+                270,
+                778
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FPS；高速运动"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                789,
+                265,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单一职责；开闭"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                816,
+                275,
+                832
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "旋转；平移 "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                844,
+                242,
+                859
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、不定向选择题 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                871,
+                294,
+                887
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "AC "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                93,
+                171,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "AD "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                120,
+                171,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C（0.5 倍放大率，成像尺寸 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf \\Lambda } = 2 0 { \\times } 0 . 5 { = } 1 0 \\mathrm { m m } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                146,
+                482,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                147,
+                174,
+                171,
+                185
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ABC "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                200,
+                181,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BD "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                225,
+                171,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C（ "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( 5 + 7 = 1 2 \\right)"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                252,
+                253,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C（ "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 / 1 . 8 \" { \\approx } 9 \\mathrm { { m m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 / 1 6 0 0 { \\approx } 0 . 0 0 5 6 \\mathsf { m m } = 5 . 6 \\mu \\mathsf { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，最接近 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 5 \\mu \\mathrm { { m } } "
+                    },
+                    {
+                        "type": "text",
+                        "content": "）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                279,
+                605,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                307,
+                161,
+                318
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                332,
+                161,
+                344
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、判断题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                357,
+                238,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "✓ "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                386,
+                164,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "✓ "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                412,
+                164,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "✓ "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                439,
+                164,
+                450
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "✗（仅改变灰度值分布）"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                464,
+                332,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "✗（CogCNLSearchTool 更适合低对比度图像）"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                492,
+                485,
+                508
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四、简答题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                519,
+                238,
+                535
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.欧氏距离计算"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                546,
+                270,
+                562
+            ]
+        },
+        {
+            "type": "algorithm",
+            "content": {
+                "algorithm_caption": [],
+                "algorithm_content": [
+                    {
+                        "type": "text",
+                        "content": "csharp   \npublic static double Distance(Point p1, Point p2)   \n{ double dx  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " p1.X - p2.X; double dy  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " p1.Y - p2.Y; return Math.Sqrt(dx \\* dx + dy \\* dy);   \n} "
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                576,
+                492,
+                746
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.选型设计"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                758,
+                233,
+                772
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "最小分辨率："
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                785,
+                245,
+                801
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X 方向：10mm / 0.005mm/pixel = 2000 pixel"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                814,
+                475,
+                829
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Y 方向：8mm / 0.005mm/pixel "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "1600 pixel"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                841,
+                465,
+                857
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "相机选择： "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\geqslant } 2 0 0 0 { \\times } 1 6 0 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "分辨率（如 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 4 8 \\times 2 0 4 8 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                868,
+                519,
+                884
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.镜头选型："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                118,
+                240,
+                134
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{1}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "放大倍数 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "="
+                            },
+                            {
+                                "type": "text",
+                                "content": "传感器尺寸/视野尺寸 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{2}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "建议使用远心镜头消除透视畸变"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{3}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "景深需满足零件厚度变化 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                146,
+                431,
+                217
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.参数解释 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                229,
+                235,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Connectivity：连通性规则（4/8 连通）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                256,
+                433,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SegmentationParams.Mode：分割模式（阈值/边缘）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                285,
+                539,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MorphologyOperations：形态学操作（膨胀/腐蚀等）"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                313,
+                542,
+                328
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "AreaMin：斑点最小面积过滤阈值"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                340,
+                406,
+                355
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.脚本修改"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                368,
+                235,
+                382
+            ]
+        },
+        {
+            "type": "algorithm",
+            "content": {
+                "algorithm_caption": [],
+                "algorithm_content": [
+                    {
+                        "type": "text",
+                        "content": "csharp   \npublic override void Run()   \n{ CogFindCircleTool circleTool  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " new CogFindCircleTool(); circleTool.Image  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\equiv"
+                    },
+                    {
+                        "type": "text",
+                        "content": " inputImage; circleTool. run(); if (circleTool.Results != null && circleTool.Results.Count  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": ">0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " { OutputX  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " circleTool.Results[0].CenterX; OutputY  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": " circleTool.Results[0].CenterY; } else { OutputX  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "= -1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " . OutputY  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "= -1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 1 "
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                395,
+                591,
+                853
+            ]
+        }
+    ]
+]

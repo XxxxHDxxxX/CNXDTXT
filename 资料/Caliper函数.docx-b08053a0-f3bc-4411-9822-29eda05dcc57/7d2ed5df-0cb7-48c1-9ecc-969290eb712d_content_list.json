@@ -1,0 +1,222 @@
+[
+    {
+        "type": "text",
+        "text": "1、 CogCaliperResults. MapFromImage",
+        "bbox": [
+            147,
+            93,
+            436,
+            110
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Map from the image to one of the caliper 1D spaces(从原图像到投影图像，得到边的位置信息)",
+        "bbox": [
+            176,
+            120,
+            840,
+            177
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "public double MapFromImage(double x,double y,CogCaliperSpaceCo nstants toSpace) ",
+        "bbox": [
+            178,
+            212,
+            840,
+            269
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "返回值为位置",
+        "bbox": [
+            176,
+            297,
+            289,
+            313
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2、 CogCaliperResults. MapToImage Method",
+        "bbox": [
+            146,
+            317,
+            473,
+            332
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从投影图像到原图片，返回其在原图像上指定位置的坐标",
+        "bbox": [
+            176,
+            334,
+            623,
+            350
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "public void MapToImage(double position,CogCaliperSpaceConstants fromSpace,double t,out double x,out double y) ",
+        "bbox": [
+            179,
+            361,
+            836,
+            418
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "t: 指定0.0将返回的点放置在区域的顶部(顶部是原点边)。指定1.0将返回的点放置在区域的底部。该参数的默认值是0.5，它将该点放置在区域的中心。(即0返回投影起点，1返回投影终点，0.5为区域中心)",
+        "bbox": [
+            174,
+            454,
+            840,
+            518
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3、CogCaliperResults. Map Method ",
+        "bbox": [
+            146,
+            539,
+            410,
+            554
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在过滤后的图像位置与结果位置和投影图像位置之间映射。",
+        "bbox": [
+            176,
+            556,
+            630,
+            571
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "public double Map( ",
+        "bbox": [
+            221,
+            583,
+            413,
+            602
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "double position, ",
+        "bbox": [
+            221,
+            621,
+            381,
+            639
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CogCaliperSpaceConstants toSpace, ",
+        "bbox": [
+            221,
+            658,
+            569,
+            676
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CogCaliperSpaceConstants fromSpace ",
+        "bbox": [
+            221,
+            695,
+            589,
+            713
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ") ",
+        "bbox": [
+            223,
+            732,
+            236,
+            749
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4、CogCaliperSpaceConstants Enumeration ",
+        "bbox": [
+            146,
+            780,
+            465,
+            795
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "public enum CogCaliperSpaceConstants ",
+        "bbox": [
+            181,
+            806,
+            566,
+            824
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Filter 在此空间中，滤波图像的左边缘为零",
+        "bbox": [
+            176,
+            834,
+            574,
+            851
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Projection 空间,零对应的左边缘投影图像",
+        "bbox": [
+            178,
+            854,
+            527,
+            869
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Result 投影图像的中心为零的空间",
+        "bbox": [
+            179,
+            872,
+            505,
+            888
+        ],
+        "page_idx": 0
+    }
+]

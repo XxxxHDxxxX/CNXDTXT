@@ -1,0 +1,2940 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        79,
+                        274,
+                        91
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                79,
+                                275,
+                                94
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        79,
+                                        275,
+                                        94
+                                    ],
+                                    "type": "text",
+                                    "content": "Acquiring Images with GigE Vision Cameras",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        95,
+                        189,
+                        106
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                95,
+                                189,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        95,
+                                        189,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "本主题包含以下部分：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        94,
+                        110,
+                        361,
+                        179
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 7,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                94,
+                                110,
+                                361,
+                                121
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        109,
+                                        361,
+                                        122
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                105,
+                                                109,
+                                                361,
+                                                122
+                                            ],
+                                            "type": "text",
+                                            "content": " Acquirinq Imaqes with a CCD Camera and Frame Grabber",
+                                            "score": 0.988
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                124,
+                                361,
+                                135
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        123,
+                                        362,
+                                        137
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                95,
+                                                123,
+                                                362,
+                                                137
+                                            ],
+                                            "type": "text",
+                                            "content": ". Acquiring Images with a CDC Camera and Frame Grabber",
+                                            "score": 0.981
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                138,
+                                295,
+                                150
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        137,
+                                        295,
+                                        151
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                106,
+                                                137,
+                                                295,
+                                                151
+                                            ],
+                                            "type": "text",
+                                            "content": " Acquiring Imaqes with a Line Scan Camera",
+                                            "score": 0.964
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                153,
+                                323,
+                                163
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": []
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                167,
+                                298,
+                                179
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        166,
+                                        299,
+                                        179
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                166,
+                                                299,
+                                                179
+                                            ],
+                                            "type": "text",
+                                            "content": "Acquirinq Imaqes with GiqE Vision Cameras",
+                                            "score": 0.973
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        188,
+                        509,
+                        264
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                188,
+                                511,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        188,
+                                        511,
+                                        200
+                                    ],
+                                    "type": "text",
+                                    "content": "本节提供有关在 VisionPro 和 Visual Studio 应用程序中使用 GigE 视觉摄像机的信息。",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                204,
+                                506,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        204,
+                                        506,
+                                        216
+                                    ],
+                                    "type": "text",
+                                    "content": "GigE相机不使用帧抓取器，而是连接到一个千兆以太网网络适配器连接到您的计算机。有",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                219,
+                                471,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        219,
+                                        471,
+                                        232
+                                    ],
+                                    "type": "text",
+                                    "content": "关配置QuickBuild应用程序以使用GigE Vision摄像机的信息，请参阅配置图像源。",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                234,
+                                505,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        234,
+                                        505,
+                                        248
+                                    ],
+                                    "type": "text",
+                                    "content": "要使用 GigE Vision camera，必须在安装在计算机上的 Cognex 帧捕捉器、与之连接的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                251,
+                                425,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        251,
+                                        425,
+                                        264
+                                    ],
+                                    "type": "text",
+                                    "content": "Cognex 加密狗或通过 Cognex 软件许可证启用 VxSWAcquisition 安全位。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        281,
+                        506,
+                        310
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                282,
+                                506,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        282,
+                                        506,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": "注意:请务必阅读 VisionPro 工具包附带的 GigE Vision Cameras 用户指南，学习如何创建",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                297,
+                                392,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        297,
+                                        392,
+                                        310
+                                    ],
+                                    "type": "text",
+                                    "content": "相机网络，如何将相机连接到网络，以及如何为相机分配IP地址。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        328,
+                        371,
+                        342
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                129,
+                                328,
+                                371,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        328,
+                                        371,
+                                        343
+                                    ],
+                                    "type": "text",
+                                    "content": "GigE Vision Acquisition Overview（GigE 视觉取像概述）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        359,
+                        506,
+                        405
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                359,
+                                506,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        359,
+                                        506,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "要从GigE相机获取图像，您使用的技术与使用cognex提供的帧抓取器获取图像的技",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                375,
+                                506,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        375,
+                                        506,
+                                        389
+                                    ],
+                                    "type": "text",
+                                    "content": "术完全相同。唯一的区别是，ICogFrameGrabber接口是一个物理的GigE相机，而不",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                391,
+                                348,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        391,
+                                        348,
+                                        404
+                                    ],
+                                    "type": "text",
+                                    "content": "是一个帧抓取器。以下部分列出了获取图像的步骤。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        423,
+                        290,
+                        435
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                423,
+                                290,
+                                437
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        423,
+                                        290,
+                                        437
+                                    ],
+                                    "type": "text",
+                                    "content": "Get a CogFrameGrabberGigEs Object",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        453,
+                        342,
+                        466
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                451,
+                                342,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        451,
+                                        342,
+                                        468
+                                    ],
+                                    "type": "text",
+                                    "content": "第一步是获得一个 CogFrameGrabberGigEs 对象。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        468,
+                        494,
+                        481
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                469,
+                                495,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        469,
+                                        495,
+                                        483
+                                    ],
+                                    "type": "text",
+                                    "content": "这个对象是单个帧抓取对象的集合，每个对象都通过 ICogFrameGrabber 接口访问。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        483,
+                        395,
+                        497
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                483,
+                                396,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        483,
+                                        396,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": "每个 ICogFrameGrabber 表示与计算机系统相连的 GigE 相机。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        500,
+                        391,
+                        512
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 16,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                499,
+                                391,
+                                513
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        499,
+                                        250,
+                                        513
+                                    ],
+                                    "type": "text",
+                                    "content": "CogFrameGrabberGigEs cameras",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        250,
+                                        502,
+                                        258,
+                                        510
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\cdot",
+                                    "score": 0.81
+                                },
+                                {
+                                    "bbox": [
+                                        259,
+                                        499,
+                                        391,
+                                        513
+                                    ],
+                                    "type": "text",
+                                    "content": "new CogFrameGrabberGigEs();",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        531,
+                        351,
+                        544
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 17,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                530,
+                                351,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        530,
+                                        351,
+                                        545
+                                    ],
+                                    "type": "text",
+                                    "content": "四、Enumerate the Connected Cameras（枚举连接的相机）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        562,
+                        505,
+                        591
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 18,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                561,
+                                505,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        561,
+                                        505,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "创建了CogFrameGrabberGigEs对象之后，就可以枚举它的内容，为每个连接的摄像",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                576,
+                                285,
+                                591
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        576,
+                                        285,
+                                        591
+                                    ],
+                                    "type": "text",
+                                    "content": "机获取一个 ICogFrameGrabber 接口。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        593,
+                        352,
+                        607
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 19,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                593,
+                                352,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        593,
+                                        352,
+                                        607
+                                    ],
+                                    "type": "text",
+                                    "content": "Count属性返回连接到您的系统的GigE相机的数量。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        608,
+                        412,
+                        622
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 20,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                608,
+                                413,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        608,
+                                        413,
+                                        623
+                                    ],
+                                    "type": "text",
+                                    "content": "你可以使用Item属性(或者c#中的索引器)来获得一个单独的相机。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        624,
+                        504,
+                        653
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 21,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                624,
+                                505,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        624,
+                                        505,
+                                        637
+                                    ],
+                                    "type": "text",
+                                    "content": "如果相机还没有连接好计算机，他们将不被包括在计数中，并且你将无法得到他们的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                641,
+                                495,
+                                652
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        641,
+                                        495,
+                                        652
+                                    ],
+                                    "type": "text",
+                                    "content": "参考。在启动应用程序之前，请确保您的相机已经完全通电、连接到网络并配置好。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        655,
+                        440,
+                        668
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 22,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                655,
+                                441,
+                                670
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        655,
+                                        441,
+                                        670
+                                    ],
+                                    "type": "text",
+                                    "content": "ICogFrameGrabber接口的Name属性将返回相机的制造商名称和型号。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        687,
+                        391,
+                        699
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 23,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                687,
+                                392,
+                                700
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        687,
+                                        250,
+                                        700
+                                    ],
+                                    "type": "text",
+                                    "content": "CogFrameGrabberGigEs cameras",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        250,
+                                        689,
+                                        258,
+                                        697
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\cdot",
+                                    "score": 0.78
+                                },
+                                {
+                                    "bbox": [
+                                        259,
+                                        687,
+                                        392,
+                                        700
+                                    ],
+                                    "type": "text",
+                                    "content": "new CogFrameGrabberGigEs();",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        702,
+                        286,
+                        714
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 24,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                702,
+                                286,
+                                715
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        702,
+                                        225,
+                                        715
+                                    ],
+                                    "type": "text",
+                                    "content": "ICogFrameGrabber camera",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        226,
+                                        704,
+                                        234,
+                                        712
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\cdot",
+                                    "score": 0.81
+                                },
+                                {
+                                    "bbox": [
+                                        234,
+                                        702,
+                                        286,
+                                        715
+                                    ],
+                                    "type": "text",
+                                    "content": "cameras[0];",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        718,
+                        334,
+                        730
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 25,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                718,
+                                334,
+                                731
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        718,
+                                        334,
+                                        731
+                                    ],
+                                    "type": "text",
+                                    "content": "System.Diagnostics.Debug.WriteLine(camera.Name);",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        79,
+                        378,
+                        92
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                77,
+                                379,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        77,
+                                        108,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "五、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        79,
+                                        379,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "Select a Supported Video Format and Create a CogAcqFifo",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        110,
+                        504,
+                        138
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                108,
+                                506,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        108,
+                                        506,
+                                        124
+                                    ],
+                                    "type": "text",
+                                    "content": "一 旦 获 得 了 ICogFrameGrabber 接 口 ， 就 可 以 使 用 支 持 的 视 频 格 式 调 用 其",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                126,
+                                298,
+                                140
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        126,
+                                        298,
+                                        140
+                                    ],
+                                    "type": "text",
+                                    "content": "CreateAcqFifo 函数来获得 ICogAcqFifo。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        141,
+                        504,
+                        169
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                140,
+                                506,
+                                155
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        140,
+                                        506,
+                                        155
+                                    ],
+                                    "type": "text",
+                                    "content": "个版本的 VisionPro 支持在 VisionPro 的摄像机支持主题中列出的 GigE Vision 视频格",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                155,
+                                128,
+                                173
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        155,
+                                        128,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": "式。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        128,
+                        172,
+                        421,
+                        247
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                128,
+                                172,
+                                421,
+                                247
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        172,
+                                        421,
+                                        247
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                128,
+                                                172,
+                                                421,
+                                                247
+                                            ],
+                                            "type": "text",
+                                            "content": "const stringVIDEO_FORMAT "
+                                        },
+                                        {
+                                            "bbox": [
+                                                128,
+                                                172,
+                                                421,
+                                                247
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "="
+                                        },
+                                        {
+                                            "bbox": [
+                                                128,
+                                                172,
+                                                421,
+                                                247
+                                            ],
+                                            "type": "text",
+                                            "content": " \"Generic GigEVision (Bayer Color)\";   \nICogAcqFifofifo "
+                                        },
+                                        {
+                                            "bbox": [
+                                                128,
+                                                172,
+                                                421,
+                                                247
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "="
+                                        },
+                                        {
+                                            "bbox": [
+                                                128,
+                                                172,
+                                                421,
+                                                247
+                                            ],
+                                            "type": "text",
+                                            "content": " camera.CreateAcqFifo(   \nVIDEO_FORMAT,   \nCogAcqFifoPixelFormatConstants.Format8Grey,   \n0, true);"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 3,
+                    "sub_type": "algorithm"
+                },
+                {
+                    "bbox": [
+                        107,
+                        250,
+                        504,
+                        279
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                251,
+                                505,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        251,
+                                        505,
+                                        264
+                                    ],
+                                    "type": "text",
+                                    "content": "通用的GigE vision视频格式不指定图像大小。为了确定获得的图像的实际大小，在创",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                266,
+                                373,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        266,
+                                        373,
+                                        279
+                                    ],
+                                    "type": "text",
+                                    "content": "建了采集FIFO之后立即得到感兴趣的区域，如下图所示:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        129,
+                        282,
+                        358,
+                        372
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                129,
+                                282,
+                                358,
+                                372
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        282,
+                                        358,
+                                        372
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                129,
+                                                282,
+                                                358,
+                                                372
+                                            ],
+                                            "type": "text",
+                                            "content": "ICogAcqROI ROIParams;   \nint x, y, width, height   \nROIParams "
+                                        },
+                                        {
+                                            "bbox": [
+                                                129,
+                                                282,
+                                                358,
+                                                372
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "="
+                                        },
+                                        {
+                                            "bbox": [
+                                                129,
+                                                282,
+                                                358,
+                                                372
+                                            ],
+                                            "type": "text",
+                                            "content": " myAcqFifo.OwnedROIParameters;   \nif (ROIParams != null)   \nOIParams.GetROIXyWidthHeight(x, y, width, height);"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 5,
+                    "sub_type": "algorithm"
+                },
+                {
+                    "bbox": [
+                        86,
+                        391,
+                        294,
+                        404
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                388,
+                                295,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        388,
+                                        108,
+                                        407
+                                    ],
+                                    "type": "text",
+                                    "content": "六、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        390,
+                                        295,
+                                        407
+                                    ],
+                                    "type": "text",
+                                    "content": "Use the CogAcqFifo to Acquire Images",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        422,
+                        374,
+                        434
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                422,
+                                375,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        422,
+                                        375,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": "一旦创建了 ICogAcqFifo，就可以使用标准方法获取图像。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        454,
+                        286,
+                        466
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                451,
+                                287,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        451,
+                                        107,
+                                        470
+                                    ],
+                                    "type": "text",
+                                    "content": "七、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        454,
+                                        287,
+                                        468
+                                    ],
+                                    "type": "text",
+                                    "content": "GigE Vision Camera Feature Support",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        484,
+                        473,
+                        497
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                484,
+                                475,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        484,
+                                        475,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": "许多常用的GigE vision相机功能都是通过VisionPro图像采集属性直接支持的。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        499,
+                        504,
+                        528
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                498,
+                                506,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        498,
+                                        506,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "对于VisionPro不直接支持的特性，可以使用 ICogGigEAccess接口来获取和设置特",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                513,
+                                129,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        513,
+                                        129,
+                                        530
+                                    ],
+                                    "type": "text",
+                                    "content": "性。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        531,
+                        504,
+                        560
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                529,
+                                506,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        529,
+                                        123,
+                                        546
+                                    ],
+                                    "type": "text",
+                                    "content": "阅",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        123,
+                                        532,
+                                        134,
+                                        543
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\%",
+                                    "score": 0.59
+                                },
+                                {
+                                    "bbox": [
+                                        134,
+                                        529,
+                                        506,
+                                        546
+                                    ],
+                                    "type": "text",
+                                    "content": "VPRO_ROOT%\\Samples\\Programming\\Acquisition\\GigEVisionProperties 中 的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                545,
+                                263,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        545,
+                                        263,
+                                        560
+                                    ],
+                                    "type": "text",
+                                    "content": "示例代码，了解如何做到这一点。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        577,
+                        505,
+                        607
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                576,
+                                506,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        576,
+                                        506,
+                                        592
+                                    ],
+                                    "type": "text",
+                                    "content": "注意:如果在 VisionPro 脚本中使用特性设置和获取方法，则必须将调用封装在 try/",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                594,
+                                459,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        594,
+                                        459,
+                                        607
+                                    ],
+                                    "type": "text",
+                                    "content": "catch块中。如果您不使用try/catch块，您的脚本可能会导致您的作业超时。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        110,
+                        90,
+                        523,
+                        226
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                110,
+                                78,
+                                235,
+                                85
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        79,
+                                        235,
+                                        86
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                110,
+                                                79,
+                                                235,
+                                                86
+                                            ],
+                                            "type": "text",
+                                            "content": "Table 1. GenICam features supported by VisionPro",
+                                            "score": 0.99
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                90,
+                                523,
+                                226
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        90,
+                                        523,
+                                        226
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                110,
+                                                90,
+                                                523,
+                                                226
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>GenICam Feature</td><td>VisionPro Property</td><td>Comments</td></tr><tr><td>AcquisitionMode</td><td></td><td>Controlled by the combination of TriggerModel</td></tr><tr><td>AcquisitionStart</td><td></td><td>TriggerEnabled and StartAcquire</td></tr><tr><td>AcquisitionStop</td><td></td><td></td></tr><tr><td>PixelFormat</td><td></td><td>Based on video format used</td></tr><tr><td>TriggerMode</td><td>ICogAcqTrigger</td><td>Based on current TriggerModel</td></tr><tr><td>ExposureTime</td><td>ICogAcqExposure</td><td></td></tr><tr><td>BlackLevel</td><td>ICogAcqBrightness</td><td></td></tr><tr><td>Gain</td><td>ICogAcqContrast</td><td></td></tr><tr><td>OffsetX</td><td>ICogAcqROI</td><td></td></tr><tr><td>OffsetY</td><td></td><td></td></tr><tr><td>Width</td><td>ICogAcqROI</td><td></td></tr><tr><td>Height</td><td></td><td></td></tr></table>",
+                                            "image_path": "a52c896eee6bbaf6c47f9015b292cc5f644c01639c7638b87ca98c1e2f087e39.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        107,
+                        234,
+                        505,
+                        264
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                235,
+                                505,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        235,
+                                        505,
+                                        248
+                                    ],
+                                    "type": "text",
+                                    "content": "要了解如何使用时间戳来检测 GigE视觉摄像机错过的图像或错过的触发器，请参阅",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                251,
+                                260,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        251,
+                                        260,
+                                        264
+                                    ],
+                                    "type": "text",
+                                    "content": "使用GigE视觉摄像机的时间戳。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        282,
+                        282,
+                        296
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                280,
+                                283,
+                                298
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        280,
+                                        108,
+                                        298
+                                    ],
+                                    "type": "text",
+                                    "content": "八、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        282,
+                                        283,
+                                        297
+                                    ],
+                                    "type": "text",
+                                    "content": "Debugging GigE Vision Applications",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        312,
+                        505,
+                        356
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                313,
+                                504,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        313,
+                                        504,
+                                        326
+                                    ],
+                                    "type": "text",
+                                    "content": "GigE相机要求应用程序定期向相机发送一个网络数据包，称为心跳，以表明应用程序",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                328,
+                                504,
+                                341
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        328,
+                                        504,
+                                        341
+                                    ],
+                                    "type": "text",
+                                    "content": "正在与相机通信。如果相机在超时时间结束前没有收到心跳脉冲，它将关闭与应用程",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                344,
+                                158,
+                                357
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        344,
+                                        158,
+                                        357
+                                    ],
+                                    "type": "text",
+                                    "content": "序的连接。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        108,
+                        359,
+                        230,
+                        372
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                360,
+                                230,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        360,
+                                        230,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "默认心跳超时时间为3秒。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        390,
+                        505,
+                        420
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                391,
+                                505,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        391,
+                                        505,
+                                        404
+                                    ],
+                                    "type": "text",
+                                    "content": "在调试GigE Vision应用程序时，您将希望增加心跳超时时间间隔，以便在您处于断",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                407,
+                                357,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        407,
+                                        357,
+                                        419
+                                    ],
+                                    "type": "text",
+                                    "content": "点时相机不会脱机。您可以添加以下代码到您的程序:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        107,
+                        437,
+                        480,
+                        496
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                107,
+                                437,
+                                480,
+                                496
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        437,
+                                        480,
+                                        496
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                437,
+                                                480,
+                                                496
+                                            ],
+                                            "type": "text",
+                                            "content": "ifdef DEBUG//defined for MS Visual Studio debug builds //Set timeout to 1 minute (unit is mSec) camera.gigECameraAcess.SetIntegerFeature(\"GevHeartbeatTimeout\",60\\*1000); #endif"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 7,
+                    "sub_type": "code",
+                    "guess_lang": "java"
+                },
+                {
+                    "bbox": [
+                        86,
+                        515,
+                        389,
+                        528
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                513,
+                                389,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        513,
+                                        107,
+                                        531
+                                    ],
+                                    "type": "text",
+                                    "content": "九、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        516,
+                                        389,
+                                        529
+                                    ],
+                                    "type": "text",
+                                    "content": "Saving and Restoring Camera State（保存和重置相机状态）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        546,
+                        504,
+                        574
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                546,
+                                504,
+                                559
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        546,
+                                        504,
+                                        559
+                                    ],
+                                    "type": "text",
+                                    "content": "通过使用相机的UserSetSave命令，您可以将您更改的任何功能的状态保存到相机的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                561,
+                                146,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        561,
+                                        146,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "内存中:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        128,
+                        577,
+                        387,
+                        622
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                128,
+                                577,
+                                387,
+                                622
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        577,
+                                        387,
+                                        622
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                128,
+                                                577,
+                                                387,
+                                                622
+                                            ],
+                                            "type": "text",
+                                            "content": "camera.SetFeature(\"UserSetDefaultSelector\", \"UserSet1\");  \ncamera.SetFeature(\"UserSetSelector\", \"UserSet1\");  \ncamera.ExecuteCommand(\"UserSetSave\");"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 10,
+                    "sub_type": "code",
+                    "guess_lang": "javascript"
+                },
+                {
+                    "bbox": [
+                        86,
+                        640,
+                        248,
+                        654
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                638,
+                                249,
+                                656
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        638,
+                                        108,
+                                        655
+                                    ],
+                                    "type": "text",
+                                    "content": "十、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        640,
+                                        249,
+                                        656
+                                    ],
+                                    "type": "text",
+                                    "content": "Working with Bayer Images",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        671,
+                        505,
+                        716
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                671,
+                                504,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        671,
+                                        504,
+                                        683
+                                    ],
+                                    "type": "text",
+                                    "content": "转换拜耳格式图像的 VisionPro例程要求图像的像素和行数为偶数，左上角的像素是",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                687,
+                                505,
+                                699
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        687,
+                                        505,
+                                        699
+                                    ],
+                                    "type": "text",
+                                    "content": "拜耳模式的开始。VisionPro GigE视觉采集软件调整感兴趣区域(ROI)，以确保满足这",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                703,
+                                401,
+                                714
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        703,
+                                        401,
+                                        714
+                                    ],
+                                    "type": "text",
+                                    "content": "些条件。图像的实际ROI可能比您要求的更窄或更短两个像素。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        117,
+                        79,
+                        291,
+                        242
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                117,
+                                79,
+                                291,
+                                242
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        79,
+                                        291,
+                                        242
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                117,
+                                                79,
+                                                291,
+                                                242
+                                            ],
+                                            "type": "image",
+                                            "image_path": "1924d50bd135bdfdcfdbbcb119d9968b188c115295baf2dbf417b36f67852475.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                112,
+                                244,
+                                166,
+                                265
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        245,
+                                        161,
+                                        252
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                118,
+                                                245,
+                                                161,
+                                                252
+                                            ],
+                                            "type": "text",
+                                            "content": "Left edge of ROl",
+                                            "score": 0.95
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        112,
+                                        251,
+                                        167,
+                                        259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                112,
+                                                251,
+                                                167,
+                                                259
+                                            ],
+                                            "type": "text",
+                                            "content": "adjusted to get corred",
+                                            "score": 0.97
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        120,
+                                        258,
+                                        158,
+                                        265
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                120,
+                                                258,
+                                                158,
+                                                265
+                                            ],
+                                            "type": "text",
+                                            "content": "upper-eft pixel.",
+                                            "score": 0.916
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        },
+                        {
+                            "bbox": [
+                                190,
+                                244,
+                                239,
+                                264
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        192,
+                                        243,
+                                        238,
+                                        252
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                192,
+                                                243,
+                                                238,
+                                                252
+                                            ],
+                                            "type": "text",
+                                            "content": "Riglt edge of ROl",
+                                            "score": 0.945
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        189,
+                                        250,
+                                        240,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                189,
+                                                250,
+                                                240,
+                                                258
+                                            ],
+                                            "type": "text",
+                                            "content": "acjustedto get even",
+                                            "score": 0.915
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        193,
+                                        257,
+                                        236,
+                                        264
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                193,
+                                                257,
+                                                236,
+                                                264
+                                            ],
+                                            "type": "text",
+                                            "content": "number ofpixels",
+                                            "score": 0.978
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        88,
+                        281,
+                        281,
+                        295
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                281,
+                                282,
+                                297
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        281,
+                                        282,
+                                        297
+                                    ],
+                                    "type": "text",
+                                    "content": "十一、Managing GigE Vision Bandwidth Use",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        312,
+                        506,
+                        341
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                312,
+                                506,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        312,
+                                        506,
+                                        326
+                                    ],
+                                    "type": "text",
+                                    "content": "如果你在同一个网络适配器上使用多个摄像头，摄像头的数据速率可能会超过GigE",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                328,
+                                168,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        328,
+                                        168,
+                                        342
+                                    ],
+                                    "type": "text",
+                                    "content": "网络的带宽。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        343,
+                        506,
+                        388
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                343,
+                                506,
+                                358
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        343,
+                                        506,
+                                        358
+                                    ],
+                                    "type": "text",
+                                    "content": "在这种情况下，为了管理带宽，你可以调整相机的帧率。示例程序%VPRO_ROOT%\\",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                360,
+                                508,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        360,
+                                        508,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "Samples\\Programming\\Acquisition\\GigEVisionProperties 展示了这种技术的一个示例。",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                375,
+                                506,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        375,
+                                        124,
+                                        389
+                                    ],
+                                    "type": "text",
+                                    "content": "在",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        318,
+                                        375,
+                                        506,
+                                        389
+                                    ],
+                                    "type": "text",
+                                    "content": "%VPRO_ROOT%\\Samples\\QuickBuild\\",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        390,
+                        506,
+                        419
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                390,
+                                506,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        390,
+                                        506,
+                                        405
+                                    ],
+                                    "type": "text",
+                                    "content": "Script_GigEBaslerscout_Bandwidth_job.vpp 中可以找到这种技术作为 QuickBuild 作",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                406,
+                                179,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        406,
+                                        179,
+                                        420
+                                    ],
+                                    "type": "text",
+                                    "content": "业脚本的示例。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 3
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

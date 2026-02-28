@@ -1,0 +1,394 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "LineMax 工具介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                105,
+                463,
+                136
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{1}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "预期法线：在限定区域内搜索符合搜索方向的边缘点"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "②边缘点提取参数："
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                155,
+                645,
+                230
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "渐变内核大小（以像素为单位）：该工具使用该值来分析运行时图像并生成代表边缘信息的一组梯度向量。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                273,
+                847,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当图像中感兴趣的功能显示锐利边缘时，在短距离内发生亮像素和暗像素之间的过渡时，请使用较小的值。增加此值可以使图像中的边缘更平滑。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                329,
+                840,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "投影长度（以像素为单位）：该值确定用于梯度场投影的区域数。较小的值可使工具以比较大的值更精细的粒度来分析图像，但是可能需要更多时间才能执行该工具。较大的值可以提高工具的执行速度，但可能无法检测到要工具定位的边缘。通常，使用的值至少应与“以像素为单位的渐变内核大小”设置的值一样大，但是如果工具继续定位所需的边缘点则可以将其设置为更高的值。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                366,
+                848,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "对比度阈值：指定边缘的最小对比度，该边缘被视为要定位的特征的候选边缘。增大此值可找到鲜明对比的边缘，并忽略亮像素和暗像素之间的过渡不那么突出的边缘，或者当要在图像中定位的边缘的对比度较小时，降低此值。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                458,
+                848,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "边缘的对比度是整个边缘的平均像素值的绝对差，范围为 0到255。该工具仅考虑对比度大于您指定的值的边缘。例如，将此值设置为10会拒绝对比度低于10个像素值的边缘点。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                514,
+                848,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "标准化对比度阈值：增大此参数的值可丢弃图像明亮区域中的虚假边缘点。请注意，将其设置为1会舍弃所有边缘点，从而使该工具实际上无法使用。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                551,
+                848,
+                586
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "边缘约束："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                607,
+                228,
+                621
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "极性：边缘的极性指向包含在行中。"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                626,
+                458,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "角度公差：边缘点渐变方向与法线垂直的最大允许角度差。增大此值可使工具将更多的边缘点视为内点，从而更改找到的线段的位置。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                644,
+                847,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "距离公差：内线和拟合线之间的最大允许距离。随着您增加边缘距离公差，您可以允许该工具将更多边缘点视为内部并更改找到的线的位置。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                681,
+                847,
+                715
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "线段约束："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                737,
+                228,
+                752
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "最 大 行 数 ： 您 要 工 具 定 位 的 最 大 行 数 。 请 注 意 ， 仅 当 VisionPro 安 装 中 包 含VisionPro.LineMaxMulti 许可证时，编辑控件才支持此参数。有关 VisionPro 安全性的详细信息，请参阅VisionPro安全性密钥主题。将此值设置为0可以防止工具返回任何线结果，但仍会生成一组离群值供您的视觉应用程序使用。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                755,
+                847,
+                826
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "角度公差：找到的线段的旋转量可能与您指定的预期角度不同。较低的值将强制工具定位与梯度搜索方向更平行的线段。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                829,
+                847,
+                863
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "覆盖阈值：最小可接受线宽比与最大可能线束数或沿线段的边缘特征的最小比例。例如，将值指定为 0.5，即使未在线的 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "上检测到边缘点，该工具也可以定位线段。同时"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                866,
+                847,
+                901
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "使用 Coverage Threshold 和 Length Threshold 以满足您的线路配合要求。注意将值指定为 1.0会强制工具仅在没有间隙的地方找到线段时才定位线段。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                93,
+                850,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "长度阈值：设置找到的线段的最小可接受长度。"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                130,
+                547,
+                146
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "拟合算法："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                167,
+                230,
+                183
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "穷举模式：对所有边缘点组合进行线拟合评估。"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                186,
+                547,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "RANSAC模式：随机样本共识方法（RANSAC）：一种在存在许多候选边缘点的情况下对边缘点进行鲁棒拟合的算法。保证值会影响选择最佳边缘点进行线拟合的可能性。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                204,
+                850,
+                239
+            ]
+        }
+    ]
+]

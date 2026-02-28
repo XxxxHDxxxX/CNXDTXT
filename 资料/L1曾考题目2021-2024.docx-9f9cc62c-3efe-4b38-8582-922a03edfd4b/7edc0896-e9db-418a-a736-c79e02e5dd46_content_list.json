@@ -1,0 +1,2994 @@
+[
+    {
+        "type": "text",
+        "text": "2023.6.18 日考试题目",
+        "text_level": 1,
+        "bbox": [
+            18,
+            52,
+            364,
+            82
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            18,
+            171,
+            48,
+            181
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.机器视觉的四大功能为___引导、检测、测量、识别_",
+            "2.输入___cogtool -p_ _可以在 Dos 窗口查询 Licence 信息 ：Dos 窗口就是黑色命令窗口",
+            "3.光圈是控制镜头入光量的光学装置，光圈值越大，景深越__大___进光量越 _小",
+            "4.视觉工具 CogFindCircleTool 作用_抓圆、获取圆、圆心坐标、半径_，CogFixtureTool 作用主要为_创建用户坐标系，产生坐标跟随_",
+            "5.LED 二极管光源相比卤素灯/白炽灯/荧光灯优势有寿命长，发热少__体积小、亮度高、光电转化率高",
+            "6.镜头的场畸变有桶形和 枕形畸变 _两种。",
+            "7. 光根据波长范围分为可见光，紫外光，红外光,， 400nm~700nm 是 可见光_ _光。",
+            "8.CCD 即是由一组矩阵式的感光元器件组成，它的功能是将光信号转换成___电信号",
+            "9.基本码制包括一维线性条码/一维码、PDF417、 __QR-code Datamatrix _四种二．单项选择题。(每空 2 分，共 20 分)"
+        ],
+        "bbox": [
+            16,
+            185,
+            976,
+            387
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.在 8 位的灰度图像中，像素数值为 255 是什么颜色?( A )",
+        "bbox": [
+            18,
+            390,
+            465,
+            406
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A.白色B.黑色C.灰色偏白D.灰色偏黑 ",
+            "2.关于 CogPMAlignTool 工具，以下说法错误的是( C )",
+            "A. 搜索框要比模板框范围要大",
+            "B.此工具是图案位置搜索工具",
+            "C.不支持图像中特征的旋转与缩放",
+            "D.可以在图像中找到训练的特征所在的位置"
+        ],
+        "bbox": [
+            18,
+            407,
+            418,
+            516
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.在 Gige 软件中配置相机时，相机的巨帧设置应为( B )",
+        "bbox": [
+            18,
+            520,
+            440,
+            535
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C.8704 ",
+        "bbox": [
+            18,
+            539,
+            75,
+            551
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. 1024 ",
+        "bbox": [
+            126,
+            539,
+            201,
+            551
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A.9600 ",
+        "bbox": [
+            231,
+            539,
+            285,
+            551
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B.9014 ",
+        "bbox": [
+            304,
+            539,
+            356,
+            551
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4.如下图需要计算线段到圆的最短距离，选择哪个工具 ( C )",
+        "bbox": [
+            18,
+            557,
+            473,
+            571
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. CoglntersectSegmentCircleTool ",
+            "B. CogDistanceSegmentCircleTool ",
+            "C. CogIntersectSegmentEillpseTool ",
+            "D. CogDistanceSegmentEllipseTool "
+        ],
+        "bbox": [
+            18,
+            576,
+            268,
+            645
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f60c09b298f9eb776f71ec8f8bdff95e04121bbbfc8f7cadf9b86a7ebb125d30.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            334,
+            576,
+            465,
+            646
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5.CogPMAlignTool 图像训练正确顺序为( A )",
+        "bbox": [
+            18,
+            649,
+            347,
+            665
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A 获取图像一设置训练区域和原点一设置训练参数一训练图像一查看结果",
+            "B，获取图像一训练图像一设置训练参数一查看结果",
+            "c，获取图像一设置训练区域和原点一训练图像一设置训练参数一查看结果",
+            "D，获取图像一设置训练区域和原点一训练图像一查看结果"
+        ],
+        "bbox": [
+            18,
+            667,
+            594,
+            738
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "6.以下哪种镜头的焦距不可能小于标准焦距 50mm( C )",
+        "bbox": [
+            18,
+            741,
+            440,
+            758
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A.定焦镜头 D，广角镜头 B，变焦镜头 C.远距镜头:焦距大于 50mm",
+            "7.CogCaliperTool 在单个边缘模式下，不能设置的参数是( B )",
+            "D.最大结果数 A.边缘极性 B.边缘对宽度 C.对比度闻值",
+            "8.什么光源最适合用于物体轮廓检测?B",
+            "A 暗场 Dark Field B.背光 Back Light C.亮场 Bright FieldD. Dome (Cloudy Day llumination/Dome)",
+            "9.以下关于机器视觉根据不同应用选择合适工业相机，描述正确的是( B )",
+            "A.CCD: 噪点多、图像效果较差、价格便宜 ",
+            "B.CCD: 噪点少、图像效果好、价格高",
+            "C.CMOS: 噪点少、速度快、价格便宜",
+            "D.CMOS: 噪点多、速度快、价格高",
+            "10.定焦镜头上光圈的作用是(A ) "
+        ],
+        "bbox": [
+            18,
+            760,
+            707,
+            961
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A.改变通光量的大小，从而获得所需亮度的视野图像",
+            "B.清晰聚焦，达到很好的 FOV 图像效果",
+            "C.平衡光路达到完美视野",
+            "D.过滤光线，有偏振片的效果，使图像成像效果更佳"
+        ],
+        "bbox": [
+            18,
+            19,
+            426,
+            90
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三、判断题。(每题 2 分，共 10 分)",
+        "text_level": 1,
+        "bbox": [
+            20,
+            93,
+            290,
+            108
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.标定就是通过创建一个标定对象来关联图像中的空间和物理空间。( Y )",
+            "2.C 型相机能够匹配 CS 型镜头，但不能够匹配 CS 型镜头 $+ 5 \\mathsf { m m }$ 接圈( X )",
+            "3.在 Cognex 相机的参数上，相机标签 CAM-CIC-5000R-14-G，其中 G 代表的是黑白相机。( Y )",
+            "4.LED 光源的优势在于绿色环保寿命长，但电光转化效率低。( X )"
+        ],
+        "bbox": [
+            18,
+            112,
+            724,
+            181
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5，如果一个图像的效果太暗，我们可以通过调节光圈来进行设置。( Y )",
+        "bbox": [
+            18,
+            186,
+            571,
+            200
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "四、简答题。(共 40 分)",
+        "text_level": 1,
+        "bbox": [
+            20,
+            205,
+            201,
+            219
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.请写出下列视觉专业名词的解释，视野/工作距离/焦距/像素/曝光时间。(10 分)",
+            "视野：相机所能看到的现实世界的物理尺寸",
+            "工作距离：被测物体到相机镜头的距离",
+            "像素：图片的组成单位，芯片相对应像元产生的图片信息，对应在图片上称为像素。既相机识别到的图像上的最小单元曝光时间：光在感光器件表面使其感光的过程。电子感光器件一般称为光电转换即电子快门时间",
+            "焦距：透镜中心到期焦点",
+            "2 相机按照芯片材质分为哪两种? 请解释两者的原理以及对比差异。(15 分)",
+            "CCD：电荷耦合器件，将从图像半导体中出来的电子有组织的存储起来的方法",
+            "CMOS：互补金属氧化物半导体，可将光敏元件、放大器、A/D 转换器、存储器、数字信号处理器和计算机接口控制电路集成在一块硅片上的技术。",
+            "3.解释 CogPMAlignTool 工具栏的选中的图标名称和功能。(15 分)"
+        ],
+        "bbox": [
+            18,
+            223,
+            974,
+            423
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a38ad18963266567367e329800dffb1431a0e108011f0ca0f94bc416b5d403f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            21,
+            425,
+            426,
+            659
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.点击运行：运行PMAlign工具。",
+            "2.电子模式：切换电动模式。选中后，如果某些参数已更改，则PMAlign工具将自动运行。",
+            "3.本地显示：打开本地工具显示窗口，该窗口可以显示 Current.InputImage，Current.TrainImage 或 LastRun.InputImage 缓冲区。",
+            "4.复位：将基础工具重置为默认状态。",
+            "5.掩膜编辑器：打开图像掩膜编辑器以创建要添加到训练图像的模板。"
+        ],
+        "bbox": [
+            18,
+            668,
+            974,
+            775
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2023.9.24 深圳 L1 部分考题",
+        "text_level": 1,
+        "bbox": [
+            18,
+            32,
+            452,
+            60
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.Cognex 相机 铭牌信息解释 eg：Cognex CIC-5000R-20-G",
+        "bbox": [
+            18,
+            147,
+            448,
+            164
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CAM-CIC-5000R-24-G ",
+        "bbox": [
+            30,
+            168,
+            265,
+            186
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CIC：康耐视工业相机",
+        "bbox": [
+            36,
+            199,
+            235,
+            215
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5000：500W相机",
+        "bbox": [
+            38,
+            217,
+            196,
+            231
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "R：卷帘快门相机 (G:全局快门)",
+        "bbox": [
+            38,
+            234,
+            314,
+            250
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "24：帧率：表示24帧/秒",
+        "bbox": [
+            38,
+            250,
+            257,
+            266
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "G：黑白相机 (C:彩色相机)",
+        "bbox": [
+            38,
+            268,
+            280,
+            284
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分辨率：2592*1944",
+        "bbox": [
+            38,
+            285,
+            216,
+            299
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通讯接口GigE",
+        "bbox": [
+            38,
+            300,
+            166,
+            317
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "线阵相机：行频 ",
+        "bbox": [
+            38,
+            318,
+            181,
+            334
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.简述相机常见的分类类型 并写出不同类型分类的相机分类",
+        "bbox": [
+            18,
+            350,
+            482,
+            366
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出信号：模拟相机、数字相机",
+        "bbox": [
+            18,
+            369,
+            272,
+            385
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "芯片类型：CCD相机、CMOS相机",
+        "bbox": [
+            18,
+            388,
+            282,
+            403
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "像素排列方式：面阵相机、线阵相机",
+        "bbox": [
+            18,
+            407,
+            305,
+            422
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "拍照颜色：黑白相机、彩色相机。",
+        "bbox": [
+            18,
+            425,
+            278,
+            441
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.说明机器视觉一同有哪几部分构成，分别说明其作用",
+        "bbox": [
+            18,
+            462,
+            442,
+            478
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视野：被拍摄的物体",
+        "bbox": [
+            18,
+            499,
+            183,
+            514
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "光源：使被拍摄的物体看起来处于最佳状态。(也可以把光源的3条作用写上。)",
+        "bbox": [
+            18,
+            518,
+            633,
+            533
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图像采集：相机拍摄照片。",
+        "bbox": [
+            18,
+            536,
+            223,
+            552
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "信息传输：将相机拍好的图像传输到电脑",
+        "bbox": [
+            18,
+            555,
+            341,
+            570
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视觉工具：处理相机拍好的图像。",
+        "bbox": [
+            18,
+            573,
+            278,
+            589
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "机试题：",
+        "bbox": [
+            18,
+            609,
+            84,
+            625
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "机试上午L1. 第一个图",
+        "bbox": [
+            18,
+            629,
+            198,
+            644
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.齿轮数量， Pmalign工具计算齿数。",
+        "bbox": [
+            18,
+            648,
+            307,
+            663
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.圆到园距离。 圆到圆 DistanceCircleCircle ",
+        "bbox": [
+            18,
+            665,
+            363,
+            681
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出距离和半径到 outputs---这里 outputs 需要用 CogToolBlock 这个工具块来接收",
+        "bbox": [
+            18,
+            684,
+            635,
+            700
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二个图，",
+        "bbox": [
+            18,
+            758,
+            100,
+            774
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. 两个抓边，一个交点，两个元，一个圆心距，一个点到点连线，一个点到直线距离，一个输出",
+        "bbox": [
+            18,
+            777,
+            773,
+            793
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CogFindlineTool、IntersectionLineline CogCircleTool、CogFitlinetool 、DistancePointLineTool、",
+        "bbox": [
+            18,
+            815,
+            702,
+            829
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee91cf509e77c7cdf7268d39ab6336db820dc2a6a729d70e0ead18f047924005.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            21,
+            15,
+            463,
+            423
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. CogPMAlignTool 定位黑色三角形。",
+            "2. 计算圆心 A 到圆 C3 距离：CogDistancePointCircleTool",
+            "3. 计算点 A 到点 C 的距离，计算点 B 到点 C 的距离。CogFindCircleTool 抓圆、测距 CogDistancePointPointTool",
+            "4. 求三角形三个交点 DE：CogFindLineTool 三个抓边，三个求交点 CogIntersectLineLineTool",
+            "5. 计算圆心 C 到 Line1 的距离：CogFindLineTool 抓 1 个边，CogFindCircleTool 抓圆，测距 CogDistancePointLineTool"
+        ],
+        "bbox": [
+            18,
+            445,
+            884,
+            535
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2021.3.20 考题",
+        "text_level": 1,
+        "bbox": [
+            18,
+            608,
+            258,
+            636
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "视觉工程师一级笔试",
+        "text_level": 1,
+        "bbox": [
+            359,
+            728,
+            636,
+            753
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一、填空题。（每空 1.5 分，共 30 分）",
+        "text_level": 1,
+        "bbox": [
+            18,
+            760,
+            315,
+            776
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.光根据波长范围可分为___可见光__，__红外光__、紫外光_ ",
+        "bbox": [
+            18,
+            787,
+            630,
+            806
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.相机和板卡的额定电压分别是 12 _和 12 _，相机电源线接线方式是 _棕色",
+        "bbox": [
+            18,
+            837,
+            976,
+            854
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "正____白色_ _负，其中相机按照感光元件类型可分为 CCD _和 _CMOS_ _两种。Ps：相机：",
+        "bbox": [
+            18,
+            879,
+            964,
+            897
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "红正黑负，棕正白负，扫码枪262是棕正蓝负，302是红正黑负",
+        "bbox": [
+            18,
+            922,
+            581,
+            940
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. 分辨率是图像上单个像素所代表的实际尺寸，那么分辨率= 。 -像素分辨率",
+        "bbox": [
+            18,
+            26,
+            976,
+            46
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "是图像上单个像素所代表的实际尺寸，像素分辨率 $\\cdot$ 视野/分辨率",
+        "bbox": [
+            18,
+            64,
+            591,
+            82
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. 视觉系统的五大组成部分分别是__光源、视野、图像采集、信息传输、视觉工具 c",
+        "bbox": [
+            18,
+            101,
+            800,
+            120
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.名词解释 ",
+        "bbox": [
+            18,
+            137,
+            124,
+            155
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定焦镜头：_ 镜头的焦距不可以调节 。",
+        "bbox": [
+            48,
+            178,
+            552,
+            197
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "变焦镜头： 镜头的焦距可以调节 。",
+        "bbox": [
+            48,
+            218,
+            576,
+            237
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "广角镜头： 焦距小于标准焦距50mm的 。",
+        "bbox": [
+            48,
+            268,
+            660,
+            287
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "远心镜头： 没有透视变形 。",
+        "bbox": [
+            48,
+            307,
+            584,
+            326
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "二，不定向选择题。（每空 2 分，共 10 分）",
+        "bbox": [
+            18,
+            340,
+            354,
+            356
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. CogCaliperTool 在单个边缘模式下，不能设置的参数是（ B ）",
+        "bbox": [
+            18,
+            367,
+            600,
+            385
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A、边缘极性",
+            "B、边缘对宽度",
+            "C、对比度阈值 ",
+            "D、最大结果数",
+            "2. 在拍摄同一物体时，以下哪种镜头可以配置 CS 型相机（ BC ）",
+            "A、C型镜头",
+            "B、C型镜头 $+ 5 \\mathsf { m m }$ 接圈",
+            "C、CS型镜头",
+            "D、CS型镜头 $+ 5 \\mathsf { m m }$ 接圈",
+            "3. 什么光源最适合用于金属圆柱物体表面检测？（ D ）",
+            "A、暗场 Dark Field",
+            "B、背光 Back Light",
+            "C、亮场 Bright Field",
+            "D、Dome (Cloudy Day Illumination/Dome) "
+        ],
+        "bbox": [
+            18,
+            417,
+            621,
+            932
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.远心镜头的优点有（ ABC ）",
+        "bbox": [
+            18,
+            26,
+            300,
+            43
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A、超低畸变 B、高分辨率 C、超宽景深 D、价格便宜",
+            "5. 以下说法错误的是（ D ）"
+        ],
+        "bbox": [
+            16,
+            77,
+            549,
+            145
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A、光源的安装角度和方向直接决定图象的效果。",
+            "B、机器视觉主要应用于引导、测量、检测、识别等领域。",
+            "C、一维条码通常只能表达字母和数字，而二维条码可以对图 像、汉字等进行编码",
+            "D、像素深度即每个像素数据的位数，一般常用的是 8Bit，对于数字工业相机一般还会有 12Bit，但是不会有 10Bit。"
+        ],
+        "bbox": [
+            16,
+            175,
+            974,
+            384
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "三、判断题。（每题 2 分，共 10 分）",
+        "text_level": 1,
+        "bbox": [
+            18,
+            409,
+            302,
+            425
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1．红外光一般指红外线，其波长在 100nm~380nm 之间 （ N ）",
+            "2．CCD最突出的优势是分辨率和动态范围，最弱的地方就是贵，耗电；CMOS最差的地方是分辨率，动态范围和噪声,优势就是便宜，省电 （ Y ）",
+            "3. 工业镜头有三种接口型式，即 F 型、C 型、CS 型，C/CS 型接口一般适用于焦距大于 25mm 的镜头（N ）",
+            "4．光圈大，则光圈值小，通光能力大，景深也大 （ N ）",
+            "5、CogPMAlignTool工具训练图像的操作顺序是获取图像、设置训练区域和原点、设置训练参数、训练图像、查看结果 （Y ）"
+        ],
+        "bbox": [
+            16,
+            436,
+            976,
+            741
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "四．简答题（共50分）",
+        "text_level": 1,
+        "bbox": [
+            18,
+            755,
+            198,
+            772
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1．如下图，请将读码器的7个标号与对应名词正确连线（14分）",
+        "bbox": [
+            18,
+            783,
+            596,
+            801
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/67c1c1e904584787193e291ae2b567fab6e989f7e7d80989dd6e5efb755eba6a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            57,
+            16,
+            729,
+            244
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "(1) （a）：训练灯",
+            "(2) （b）：电源灯",
+            "(3) （c）：报警灯",
+            "(4) （d）：解码灯",
+            "(5) （e）：网线灯",
+            "(6) （e）：调谐键"
+        ],
+        "bbox": [
+            55,
+            268,
+            342,
+            535
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(7) （e）：触发键",
+        "bbox": [
+            55,
+            565,
+            342,
+            585
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c1edf2a77de989fbb02d2c5467dc4ead9c29d658c72616a817ccc912bb68577.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            613,
+            304,
+            657
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f36177fe5132ffa7541ef8d0a6bf78be963d514e341b983325ac3c7a48af0d80.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            667,
+            304,
+            733
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/18da215cf4ff74bcd7762dd412993772e889f5fc7239e50812d913699b2fee2a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            745,
+            304,
+            785
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2．请说出下面光源示意图的名称、画出光源示意图并阐述它们的优点和应用场合。（16分）",
+        "bbox": [
+            16,
+            831,
+            836,
+            850
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e91099820462c5ea6b38e9a8554e09cabeef0e2856a162ba1b2271433110e98.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            20,
+            15,
+            231,
+            166
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0959880a4f545948f9985002f55c11f281f012debae121b6fb187b34a6bd59f1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            243,
+            16,
+            452,
+            166
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/eff38c8d7c4d26724098c3d949bd9afb4ff14f95384508d141575c67b363f51d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            463,
+            16,
+            670,
+            166
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 低角度光;主要用于边缘有倒角、圆角物体轮廓提取、冲压、浇筑、浮雕图案识别与检测，光滑表面划伤、裂痕检测",
+        "bbox": [
+            20,
+            227,
+            939,
+            244
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/04d109dff4fa5da4474ab85df1f90e544b1049ebb9fb612ba6b98cf056c6c3be.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            20,
+            256,
+            589,
+            651
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\cdot$ 背光:1.用于轮廓和边缘检测，2.用于透明物体内不透明物体的检测",
+        "bbox": [
+            20,
+            678,
+            563,
+            695
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e47633a3b1721b7c7496aeb34930d126bcf2811051a1dd968826bb11f8f9efb3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            20,
+            15,
+            470,
+            357
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "背光源光路图",
+        "text_level": 1,
+        "bbox": [
+            90,
+            368,
+            398,
+            405
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\cdot$ 同轴光：同轴光源能够凸显物体表面不平整，克服表面反光造成的干扰，主要用于检测物体平整光滑表面的碰伤、划伤、裂纹和异物。",
+        "bbox": [
+            18,
+            437,
+            976,
+            476
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/17abaca98e966c94072cb1e090532989d9b3bedcff58f5a795b3c60c4071660a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            26,
+            491,
+            416,
+            736
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3．在同一物距、像距下，CCD芯片的尺寸和FOV的关系是怎么样的？请用文字以及画图表示出来（20分）",
+        "bbox": [
+            16,
+            89,
+            865,
+            108
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "答：画图：",
+        "bbox": [
+            18,
+            137,
+            115,
+            156
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/37da69a34e717f0643f8d57afca66d2d9643d51793c917279133a825a4200b90.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            25,
+            175,
+            472,
+            450
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "结论：同一物距，像距下：CCD越大，FOV越大,CCD越小，FOV越小 ",
+        "bbox": [
+            16,
+            469,
+            552,
+            488
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2023.5.23 题",
+        "text_level": 1,
+        "bbox": [
+            18,
+            587,
+            221,
+            615
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "视觉工程师一级笔试",
+        "text_level": 1,
+        "bbox": [
+            359,
+            706,
+            638,
+            732
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "二、填空题。（每空 1.5 分，共 30 分）",
+        "text_level": 1,
+        "bbox": [
+            18,
+            737,
+            317,
+            756
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 光源可以做成各种形状，光源的 _安装角度 _和_ _安装方向 _直接决定图象的效果。",
+            "2. 按照传感器的结构特性来分，工业相机可分为面阵相机和线阵相机两种，两种相机在采集图像的速率上会有所区别，面阵相机一般为每秒采集的__次数____，线阵相机为每秒采集的__行数____；工业相机按照感光元件类型可分为CCD和CMOS两种，其中价格比较贵的是 _CCD _芯片，我们常用的CAM-CIC-5000R-14-G 用的是 CMOS 芯片，它的分辨率是 _2592*1944 _。"
+        ],
+        "bbox": [
+            16,
+            765,
+            971,
+            961
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3、下图是CogCaliperTool工具的应用 ，其中搜索框的空心箭头代表卡尺的 _投影方向_ ____，实心箭头代表卡尺的__搜索方向_ ___；在单个边缘模式下，CogCaliperTool的工作极性有___由明到暗、由暗到明、任意极性__。",
+        "bbox": [
+            20,
+            26,
+            963,
+            118
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2d7828e33fc1933bcd6ad8932888e7111fc4a807b5615d77d4859669b266d43.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            21,
+            127,
+            494,
+            355
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4、CogPMAlignTool图像训练的操作步骤有_获取图像、设置训练区域和原点、设置训练参数、训练图像、查看结果_ _。",
+        "bbox": [
+            20,
+            378,
+            959,
+            435
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5、解释以下参数的意义：",
+        "bbox": [
+            21,
+            453,
+            245,
+            470
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Pitch：_ _标定片的尺寸 有0.25mm、0.5mm、1mm、2mm C",
+        "bbox": [
+            20,
+            492,
+            658,
+            508
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Static pose：___ 标定时相机固定不动，机械手带着标定板移动 _。",
+        "bbox": [
+            20,
+            527,
+            684,
+            546
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Moving Camera：__ 标定时标定板固定不动，机械手带着相机移动 。",
+        "bbox": [
+            20,
+            565,
+            667,
+            583
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Passthrough： 标定时相机固定不动，机械手移动 。",
+        "bbox": [
+            20,
+            602,
+            583,
+            621
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "二，不定向选择题。（每空 2 分，共 10 分）",
+        "text_level": 1,
+        "bbox": [
+            20,
+            667,
+            354,
+            684
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1. 在工业镜头中，当物镜的焦距约小于（ C ）时，因物镜的尺寸不大，便采用C型或CS型接口。",
+        "bbox": [
+            21,
+            694,
+            897,
+            713
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A、5mm B、10mm C、25mm D、50mm",
+        "bbox": [
+            20,
+            736,
+            445,
+            751
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2、以下哪种镜头的焦距不可能小于标准焦距 50mm（ C ）",
+        "bbox": [
+            20,
+            762,
+            532,
+            780
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A、定焦镜头 B、变焦镜头 C、远距镜头 D、广角镜头",
+        "bbox": [
+            20,
+            791,
+            475,
+            806
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3、在下图白色背景中，仅需检测圈中的蓝色字符，请问使用什么光源？（ A ）",
+        "bbox": [
+            20,
+            818,
+            722,
+            835
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d0b0dd1dd1b20a4cb63b74d44116c89003f98d038818bb5a05674de02e76ba3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            21,
+            16,
+            221,
+            205
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A、红光 B、绿光 C、蓝光 D、红外光",
+        "bbox": [
+            20,
+            223,
+            400,
+            239
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4、使用Gige配置相机包含以下哪些步骤？（ ABC ）",
+        "bbox": [
+            20,
+            250,
+            448,
+            268
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A、修改相机和电脑本地 IP",
+            "B、设置巨帧包9014 ",
+            "C、勾选 ebus ",
+            "D、打开防火墙 "
+        ],
+        "bbox": [
+            20,
+            287,
+            260,
+            451
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5、以下哪些光波波长的光属于紫外光（ABCD ）",
+        "bbox": [
+            20,
+            486,
+            408,
+            502
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A、50nm B、100nm C、200nm D、300nm",
+        "bbox": [
+            20,
+            514,
+            485,
+            530
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "三、判断题。（每题 2 分，共 10 分）",
+        "text_level": 1,
+        "bbox": [
+            20,
+            550,
+            300,
+            568
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1．视觉软件 【AlignVisSystem】系统包括“在线”与“离线”两种运行模式，在“Run”弹出菜单中选择 “ 在 线 ” （ Online ） 开 启 TCP Server 服 务 ， 选 择 “ 离 线 ” （ Offline ） 则 关 闭 TCP Server 服 务（ Y ）",
+            "2 广角镜头是焦距大于标准焦距50mm的镜头 （ N ）",
+            "3． C型相机能够匹配CS型镜头，但不能够匹配CS型镜头 $+ 5 \\mathsf { m m }$ 接圈 （ N ）",
+            "4． 定光圈镜头的光圈不可以调节，通常情况下聚焦也不能调节 （ Y ）",
+            "5． LED二极管光源相比卤素灯/白炽灯/荧光灯优势有寿命长、亮度高、能耗低、价格高、适合长期照明的优缺点 （ N ）"
+        ],
+        "bbox": [
+            20,
+            576,
+            976,
+            884
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "四．简答题（共50分）",
+        "text_level": 1,
+        "bbox": [
+            20,
+            938,
+            196,
+            954
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1．请写出下列视觉专业名词的中文并解释，Pixel/ Pixel Depth/ Resolution/ Depth of Focus（DOF）/ ",
+        "bbox": [
+            18,
+            26,
+            976,
+            46
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Focus。（15 分）",
+        "bbox": [
+            18,
+            64,
+            173,
+            82
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pixel：像素/像元：感光器件上的基本感光单元，既相机识别到的图像上的最小单元",
+        "bbox": [
+            18,
+            101,
+            766,
+            118
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pixel Depth：像素深度：即每个像素数据的位数，一般常用的是8Bit，对于数字工业相机机一般还会有",
+        "bbox": [
+            20,
+            151,
+            952,
+            170
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "10Bit、12Bit 等",
+        "bbox": [
+            18,
+            193,
+            173,
+            211
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Resolution：分辨率：相机采集图像的像素点数",
+        "bbox": [
+            23,
+            243,
+            460,
+            261
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Depth of Focus（DOF）:景深-被测物体清晰成像的最上表面与最下表面之间的距离",
+        "bbox": [
+            23,
+            293,
+            776,
+            311
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Focus：焦距--透镜中心到其焦点的距离",
+        "bbox": [
+            23,
+            343,
+            381,
+            360
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2．请参考以下条码，将条码的 5 个区域与对应名词正确连线？（15 分）",
+        "bbox": [
+            18,
+            605,
+            653,
+            624
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/5656d4da7d5ee37b3bc81be5761e4454e43fc060d6575247cfcabcd847aba5ac.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            38,
+            643,
+            480,
+            760
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "(1) （a）：静区",
+            "(2) （b）：起始符",
+            "(3) （c）：静区",
+            "(4) （d）：数据符"
+        ],
+        "bbox": [
+            53,
+            796,
+            342,
+            964
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(5) （e）：终止符",
+        "bbox": [
+            53,
+            26,
+            342,
+            46
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "(b)：起始符",
+            "(3) （c）静区 ",
+            "4 （d)：数据符"
+        ],
+        "bbox": [
+            70,
+            73,
+            552,
+            209
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3ade4bb6cb271f844debde6a7011c9569da44e0ac1c4b436bf695fb1100c61a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            53,
+            247,
+            583,
+            275
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(e)：终止符",
+        "bbox": [
+            73,
+            292,
+            549,
+            313
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3．在同一物距下，CCD 芯片的尺寸不变，像距和 FOV 的关系是怎么样的？请用文字以及画图表示出来（20 分）",
+        "bbox": [
+            16,
+            348,
+            899,
+            367
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "答：",
+        "bbox": [
+            18,
+            397,
+            53,
+            414
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "画图：",
+        "bbox": [
+            18,
+            447,
+            73,
+            464
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/dafa0351c8d3ff3dc09a4855b37d97b86472e126ec575e2a3cce16b87bb86773.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            18,
+            485,
+            552,
+            834
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "结论：同一物距，CCD尺寸不变：像距越大，FOV越小；像距越小，FOV越大。",
+        "bbox": [
+            16,
+            860,
+            729,
+            879
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1．请使用 L1 Image1 图片，按照如下要求完成如下操作。（100 分）",
+        "bbox": [
+            18,
+            77,
+            636,
+            95
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "$\\textcircled{1}$ 抓取工件的边缘 Line1、Line2。（25 分）",
+            "$\\textcircled{2}$ 通过模板匹配抓取中心 O 点。（25 分）",
+            "$\\textcircled{3}$ 抓取 Line1 与 Line2 的交点 P。（25 分）",
+            "$\\textcircled{4}$ 计算 O 点到 Line1 的距离。（25 分）"
+        ],
+        "bbox": [
+            20,
+            127,
+            401,
+            256
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "（作业保存为 Quickbuild 格式，命名方式为：姓名 $^ +$ 身份证号。每人作业只收集一份 Quickbuild。）",
+        "bbox": [
+            30,
+            26,
+            904,
+            45
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/0999186dbef1e06b670996f72c29809ac76566ece275bb1026e3d77c92aaa372.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            114,
+            68,
+            512,
+            375
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/8073fc65b0ac62d0f161f6dda6cca234fa7701d0697a4bb87969e15a2e684497.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            73,
+            680,
+            445
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2021 ",
+        "bbox": [
+            20,
+            649,
+            100,
+            671
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "视觉基础试题",
+        "text_level": 1,
+        "bbox": [
+            405,
+            806,
+            591,
+            829
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "一、填空题。（每空1分，共20分）",
+        "text_level": 1,
+        "bbox": [
+            18,
+            837,
+            302,
+            853
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1、在工业相机的使用中，选择远心镜头的优势主要是__超高分辨率_、__超宽景深__、_低畸变_ _。",
+            "2、光是一种电磁波，可见光的范围是 __380nm_到___700nm_。",
+            "3、改变图像采集明暗度的方式有__调节光圈_ _调节曝光___、_换高亮度光源__、__换大像元相机__。",
+            "4、名词解释 ",
+            "5、帧率_相机一秒可以采集多少图像，通常表示相机采集单张图片的速度。",
+            "6、 曝光时间__感光芯片的感光时间_。"
+        ],
+        "bbox": [
+            18,
+            857,
+            830,
+            978
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "7、像素深度 每个像素数据的位数，通常8bit。",
+            "8、PPM 值 单个模块上的像素数。",
+            "9、在 Patmax 中建模板的三大要素是：_特征唯一_、 _对比度明显__、_形状轮廓明显 _。",
+            "10、请列举 Caliper Tool 的工作极性方法是_ _由明到暗__、_由暗到明__、 _任何极性 。",
+            "11、在PMAlignTool中颗粒度决定了____用多少边缘点来表示图像中的特征。"
+        ],
+        "bbox": [
+            18,
+            19,
+            724,
+            118
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "二、不定项选择题（每空 2 分，共 10 分）",
+        "text_level": 1,
+        "bbox": [
+            18,
+            124,
+            337,
+            141
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1. 以下选项中会影响景深的因素是( ABD )",
+        "bbox": [
+            20,
+            143,
+            371,
+            160
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A 镜头焦距和像元尺寸 ",
+        "bbox": [
+            18,
+            177,
+            201,
+            193
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "B 光圈值大小",
+        "bbox": [
+            255,
+            177,
+            368,
+            193
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "C 视野明暗度",
+        "bbox": [
+            18,
+            210,
+            132,
+            225
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "D 接圈和扩倍器",
+        "bbox": [
+            216,
+            210,
+            347,
+            225
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2. 以下什么不是 DataMatrix 代码的特性（ BC ）",
+        "bbox": [
+            18,
+            243,
+            418,
+            259
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A、静区（Quiet Zone）",
+        "bbox": [
+            18,
+            277,
+            203,
+            293
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "B、启始符/终止符 ",
+        "bbox": [
+            272,
+            277,
+            415,
+            292
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "C、校验符 ",
+        "bbox": [
+            18,
+            309,
+            105,
+            325
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "D、计时特征（Timing Pattern）",
+        "bbox": [
+            210,
+            310,
+            460,
+            326
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3. 在 Cognex 相机的参数上，相机标签 CAM-CIC-5000R-14-G,其中 R 代表的是什么意思？（ C ）",
+        "bbox": [
+            18,
+            351,
+            781,
+            369
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A、带返回值参数的相机",
+        "bbox": [
+            18,
+            382,
+            213,
+            398
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "B、高转速相机",
+        "bbox": [
+            260,
+            382,
+            381,
+            398
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "C、卷帘快门相机",
+        "bbox": [
+            18,
+            414,
+            159,
+            430
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "D、全局快门相机",
+        "bbox": [
+            231,
+            414,
+            369,
+            430
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4. 具有较强对比度的标签和标记的最佳光源选择是（ B ）",
+        "bbox": [
+            18,
+            457,
+            484,
+            473
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A、漫射暗场照明",
+        "bbox": [
+            18,
+            487,
+            159,
+            502
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "B、漫射亮场照明",
+        "bbox": [
+            188,
+            488,
+            324,
+            502
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "C、红外光源",
+        "bbox": [
+            18,
+            520,
+            122,
+            536
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "D、背景光源",
+        "bbox": [
+            168,
+            521,
+            270,
+            536
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5. 一幅高质量的图像需包含以下哪些因素（ ACE ）",
+        "bbox": [
+            18,
+            562,
+            430,
+            577
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A、大信噪比",
+        "bbox": [
+            18,
+            593,
+            122,
+            608
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "B、大光圈 C、高对比度",
+        "bbox": [
+            132,
+            593,
+            324,
+            609
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "D、高曝光",
+        "bbox": [
+            339,
+            594,
+            423,
+            608
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "E、低噪音",
+        "bbox": [
+            433,
+            594,
+            515,
+            608
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "三、判断题。（每题 2 分，共 14 分）",
+        "text_level": 1,
+        "bbox": [
+            18,
+            626,
+            300,
+            642
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1、CS型镜头加5mm接圈匹配C型相机 （ N ）",
+        "bbox": [
+            20,
+            644,
+            495,
+            659
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2、景深是指在焦距固定，图像清晰时，被测物体离相机的前后变化距离，它受镜头上光圈的影响，光圈大景深大。（ N ）",
+        "bbox": [
+            18,
+            675,
+            964,
+            721
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3、一般短焦距镜头的畸变比长焦距镜头畸变更大。 （ Y ）",
+        "bbox": [
+            18,
+            734,
+            537,
+            752
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4、颗粒度的基本单位是Pixel。 （ Y ）",
+        "bbox": [
+            18,
+            776,
+            462,
+            791
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5、 学习过后的码在界面显示 train code （ N ）",
+        "bbox": [
+            18,
+            816,
+            515,
+            832
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6、液态镜头读码器无需手动调节镜头实现高速变焦 （ Y ）",
+        "bbox": [
+            18,
+            847,
+            541,
+            863
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "7、2机台软件连接条码枪时，软件中 IP地址与应条码枪设置参数中的 IP地址完全一致，条码枪与电脑连接时，IP地址应在同一网段 （ Y ）",
+        "bbox": [
+            18,
+            868,
+            974,
+            904
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "四．简答题（四题，共 41 分）",
+        "text_level": 1,
+        "bbox": [
+            18,
+            910,
+            250,
+            926
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "光圈值越大，光圈越小，要求：画出如上图的相关对照，并明确标注大光圈，小光圈",
+        "bbox": [
+            18,
+            936,
+            769,
+            954
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2.写出卡尺工具中箭头表示意思（16 分）",
+        "text_level": 1,
+        "bbox": [
+            18,
+            111,
+            334,
+            128
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffa10a6c926ab368db4915ecee28cb6200066064f6f4d40eb23cf47d25d5a1a8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            121,
+            155,
+            660,
+            355
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/16aa74bd7693a8b2be74615a960b2f89de951121785d354fd0e623a9c3144189.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            141,
+            395,
+            747,
+            615
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            26,
+            621,
+            40,
+            636
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3. 对如下物品进行外观轮廓检查，推荐一套最佳的打光方案，并画出基本的光路原理图。（15分）",
+        "bbox": [
+            18,
+            688,
+            786,
+            706
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/0234b30f90eb0dcf488faeacff2b6b7b70b437bfc508e6417b7dded353ab62db.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            20,
+            715,
+            231,
+            829
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "背光源 10 分",
+        "bbox": [
+            275,
+            728,
+            386,
+            744
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "低角度光源 5分",
+        "bbox": [
+            275,
+            746,
+            408,
+            762
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "带偏振低角度光 6分",
+        "bbox": [
+            275,
+            764,
+            443,
+            780
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Dome 光 0 分",
+        "bbox": [
+            275,
+            783,
+            389,
+            797
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "同轴光 0分",
+        "bbox": [
+            275,
+            801,
+            381,
+            816
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "用背光源：",
+        "bbox": [
+            18,
+            839,
+            112,
+            857
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            20,
+            15,
+            611,
+            101
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/09871d1edc5f83ecdac5905ebd3927a5d54f6e85b3681ade21334fa47f6272c3.jpg",
+        "image_caption": [
+            "背光源 光路图"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            23,
+            15,
+            294,
+            199
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "优点：1.用于轮廓和边缘检测，2.用于透明物体内不透明物体的检测",
+        "bbox": [
+            16,
+            286,
+            623,
+            305
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "五、计算题（15 分）",
+        "text_level": 1,
+        "bbox": [
+            18,
+            426,
+            178,
+            443
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "一.500w 相机，FOV 为 $2 4 ^ { \\star } 1 8 \\mathsf { m m }$ ，二维码为 $6 ^ { \\star } 6 \\mathsf { m m }$ ，16*16Code 码密度？PPM？",
+        "bbox": [
+            16,
+            455,
+            677,
+            470
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "（以下的计算步骤大致理解就行，正常这种关于码密度和PPM的计算题在L3才会考，L1的等级考核大纲里是没有这个内容的）",
+        "bbox": [
+            16,
+            485,
+            976,
+            523
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "码密度：表示二维码里单个模块的尺寸，单位密尔mil。",
+        "bbox": [
+            16,
+            536,
+            510,
+            555
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n6 / 1 6 * \\frac {1 0 0 0}{2 5} = 1 5 \\quad (\\mathrm {m i l} / \\mathrm {m o d u l e})\n$$",
+        "text_format": "latex",
+        "bbox": [
+            16,
+            607,
+            310,
+            640
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6/16=0.375mm，每个模块的尺寸，此时单位是 mm，应该换算为 mil 才是码密度。",
+        "bbox": [
+            16,
+            656,
+            757,
+            674
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 \\mathrm {m i l} = 0. 0 2 5 4 \\mathrm {m m},\n$$",
+        "text_format": "latex",
+        "bbox": [
+            18,
+            697,
+            184,
+            714
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6/16*0.0254=====或者是 6/16*1000= $6 / 1 6 ^ { \\star } \\frac { 1 0 0 0 } { 2 5 . 4 }$ (mil/module) ",
+        "bbox": [
+            16,
+            728,
+            576,
+            760
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "PPM：表示二维码里单个模块里有多少个像素。",
+        "text_level": 1,
+        "bbox": [
+            16,
+            816,
+            438,
+            834
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6/16=0.375mm，每个模块的尺寸。",
+        "bbox": [
+            16,
+            857,
+            336,
+            873
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "分辨率为 2592*1944.视野为 24*18mm",
+        "bbox": [
+            18,
+            897,
+            376,
+            914
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2592/24=每毫米对应的像素数，再 $^ { \\star } 0 . 3 7 5$ 就是0.375mm内(即一个模块)对应了多少个像素数。",
+        "bbox": [
+            16,
+            936,
+            858,
+            954
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2021.9.19 部分考试题",
+        "text_level": 1,
+        "bbox": [
+            18,
+            131,
+            369,
+            161
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "1.LED 灯的优势",
+        "bbox": [
+            20,
+            256,
+            161,
+            273
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "光电转化率高、绿色环保、寿命长、工作电压低、体积小、",
+        "bbox": [
+            16,
+            306,
+            536,
+            322
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "发热少、亮度高、光束集中稳定、色彩多样、易于调光、启动无延时",
+        "bbox": [
+            18,
+            355,
+            630,
+            372
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2.光源的作用",
+        "bbox": [
+            18,
+            405,
+            142,
+            422
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "凸显出缺陷和背景的差异，提高图像对比度",
+        "bbox": [
+            18,
+            454,
+            448,
+            470
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "形成最有利于图像处理的成像效果",
+        "bbox": [
+            18,
+            504,
+            366,
+            521
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "照明目标，提高目标亮度，克服环境光干扰，保证图像的稳定性",
+        "bbox": [
+            18,
+            552,
+            630,
+            570
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3.CCD 和 CMOS 的优劣势",
+        "bbox": [
+            18,
+            604,
+            250,
+            620
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "两种芯片都是利用感光二极管进行光电转换",
+        "bbox": [
+            18,
+            653,
+            406,
+            670
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "CCD优势：感光度高、图像锐利度高、分辨率高、噪声低 ",
+        "bbox": [
+            18,
+            703,
+            532,
+            720
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "CMOS优势：价格便宜、功耗低、片上集成化、速度快",
+        "bbox": [
+            18,
+            752,
+            510,
+            769
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4. PMAlign工具几个图标的意思 ",
+        "bbox": [
+            18,
+            802,
+            314,
+            820
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "header",
+        "text": "2592/24*6/16=40.5pixel。2592/24*6/16（pixel/module）",
+        "bbox": [
+            18,
+            27,
+            552,
+            45
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bc3619e96df41f9234ca99aa32a1d35d1aab06d924d7996c6fdd9e8e423af99.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            20,
+            15,
+            430,
+            253
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.点击运行：运行PMAlign工具。",
+            "2.电子模式：切换电动模式。选中后，如果某些参数已更改，则 PMAlign 工具将自动运行。",
+            "3.本地显示：打开本地工具显示窗口，该窗口可以显示 Current.InputImage，Current.TrainImage 或 LastRun.InputImage 缓冲区。",
+            "4.复位：将基础工具重置为默认状态。",
+            "5.掩膜编辑器：打开图像掩膜编辑器以创建要添加到训练图像的模板。",
+            "5.低角度光和高角度光的作用"
+        ],
+        "bbox": [
+            18,
+            260,
+            976,
+            395
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "高角度光：主要用于表面粗糙程度不同区域的区分、边缘或内部有垂直断差或者比较陡峭（超过60度）边",
+        "bbox": [
+            16,
+            429,
+            966,
+            448
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "缘检测或测量",
+        "bbox": [
+            18,
+            472,
+            146,
+            489
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "低角度光：主要用于边缘有倒角、圆角物体轮廓提取、冲压、浇筑、浮雕图案识别与检测，光滑表面划伤、裂痕检测",
+        "bbox": [
+            16,
+            521,
+            959,
+            581
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fb715b1cd2a61bd79d1afffede795007035c29d9b517ee4343970528108682c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            20,
+            602,
+            415,
+            740
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "6.相机配置步骤 ",
+        "text_level": 1,
+        "bbox": [
+            18,
+            774,
+            164,
+            791
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "网线连接好相机和板卡的网口",
+        "bbox": [
+            28,
+            824,
+            295,
+            841
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "打开GIGE软件，关闭防火墙 勾选eBus 更改巨帧数据包为9014",
+        "bbox": [
+            28,
+            873,
+            608,
+            890
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "将相机IP和电脑端的IP地址改为前三段一致，第四段不一致，获取子网掩码",
+        "bbox": [
+            28,
+            922,
+            717,
+            940
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "打开visionpro初始化相机确认相机是否配置成功能够取像",
+        "bbox": [
+            30,
+            26,
+            559,
+            47
+        ],
+        "page_idx": 22
+    }
+]

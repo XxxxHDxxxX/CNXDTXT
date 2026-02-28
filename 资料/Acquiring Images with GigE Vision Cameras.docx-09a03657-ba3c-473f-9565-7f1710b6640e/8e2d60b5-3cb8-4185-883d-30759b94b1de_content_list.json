@@ -1,0 +1,599 @@
+[
+    {
+        "type": "text",
+        "text": "Acquiring Images with GigE Vision Cameras ",
+        "bbox": [
+            144,
+            93,
+            460,
+            108
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本主题包含以下部分：",
+        "bbox": [
+            144,
+            112,
+            317,
+            126
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "Acquirinq Imaqes with a CCD Camera and Frame Grabber ",
+            ". Acquiring Images with a CDC Camera and Frame Grabber ",
+            "Acquiring Imaqes with a Line Scan Camera ",
+            "Acquirinq Imaqes with GiqE Vision Cameras "
+        ],
+        "bbox": [
+            157,
+            130,
+            606,
+            212
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本节提供有关在 VisionPro 和 Visual Studio 应用程序中使用 GigE 视觉摄像机的信息。GigE相机不使用帧抓取器，而是连接到一个千兆以太网网络适配器连接到您的计算机。有关配置QuickBuild应用程序以使用GigE Vision摄像机的信息，请参阅配置图像源。要使用 GigE Vision camera，必须在安装在计算机上的 Cognex 帧捕捉器、与之连接的Cognex 加密狗或通过 Cognex 软件许可证启用 VxSWAcquisition 安全位。",
+        "bbox": [
+            144,
+            223,
+            855,
+            313
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "注意:请务必阅读 VisionPro 工具包附带的 GigE Vision Cameras 用户指南，学习如何创建相机网络，如何将相机连接到网络，以及如何为相机分配IP地址。",
+        "bbox": [
+            144,
+            334,
+            850,
+            368
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GigE Vision Acquisition Overview（GigE 视觉取像概述） ",
+        "text_level": 1,
+        "bbox": [
+            144,
+            390,
+            623,
+            406
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "要从GigE相机获取图像，您使用的技术与使用cognex提供的帧抓取器获取图像的技术完全相同。唯一的区别是，ICogFrameGrabber接口是一个物理的GigE相机，而不是一个帧抓取器。以下部分列出了获取图像的步骤。",
+        "bbox": [
+            179,
+            426,
+            850,
+            481
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Get a CogFrameGrabberGigEs Object ",
+        "text_level": 1,
+        "bbox": [
+            144,
+            502,
+            487,
+            517
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "第一步是获得一个 CogFrameGrabberGigEs 对象。",
+        "bbox": [
+            179,
+            538,
+            574,
+            554
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "这个对象是单个帧抓取对象的集合，每个对象都通过 ICogFrameGrabber 接口访问。",
+        "bbox": [
+            179,
+            556,
+            830,
+            571
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "每个 ICogFrameGrabber 表示与计算机系统相连的 GigE 相机。",
+        "bbox": [
+            179,
+            574,
+            663,
+            590
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CogFrameGrabberGigEs cameras $\\cdot$ new CogFrameGrabberGigEs(); ",
+        "bbox": [
+            179,
+            594,
+            657,
+            608
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "四、Enumerate the Connected Cameras（枚举连接的相机）",
+        "text_level": 1,
+        "bbox": [
+            144,
+            631,
+            589,
+            646
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "创建了CogFrameGrabberGigEs对象之后，就可以枚举它的内容，为每个连接的摄像机获取一个 ICogFrameGrabber 接口。",
+        "bbox": [
+            179,
+            668,
+            848,
+            702
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Count属性返回连接到您的系统的GigE相机的数量。",
+        "bbox": [
+            179,
+            705,
+            591,
+            721
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "你可以使用Item属性(或者c#中的索引器)来获得一个单独的相机。",
+        "bbox": [
+            179,
+            722,
+            692,
+            739
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如果相机还没有连接好计算机，他们将不被包括在计数中，并且你将无法得到他们的参考。在启动应用程序之前，请确保您的相机已经完全通电、连接到网络并配置好。",
+        "bbox": [
+            179,
+            741,
+            847,
+            776
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ICogFrameGrabber接口的Name属性将返回相机的制造商名称和型号。",
+        "bbox": [
+            179,
+            778,
+            739,
+            794
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CogFrameGrabberGigEs cameras $\\cdot$ new CogFrameGrabberGigEs(); ",
+        "bbox": [
+            179,
+            816,
+            657,
+            831
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ICogFrameGrabber camera $\\cdot$ cameras[0]; ",
+        "bbox": [
+            179,
+            834,
+            480,
+            848
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "System.Diagnostics.Debug.WriteLine(camera.Name); ",
+        "bbox": [
+            179,
+            853,
+            561,
+            868
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "五、 Select a Supported Video Format and Create a CogAcqFifo",
+        "text_level": 1,
+        "bbox": [
+            147,
+            93,
+            635,
+            109
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一 旦 获 得 了 ICogFrameGrabber 接 口 ， 就 可 以 使 用 支 持 的 视 频 格 式 调 用 其CreateAcqFifo 函数来获得 ICogAcqFifo。",
+        "bbox": [
+            179,
+            130,
+            847,
+            164
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "个版本的 VisionPro 支持在 VisionPro 的摄像机支持主题中列出的 GigE Vision 视频格式。",
+        "bbox": [
+            179,
+            167,
+            847,
+            200
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "const stringVIDEO_FORMAT $=$ \"Generic GigEVision (Bayer Color)\";   \nICogAcqFifofifo $=$ camera.CreateAcqFifo(   \nVIDEO_FORMAT,   \nCogAcqFifoPixelFormatConstants.Format8Grey,   \n0, true); ",
+        "bbox": [
+            215,
+            204,
+            707,
+            293
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通用的GigE vision视频格式不指定图像大小。为了确定获得的图像的实际大小，在创建了采集FIFO之后立即得到感兴趣的区域，如下图所示:",
+        "bbox": [
+            179,
+            297,
+            847,
+            331
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_body": "ICogAcqROI ROIParams;   \nint x, y, width, height   \nROIParams $=$ myAcqFifo.OwnedROIParameters;   \nif (ROIParams != null)   \nOIParams.GetROIXyWidthHeight(x, y, width, height); ",
+        "bbox": [
+            216,
+            335,
+            601,
+            442
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "六、 Use the CogAcqFifo to Acquire Images ",
+        "text_level": 1,
+        "bbox": [
+            144,
+            464,
+            494,
+            480
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一旦创建了 ICogAcqFifo，就可以使用标准方法获取图像。",
+        "bbox": [
+            179,
+            501,
+            628,
+            516
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "七、 GigE Vision Camera Feature Support ",
+        "text_level": 1,
+        "bbox": [
+            146,
+            539,
+            480,
+            554
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "许多常用的GigE vision相机功能都是通过VisionPro图像采集属性直接支持的。",
+        "bbox": [
+            179,
+            575,
+            794,
+            590
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于VisionPro不直接支持的特性，可以使用 ICogGigEAccess接口来获取和设置特性。",
+        "bbox": [
+            179,
+            593,
+            847,
+            627
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "阅 $\\%$ VPRO_ROOT%\\Samples\\Programming\\Acquisition\\GigEVisionProperties 中 的示例代码，了解如何做到这一点。",
+        "bbox": [
+            179,
+            631,
+            847,
+            665
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注意:如果在 VisionPro 脚本中使用特性设置和获取方法，则必须将调用封装在 try/catch块中。如果您不使用try/catch块，您的脚本可能会导致您的作业超时。",
+        "bbox": [
+            179,
+            686,
+            848,
+            721
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a52c896eee6bbaf6c47f9015b292cc5f644c01639c7638b87ca98c1e2f087e39.jpg",
+        "table_caption": [
+            "Table 1. GenICam features supported by VisionPro "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>GenICam Feature</td><td>VisionPro Property</td><td>Comments</td></tr><tr><td>AcquisitionMode</td><td></td><td>Controlled by the combination of TriggerModel</td></tr><tr><td>AcquisitionStart</td><td></td><td>TriggerEnabled and StartAcquire</td></tr><tr><td>AcquisitionStop</td><td></td><td></td></tr><tr><td>PixelFormat</td><td></td><td>Based on video format used</td></tr><tr><td>TriggerMode</td><td>ICogAcqTrigger</td><td>Based on current TriggerModel</td></tr><tr><td>ExposureTime</td><td>ICogAcqExposure</td><td></td></tr><tr><td>BlackLevel</td><td>ICogAcqBrightness</td><td></td></tr><tr><td>Gain</td><td>ICogAcqContrast</td><td></td></tr><tr><td>OffsetX</td><td>ICogAcqROI</td><td></td></tr><tr><td>OffsetY</td><td></td><td></td></tr><tr><td>Width</td><td>ICogAcqROI</td><td></td></tr><tr><td>Height</td><td></td><td></td></tr></table>",
+        "bbox": [
+            184,
+            107,
+            878,
+            268
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "要了解如何使用时间戳来检测 GigE视觉摄像机错过的图像或错过的触发器，请参阅使用GigE视觉摄像机的时间戳。",
+        "bbox": [
+            179,
+            278,
+            848,
+            313
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "八、 Debugging GigE Vision Applications ",
+        "text_level": 1,
+        "bbox": [
+            144,
+            335,
+            473,
+            351
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GigE相机要求应用程序定期向相机发送一个网络数据包，称为心跳，以表明应用程序正在与相机通信。如果相机在超时时间结束前没有收到心跳脉冲，它将关闭与应用程序的连接。",
+        "bbox": [
+            179,
+            370,
+            848,
+            423
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "默认心跳超时时间为3秒。",
+        "bbox": [
+            181,
+            426,
+            386,
+            442
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在调试GigE Vision应用程序时，您将希望增加心跳超时时间间隔，以便在您处于断点时相机不会脱机。您可以添加以下代码到您的程序:",
+        "bbox": [
+            179,
+            463,
+            848,
+            499
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "ifdef DEBUG//defined for MS Visual Studio debug builds //Set timeout to 1 minute (unit is mSec) camera.gigECameraAcess.SetIntegerFeature(\"GevHeartbeatTimeout\",60\\*1000); #endif ",
+        "guess_lang": "java",
+        "bbox": [
+            179,
+            519,
+            806,
+            589
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "九、 Saving and Restoring Camera State（保存和重置相机状态）",
+        "text_level": 1,
+        "bbox": [
+            144,
+            612,
+            653,
+            627
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过使用相机的UserSetSave命令，您可以将您更改的任何功能的状态保存到相机的内存中:",
+        "bbox": [
+            179,
+            649,
+            847,
+            682
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "camera.SetFeature(\"UserSetDefaultSelector\", \"UserSet1\");  \ncamera.SetFeature(\"UserSetSelector\", \"UserSet1\");  \ncamera.ExecuteCommand(\"UserSetSave\"); ",
+        "guess_lang": "javascript",
+        "bbox": [
+            215,
+            686,
+            650,
+            739
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "十、 Working with Bayer Images ",
+        "text_level": 1,
+        "bbox": [
+            144,
+            760,
+            416,
+            777
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "转换拜耳格式图像的 VisionPro例程要求图像的像素和行数为偶数，左上角的像素是拜耳模式的开始。VisionPro GigE视觉采集软件调整感兴趣区域(ROI)，以确保满足这些条件。图像的实际ROI可能比您要求的更窄或更短两个像素。",
+        "bbox": [
+            179,
+            797,
+            848,
+            851
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1924d50bd135bdfdcfdbbcb119d9968b188c115295baf2dbf417b36f67852475.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Left edge of ROl adjusted to get corred upper-eft pixel. ",
+            "Riglt edge of ROl acjustedto get even number ofpixels "
+        ],
+        "bbox": [
+            196,
+            93,
+            489,
+            287
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "十一、Managing GigE Vision Bandwidth Use ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            334,
+            472,
+            350
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果你在同一个网络适配器上使用多个摄像头，摄像头的数据速率可能会超过GigE网络的带宽。",
+        "bbox": [
+            179,
+            370,
+            850,
+            405
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在这种情况下，为了管理带宽，你可以调整相机的帧率。示例程序%VPRO_ROOT%\\Samples\\Programming\\Acquisition\\GigEVisionProperties 展示了这种技术的一个示例。在 %VPRO_ROOT%\\Samples\\QuickBuild\\",
+        "bbox": [
+            179,
+            407,
+            850,
+            461
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Script_GigEBaslerscout_Bandwidth_job.vpp 中可以找到这种技术作为 QuickBuild 作业脚本的示例。",
+        "bbox": [
+            179,
+            463,
+            850,
+            498
+        ],
+        "page_idx": 3
+    }
+]

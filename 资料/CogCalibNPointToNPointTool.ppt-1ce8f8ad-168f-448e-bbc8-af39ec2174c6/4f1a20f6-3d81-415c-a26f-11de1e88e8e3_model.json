@@ -1,0 +1,1912 @@
+[
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.0,
+                0.0,
+                1.0,
+                0.628
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.138,
+                0.637,
+                0.833,
+                0.716
+            ],
+            "angle": 0,
+            "content": "CogCalibNPointToNPointTool"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.037,
+                0.793,
+                0.166,
+                0.827
+            ],
+            "angle": 0,
+            "content": "2019/12/19"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.731,
+                0.788,
+                0.87,
+                0.826
+            ],
+            "angle": 0,
+            "content": "Zhang Juan"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "学习目标"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.063,
+                0.175,
+                0.317,
+                0.214
+            ],
+            "angle": 0,
+            "content": "学员将学会正确地："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.163,
+                0.224,
+                0.555,
+                0.258
+            ],
+            "angle": 0,
+            "content": "使用 CalibNPoint 工具创建并配置校准惯例"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.958,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.123
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.487,
+                0.117
+            ],
+            "angle": 0,
+            "content": "CogCalibNPointToNPoint工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.174,
+                0.934,
+                0.26
+            ],
+            "angle": 0,
+            "content": "CogCalibNPointToNPoint 工具计算将图像坐标映射到“真实情况”坐标的二维转换"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.061,
+                0.356,
+                0.573,
+                0.44
+            ],
+            "angle": 0,
+            "content": "- 它还将计算的坐标空间附加到坐标空间树上，在后面我们会讨论空间树"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.061,
+                0.174,
+                0.934,
+                0.44
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "校准"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.174,
+                0.898,
+                0.214
+            ],
+            "angle": 0,
+            "content": "校准您的视觉系统创建一个固定的坐标系统，表示真实情况的测量和位置"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.064,
+                0.393,
+                0.781,
+                0.916
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.973
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "校准图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.598,
+                0.212
+            ],
+            "angle": 0,
+            "content": "通常，校准在待检查的元件以外的元件上进行"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.064,
+                0.243,
+                0.283,
+                0.28
+            ],
+            "angle": 0,
+            "content": "一些校准板标准："
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.063,
+                0.174,
+                0.598,
+                0.28
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.292,
+                0.306,
+                0.325
+            ],
+            "angle": 0,
+            "content": "在已知位置上包含特征"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.138,
+                0.337,
+                0.612,
+                0.376
+            ],
+            "angle": 0,
+            "content": "- 所需的特征数量取决于计算的自由度数量"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.175,
+                0.381,
+                0.775,
+                0.419
+            ],
+            "angle": 0,
+            "content": "- 即平移、旋转、比例、纵横和倾斜要求三个已知位置"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.138,
+                0.337,
+                0.775,
+                0.419
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.429,
+                0.711,
+                0.464
+            ],
+            "angle": 0,
+            "content": "当在检查的元件上运行时在同样的光学设置上占据视场大约 \\(50 - 70\\%\\)"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.042,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.273,
+                0.11
+            ],
+            "angle": 0,
+            "content": "采集校准图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.431,
+                0.272
+            ],
+            "angle": 0,
+            "content": "采集您想要校准的元件的图像"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.371,
+                0.569,
+                0.452
+            ],
+            "angle": 0,
+            "content": "在本例中，我们将使用一个 \\(100 \\mathrm{~mm}\\) 的校准方形"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.233,
+                0.569,
+                0.452
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.465,
+                0.314,
+                0.497
+            ],
+            "angle": 0,
+            "content": "使用其角作为已知位置"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.671,
+                0.298,
+                0.844,
+                0.527
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.212,
+                0.11
+            ],
+            "angle": 0,
+            "content": "确定位置"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.233,
+                0.481,
+                0.316
+            ],
+            "angle": 0,
+            "content": "- 有很多种方法我们可以确定校准方形各角的位置"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.541,
+                0.253,
+                0.938,
+                0.737
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.044,
+                0.97
+            ],
+            "angle": 0,
+            "content": "7"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.057,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.041,
+                0.073,
+                0.118
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.273,
+                0.112
+            ],
+            "angle": 0,
+            "content": "创建校准工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.584,
+                0.214
+            ],
+            "angle": 0,
+            "content": "在工作中添加一个 CalibNPointToNPoint 工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.311,
+                0.93,
+                0.4
+            ],
+            "angle": 0,
+            "content": "连接像源的输出图像（OutputImage）终端到校准工具的输入图像（InputImage）"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.063,
+                0.174,
+                0.93,
+                0.4
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.959,
+                0.042,
+                0.97
+            ],
+            "angle": 0,
+            "content": "8"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.168,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.979,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "输入坐标"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.437,
+                0.318
+            ],
+            "angle": 0,
+            "content": "连接各角的 X、Y 坐标到校准工具的各个未校准点"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.526,
+                0.153,
+                0.96,
+                0.909
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.035,
+                0.959,
+                0.044,
+                0.971
+            ],
+            "angle": 0,
+            "content": "9"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.275,
+                0.113
+            ],
+            "angle": 0,
+            "content": "抓取校准图像"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.063,
+                0.175,
+                0.525,
+                0.214
+            ],
+            "angle": 0,
+            "content": "打开校准控件并按下抓取校准图像按钮"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.091,
+                0.224,
+                0.901,
+                0.262
+            ],
+            "angle": 0,
+            "content": "这会将当前输入图像(Current.InputImage)传递给当前校准图像(Current.CalibrationImage)"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.05,
+                0.453,
+                0.62,
+                0.907
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.626,
+                0.453,
+                0.952,
+                0.903
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "10"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.054,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.112
+            ],
+            "angle": 0,
+            "content": "输入坐标"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.174,
+                0.548,
+                0.214
+            ],
+            "angle": 0,
+            "content": "注意三个角的坐标已经被传递给校准工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.064,
+                0.243,
+                0.349,
+                0.282
+            ],
+            "angle": 0,
+            "content": "输入每个点的真实坐标"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.063,
+                0.174,
+                0.548,
+                0.282
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.126,
+                0.478,
+                0.21,
+                0.513
+            ],
+            "angle": 0,
+            "content": "Calibrate"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.234,
+                0.481,
+                0.29,
+                0.517
+            ],
+            "angle": 0,
+            "content": "Origin"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.309,
+                0.481,
+                0.386,
+                0.517
+            ],
+            "angle": 0,
+            "content": "Settings"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.411,
+                0.481,
+                0.495,
+                0.517
+            ],
+            "angle": 0,
+            "content": "Graphics"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.52,
+                0.481,
+                0.682,
+                0.516
+            ],
+            "angle": 0,
+            "content": "Calibration Result"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.13,
+                0.536,
+                0.235,
+                0.568
+            ],
+            "angle": 0,
+            "content": "Point Pairs:"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.137,
+                0.582,
+                0.169,
+                0.62
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.182,
+                0.582,
+                0.212,
+                0.619
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.131,
+                0.631,
+                0.514,
+                0.802
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>N</td><td>Uncalibrated X</td><td>Uncalibrated Y</td></tr><tr><td>0</td><td>134.894</td><td>60.7819</td></tr><tr><td>1</td><td>516.805</td><td>63.4156</td></tr><tr><td>2</td><td>131.96</td><td>437.775</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.52,
+                0.631,
+                0.874,
+                0.802
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Raw Calibrated X</td><td>Raw Calibrated Y</td></tr><tr><td>0</td><td>0</td></tr><tr><td>100</td><td>0</td></tr><tr><td>0</td><td>100</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "11"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.169,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.088,
+                0.064,
+                0.181,
+                0.113
+            ],
+            "angle": 0,
+            "content": "自由度"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.415,
+                0.364
+            ],
+            "angle": 0,
+            "content": "下一步，选择自由度，以便在计算未校准和校准点之间的最匹配转换时使用"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.432,
+                0.186,
+                0.85,
+                0.721
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "12"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.085,
+                0.066,
+                0.148,
+                0.11
+            ],
+            "angle": 0,
+            "content": "原点"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.759,
+                0.274
+            ],
+            "angle": 0,
+            "content": "可选项，表示其他原点平移、旋转或者坐标轴的利手性转换"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.126,
+                0.555,
+                0.197,
+                0.585
+            ],
+            "angle": 0,
+            "content": "Calibrate"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.215,
+                0.553,
+                0.262,
+                0.585
+            ],
+            "angle": 0,
+            "content": "Origin"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.276,
+                0.555,
+                0.339,
+                0.586
+            ],
+            "angle": 0,
+            "content": "Settings"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.358,
+                0.555,
+                0.428,
+                0.586
+            ],
+            "angle": 0,
+            "content": "Graphics"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.447,
+                0.555,
+                0.581,
+                0.586
+            ],
+            "angle": 0,
+            "content": "Calibration Result"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.633,
+                0.274,
+                0.663
+            ],
+            "angle": 0,
+            "content": "Calibration Origin"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.666,
+                0.22,
+                0.695
+            ],
+            "angle": 0,
+            "content": "Origin X"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.159,
+                0.695,
+                0.312,
+                0.737
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.325,
+                0.665,
+                0.387,
+                0.695
+            ],
+            "angle": 0,
+            "content": "Origin Y"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.326,
+                0.695,
+                0.481,
+                0.737
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.159,
+                0.747,
+                0.279,
+                0.773
+            ],
+            "angle": 0,
+            "content": "X Axis Rotation"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.159,
+                0.773,
+                0.363,
+                0.817
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.159,
+                0.828,
+                0.182,
+                0.86
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.184,
+                0.832,
+                0.327,
+                0.86
+            ],
+            "angle": 0,
+            "content": "Swap handedness"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.517,
+                0.666,
+                0.616,
+                0.696
+            ],
+            "angle": 0,
+            "content": "Origin Space"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.523,
+                0.701,
+                0.694,
+                0.732
+            ],
+            "angle": 0,
+            "content": "Raw Calibrated Space"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.516,
+                0.749,
+                0.687,
+                0.778
+            ],
+            "angle": 0,
+            "content": "X Axis Rotation Space"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.523,
+                0.784,
+                0.694,
+                0.815
+            ],
+            "angle": 0,
+            "content": "Raw Calibrated Space"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.814,
+                0.703,
+                0.834,
+                0.733
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.811,
+                0.784,
+                0.832,
+                0.815
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "13"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "图形"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.436,
+                0.316
+            ],
+            "angle": 0,
+            "content": "也是可选项，表示图形显示校准"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.451,
+                0.186,
+                0.954,
+                0.551
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "14"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.085,
+                0.064,
+                0.212,
+                0.11
+            ],
+            "angle": 0,
+            "content": "计算校准"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.063,
+                0.175,
+                0.349,
+                0.214
+            ],
+            "angle": 0,
+            "content": "最后按下计算校准按钮"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.223,
+                0.775,
+                0.261
+            ],
+            "angle": 0,
+            "content": "在当前校准图像(Current.CalibrationImage)中，注意校准图像的坐标轴图形"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.036,
+                0.406,
+                0.637,
+                0.873
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.638,
+                0.408,
+                0.953,
+                0.863
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "15"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.15,
+                0.11
+            ],
+            "angle": 0,
+            "content": "结果"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.476,
+                0.317
+            ],
+            "angle": 0,
+            "content": "检查校准结果对您正使用的校准图像是否有意义"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.508,
+                0.186,
+                0.967,
+                0.703
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "16"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.213,
+                0.11
+            ],
+            "angle": 0,
+            "content": "校准错误"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.233,
+                0.329,
+                0.36
+            ],
+            "angle": 0,
+            "content": "如果存在较大的RMS错误，在控件中会显示一条信息"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.338,
+                0.188,
+                0.964,
+                0.859
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.959,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "17"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.066,
+                0.306,
+                0.11
+            ],
+            "angle": 0,
+            "content": "取消角查找工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.165,
+                0.934,
+                0.237
+            ],
+            "angle": 0,
+            "content": "现在我们已经计算了校准转换，不需要再运行工具直到我们需要再次校准我们的视觉系统"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.24,
+                0.37,
+                0.273
+            ],
+            "angle": 0,
+            "content": "元件和相机之间的距离会变化"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.342,
+                0.498,
+                0.379
+            ],
+            "angle": 0,
+            "content": "在每个工具或者工具组上右击取消它"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.38,
+                0.41,
+                0.413
+            ],
+            "angle": 0,
+            "content": "在您运行工具组时，工具不会执行"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.482,
+                0.405,
+                0.521
+            ],
+            "angle": 0,
+            "content": "保持校准工具处于激活状态"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.031,
+                0.959,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "18"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.064,
+                0.213,
+                0.113
+            ],
+            "angle": 0,
+            "content": "分析元件"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.233,
+                0.459,
+                0.317
+            ],
+            "angle": 0,
+            "content": "- 现在向工具组添加视觉分析工具在本案例中我们将添加一个斑点工具"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.353,
+                0.513,
+                0.436
+            ],
+            "angle": 0,
+            "content": "- 连接斑点工具的输入图像到校准工具的输出图像"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.233,
+                0.513,
+                0.436
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.568,
+                0.184,
+                0.958,
+                0.691
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.043,
+                0.971
+            ],
+            "angle": 0,
+            "content": "19"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.281,
+                0.33,
+                0.577,
+                0.409
+            ],
+            "angle": 0,
+            "content": "Thank you."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.958,
+                0.042,
+                0.971
+            ],
+            "angle": 0,
+            "content": "20"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.055,
+                0.957,
+                0.17,
+                0.974
+            ],
+            "angle": 0,
+            "content": "© 2019 Cognex Confidential"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.856,
+                0.955,
+                0.98,
+                0.988
+            ],
+            "angle": 0,
+            "content": "COGNEX"
+        }
+    ]
+]

@@ -1,0 +1,829 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/25c6dfd41e99b4b4310c22f3b517ba618f65f6b627ad8df5f9e30959560c6e28.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                0,
+                0,
+                1000,
+                627
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CogFineLineTool "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                302,
+                653,
+                693,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2019/12/19 "
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                792,
+                165,
+                825
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Zhang Juan "
+                    }
+                ]
+            },
+            "bbox": [
+                731,
+                787,
+                869,
+                825
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "FindLine 简介"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                77,
+                50,
+                350,
+                107
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5abb7b86216631a50a41dd2f271efd0cd50fbb6e5ccde9d8194c6f126f65246b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                83,
+                129,
+                883,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在图像的指定区域上运行一系列 Caliper 工具以定位多个边缘点，然后向底层的 Fit Line 工具提供这些边缘点，最后返回最佳拟合这些输入点的线条，同时生成最小均方根 (RMSError) 误差。"
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                770,
+                865,
+                870
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                968
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                955,
+                184,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                955,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "设置选项卡"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                69,
+                50,
+                283,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "卡尺控件"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                140,
+                206,
+                181
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/fdcb9c063a5825388fc11428a2ae45c3de7a51493ddf7a9f0b32cc4c96e244fd.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>功能</td><td>说明</td></tr><tr><td>卡尺数量</td><td>控制沿线段使用的Caliper数量。此工具需要最少两个Caliper,但使用更多Caliper可让工具生成更好的拟合。此外,如果您允许底层Fit Line工具在计算最佳拟合线条时忽略一个或多个点,则应使用两个以上的Caliper。在确定要忽略的点时,Fit Line工具会考虑所有可能的子集并保留可能得分最高的集。</td></tr><tr><td>搜索长度</td><td>控制垂直于每个Caliper要考虑的预期线段的图像数量。您可以使用Find Line图形指定常规搜索长度或使用此字段输入精确的值。</td></tr><tr><td>投影长度</td><td>控制平行于每个Caliper要考虑的预期线段的图像数量。您可以使用Find Line图形指定常规投影长度或使用此字段输入精确的值。您指定的投影长度不应导致单个Caliper工具重叠或使工具生成非预期结果。</td></tr><tr><td>搜索方向</td><td>通过减去180度或增加180度(若搜索方向已为负值)来反转搜索方向。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                76,
+                248,
+                880,
+                690
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                955,
+                41,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                953,
+                186,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "设置选项卡"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                51,
+                281,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "预期线段"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                140,
+                193,
+                179
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1a77de40e0a384747d576f3c48bc2dd32ad6de0643b4e200b6a2c0ced6825c1a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>功能</td><td>说明</td></tr><tr><td>所选空间名称</td><td>命名输入图像的坐标空间。</td></tr><tr><td>选择模式</td><td>判断线段是由 2 Points 选项（两个坐标 [x, y]）确定，还是由 Point/Length 选项（起始坐标 [x, y]，后接线段长度和旋转角度）确定。</td></tr><tr><td>起点 X 和起点 Y</td><td>指定预期线段的起始坐标 (x, y)</td></tr><tr><td>终点 X 和终点 Y</td><td>使用 2 Points 方法时，指定预期线段的结束坐标 (x, y)。</td></tr><tr><td>适应图像</td><td>调整 Find Circle 图形，使其默认尺寸基于此图像和输入图像的坐标空间。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                270,
+                909,
+                614
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                955,
+                43,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                953,
+                184,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "设置选项卡"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                69,
+                55,
+                279,
+                116
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": ">拟合器"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                133,
+                177,
+                172
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "拟合器"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                93,
+                222,
+                161,
+                257
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "忽略的点数："
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                266,
+                213,
+                301
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1129b526ef158036185cb575352f064e989af5675494751b375a69afb1f059a9.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                105,
+                320,
+                129,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "减少忽略的点数"
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                320,
+                286,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0 "
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                277,
+                511,
+                305
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a906afc1a5f18646a4319df07bf11b64f43920674717609a8d0d72c9f8119baf.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                519,
+                275,
+                545,
+                316
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3529d633d118c732a00a43cd5e3b51a8c0340204a5ec01e8daf6d80b17ac1e1d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>功能</td><td>说明</td></tr><tr><td>忽略点数</td><td>控制底层 Fit Line 工具在计算最佳拟合线时可忽略的边缘点数。在确定要忽略的点时，Fit Line 工具会考虑所有可能的子集并保留得分最高的集。</td></tr><tr><td>减少忽略的点数</td><td>对于无法生成有效边缘点的每个 Caliper，允许 Find Line 工具减少忽略的点数。此功能可避免出现因 Caliper 失效而导致 Fit Line 工具中的输入点少于两个的情况。如果您允许此工具忽略任何输入点，Cognex 建议启用此选项。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                81,
+                403,
+                909,
+                655
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                0,
+                40,
+                72,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                955,
+                186,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "结果选项 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                69,
+                55,
+                240,
+                114
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/375a85937cd0ecf2f7a357dc8d01924e4fee7591546913d755649f46e5a91a87.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                83,
+                135,
+                883,
+                746
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "所选空间名称：输入图像空间"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "X、Y：所找的线条中单个点的坐标（X,Y）"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "旋转：所找到线条的旋转角度"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                755,
+                558,
+                883
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                957,
+                43,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                955,
+                184,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                955,
+                977,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Thank you. "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                256,
+                325,
+                591,
+                416
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                955,
+                45,
+                970
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2019 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                953,
+                186,
+                972
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ]
+]

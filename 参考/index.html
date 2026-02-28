@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>康耐视L4认证刷题系统</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 顶部导航 -->
+        <header class="header">
+            <h1>康耐视 L4 认证刷题系统</h1>
+            <div class="header-controls">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="搜索题目..." onkeyup="handleSearch(event)">
+                    <button class="btn-search" onclick="searchQuestions()">搜索</button>
+                </div>
+                <div class="header-stats">
+                    <span id="progress-text">进度: 0/0</span>
+                    <span id="correct-rate">正确率: 0%</span>
+                </div>
+                <div class="header-actions">
+                    <button class="btn-icon" onclick="showStats()" title="学习统计">📊</button>
+                    <button class="btn-icon" id="theme-toggle" onclick="toggleTheme()" title="切换主题">🌙</button>
+                </div>
+            </div>
+        </header>
+
+        <!-- 侧边栏分类 -->
+        <aside class="sidebar">
+            <h3>题目分类</h3>
+            <ul class="category-list">
+                <li class="category-item active" data-category="all">
+                    <span>全部题目</span>
+                    <span class="count" id="count-all">0</span>
+                </li>
+                <li class="category-item" data-category="csharp-basic">
+                    <span>C#基础</span>
+                    <span class="count" id="count-csharp-basic">0</span>
+                </li>
+                <li class="category-item" data-category="csharp-oop">
+                    <span>面向对象</span>
+                    <span class="count" id="count-csharp-oop">0</span>
+                </li>
+                <li class="category-item" data-category="csharp-advanced">
+                    <span>高级特性</span>
+                    <span class="count" id="count-csharp-advanced">0</span>
+                </li>
+                <li class="category-item" data-category="visionpro-basic">
+                    <span>VisionPro基础</span>
+                    <span class="count" id="count-visionpro-basic">0</span>
+                </li>
+                <li class="category-item" data-category="visionpro-tools">
+                    <span>视觉工具</span>
+                    <span class="count" id="count-visionpro-tools">0</span>
+                </li>
+                <li class="category-item" data-category="wrong">
+                    <span>错题本</span>
+                    <span class="count" id="count-wrong">0</span>
+                </li>
+                <li class="category-item" data-category="favorite">
+                    <span>收藏夹</span>
+                    <span class="count" id="count-favorite">0</span>
+                </li>
+            </ul>
+
+            <div class="sidebar-actions">
+                <button class="btn btn-random" onclick="startRandomMode()">随机练习</button>
+                <button class="btn btn-reset" onclick="resetProgress()">重置进度</button>
+            </div>
+        </aside>
+
+        <!-- 主内容区 -->
+        <main class="main-content">
+            <!-- 题目模式选择 -->
+            <div class="mode-selector">
+                <button class="mode-btn active" data-mode="practice" onclick="setMode('practice')">练习模式</button>
+                <button class="mode-btn" data-mode="exam" onclick="setMode('exam')">考试模式</button>
+            </div>
+
+            <!-- 题目区域 -->
+            <div class="question-area" id="question-area">
+                <div class="question-header">
+                    <span class="question-number" id="question-number">第 1 题</span>
+                    <span class="question-type" id="question-type">单选题</span>
+                    <button class="btn-favorite" id="btn-favorite" onclick="toggleFavorite()">
+                        <span class="star">☆</span> 收藏
+                    </button>
+                </div>
+
+                <div class="question-content" id="question-content">
+                    <p>请选择一个分类开始答题</p>
+                </div>
+
+                <div class="options-container" id="options-container">
+                    <!-- 选项将动态生成 -->
+                </div>
+
+                <!-- 答案解析区域 (练习模式显示) -->
+                <div class="answer-section" id="answer-section" style="display: none;">
+                    <div class="answer-result" id="answer-result"></div>
+                    <div class="answer-explanation" id="answer-explanation"></div>
+                </div>
+            </div>
+
+            <!-- 导航按钮 -->
+            <div class="navigation">
+                <button class="btn btn-nav" id="btn-prev" onclick="prevQuestion()" disabled>上一题</button>
+                <button class="btn btn-submit" id="btn-submit" onclick="submitAnswer()">提交答案</button>
+                <button class="btn btn-nav" id="btn-next" onclick="nextQuestion()">下一题</button>
+            </div>
+
+            <!-- 题目列表 -->
+            <div class="question-list-section">
+                <h3>题目列表</h3>
+                <div class="question-list" id="question-list">
+                    <!-- 题目编号将动态生成 -->
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- 考试结果弹窗 -->
+    <div class="modal" id="result-modal" style="display: none;">
+        <div class="modal-content">
+            <h2>考试结果</h2>
+            <div class="result-stats">
+                <p>总题数: <span id="result-total">0</span></p>
+                <p>正确数: <span id="result-correct">0</span></p>
+                <p>错误数: <span id="result-wrong">0</span></p>
+                <p>正确率: <span id="result-rate">0%</span></p>
+            </div>
+            <button class="btn" onclick="closeResultModal()">关闭</button>
+        </div>
+    </div>
+
+    <!-- 统计分析弹窗 -->
+    <div class="modal" id="stats-modal" style="display: none;">
+        <div class="modal-content stats-modal-content">
+            <div class="modal-header">
+                <h2>📊 学习统计分析</h2>
+                <button class="btn-close" onclick="closeStatsModal()">&times;</button>
+            </div>
+            <div class="stats-container">
+                <!-- 总体概览 -->
+                <div class="stats-section">
+                    <h3>📈 总体概览</h3>
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-value" id="stats-total-answered">0</div>
+                            <div class="stat-label">已答题数</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="stats-correct-count">0</div>
+                            <div class="stat-label">答对题数</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="stats-accuracy">0%</div>
+                            <div class="stat-label">总正确率</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="stats-study-days">0</div>
+                            <div class="stat-label">学习天数</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 分类正确率 -->
+                <div class="stats-section">
+                    <h3>📊 分类正确率</h3>
+                    <div class="category-stats" id="category-stats">
+                        <!-- 动态生成 -->
+                    </div>
+                </div>
+
+                <!-- 题型统计 -->
+                <div class="stats-section">
+                    <h3>📋 题型统计</h3>
+                    <div class="type-stats" id="type-stats">
+                        <!-- 动态生成 -->
+                    </div>
+                </div>
+
+                <!-- 学习进度 -->
+                <div class="stats-section">
+                    <h3>🎯 学习进度</h3>
+                    <div class="progress-bar-container">
+                        <div class="progress-bar" id="stats-progress-bar"></div>
+                        <span class="progress-text" id="stats-progress-text">0%</span>
+                    </div>
+                    <p class="progress-detail" id="stats-progress-detail">已完成 0/270 题</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="questions.js"></script>
+    <script src="questions_l4_exam.js"></script>
+    <script>
+        // 合并L4真题题库
+        if (typeof questionsL4Exam !== 'undefined') {
+            questions = questions.concat(questionsL4Exam);
+        }
+    </script>
+    <script src="app.js"></script>
+</body>
+</html>

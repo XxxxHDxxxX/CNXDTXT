@@ -1,0 +1,2256 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        95,
+                        505,
+                        125
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                94,
+                                505,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        94,
+                                        505,
+                                        108
+                                    ],
+                                    "type": "text",
+                                    "content": "智能像素映射工具是将输入图像(例如DS1000系列传感器中的cogimage16范围图像)的像",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                110,
+                                473,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        110,
+                                        473,
+                                        124
+                                    ],
+                                    "type": "text",
+                                    "content": "素值映射到输出图像(例如 CogImage8Grey)的最简单方法。支持的格式和转换如下:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        92,
+                        157,
+                        496,
+                        249
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                141,
+                                154,
+                                154
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        141,
+                                        154,
+                                        154
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                141,
+                                                154,
+                                                154
+                                            ],
+                                            "type": "text",
+                                            "content": "表1:支持转换",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                157,
+                                496,
+                                249
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        157,
+                                        496,
+                                        249
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                92,
+                                                157,
+                                                496,
+                                                249
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>From\\To</td><td>CogImage16Range</td><td>CogImage16Grey</td><td>CogImage8Grey</td></tr><tr><td>CogImage16Range</td><td>See the note below</td><td>✓</td><td>✓</td></tr><tr><td>CogImage16Grey</td><td>See the note below</td><td>✓</td><td>✓</td></tr><tr><td>CogImage8Grey</td><td>See the note below</td><td>Not required</td><td>✓</td></tr></table>",
+                                            "image_path": "630961e4d692ef64c9c34351bf23ab6dce29d8ddb22651cba7fe20edf9891109.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        88,
+                        280,
+                        486,
+                        296
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                280,
+                                485,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        280,
+                                        485,
+                                        296
+                                    ],
+                                    "type": "text",
+                                    "content": "注意:映射到 CogImage16Range 会生成一个不需要 3D 变换的范围图像，因此不支持。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        312,
+                        506,
+                        343
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                314,
+                                505,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        314,
+                                        505,
+                                        325
+                                    ],
+                                    "type": "text",
+                                    "content": "智能像素映射工具一旦得到输入图像，就会根据直方图数据自动生成映射，增强图像的视觉",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                327,
+                                336,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        327,
+                                        336,
+                                        342
+                                    ],
+                                    "type": "text",
+                                    "content": "特征。如果结果不是您所期望的，可以手动映射像素。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        359,
+                        178,
+                        373
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                359,
+                                177,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        359,
+                                        177,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "这个功能可以让你:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        375,
+                        504,
+                        403
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                375,
+                                505,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        375,
+                                        505,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "将16位图像减少到8位图像，同时有选择地保留像素值的特定范围。该特性尤其有利于",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                390,
+                                366,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        390,
+                                        243,
+                                        405
+                                    ],
+                                    "type": "text",
+                                    "content": "DS1100 用户(CogImage16Range",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        243,
+                                        393,
+                                        253,
+                                        401
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\Rightarrow",
+                                    "score": 0.78
+                                },
+                                {
+                                    "bbox": [
+                                        254,
+                                        390,
+                                        366,
+                                        405
+                                    ],
+                                    "type": "text",
+                                    "content": "CogImage8Grey) 。由于",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        405,
+                        504,
+                        434
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                403,
+                                506,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        403,
+                                        506,
+                                        421
+                                    ],
+                                    "type": "text",
+                                    "content": "通过选择性地扩大感兴趣特征的像素值范围，提高低对比度图像特征的可见性。这允许您提",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                421,
+                                273,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        421,
+                                        273,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": "供增强的x射线和热图像缺陷的可视化。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        437,
+                        505,
+                        481
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                438,
+                                505,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        438,
+                                        505,
+                                        449
+                                    ],
+                                    "type": "text",
+                                    "content": "创建复合像素映射函数，允许您对输入像素值的不同范围应用不同的线性映射。这允许您提",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                454,
+                                505,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        454,
+                                        505,
+                                        466
+                                    ],
+                                    "type": "text",
+                                    "content": "取和组合来自热相机的特定温度范围，或选择性地过滤来自DS1000系列位移传感器等3D",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                470,
+                                210,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        470,
+                                        210,
+                                        481
+                                    ],
+                                    "type": "text",
+                                    "content": "剖析相机的特定高度范围。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        88,
+                        507,
+                        205,
+                        521
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                506,
+                                205,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        506,
+                                        205,
+                                        523
+                                    ],
+                                    "type": "text",
+                                    "content": "1、Reference Points",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        92,
+                        533,
+                        498,
+                        716
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                92,
+                                533,
+                                498,
+                                716
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        533,
+                                        498,
+                                        716
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                92,
+                                                533,
+                                                498,
+                                                716
+                                            ],
+                                            "type": "image",
+                                            "image_path": "9eb0adf594c0410966812c78d18ed5c7cc9e352636cca8bb96a08893ee4fdeda.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                215,
+                                734,
+                                379,
+                                747
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        734,
+                                        377,
+                                        746
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                734,
+                                                377,
+                                                746
+                                            ],
+                                            "type": "text",
+                                            "content": "图1:参考点——映射是如何创建的",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        95,
+                        506,
+                        171
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                95,
+                                505,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        95,
+                                        505,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "PixelMap工具的工作原理是根据输入图像的直方图数据创建两个参考点(如果您愿意，也可",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                111,
+                                506,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        111,
+                                        506,
+                                        124
+                                    ],
+                                    "type": "text",
+                                    "content": "以创建一系列参考点)。第一个点标识为(input1, output1)，第二个点标识为(input2,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                126,
+                                506,
+                                138
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        126,
+                                        506,
+                                        138
+                                    ],
+                                    "type": "text",
+                                    "content": "output2)。Output1，也称为第一个映射值，可以在默认情况下用于映射不可见像素，但是您",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                142,
+                                504,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        142,
+                                        504,
+                                        154
+                                    ],
+                                    "type": "text",
+                                    "content": "可以覆盖这个行为。VisionPro将添加点0和点3来反映输入图像到输出图像的全范围映射。",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                157,
+                                479,
+                                171
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        157,
+                                        479,
+                                        171
+                                    ],
+                                    "type": "text",
+                                    "content": "对于 CogImage16Range，不可见的像素值可以自动映射到 output1 或用户指定的值。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        127,
+                        185,
+                        466,
+                        262
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                127,
+                                185,
+                                466,
+                                262
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        185,
+                                        466,
+                                        262
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                127,
+                                                185,
+                                                466,
+                                                262
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Points</td><td>Relative Input</td><td>Relative Output</td><td>Absolute Input</td><td>Absolute Output</td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>1</td><td>0.251602</td><td>0</td><td>16489</td><td>0</td></tr><tr><td>2</td><td>0.395493</td><td>1</td><td>25919</td><td>256</td></tr><tr><td>3</td><td>1</td><td>1</td><td>65536</td><td>256</td></tr></table>",
+                                            "image_path": "9923e7c2891db9412d5052e5abcb6516a9a8563bb4f3bab22ec8de2b24cfb581.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        127,
+                        263,
+                        466,
+                        413
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                127,
+                                263,
+                                466,
+                                413
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        263,
+                                        466,
+                                        413
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                127,
+                                                263,
+                                                466,
+                                                413
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c9eaa5c1b6f2b3e9cb07d7946360f3dfdd8f2568ffd697d5923400b52c36172d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                236,
+                                437,
+                                356,
+                                450
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        239,
+                                        438,
+                                        356,
+                                        450
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                239,
+                                                438,
+                                                356,
+                                                450
+                                            ],
+                                            "type": "text",
+                                            "content": "图2:参考点及其图形位置",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        86,
+                        468,
+                        505,
+                        498
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                468,
+                                505,
+                                482
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        468,
+                                        505,
+                                        482
+                                    ],
+                                    "type": "text",
+                                    "content": "每个参考点定义单个输入像素值到单个输出像素值的映射。PixelMap工具在每一对参考点",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                485,
+                                399,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        485,
+                                        399,
+                                        497
+                                    ],
+                                    "type": "text",
+                                    "content": "之间创建像素值的线性映射。线性映射的结果集形成一个映射函数。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        515,
+                        506,
+                        560
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                516,
+                                504,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        516,
+                                        504,
+                                        528
+                                    ],
+                                    "type": "text",
+                                    "content": "所有小于最低参考点的输入像素值都映射到该参考点定义的输出值。所有大于最高参考点",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                531,
+                                506,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        531,
+                                        506,
+                                        544
+                                    ],
+                                    "type": "text",
+                                    "content": "的输入像素值都映射到该参考点定义的输出值。如果指定一个映射点，则所有输入像素值都",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                547,
+                                430,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        547,
+                                        430,
+                                        560
+                                    ],
+                                    "type": "text",
+                                    "content": "映射该输出像素值。如果没有定义映射点，则使用单个线性映射映射像素。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        88,
+                        577,
+                        293,
+                        591
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                577,
+                                294,
+                                591
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        577,
+                                        294,
+                                        591
+                                    ],
+                                    "type": "text",
+                                    "content": "下图显示了如何使用引用点来定义映射函数。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        149,
+                        611,
+                        327,
+                        734
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                149,
+                                611,
+                                327,
+                                734
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        149,
+                                        611,
+                                        327,
+                                        734
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                149,
+                                                611,
+                                                327,
+                                                734
+                                            ],
+                                            "type": "image",
+                                            "image_path": "de5064e253abbfe4b67df21647a9263ebac23b2216e89ce42750525664133f14.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                341,
+                                624,
+                                442,
+                                649
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        342,
+                                        624,
+                                        441,
+                                        637
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                342,
+                                                624,
+                                                441,
+                                                637
+                                            ],
+                                            "type": "text",
+                                            "content": "Four reference points:",
+                                            "score": 0.945
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        341,
+                                        634,
+                                        443,
+                                        650
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                341,
+                                                634,
+                                                443,
+                                                650
+                                            ],
+                                            "type": "text",
+                                            "content": "Threelinearmappings",
+                                            "score": 0.987
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        147,
+                        75,
+                        326,
+                        200
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                147,
+                                75,
+                                326,
+                                200
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        147,
+                                        75,
+                                        326,
+                                        200
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                147,
+                                                75,
+                                                326,
+                                                200
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c18b8262ca9d9716831028b254ddf7f8eeb2ec9995b66e6141d3bae2db46548a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        340,
+                        100,
+                        445,
+                        160
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                340,
+                                99,
+                                438,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        340,
+                                        99,
+                                        438,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "Two reference points:",
+                                    "score": 0.951
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                340,
+                                111,
+                                433,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        340,
+                                        111,
+                                        433,
+                                        126
+                                    ],
+                                    "type": "text",
+                                    "content": "Onelinearmapping,",
+                                    "score": 0.983
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                340,
+                                123,
+                                442,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        340,
+                                        123,
+                                        442,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "input points below and",
+                                    "score": 0.953
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                339,
+                                134,
+                                439,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        339,
+                                        134,
+                                        439,
+                                        149
+                                    ],
+                                    "type": "text",
+                                    "content": "abovepointsmapped",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                340,
+                                147,
+                                445,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        340,
+                                        147,
+                                        445,
+                                        160
+                                    ],
+                                    "type": "text",
+                                    "content": "topoints'output values.",
+                                    "score": 0.945
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        146,
+                        215,
+                        326,
+                        342
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                146,
+                                215,
+                                326,
+                                342
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        146,
+                                        215,
+                                        326,
+                                        342
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                146,
+                                                215,
+                                                326,
+                                                342
+                                            ],
+                                            "type": "image",
+                                            "image_path": "26bc4a60ddfcbbdb304d419bd88273708016fd12e46fbe2a41c841d6d30d0240.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        339,
+                        227,
+                        447,
+                        265
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                339,
+                                227,
+                                433,
+                                242
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        339,
+                                        227,
+                                        433,
+                                        242
+                                    ],
+                                    "type": "text",
+                                    "content": "One reference point:",
+                                    "score": 0.937
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                339,
+                                238,
+                                448,
+                                253
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        339,
+                                        238,
+                                        448,
+                                        253
+                                    ],
+                                    "type": "text",
+                                    "content": "Allinput valuesmapped",
+                                    "score": 0.972
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                339,
+                                251,
+                                447,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        339,
+                                        251,
+                                        447,
+                                        265
+                                    ],
+                                    "type": "text",
+                                    "content": "toa single output value.",
+                                    "score": 0.958
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        145,
+                        357,
+                        323,
+                        479
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                145,
+                                357,
+                                323,
+                                479
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        145,
+                                        357,
+                                        323,
+                                        479
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                145,
+                                                357,
+                                                323,
+                                                479
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c2e91c40b23dee480f8b93eee262eedd78b17408057e466a5797179cd566d0e3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                236,
+                                483,
+                                356,
+                                497
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        239,
+                                        485,
+                                        355,
+                                        497
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                239,
+                                                485,
+                                                355,
+                                                497
+                                            ],
+                                            "type": "text",
+                                            "content": "图3:参考点和对应的映射",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        336,
+                        365,
+                        440,
+                        414
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                337,
+                                365,
+                                429,
+                                380
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        337,
+                                        365,
+                                        429,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "Noreference points:",
+                                    "score": 0.97
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                337,
+                                375,
+                                435,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        337,
+                                        375,
+                                        435,
+                                        392
+                                    ],
+                                    "type": "text",
+                                    "content": "Single linearmapping",
+                                    "score": 0.976
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                337,
+                                389,
+                                440,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        337,
+                                        389,
+                                        440,
+                                        402
+                                    ],
+                                    "type": "text",
+                                    "content": "ofall input values toall",
+                                    "score": 0.957
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                337,
+                                401,
+                                402,
+                                414
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        337,
+                                        401,
+                                        402,
+                                        414
+                                    ],
+                                    "type": "text",
+                                    "content": "output values.",
+                                    "score": 0.953
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        500,
+                        218,
+                        513
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                500,
+                                217,
+                                513
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        500,
+                                        217,
+                                        513
+                                    ],
+                                    "type": "text",
+                                    "content": "2、使用 PixelMap 图形控件",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        515,
+                        506,
+                        544
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                516,
+                                506,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        516,
+                                        506,
+                                        528
+                                    ],
+                                    "type": "text",
+                                    "content": "PixelMap工具编辑控件自动生成实际图像的映射函数，如果需要，还可以让您轻松创建、修",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                531,
+                                323,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        531,
+                                        323,
+                                        543
+                                    ],
+                                    "type": "text",
+                                    "content": "改、查看和删除定义像素映射的参考点，如下所示:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        101,
+                        564,
+                        483,
+                        756
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                101,
+                                564,
+                                483,
+                                756
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        564,
+                                        483,
+                                        756
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                101,
+                                                564,
+                                                483,
+                                                756
+                                            ],
+                                            "type": "image",
+                                            "image_path": "2e915f4485f18f21e7a3b1c8ec12df60f9f453fdd5c9fc9f56a814f00d50d75d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        89,
+                        79,
+                        496,
+                        303
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                79,
+                                496,
+                                303
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        79,
+                                        496,
+                                        303
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                79,
+                                                496,
+                                                303
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c46811ced8b35784002564bea5aba9ae025c5366980b026641afaea0f628b4bf.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        86,
+                        327,
+                        329,
+                        342
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                328,
+                                327,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        328,
+                                        327,
+                                        342
+                                    ],
+                                    "type": "text",
+                                    "content": "3、使用PixelMap工具将16位图像映射到8位图像",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        359,
+                        507,
+                        405
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                359,
+                                505,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        359,
+                                        505,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "VisionPro支持16位灰度图像的采集和处理，但一些VisionPro视觉工具只支持8位灰度图",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                375,
+                                505,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        375,
+                                        505,
+                                        386
+                                    ],
+                                    "type": "text",
+                                    "content": "像。16位灰度图像中的每个像素可以有65,536(2的16次方)个可能的像素值中的一个，而8",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                391,
+                                358,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        391,
+                                        358,
+                                        403
+                                    ],
+                                    "type": "text",
+                                    "content": "位灰度图像中的每个像素只能有256个可能的值中的一个。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        421,
+                        506,
+                        467
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                423,
+                                505,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        423,
+                                        505,
+                                        433
+                                    ],
+                                    "type": "text",
+                                    "content": "像素值从16位图像到8位图像的简单线性映射意味着 8位输出图像中的每个像素值对应",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                439,
+                                505,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        439,
+                                        505,
+                                        449
+                                    ],
+                                    "type": "text",
+                                    "content": "16位输入图像中的256个像素值。输入图像中的像素值0-255在输出图像中赋值为0，像素",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                454,
+                                448,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        454,
+                                        448,
+                                        465
+                                    ],
+                                    "type": "text",
+                                    "content": "值256-511赋值为1，依此类推。这种映射会导致从输入图像中丢失大量信息。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        483,
+                        506,
+                        530
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                485,
+                                505,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        485,
+                                        505,
+                                        497
+                                    ],
+                                    "type": "text",
+                                    "content": "PixelMap工具允许您控制将16位图像映射到8位图像的过程，这样您可以在降低输入图像",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                501,
+                                505,
+                                512
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        501,
+                                        505,
+                                        512
+                                    ],
+                                    "type": "text",
+                                    "content": "的整体深度的同时保留有意义的信息。像素映射工具能够根据输入图像的直方图数据自动",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                515,
+                                449,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        515,
+                                        449,
+                                        528
+                                    ],
+                                    "type": "text",
+                                    "content": "重绘像素。虽然生成映射公式有多种方法，但建议您首先使用intelligent特性。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        546,
+                        227,
+                        560
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                547,
+                                227,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        547,
+                                        227,
+                                        560
+                                    ],
+                                    "type": "text",
+                                    "content": "4、视觉上重新映射16位图像",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        90,
+                        561,
+                        265,
+                        762
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                90,
+                                561,
+                                265,
+                                762
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        561,
+                                        265,
+                                        762
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                90,
+                                                561,
+                                                265,
+                                                762
+                                            ],
+                                            "type": "image",
+                                            "image_path": "1b39e051b330a097f68dc4ecf205cede9ae73e6f1b015c45b8335d16e8e45322.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        79,
+                        207,
+                        91
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                79,
+                                207,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        79,
+                                        207,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "5、使用校准的16位图像",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        110,
+                        505,
+                        169
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                109,
+                                505,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        109,
+                                        505,
+                                        123
+                                    ],
+                                    "type": "text",
+                                    "content": "一些16位图像设备，如红外(IR)相机，可能产生校准的16位图像。例如，在红外照相机的情",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                126,
+                                505,
+                                138
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        126,
+                                        505,
+                                        138
+                                    ],
+                                    "type": "text",
+                                    "content": "况下，特定的像素值可以表示特定的表面温度。如果您的应用程序对特定温度范围内的特征",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                142,
+                                505,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        142,
+                                        505,
+                                        154
+                                    ],
+                                    "type": "text",
+                                    "content": "进行分析感兴趣，您可以配置PixelMap工具来扩展输入图像像素值的相应范围，而不需要",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                156,
+                                168,
+                                170
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        156,
+                                        168,
+                                        170
+                                    ],
+                                    "type": "text",
+                                    "content": "参考图像直方图。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 4
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

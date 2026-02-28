@@ -1,0 +1,2958 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        141,
+                        184,
+                        385,
+                        227
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                140,
+                                180,
+                                387,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        140,
+                                        180,
+                                        387,
+                                        231
+                                    ],
+                                    "type": "text",
+                                    "content": "扫码枪的选型",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        626,
+                        35,
+                        903,
+                        433
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                631,
+                                316,
+                                899,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        631,
+                                        318,
+                                        659,
+                                        359
+                                    ],
+                                    "type": "text",
+                                    "content": "V",
+                                    "score": 0.588
+                                },
+                                {
+                                    "bbox": [
+                                        727,
+                                        316,
+                                        777,
+                                        362
+                                    ],
+                                    "type": "text",
+                                    "content": "E",
+                                    "score": 0.974
+                                },
+                                {
+                                    "bbox": [
+                                        844,
+                                        316,
+                                        899,
+                                        366
+                                    ],
+                                    "type": "text",
+                                    "content": "X",
+                                    "score": 0.862
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                633,
+                                382,
+                                905,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        633,
+                                        402,
+                                        639,
+                                        412
+                                    ],
+                                    "type": "text",
+                                    "content": "",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        677,
+                                        382,
+                                        905,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": "020",
+                                    "score": 0.986
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        601,
+                        488,
+                        901,
+                        505
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                599,
+                                486,
+                                903,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        599,
+                                        486,
+                                        903,
+                                        507
+                                    ],
+                                    "type": "text",
+                                    "content": "PERFECTING VISION",
+                                    "score": 0.986
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        44,
+                        25,
+                        241,
+                        54
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                24,
+                                242,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        24,
+                                        242,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "1. 扫码枪型号介绍",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        41,
+                        84,
+                        779,
+                        142
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                84,
+                                778,
+                                111
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        84,
+                                        778,
+                                        111
+                                    ],
+                                    "type": "text",
+                                    "content": "针对一个条码，你要选择哪款型号的扫码枪，首先你就要先了解 Cognex 常用扫码枪",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                44,
+                                116,
+                                465,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        116,
+                                        465,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "的特性与用途， iphone 项目主要分为以下两类：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        41,
+                        148,
+                        814,
+                        235
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 4,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                41,
+                                148,
+                                814,
+                                204
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        145,
+                                        816,
+                                        178
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                145,
+                                                816,
+                                                178
+                                            ],
+                                            "type": "text",
+                                            "content": "• 固定式扫码枪： DM302X( 已停产）， DM262X-1540P ， DM262X-1120/DM262X-1120F,",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        178,
+                                        179,
+                                        443,
+                                        207
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                178,
+                                                179,
+                                                443,
+                                                207
+                                            ],
+                                            "type": "text",
+                                            "content": "DM50X ， DM374X （大视野）",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                42,
+                                212,
+                                563,
+                                235
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        210,
+                                        565,
+                                        239
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                210,
+                                                565,
+                                                239
+                                            ],
+                                            "type": "text",
+                                            "content": "• 手持式扫码枪： DM8050HDXM ， DM8600/ DM8600 HDX",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        36,
+                        531
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        179,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                519,
+                                180,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        519,
+                                        180,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2020 Cognex Confidential",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        820,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        534
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.996
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        72,
+                        32,
+                        341,
+                        58
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                30,
+                                342,
+                                62
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        30,
+                                        342,
+                                        62
+                                    ],
+                                    "type": "text",
+                                    "content": "2. 固定式扫码枪参数对比",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        71,
+                        83,
+                        816,
+                        433
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                71,
+                                83,
+                                816,
+                                433
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        83,
+                                        816,
+                                        433
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                83,
+                                                816,
+                                                433
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Dataman</td><td>DM50X</td><td>DM302X</td><td>DM262X-1120</td><td>DM262X-1120F</td><td>DM262X-1540P</td></tr><tr><td>Dataman Image</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Image Sensor</td><td>1/3 inch CMOS</td><td>1/1.8 inch CMOS</td><td>1/3 inch CMOS</td><td>1/3 inch CMOS</td><td>1/3 inch CMOS</td></tr><tr><td>Resolution</td><td>752*480(0.36MP)</td><td>1280*1024(1.31MP)</td><td>1280*960(1.23MP)</td><td>1280*960(1.23MP)</td><td>1280*960(1.23MP)</td></tr><tr><td>Algorithms</td><td>1DMax, 2DMax, PowerGrid</td><td>1DMax, 2DMax</td><td>1DMax, 2DMax, Hotbars, PowerGrid</td><td>1DMax, 2DMax, Hotbars, PowerGrid</td><td>1DMax, 2DMax, Hotbars, PowerGrid</td></tr><tr><td rowspan=\"2\">Interface modlue</td><td>Serial module: RS-232</td><td>Serial module: RS-232</td><td>Serial module: RS-232</td><td>Serial module: RS-232</td><td>Serial module: RS-232</td></tr><tr><td>No ethernet module</td><td>Ethernet module: TCP/IP, FTP, industrial protocols: Ethernet/IP, PROFINET, MC Protocol, ModBus TCP</td><td>Ethernet module: TCP/IP, FTP, industrial protocols: Ethernet/IP, PROFINET, MC Protocol, ModBus TCP</td><td>Ethernet module: TCP/IP, FTP, industrial protocols: Ethernet/IP, PROFINET, MC Protocol, ModBus TCP</td><td>Ethernet module: TCP/IP, FTP, industrial protocols: Ethernet/IP, PROFINET, MC Protocol, ModBus TCP</td></tr><tr><td>Lighting and cover</td><td>1x Red LED</td><td>Diffuse lenscoverwith red LED illumination</td><td>4x Red LED</td><td>4x polarized Red LED</td><td>2x High Powered Red LED and 2x half-polarized</td></tr><tr><td>Lens</td><td>3 Focal position M12 lens(Fixed focus)</td><td>10.3mm Liquid lens</td><td>6.2mm Liquid lens</td><td>6.2mm Liquid lens</td><td>16mm Liquid lens</td></tr><tr><td>Aimer</td><td>LED</td><td>Laser</td><td>LED</td><td>LED</td><td>LED</td></tr><tr><td>Focus</td><td>45mm-110mm</td><td>40mm-500mm</td><td>40mm-200mm</td><td>40mm-200mm</td><td>45mm-1000mm</td></tr><tr><td>min.Fov(mm)</td><td>36*23</td><td>35*26</td><td>37*26</td><td>37*26</td><td>17*13</td></tr><tr><td>max.Fov(mm)</td><td>80*51.28</td><td>332*249</td><td>160*112.43</td><td>160*112.43</td><td>301*226</td></tr><tr><td>2D min.code</td><td>6mil</td><td>5mil</td><td>3mil</td><td>3mil</td><td>2mil</td></tr><tr><td>1D min.code</td><td>4mil</td><td>7mil</td><td>2mil</td><td>2mil</td><td>2mil</td></tr></table>",
+                                            "image_path": "9d3bb63852157d90b3e9730bfaff7e29af292930edec28ec41f4308ed853c15c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        37,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                32,
+                                521,
+                                38,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        521,
+                                        38,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "3",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        179,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                181,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        181,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2020 Cognex Confidential",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        938,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                940,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        940,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        70,
+                        29,
+                        341,
+                        55
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                27,
+                                341,
+                                58
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        27,
+                                        341,
+                                        58
+                                    ],
+                                    "type": "text",
+                                    "content": "3. 手持式扫码枪参数对比",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        64,
+                        88,
+                        823,
+                        435
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                64,
+                                88,
+                                823,
+                                435
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        88,
+                                        823,
+                                        435
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                88,
+                                                823,
+                                                435
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Dataman</td><td>DataMan 8050HDX</td><td>DataMan 8600</td><td>DataMan 8600 HDX</td></tr><tr><td>Dataman Image</td><td></td><td></td><td></td></tr><tr><td>Algorithms</td><td>2DMax, 1DMax, Hotbars, PowerGrid</td><td>2DMax, 1DMax, Hotbars, PowerGrid</td><td>2DMax, 1DMax, Hotbars, PowerGrid</td></tr><tr><td>Image Sensor</td><td>1/3 inch CMOS</td><td>1/1.8 inch CMOS</td><td>1/1.8 inch CMOS</td></tr><tr><td>Resolution</td><td>752 x 480(30w)</td><td>1280 x 1024(130w)</td><td>1280 x 1024(130w)</td></tr><tr><td>Trigger</td><td>Handle trigger, presentation</td><td>Handle trigger, presentation</td><td>Handle trigger, presentation</td></tr><tr><td>Status Outputs</td><td>LED, beeper</td><td>LED, beeper,shaker</td><td>LED, beeper,shaker</td></tr><tr><td>Aimer</td><td>LED aimer</td><td>LED aimer</td><td>LED aimer</td></tr><tr><td>Lens Options</td><td>Fixed focus</td><td>Liquid lens</td><td>Liquid lens</td></tr><tr><td>Depth of Field/Focus</td><td>55 mm-75 mm</td><td>0-500mm</td><td>no information</td></tr><tr><td>2D min.code</td><td>5mil</td><td>3mil</td><td>2mil</td></tr><tr><td>1D min.code</td><td>4mil</td><td>3mil</td><td>2mil</td></tr></table>",
+                                            "image_path": "367df5fda37ad24ea3b1655aad2e7b98b3ee841bbfee4743013d94d2b2f8ed6a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        34,
+                        522,
+                        40,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        54,
+                        521,
+                        179,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                180,
+                                534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.68
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        180,
+                                        534
+                                    ],
+                                    "type": "text",
+                                    "content": "2020 Cognex Confidential",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                513,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        513,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        63,
+                        44,
+                        192,
+                        72
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                43,
+                                192,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        43,
+                                        192,
+                                        73
+                                    ],
+                                    "type": "text",
+                                    "content": "4. 扫码需求",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        64,
+                        102,
+                        740,
+                        126
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                100,
+                                740,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        100,
+                                        740,
+                                        126
+                                    ],
+                                    "type": "text",
+                                    "content": "了解了各型号扫码枪的特性后，就要了解扫码需求了，大致可以分以下几点：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        63,
+                        134,
+                        576,
+                        283
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 7,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                63,
+                                134,
+                                376,
+                                156
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        133,
+                                        376,
+                                        159
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                102,
+                                                133,
+                                                376,
+                                                159
+                                            ],
+                                            "type": "text",
+                                            "content": "用于自动化设备还是手动工站？",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                165,
+                                576,
+                                189
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        164,
+                                        576,
+                                        190
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                67,
+                                                164,
+                                                576,
+                                                190
+                                            ],
+                                            "type": "text",
+                                            "content": "• 条码特性，如条码大小，规格，打码方式，打码材料等",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                197,
+                                516,
+                                220
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        196,
+                                        516,
+                                        223
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                100,
+                                                196,
+                                                516,
+                                                223
+                                            ],
+                                            "type": "text",
+                                            "content": "安装方式，如有多大空间可供扫码枪安装调试？",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                229,
+                                552,
+                                252
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        227,
+                                        553,
+                                        255
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                227,
+                                                553,
+                                                255
+                                            ],
+                                            "type": "text",
+                                            "content": "• 公司主推产品，如以前是 DM302X, 现在是 DM262X",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                260,
+                                356,
+                                283
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        258,
+                                        356,
+                                        285
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                80,
+                                                258,
+                                                356,
+                                                285
+                                            ],
+                                            "type": "text",
+                                            "content": "一次性扫一个码还是多个码等",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        63,
+                        291,
+                        368,
+                        315
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                290,
+                                370,
+                                317
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        290,
+                                        370,
+                                        317
+                                    ],
+                                    "type": "text",
+                                    "content": "综合以上因素，选择合适的扫码枪",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        38,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        181,
+                        534
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                181,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        181,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2020 Cognex Confidential",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        820,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        76,
+                        25,
+                        273,
+                        60
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                23,
+                                276,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        23,
+                                        276,
+                                        64
+                                    ],
+                                    "type": "text",
+                                    "content": "扫码枪的选型",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        74,
+                        83,
+                        226,
+                        110
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                82,
+                                229,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        82,
+                                        229,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "5. 举例说明一",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        80,
+                        130,
+                        187,
+                        227
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                80,
+                                130,
+                                187,
+                                227
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        130,
+                                        187,
+                                        227
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                80,
+                                                130,
+                                                187,
+                                                227
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8760812d86d42a2b4afa21ddf818357b349acf78416c10fd0a404a4273c2f3dd.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        202,
+                        169,
+                        258,
+                        186
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                168,
+                                261,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        168,
+                                        261,
+                                        188
+                                    ],
+                                    "type": "text",
+                                    "content": "DM50X",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        91,
+                        236,
+                        177,
+                        345
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                91,
+                                236,
+                                177,
+                                345
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        236,
+                                        177,
+                                        345
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                91,
+                                                236,
+                                                177,
+                                                345
+                                            ],
+                                            "type": "image",
+                                            "image_path": "48d650ab93b94278cee531a41a339c7ff830468e007d99885677e0dd241277b7.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        202,
+                        278,
+                        267,
+                        295
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                202,
+                                277,
+                                270,
+                                298
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        277,
+                                        270,
+                                        298
+                                    ],
+                                    "type": "text",
+                                    "content": "DM302X",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        84,
+                        377,
+                        186,
+                        482
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                84,
+                                377,
+                                186,
+                                482
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        377,
+                                        186,
+                                        482
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                84,
+                                                377,
+                                                186,
+                                                482
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c66c7f8c7744b62df736675baff960c65b067bfe1720e56d77a43bdd053dfb46.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        202,
+                        410,
+                        319,
+                        427
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                202,
+                                409,
+                                320,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        409,
+                                        320,
+                                        429
+                                    ],
+                                    "type": "text",
+                                    "content": "DM262X-1540P",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        333,
+                        139,
+                        937,
+                        163
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                333,
+                                138,
+                                939,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        138,
+                                        677,
+                                        164
+                                    ],
+                                    "type": "text",
+                                    "content": "HSG 码 : 物理尺寸 6*6mm ，条码规格",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        677,
+                                        139,
+                                        733,
+                                        163
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "3 2 ^ { \\times } 3 2",
+                                    "score": 0.87
+                                },
+                                {
+                                    "bbox": [
+                                        733,
+                                        138,
+                                        939,
+                                        164
+                                    ],
+                                    "type": "text",
+                                    "content": "，打码方式镭雕金属码",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        333,
+                        171,
+                        923,
+                        382
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 13,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                333,
+                                171,
+                                923,
+                                256
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 9,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        169,
+                                        896,
+                                        196
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                333,
+                                                169,
+                                                896,
+                                                196
+                                            ],
+                                            "type": "text",
+                                            "content": "• 左图是 HSG 码在不同型号扫码枪下的图片效果，从图中效果",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        361,
+                                        202,
+                                        924,
+                                        226
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                361,
+                                                202,
+                                                924,
+                                                226
+                                            ],
+                                            "type": "text",
+                                            "content": "可以看出扫码效果都OK，这就要根据安装调试空间和公司主推",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        366,
+                                        233,
+                                        618,
+                                        259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                366,
+                                                233,
+                                                618,
+                                                259
+                                            ],
+                                            "type": "text",
+                                            "content": "产品策略出发选择合适型号。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                265,
+                                909,
+                                289
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 10,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        345,
+                                        264,
+                                        912,
+                                        292
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                345,
+                                                264,
+                                                912,
+                                                292
+                                            ],
+                                            "type": "text",
+                                            "content": "SA-IT-HSG 设备由于安装调试空间狭窄，所以选择了 DM50X",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                297,
+                                901,
+                                320
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 11,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        342,
+                                        295,
+                                        902,
+                                        324
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                342,
+                                                295,
+                                                902,
+                                                324
+                                            ],
+                                            "type": "text",
+                                            "content": "• DP 设备由于那时候公司主推 DM302X, 所以选择了 DM302X",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                329,
+                                883,
+                                382
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 12,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        336,
+                                        328,
+                                        883,
+                                        354
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                336,
+                                                328,
+                                                883,
+                                                354
+                                            ],
+                                            "type": "text",
+                                            "content": "• CIM 设备由于那时候公司主推 DM262X-1540P, 所以选择了",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        370,
+                                        362,
+                                        515,
+                                        386
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                370,
+                                                362,
+                                                515,
+                                                386
+                                            ],
+                                            "type": "text",
+                                            "content": "DM262X-1540P",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        36,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        180,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                520,
+                                181,
+                                534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.69
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        520,
+                                        181,
+                                        534
+                                    ],
+                                    "type": "text",
+                                    "content": "2020 Cognex Confidential",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        821,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 16,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                513,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        513,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        75,
+                        25,
+                        275,
+                        61
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                23,
+                                276,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        23,
+                                        276,
+                                        65
+                                    ],
+                                    "type": "text",
+                                    "content": "扫码枪的选型",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        74,
+                        82,
+                        227,
+                        109
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                79,
+                                227,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        79,
+                                        227,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "5. 举例说明二",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        53,
+                        189,
+                        498,
+                        322
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                53,
+                                189,
+                                498,
+                                322
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        189,
+                                        498,
+                                        322
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                53,
+                                                189,
+                                                498,
+                                                322
+                                            ],
+                                            "type": "image",
+                                            "image_path": "17e868b6651f558ebe19319c8c4645e720baeb12bea8a3eeeb3898b3e15e3c74.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                72,
+                                340,
+                                358,
+                                443
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        339,
+                                        355,
+                                        365
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                75,
+                                                339,
+                                                355,
+                                                365
+                                            ],
+                                            "type": "text",
+                                            "content": "备注：如上图所示，第一次扫",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        365,
+                                        355,
+                                        391
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                365,
+                                                355,
+                                                391
+                                            ],
+                                            "type": "text",
+                                            "content": "ZJ 码加 1.2.3.9.10 穴 ROMEO",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        391,
+                                        355,
+                                        416
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                391,
+                                                355,
+                                                416
+                                            ],
+                                            "type": "text",
+                                            "content": "码 ， 平 移 扫 码 枪 第 二 次 扫",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        416,
+                                        288,
+                                        443
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                416,
+                                                288,
+                                                443
+                                            ],
+                                            "type": "text",
+                                            "content": "4.5.6.7.8 穴 ROMEO 码",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        500,
+                        131,
+                        942,
+                        346
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 6,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                500,
+                                131,
+                                935,
+                                252
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        501,
+                                        132,
+                                        893,
+                                        156
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                501,
+                                                132,
+                                                893,
+                                                156
+                                            ],
+                                            "type": "text",
+                                            "content": "• 看到左图的扫码需求，那就得使用大视野",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        537,
+                                        163,
+                                        933,
+                                        188
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                537,
+                                                163,
+                                                933,
+                                                188
+                                            ],
+                                            "type": "text",
+                                            "content": "扫码枪 DM374X 了 , 但 DM374X 也有不同的",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        538,
+                                        194,
+                                        902,
+                                        219
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                538,
+                                                194,
+                                                902,
+                                                219
+                                            ],
+                                            "type": "text",
+                                            "content": "光源和镜头，如何选择？这就得考虑安装",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        538,
+                                        227,
+                                        708,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                538,
+                                                227,
+                                                708,
+                                                251
+                                            ],
+                                            "type": "text",
+                                            "content": "空间及图像效果了。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                500,
+                                256,
+                                942,
+                                346
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        503,
+                                        258,
+                                        929,
+                                        285
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                503,
+                                                258,
+                                                929,
+                                                285
+                                            ],
+                                            "type": "text",
+                                            "content": "• ANDA-PAMD2 设备经过现场大量验证，最后",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        532,
+                                        290,
+                                        941,
+                                        315
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                532,
+                                                290,
+                                                941,
+                                                315
+                                            ],
+                                            "type": "text",
+                                            "content": "选择了 16mm 高速镜头和 Torch 光源这样一套",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        530,
+                                        320,
+                                        585,
+                                        349
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                530,
+                                                320,
+                                                585,
+                                                349
+                                            ],
+                                            "type": "text",
+                                            "content": "组合。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        40,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        180,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                519,
+                                181,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.68
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        519,
+                                        181,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2020 Cognex Confidential",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        820,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        76,
+                        25,
+                        275,
+                        60
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                23,
+                                276,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        23,
+                                        276,
+                                        65
+                                    ],
+                                    "type": "text",
+                                    "content": "扫码枪的选型",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        75,
+                        82,
+                        228,
+                        110
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                82,
+                                227,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        82,
+                                        227,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "5. 举例说明三",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        80,
+                        149,
+                        256,
+                        320
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                80,
+                                149,
+                                256,
+                                320
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        149,
+                                        256,
+                                        320
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                80,
+                                                149,
+                                                256,
+                                                320
+                                            ],
+                                            "type": "image",
+                                            "image_path": "06745b0ae3acbc0598e3ea23eb92fdce0a98f5317a2d66d392494b6a7b4de76f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        106,
+                        332,
+                        211,
+                        356
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                333,
+                                211,
+                                357
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        333,
+                                        211,
+                                        357
+                                    ],
+                                    "type": "text",
+                                    "content": "主板石墨码",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        364,
+                        217,
+                        387
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                361,
+                                219,
+                                390
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        361,
+                                        151,
+                                        390
+                                    ],
+                                    "type": "text",
+                                    "content": "尺寸",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        152,
+                                        364,
+                                        219,
+                                        387
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "4 ^ { \\star } 4 \\mathsf { m m }",
+                                    "score": 0.52
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        396,
+                        208,
+                        419
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                394,
+                                209,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        394,
+                                        152,
+                                        421
+                                    ],
+                                    "type": "text",
+                                    "content": "规格",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        152,
+                                        395,
+                                        209,
+                                        419
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "1 6 ^ { \\star } 1 6",
+                                    "score": 0.85
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        313,
+                        204,
+                        725,
+                        293
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                316,
+                                202,
+                                707,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        316,
+                                        202,
+                                        707,
+                                        230
+                                    ],
+                                    "type": "text",
+                                    "content": "手动工站需要扫这个码，那根据大小和规格，",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                234,
+                                725,
+                                261
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        234,
+                                        725,
+                                        261
+                                    ],
+                                    "type": "text",
+                                    "content": "优先考虑 DM8050HDXM 这一款，然后经现场",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                266,
+                                625,
+                                294
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        266,
+                                        625,
+                                        294
+                                    ],
+                                    "type": "text",
+                                    "content": "大量验证扫码 OK 后就选用这款了。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        36,
+                        531
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        180,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                519,
+                                181,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        521,
+                                        63,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\circledcirc",
+                                    "score": 0.67
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        519,
+                                        181,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "2020 Cognex Confidential",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        820,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        391,
+                        256,
+                        562,
+                        293
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                388,
+                                251,
+                                564,
+                                297
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        388,
+                                        251,
+                                        564,
+                                        297
+                                    ],
+                                    "type": "text",
+                                    "content": "T h a n k s",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        522,
+                        38,
+                        532
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        52,
+                        521,
+                        181,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                520,
+                                182,
+                                534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        520,
+                                        182,
+                                        534
+                                    ],
+                                    "type": "text",
+                                    "content": "© 2020 Cognex Confidential",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        820,
+                        515,
+                        939,
+                        533
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                819,
+                                514,
+                                941,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        819,
+                                        514,
+                                        941,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                959,
+                540
+            ],
+            "page_idx": 8
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

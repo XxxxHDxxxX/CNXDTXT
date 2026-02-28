@@ -1,0 +1,696 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        41,
+                        32,
+                        115,
+                        44
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                40,
+                                31,
+                                116,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        31,
+                                        116,
+                                        45
+                                    ],
+                                    "type": "text",
+                                    "content": "1. CogToolBlock",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        43,
+                        47,
+                        316,
+                        327
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                43,
+                                47,
+                                316,
+                                327
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        47,
+                                        316,
+                                        327
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                47,
+                                                316,
+                                                327
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3968758a86f070dbd804d939454e30a7c78d83cc094e21a7822b4b0b5a0499f0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        39,
+                        343,
+                        193,
+                        356
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                343,
+                                195,
+                                358
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        343,
+                                        195,
+                                        358
+                                    ],
+                                    "type": "text",
+                                    "content": "Visionpro 软件保存一般 5 种方式：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        41,
+                        359,
+                        189,
+                        433
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 8,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                41,
+                                359,
+                                189,
+                                371
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        359,
+                                        189,
+                                        373
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                359,
+                                                55,
+                                                373
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\textcircled{1}",
+                                            "score": 0.83
+                                        },
+                                        {
+                                            "bbox": [
+                                                56,
+                                                359,
+                                                189,
+                                                373
+                                            ],
+                                            "type": "text",
+                                            "content": "保存 Quickbuild，后缀名.VPP",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                41,
+                                375,
+                                173,
+                                387
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        375,
+                                        174,
+                                        388
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                375,
+                                                55,
+                                                388
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\cdot",
+                                            "score": 0.86
+                                        },
+                                        {
+                                            "bbox": [
+                                                56,
+                                                375,
+                                                174,
+                                                388
+                                            ],
+                                            "type": "text",
+                                            "content": "保存 Cogjob，后缀名.VPP",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                41,
+                                391,
+                                185,
+                                403
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        391,
+                                        186,
+                                        404
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                391,
+                                                55,
+                                                404
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\textcircled{3}",
+                                            "score": 0.83
+                                        },
+                                        {
+                                            "bbox": [
+                                                56,
+                                                391,
+                                                186,
+                                                403
+                                            ],
+                                            "type": "text",
+                                            "content": "保存 ToolBlock，后缀名.VPP",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                41,
+                                406,
+                                162,
+                                418
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        407,
+                                        163,
+                                        420
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                407,
+                                                55,
+                                                419
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\textcircled{4}",
+                                            "score": 0.8
+                                        },
+                                        {
+                                            "bbox": [
+                                                55,
+                                                407,
+                                                163,
+                                                420
+                                            ],
+                                            "type": "text",
+                                            "content": "保存工具，后缀名.VPP",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                41,
+                                422,
+                                154,
+                                433
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        421,
+                                        155,
+                                        436
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                422,
+                                                55,
+                                                435
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\textcircled{5}",
+                                            "score": 0.86
+                                        },
+                                        {
+                                            "bbox": [
+                                                55,
+                                                421,
+                                                155,
+                                                436
+                                            ],
+                                            "type": "text",
+                                            "content": "保存脚本，后缀名.cs",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        39,
+                        437,
+                        246,
+                        449
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                436,
+                                247,
+                                453
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        436,
+                                        247,
+                                        453
+                                    ],
+                                    "type": "text",
+                                    "content": "五中方式互相不通用，怎么保存，怎么打开。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        39,
+                        453,
+                        67,
+                        465
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                453,
+                                71,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        453,
+                                        71,
+                                        468
+                                    ],
+                                    "type": "text",
+                                    "content": "注意：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        39,
+                        468,
+                        552,
+                        574
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 15,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                39,
+                                468,
+                                537,
+                                481
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 11,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        468,
+                                        539,
+                                        483
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                39,
+                                                468,
+                                                539,
+                                                483
+                                            ],
+                                            "type": "text",
+                                            "content": "1. CogToolBlock 界面点击运行，只会运行工具，不会切换图片，需要在 quickbuild 或者 cogjob 界面点击运行。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                39,
+                                484,
+                                479,
+                                497
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 12,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        483,
+                                        481,
+                                        498
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                483,
+                                                481,
+                                                498
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 考试要求保存 Quickbuild、Cogjob、ToolBlock，按照要求来，ToolBlock 指的就是 CogToolBlock",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                39,
+                                500,
+                                552,
+                                528
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 13,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        500,
+                                        553,
+                                        514
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                500,
+                                                553,
+                                                514
+                                            ],
+                                            "type": "text",
+                                            "content": "3. CogToolBlock 可以直接添加输入输出。Cogjob 界面的结果可以直接连线输入给 CogToolBlock，CogToolBlock 界",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        40,
+                                        513,
+                                        239,
+                                        530
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                513,
+                                                239,
+                                                530
+                                            ],
+                                            "type": "text",
+                                            "content": "面的工具结果可以直接连线输出给 Outputs",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                39,
+                                530,
+                                552,
+                                574
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 14,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        528,
+                                        554,
+                                        547
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                38,
+                                                528,
+                                                554,
+                                                547
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 厂区车间电脑上视觉软件的 Inspection1 2 3 等等都是 ToolBlock 格式，可以在 Visionpro 中添加 CogToolBlock 工",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        39,
+                                        544,
+                                        554,
+                                        563
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                39,
+                                                544,
+                                                554,
+                                                563
+                                            ],
+                                            "type": "text",
+                                            "content": "具块，然后在添加的 CogToolBlock 工具块界面左上角点击打开来选择打开某个 Inspection 或者是 Calibrationo 文",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        39,
+                                        561,
+                                        60,
+                                        577
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                39,
+                                                561,
+                                                60,
+                                                577
+                                            ],
+                                            "type": "text",
+                                            "content": "件。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        41,
+                        589,
+                        509,
+                        707
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                41,
+                                589,
+                                509,
+                                707
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        589,
+                                        509,
+                                        707
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                589,
+                                                509,
+                                                707
+                                            ],
+                                            "type": "image",
+                                            "image_path": "2c8b0f84d0ba4b6567816bfc937dddd2f284b445e3778e910a830dec2667b676.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

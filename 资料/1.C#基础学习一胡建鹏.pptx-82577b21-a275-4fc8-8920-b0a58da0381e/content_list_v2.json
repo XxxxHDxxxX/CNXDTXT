@@ -1,0 +1,3417 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                283,
+                215,
+                350
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "FASTER FORWA "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                13,
+                366,
+                499,
+                746
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C# 基础学习一"
+                    }
+                ]
+            },
+            "bbox": [
+                624,
+                487,
+                872,
+                559
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                35,
+                966,
+                41,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                186,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "学习内容"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                44,
+                44,
+                225,
+                125
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.C#.NET Framework 简介 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 变量和表达式"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                51,
+                227,
+                397,
+                359
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                35,
+                966,
+                37,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                966,
+                186,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                955,
+                977,
+                985
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "参考资料"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                40,
+                42,
+                228,
+                129
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C# 编程书籍 (C# 入门经典 2012/2015 等 )"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "网上 C# 编程视频"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                40,
+                244,
+                542,
+                379
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                34,
+                966,
+                39,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "C#.NET Framework 简介 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                40,
+                44,
+                551,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": ".NET Framework 是 Microsoft 为开发应用程序而创建的最新开发平台，它包括："
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                187,
+                779,
+                229
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{1}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "：一个庞大的代码库。可以用 C# 等语言通过面向对象编程技术（ OPP ）来使用这些代码。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{2}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "：定义了基本的类型，这也被称为公共通用类型系统（ CTS ）。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{3}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "：包含了 .NET 公共语言运行库（ CLR ），负责管理 .NET 库开发的所有应用程序的执行"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                244,
+                910,
+                405
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C# 是运行在 .NET CLR （ common language runtime ）上的，用于创建应用程序的一种高级语言，它是以前的语言（例如 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { C } { + + } \\mathsf { \\Gamma } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "）的一种演变，可以用于编写任意程序，包括 Wed 应用程序和桌面应用程序。"
+                    }
+                ]
+            },
+            "bbox": [
+                46,
+                596,
+                950,
+                718
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                966,
+                41,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                186,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Visual Studio 简介 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                39,
+                44,
+                413,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Visual Studio 是微软公司推出的开发环境。是最流行的 Windows 平台应用程序开发环境 .版本有 VS2012/VS2015/VS2019 等等。我们以 VS2012 学习为例。"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                187,
+                871,
+                287
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4aee232f95a9952a13c0d23b4346a8e5960f20d434d085aa7d60777481cfdd8b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                52,
+                294,
+                530,
+                851
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/154f6472d5528a9b29b5d2ec82c986bc6646fdd0c2b6def9168ce9a1b52dbcc7.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                507,
+                292,
+                877,
+                746
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                34,
+                966,
+                39,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VS C# 编写"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                39,
+                46,
+                278,
+                127
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": ".NET Framework 编写应用程序，我们主要编写控制台应用程序。"
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                187,
+                642,
+                229
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3f68e357a4dd3b95ca743a62c33b39feda2f4e1e4fc382b171cdc66ac79fc60b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                44,
+                268,
+                525,
+                859
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                966,
+                38,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VS C# 编写"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                39,
+                44,
+                278,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "程序结构："
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                187,
+                145,
+                229
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d1f16988ef8e56123f8054f456b75e4cc97df3b256e89d7130861462665cf3d4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                42,
+                277,
+                583,
+                875
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                966,
+                38,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VS C# 编写"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                40,
+                44,
+                280,
+                129
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": ".sln ：解决方案文件"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": ".csproj ：项目文件"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": ".cs: 类文件"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                185,
+                309,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "思考：解决方案文件和项目文件以及类文件之间的关系？"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                431,
+                767,
+                490
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                35,
+                966,
+                37,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                186,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VS C# 编写"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                39,
+                44,
+                278,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "标识符，关键字"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                49,
+                179,
+                257,
+                238
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "标识符、关键字"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                161,
+                338,
+                340,
+                388
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "标识符是程序编写人员为常量、变量、数据类型、方法、函数、属性、类、程序等定义的名称。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "·例如定义一个字符串变量：string username;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "关键字对于C#编译器而言，具有特定含义的名称，比如程序中的usingclass,static,void都属于关键字。如果错误地将关键字用作标识符，编译器会产生一个错误，我们马上就会知道出错了，所以不必担心"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                424,
+                424,
+                781
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "标识符的规定"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                619,
+                337,
+                776,
+                387
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "·只能由大写字母、小写字母、数字和下划线_组成"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "·必须以字母或者下划线开头"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C语言是区分大小写的，username与Username是不同的标识符"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "·如果C#关键字作为标识符就在在标识符前加上“@”"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "·标识符的命名最好好辨认（可用英文）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                425,
+                901,
+                794
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                34,
+                966,
+                39,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VS C# 编写"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                39,
+                44,
+                278,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "命名空间"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                179,
+                169,
+                238
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "命名空间"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                412,
+                233,
+                552,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在C#中，有时命名空间相当长，输入起来很烦琐，用这种方式指定某个特定的类也是不必要的."
+                    }
+                ]
+            },
+            "bbox": [
+                213,
+                338,
+                700,
+                429
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "要解决这种问题，可在文件的顶部列出类的命名空间，前面加上using关键字，这样引用一个命名之间后，访问其空间内的方法就会向在其类内访问一样。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "using还有另一个作用，就是给命名空间一个别名．如果命名空间的名称非常长，又要在代码中使用多次，而用户不希望该命名空间的名称包含在using指令中〈例如，避免类名冲突〉，这时就可以给该命名空间指定一个别名，"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "·其语法如下：using别名=命名空间"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                214,
+                457,
+                710,
+                885
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10 "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                964,
+                42,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VS C# 编写"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                39,
+                44,
+                278,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "命名规范 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                179,
+                171,
+                238
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "命名规范 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                193,
+                318,
+                306,
+                372
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "目前，在.NET Framework 名称空间中有两种命名约定，称为PascalCase和camelCase"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "这两个名称中使用的大小写表示它们的用法。这两种命名约定都应用到由多个单词组成的名称中并指定名称中的每个单词除了第一个字母大写外，其余字母都是小写。在camelCase中，还有一个规则，即第一个单词以小写字母开头。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                46,
+                412,
+                462,
+                822
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "命名规范 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                633,
+                316,
+                743,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "·下面是camelCase变量名："
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                396,
+                706,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "age "
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                457,
+                521,
+                488
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "firstName "
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                509,
+                567,
+                540
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " timeOfDeath "
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                562,
+                589,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "·下面是PascalCase变量名："
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                612,
+                704,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Age "
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                672,
+                522,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LastName "
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                725,
+                567,
+                755
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WinterOfDiscontent "
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                777,
+                641,
+                809
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11 "
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                964,
+                40,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "课堂练习 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                42,
+                44,
+                223,
+                127
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "下面哪些命名是正确的："
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                179,
+                271,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "123Ta; "
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                240,
+                117,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "myFamily; "
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                300,
+                149,
+                346
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LastName; "
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                359,
+                154,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "this_specT2; "
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                418,
+                171,
+                462
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The&value; "
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                477,
+                159,
+                516
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "_detaValue; "
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                533,
+                163,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "_In-HSG-Angle; "
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                592,
+                200,
+                638
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                28,
+                966,
+                40,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                186,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "变量"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                42,
+                46,
+                135,
+                127
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "变量是有名称和类型的数据块，变量只有经过声明和初始化后，才能使用，可以把字面值赋予变量，以初始化它们，变量还可在单个步骤中声明和初始化。"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                185,
+                929,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "计算机存储变量的过程："
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                285,
+                271,
+                327
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 声明变量"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 给变量赋值 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 使用变量"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                344,
+                179,
+                501
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13 "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                966,
+                42,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "变量"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                42,
+                44,
+                135,
+                127
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "简单类型"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                185,
+                137,
+                227
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 整数： int,short,long 等。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 浮点： double ， float 等。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 字符： char,string 。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 布尔： bool 。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                244,
+                312,
+                466
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                966,
+                42,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "课堂练习 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                42,
+                44,
+                225,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "请用户输入姓名，性别，年龄，当用户按下某个键后在屏幕上显示：您好， XX ，您的年龄是 XX ，您是 X 生。"
+                    }
+                ]
+            },
+            "bbox": [
+                46,
+                185,
+                952,
+                272
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                966,
+                40,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "表达式"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                41,
+                44,
+                183,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "把变量和字面值（在使用运算符时，它们称为操作数）与运算符组合起来，就得到了表达式，它是计算的基本构件。"
+                    }
+                ]
+            },
+            "bbox": [
+                46,
+                185,
+                952,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "简单的操作包括所有的基本数学操作，如加减乘除，还有专门用于处理布尔值的逻辑运算以及赋值运算。"
+                    }
+                ]
+            },
+            "bbox": [
+                46,
+                285,
+                950,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "问题：让用户输入他的数学和语文成绩，计算他的总成绩并显示出来。"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                383,
+                689,
+                429
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "16 "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                966,
+                42,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "表达式"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                41,
+                44,
+                183,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "运算符 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                47,
+                187,
+                117,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "按操作数的个数："
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                244,
+                209,
+                288
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "一元运算符：处理一个操作数 例如： int "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\mathtt { a } = 1 0"
+                            },
+                            {
+                                "type": "text",
+                                "content": ";"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "二元运算符：处理两个操作数 例如： "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "a + b"
+                            },
+                            {
+                                "type": "text",
+                                "content": ";"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "三元运算符：处理三个操作数 例如：？：；"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                303,
+                494,
+                466
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "按运算类型："
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                479,
+                168,
+                522
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "数字运算符，赋值运算符，关系运算符，布尔运算符，位运算符，其他运算符。"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                537,
+                772,
+                583
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "17 "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                966,
+                42,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                988
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "表达式"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                42,
+                44,
+                183,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "数学运算符 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                49,
+                185,
+                158,
+                229
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6c8f4c66e9d138c134233e555d2449e4b5e893f24b4471c8dde48dcfa0595e51.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>运算符</td><td>类别</td><td>示例表达式</td><td>结果</td></tr><tr><td>+</td><td>二元</td><td>var1=var2+var3</td><td>求和</td></tr><tr><td>-</td><td>二元</td><td>var1=var2-var3</td><td>求差</td></tr><tr><td>*</td><td>二元</td><td>var1=var2*var3</td><td>求乘</td></tr><tr><td>/</td><td>二元</td><td>var1=var2/var3</td><td>当var1为double 就是除法，var1 为int,取整</td></tr><tr><td>%</td><td>二元</td><td>var1=var2+var3</td><td>取余数</td></tr><tr><td>+</td><td>一元</td><td>var1=+var2</td><td>乘以1</td></tr><tr><td>-</td><td>一元</td><td>var1=-var2</td><td>乘以-1</td></tr><tr><td>++</td><td>一元</td><td>var1=var2++</td><td>后，先用后加</td></tr><tr><td>++</td><td>一元</td><td>var1=++var2</td><td>前，先加后用</td></tr><tr><td>--</td><td>一元</td><td>var1=var2--</td><td>后，先用后减</td></tr><tr><td>--</td><td>一元</td><td>var1=--var2</td><td>前，先减后用</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                185,
+                227,
+                600,
+                905
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18 "
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                964,
+                40,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "表达式"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                41,
+                44,
+                183,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "赋值运算符 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                47,
+                185,
+                158,
+                231
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4461c3e82a3e89c79a12a542b686be08ef5b8b8590c5f72fdfaf16d40393fe8a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>运算符</td><td>类别</td><td>示例表达式</td><td>结果</td></tr><tr><td>=</td><td>二元</td><td>var1=var2</td><td>Var2的值赋值给 var1</td></tr><tr><td>+=</td><td>二元</td><td>var1+=var2</td><td>var1=var1+var2</td></tr><tr><td>-</td><td>二元</td><td>var1-=var2</td><td>var1=var1-var2</td></tr><tr><td>*=</td><td>二元</td><td>var1*=var2</td><td>var1=var1*var2</td></tr><tr><td>/=</td><td>二元</td><td>var1/=var2</td><td>var1=var1/var2</td></tr><tr><td>%=</td><td>二元</td><td>var1%=var2</td><td>var1=var1%var2</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                172,
+                290,
+                612,
+                685
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "简单赋值 其他则为复合赋值"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                709,
+                422,
+                757
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "使用这些运算符,特别是在使用长变量名时,更便于阅读"
+                    }
+                ]
+            },
+            "bbox": [
+                183,
+                770,
+                613,
+                812
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                29,
+                964,
+                40,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                187,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "表达式"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                42,
+                44,
+                183,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关系运算符"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                185,
+                158,
+                231
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/bbe1751c19e49b4a2470e0223bcb908a1bfe0292adf06d59fa464f01be066b72.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>运算符</td><td>类别</td><td>示例表达式</td><td>结果</td></tr><tr><td>&gt;</td><td>二元</td><td>var1=var2&gt;var3</td><td>如果真的大于，那就返回 true,如果小于，那就返回 false</td></tr><tr><td>&lt;</td><td>二元</td><td>var1=var2&lt;var3</td><td>如果小于，true否则 false</td></tr><tr><td>&gt;=</td><td>二元</td><td>var1=var2&gt;=var3</td><td>如果大于等于，true</td></tr><tr><td>&lt;=</td><td>二元</td><td>var1=var2&lt;=var3</td><td>如果小于等于true</td></tr><tr><td>!=</td><td>不等于</td><td>var1=var2!=var3</td><td>如果不等于true</td></tr><tr><td>==</td><td>等于</td><td>var1=var2===var3</td><td>如果等于true</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                173,
+                333,
+                583,
+                759
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                28,
+                964,
+                40,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "表达式"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                42,
+                44,
+                183,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "布尔运算符"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                49,
+                185,
+                158,
+                231
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8947ac86a4f0c6e36b51e850214d9cc749e735e7352c4aff44aed3bc8547a9a1.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>运算符</td><td>类别</td><td>示例表达式</td><td>结果</td></tr><tr><td>&amp;&amp;</td><td>二元</td><td>var3=var1&amp;&amp;var2</td><td>同时true结果true</td></tr><tr><td>||</td><td>二元</td><td>var3=var1||var2</td><td>一个true结果true</td></tr><tr><td>!</td><td>一元</td><td>var3=!var1</td><td>Var1为true时false</td></tr><tr><td>^</td><td>二元</td><td>var3=var1^var2</td><td>有且只有一个为true,结果为true</td></tr><tr><td>&amp;</td><td>二元</td><td>var3=var1&amp;var2</td><td>同时true结果true</td></tr><tr><td>|</td><td>二元</td><td>var3=var1||var2</td><td>一个true结果true</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                180,
+                361,
+                625,
+                759
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                28,
+                966,
+                40,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "表达式"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                42,
+                44,
+                183,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "运算符的优先级"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                47,
+                185,
+                200,
+                231
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/db9063915cc4ee84c6e800b722a4a96a5fc7a72c8ab490faca292098a9e7710d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表3-10运算符的优先级"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>优 先 级</td><td>运算符</td></tr><tr><td rowspan=\"5\">优 先 级 由 高 到 低</td><td>++, -- (用作前缀); +, - (一元)</td></tr><tr><td>* ,/,%</td></tr><tr><td>+,-</td></tr><tr><td>\\( = , * = , / = , \\% = , += , - = \\)</td></tr><tr><td>++,--(用作后缀)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                155,
+                425,
+                848,
+                724
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                28,
+                964,
+                40,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                979,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "课堂练习 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                42,
+                44,
+                225,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "编写一个计算圆面积程序，半径通过键盘录入。"
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                166,
+                489,
+                211
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                28,
+                966,
+                40,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                186,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                856,
+                953,
+                978,
+                987
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "课后练习 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                42,
+                44,
+                223,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "用户随意输入一个秒数（例如 1367855 秒），编程算出该秒数是几天几小时几分钟几秒。"
+                    }
+                ]
+            },
+            "bbox": [
+                44,
+                166,
+                863,
+                212
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                28,
+                964,
+                42,
+                985
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                988
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                283,
+                215,
+                350
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "FASTER FORWA "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                16,
+                366,
+                499,
+                746
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thank You "
+                    }
+                ]
+            },
+            "bbox": [
+                636,
+                468,
+                864,
+                546
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                29,
+                966,
+                40,
+                983
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2023 Cognex Confidential "
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                964,
+                188,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "COGNEX "
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                979,
+                987
+            ]
+        }
+    ]
+]

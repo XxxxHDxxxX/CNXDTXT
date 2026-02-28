@@ -1,0 +1,4795 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        87,
+                        86,
+                        124,
+                        103
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                84,
+                                130,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        84,
+                                        130,
+                                        106
+                                    ],
+                                    "type": "text",
+                                    "content": "姓名：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        180,
+                        86,
+                        216,
+                        102
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                178,
+                                84,
+                                221,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        178,
+                                        84,
+                                        221,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "考号：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        269,
+                        86,
+                        305,
+                        102
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                267,
+                                84,
+                                309,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        267,
+                                        84,
+                                        309,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "得分：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        214,
+                        114,
+                        380,
+                        135
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                214,
+                                114,
+                                380,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        114,
+                                        380,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "视觉工程师三级笔试",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        148,
+                        304,
+                        163
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                123,
+                                147,
+                                304,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        123,
+                                        147,
+                                        304,
+                                        165
+                                    ],
+                                    "type": "text",
+                                    "content": "填空题。（每空 1.5 分，共 30 分）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        181,
+                        502,
+                        303
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 8,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                86,
+                                181,
+                                500,
+                                232
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        180,
+                                        500,
+                                        196
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                180,
+                                                500,
+                                                196
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 棋盘格标定是使用一个棋盘格板来计算像素和真实单位之间的转换，它可以",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        216,
+                                        448,
+                                        234
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                216,
+                                                119,
+                                                233
+                                            ],
+                                            "type": "text",
+                                            "content": "计算_",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                143,
+                                                216,
+                                                173,
+                                                232
+                                            ],
+                                            "type": "text",
+                                            "content": "_线性_",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                228,
+                                                216,
+                                                282,
+                                                232
+                                            ],
+                                            "type": "text",
+                                            "content": "_转换或者",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                308,
+                                                216,
+                                                350,
+                                                232
+                                            ],
+                                            "type": "text",
+                                            "content": "_非线性",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                411,
+                                                216,
+                                                448,
+                                                234
+                                            ],
+                                            "type": "text",
+                                            "content": "_转换。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                251,
+                                502,
+                                303
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        250,
+                                        503,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                251,
+                                                309,
+                                                265
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 如下图，径向畸变分为两种，异常1是",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                326,
+                                                251,
+                                                377,
+                                                266
+                                            ],
+                                            "type": "text",
+                                            "content": "桶形畸变",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                448,
+                                                250,
+                                                503,
+                                                267
+                                            ],
+                                            "type": "text",
+                                            "content": "_，异常 2",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        87,
+                                        285,
+                                        283,
+                                        303
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                285,
+                                                105,
+                                                303
+                                            ],
+                                            "type": "text",
+                                            "content": "是_",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                153,
+                                                287,
+                                                204,
+                                                302
+                                            ],
+                                            "type": "text",
+                                            "content": "枕形畸变",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                276,
+                                                295,
+                                                283,
+                                                301
+                                            ],
+                                            "type": "text",
+                                            "content": "。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        109,
+                        336,
+                        171,
+                        393
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                109,
+                                336,
+                                171,
+                                393
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        336,
+                                        171,
+                                        393
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                109,
+                                                336,
+                                                171,
+                                                393
+                                            ],
+                                            "type": "image",
+                                            "image_path": "2ed9c79b466d253a53bd2be28c03aa029a73f1eb0dc3830439b52419f05ba831.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                125,
+                                402,
+                                159,
+                                417
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        401,
+                                        161,
+                                        421
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                124,
+                                                401,
+                                                161,
+                                                421
+                                            ],
+                                            "type": "text",
+                                            "content": "异常1",
+                                            "score": 0.999
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        206,
+                        335,
+                        270,
+                        394
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                206,
+                                335,
+                                270,
+                                394
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        206,
+                                        335,
+                                        270,
+                                        394
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                206,
+                                                335,
+                                                270,
+                                                394
+                                            ],
+                                            "type": "image",
+                                            "image_path": "5585dbd78e578a0654352e6ade6c8ab34ec576b941b53c4dc30fe9aa29e16ba5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                403,
+                                266,
+                                418
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        403,
+                                        267,
+                                        421
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                403,
+                                                267,
+                                                421
+                                            ],
+                                            "type": "text",
+                                            "content": "正常图像",
+                                            "score": 0.99
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        290,
+                        330,
+                        362,
+                        395
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                290,
+                                330,
+                                362,
+                                395
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        290,
+                                        330,
+                                        362,
+                                        395
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                290,
+                                                330,
+                                                362,
+                                                395
+                                            ],
+                                            "type": "image",
+                                            "image_path": "23e23c01ad337c1d5083cc555e8b74576d35cabd9411dbb009f723a5c79428ae.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                310,
+                                401,
+                                345,
+                                416
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        399,
+                                        346,
+                                        420
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                309,
+                                                399,
+                                                346,
+                                                420
+                                            ],
+                                            "type": "text",
+                                            "content": "异常2",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        86,
+                        463,
+                        502,
+                        583
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 17,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                86,
+                                463,
+                                500,
+                                513
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 15,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        462,
+                                        501,
+                                        478
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                464,
+                                                224,
+                                                476
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 标定后的纵横比越接近",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                249,
+                                                466,
+                                                256,
+                                                476
+                                            ],
+                                            "type": "text",
+                                            "content": "1",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                296,
+                                                462,
+                                                408,
+                                                478
+                                            ],
+                                            "type": "text",
+                                            "content": "越好、倾斜越接近于",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                437,
+                                                467,
+                                                445,
+                                                476
+                                            ],
+                                            "type": "text",
+                                            "content": "0",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                483,
+                                                462,
+                                                501,
+                                                478
+                                            ],
+                                            "type": "text",
+                                            "content": "_越",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        85,
+                                        497,
+                                        111,
+                                        516
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                85,
+                                                497,
+                                                111,
+                                                516
+                                            ],
+                                            "type": "text",
+                                            "content": "好。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                532,
+                                502,
+                                583
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 16,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        531,
+                                        503,
+                                        550
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                533,
+                                                289,
+                                                547
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 如下图C#代码，最后输出的结果是",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                312,
+                                                532,
+                                                339,
+                                                548
+                                            ],
+                                            "type": "text",
+                                            "content": "_100_",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                392,
+                                                531,
+                                                503,
+                                                550
+                                            ],
+                                            "type": "text",
+                                            "content": "_。这里 num 始终为",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        568,
+                                        348,
+                                        584
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                568,
+                                                290,
+                                                584
+                                            ],
+                                            "type": "text",
+                                            "content": "1，i<100 则最大为 99，所以 Score 是",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                290,
+                                                568,
+                                                348,
+                                                583
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "1 + 9 9 = 1 0 0",
+                                            "score": 0.84
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        42,
+                        173,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                42,
+                                174,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        42,
+                                        174,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "Cognex GS FSE Test",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        422,
+                        746,
+                        482,
+                        758
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 18,
+                    "lines": [
+                        {
+                            "bbox": [
+                                421,
+                                746,
+                                483,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        421,
+                                        746,
+                                        483,
+                                        759
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        87,
+                        86,
+                        307,
+                        103
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                84,
+                                309,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        84,
+                                        129,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "姓名：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        178,
+                                        84,
+                                        221,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "考号：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        267,
+                                        84,
+                                        309,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "得分：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        110,
+                        107,
+                        318,
+                        263
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                110,
+                                107,
+                                318,
+                                263
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        107,
+                                        318,
+                                        263
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "text",
+                                            "content": "static void Main(string[] args)   \n{ int num "
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "= 0"
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "text",
+                                            "content": " double score "
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "= 0"
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "text",
+                                            "content": " num "
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "= 1"
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "text",
+                                            "content": " //Console.WriteLine(num); for (int i "
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "="
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "text",
+                                            "content": " num; i "
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "<  100"
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "text",
+                                            "content": " .i++) { score "
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "="
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "text",
+                                            "content": " num "
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "^+"
+                                        },
+                                        {
+                                            "bbox": [
+                                                110,
+                                                107,
+                                                318,
+                                                263
+                                            ],
+                                            "type": "text",
+                                            "content": " i; } Console.WriteLine(score); Console.ReadKey();   \n}"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "algorithm"
+                },
+                {
+                    "bbox": [
+                        86,
+                        290,
+                        194,
+                        306
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                290,
+                                195,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        290,
+                                        195,
+                                        305
+                                    ],
+                                    "type": "text",
+                                    "content": "5. 翻译以下自由度：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        108,
+                        324,
+                        408,
+                        341
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                322,
+                                393,
+                                340
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        323,
+                                        189,
+                                        340
+                                    ],
+                                    "type": "text",
+                                    "content": "Translation：_",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        218,
+                                        322,
+                                        250,
+                                        340
+                                    ],
+                                    "type": "text",
+                                    "content": "_偏移_",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        282,
+                                        322,
+                                        360,
+                                        340
+                                    ],
+                                    "type": "text",
+                                    "content": "Rotation：___",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        364,
+                                        323,
+                                        393,
+                                        339
+                                    ],
+                                    "type": "text",
+                                    "content": "_角度",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        358,
+                        430,
+                        375
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                355,
+                                393,
+                                376
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        355,
+                                        164,
+                                        376
+                                    ],
+                                    "type": "text",
+                                    "content": "Scaling：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        356,
+                                        242,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "_缩放",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        281,
+                                        355,
+                                        323,
+                                        375
+                                    ],
+                                    "type": "text",
+                                    "content": "Skew：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        365,
+                                        357,
+                                        393,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "_倾斜",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        391,
+                        286,
+                        408
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                107,
+                                390,
+                                229,
+                                409
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        391,
+                                        167,
+                                        409
+                                    ],
+                                    "type": "text",
+                                    "content": "Aspect：_",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        199,
+                                        390,
+                                        229,
+                                        407
+                                    ],
+                                    "type": "text",
+                                    "content": "_比例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        425,
+                        505,
+                        708
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 11,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                86,
+                                425,
+                                496,
+                                472
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        423,
+                                        496,
+                                        441
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                423,
+                                                496,
+                                                441
+                                            ],
+                                            "type": "text",
+                                            "content": "6. CogImageFileTool的作用是将图像写入到文件中或从文件中读出，它支持",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        454,
+                                        478,
+                                        475
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                455,
+                                                164,
+                                                472
+                                            ],
+                                            "type": "text",
+                                            "content": "的文件类型有",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                195,
+                                                456,
+                                                219,
+                                                470
+                                            ],
+                                            "type": "text",
+                                            "content": "_idb",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                255,
+                                                465,
+                                                261,
+                                                470
+                                            ],
+                                            "type": "text",
+                                            "content": "、",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                304,
+                                                458,
+                                                336,
+                                                470
+                                            ],
+                                            "type": "text",
+                                            "content": "_cdb_",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                350,
+                                                455,
+                                                398,
+                                                473
+                                            ],
+                                            "type": "text",
+                                            "content": "__和_____",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                400,
+                                                454,
+                                                441,
+                                                475
+                                            ],
+                                            "type": "text",
+                                            "content": "__bmp_",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                472,
+                                                464,
+                                                478,
+                                                470
+                                            ],
+                                            "type": "text",
+                                            "content": "。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                487,
+                                503,
+                                533
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 8,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        486,
+                                        489,
+                                        503
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                487,
+                                                367,
+                                                502
+                                            ],
+                                            "type": "text",
+                                            "content": "7. CogPMAlignTool 训练模板的方式有两种，分别是",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                395,
+                                                486,
+                                                424,
+                                                503
+                                            ],
+                                            "type": "text",
+                                            "content": "_建模",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                471,
+                                                486,
+                                                489,
+                                                503
+                                            ],
+                                            "type": "text",
+                                            "content": "_和",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        119,
+                                        518,
+                                        204,
+                                        534
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                119,
+                                                518,
+                                                148,
+                                                534
+                                            ],
+                                            "type": "text",
+                                            "content": "_掩膜",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                196,
+                                                525,
+                                                204,
+                                                534
+                                            ],
+                                            "type": "text",
+                                            "content": "_。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                550,
+                                498,
+                                602
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 9,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        549,
+                                        454,
+                                        565
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                549,
+                                                454,
+                                                565
+                                            ],
+                                            "type": "text",
+                                            "content": "8. CogBlobTool的极性在二值分割的情况下才有，它分为两种分别是",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        585,
+                                        456,
+                                        602
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                585,
+                                                141,
+                                                602
+                                            ],
+                                            "type": "text",
+                                            "content": "白底黑点_",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                296,
+                                                585,
+                                                348,
+                                                602
+                                            ],
+                                            "type": "text",
+                                            "content": "_黑底白点",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                449,
+                                                592,
+                                                456,
+                                                600
+                                            ],
+                                            "type": "text",
+                                            "content": "。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                619,
+                                505,
+                                708
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 10,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        619,
+                                        499,
+                                        634
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                619,
+                                                499,
+                                                634
+                                            ],
+                                            "type": "text",
+                                            "content": "9. 假设相机型号为 CAM-CIC-5000R-14-G（相机芯片尺寸为 1/2.5”，芯片大小",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        655,
+                                        480,
+                                        671
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                655,
+                                                480,
+                                                671
+                                            ],
+                                            "type": "text",
+                                            "content": "长边为5.7mm），配合一个0.3倍远心镜头，则可算出的视野长边大小为",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        114,
+                                        690,
+                                        364,
+                                        707
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                114,
+                                                692,
+                                                133,
+                                                707
+                                            ],
+                                            "type": "text",
+                                            "content": "_19",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                170,
+                                                690,
+                                                306,
+                                                707
+                                            ],
+                                            "type": "text",
+                                            "content": "__。5.7/0.3=19 视野/芯片",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                307,
+                                                692,
+                                                315,
+                                                703
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\cdot",
+                                            "score": 0.62
+                                        },
+                                        {
+                                            "bbox": [
+                                                315,
+                                                690,
+                                                364,
+                                                707
+                                            ],
+                                            "type": "text",
+                                            "content": "放大倍率",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        42,
+                        173,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                42,
+                                174,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        42,
+                                        174,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "Cognex GS FSE Test",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        422,
+                        746,
+                        483,
+                        758
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                421,
+                                746,
+                                484,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        421,
+                                        746,
+                                        484,
+                                        759
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        86,
+                        307,
+                        103
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                84,
+                                309,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        84,
+                                        129,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "姓名：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        178,
+                                        84,
+                                        220,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "考号：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        267,
+                                        84,
+                                        309,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "得分：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        116,
+                        318,
+                        132
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                116,
+                                318,
+                                132
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        121,
+                                        107,
+                                        131
+                                    ],
+                                    "type": "text",
+                                    "content": "二、",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        122,
+                                        116,
+                                        318,
+                                        132
+                                    ],
+                                    "type": "text",
+                                    "content": "不定项选择题（每空2分，共10分）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        143,
+                        432,
+                        158
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                142,
+                                437,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        142,
+                                        437,
+                                        161
+                                    ],
+                                    "type": "text",
+                                    "content": "1. 关于一个 Job 包含内容的说明，下面描述正确的是 （ ABD ）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        173,
+                        409,
+                        278
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 8,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                107,
+                                173,
+                                409,
+                                188
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        171,
+                                        410,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                108,
+                                                173,
+                                                125,
+                                                190
+                                            ],
+                                            "type": "text",
+                                            "content": "A、",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                145,
+                                                171,
+                                                410,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "至少包含一个提供图像的图像源（Image Source）",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                203,
+                                352,
+                                218
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        203,
+                                        352,
+                                        221
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                109,
+                                                204,
+                                                126,
+                                                220
+                                            ],
+                                            "type": "text",
+                                            "content": "B、",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                145,
+                                                203,
+                                                352,
+                                                221
+                                            ],
+                                            "type": "text",
+                                            "content": "包含一些视觉工具集合在此图像上运行",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                233,
+                                278,
+                                248
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        232,
+                                        279,
+                                        250
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                110,
+                                                233,
+                                                124,
+                                                250
+                                            ],
+                                            "type": "text",
+                                            "content": "C、",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                145,
+                                                232,
+                                                279,
+                                                250
+                                            ],
+                                            "type": "text",
+                                            "content": "可以有多个 Job 同时运行",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                263,
+                                382,
+                                278
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        261,
+                                        384,
+                                        281
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                109,
+                                                261,
+                                                129,
+                                                281
+                                            ],
+                                            "type": "text",
+                                            "content": "D、",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                144,
+                                                263,
+                                                384,
+                                                281
+                                            ],
+                                            "type": "text",
+                                            "content": "Vision Tools 在 Job 中将执行串行的运行方式",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        293,
+                        409,
+                        309
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                292,
+                                413,
+                                311
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        292,
+                                        413,
+                                        311
+                                    ],
+                                    "type": "text",
+                                    "content": "2. 下面哪个参数不属于 CogCaliperTool 的极性选择（ A ）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        104,
+                        322,
+                        173,
+                        336
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                322,
+                                174,
+                                337
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        322,
+                                        174,
+                                        337
+                                    ],
+                                    "type": "text",
+                                    "content": "A. Edge Pair",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        188,
+                        322,
+                        266,
+                        336
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                186,
+                                321,
+                                267,
+                                338
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        321,
+                                        267,
+                                        338
+                                    ],
+                                    "type": "text",
+                                    "content": "B. Dark to Light",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        280,
+                        322,
+                        358,
+                        336
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                280,
+                                322,
+                                359,
+                                338
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        280,
+                                        322,
+                                        359,
+                                        338
+                                    ],
+                                    "type": "text",
+                                    "content": "C. Light to Dark",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        373,
+                        322,
+                        446,
+                        336
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                371,
+                                320,
+                                448,
+                                339
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        320,
+                                        448,
+                                        339
+                                    ],
+                                    "type": "text",
+                                    "content": "D. Any Polarity",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        356,
+                        349,
+                        371
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                356,
+                                353,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        356,
+                                        353,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "3. 关于标定片本身，下面说法正确的是（ AC ）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        104,
+                        387,
+                        361,
+                        496
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 19,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                104,
+                                387,
+                                308,
+                                401
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 15,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        387,
+                                        308,
+                                        404
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                105,
+                                                387,
+                                                308,
+                                                404
+                                            ],
+                                            "type": "text",
+                                            "content": "A、黑白瓷块必须以交叉图案方式排列",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                418,
+                                308,
+                                433
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 16,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        419,
+                                        308,
+                                        434
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                106,
+                                                419,
+                                                308,
+                                                434
+                                            ],
+                                            "type": "text",
+                                            "content": "B、黑白瓷块中间不能有其它图像存在",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                449,
+                                283,
+                                464
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 17,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        449,
+                                        284,
+                                        467
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                449,
+                                                284,
+                                                467
+                                            ],
+                                            "type": "text",
+                                            "content": "C、黑白瓷块必须具有同样的尺寸",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                481,
+                                361,
+                                496
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 18,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        481,
+                                        361,
+                                        497
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                481,
+                                                361,
+                                                497
+                                            ],
+                                            "type": "text",
+                                            "content": "D、瓷块必须为矩形，其纵横比范围是0.9到1.1",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        512,
+                        460,
+                        528
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 20,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                512,
+                                465,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        512,
+                                        465,
+                                        529
+                                    ],
+                                    "type": "text",
+                                    "content": "4. 关于 CogPMAlignTool 模板训练的技巧，以下说法错误的是（ D ）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        108,
+                        536,
+                        239,
+                        641
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 25,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                108,
+                                536,
+                                239,
+                                552
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 21,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        537,
+                                        239,
+                                        552
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                109,
+                                                537,
+                                                239,
+                                                552
+                                            ],
+                                            "type": "text",
+                                            "content": "A、模板特征要有唯一性",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                566,
+                                227,
+                                581
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 22,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        567,
+                                        227,
+                                        582
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                110,
+                                                567,
+                                                227,
+                                                582
+                                            ],
+                                            "type": "text",
+                                            "content": "B、模板的对比度明显",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                597,
+                                239,
+                                611
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 23,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        597,
+                                        239,
+                                        612
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                110,
+                                                597,
+                                                239,
+                                                612
+                                            ],
+                                            "type": "text",
+                                            "content": "C、模板的形状轮廓明显",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                108,
+                                627,
+                                239,
+                                641
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 24,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        627,
+                                        240,
+                                        641
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                109,
+                                                627,
+                                                240,
+                                                641
+                                            ],
+                                            "type": "text",
+                                            "content": "D、模板的特征越多越好",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        656,
+                        434,
+                        672
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 26,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                656,
+                                439,
+                                673
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        656,
+                                        439,
+                                        673
+                                    ],
+                                    "type": "text",
+                                    "content": "5. CogResultsAnalysisTool 可以使用以下形式的结果（ ABCD ）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        686,
+                        392,
+                        702
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 27,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                685,
+                                393,
+                                703
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        685,
+                                        393,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": "A.数值 B.字符串 C.布尔值 D.向量（结果值的数组）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        723,
+                        282,
+                        740
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 28,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                722,
+                                283,
+                                740
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        722,
+                                        283,
+                                        740
+                                    ],
+                                    "type": "text",
+                                    "content": "三、判断题。（每题 2 分，共 10 分）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        42,
+                        173,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                42,
+                                174,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        42,
+                                        174,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "Cognex GS FSE Test",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        422,
+                        746,
+                        483,
+                        758
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 29,
+                    "lines": [
+                        {
+                            "bbox": [
+                                421,
+                                746,
+                                484,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        421,
+                                        746,
+                                        484,
+                                        759
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        86,
+                        307,
+                        103
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                84,
+                                309,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        84,
+                                        129,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "姓名：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        178,
+                                        84,
+                                        220,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "考号：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        267,
+                                        84,
+                                        309,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "得分：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        116,
+                        504,
+                        410
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 7,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                86,
+                                116,
+                                479,
+                                132
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        116,
+                                        480,
+                                        132
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                116,
+                                                480,
+                                                132
+                                            ],
+                                            "type": "text",
+                                            "content": "1、增加标定图像中可见的黑白瓷块数量，可以提高校准的精确度 （ Y ）",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                150,
+                                503,
+                                200
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        149,
+                                        505,
+                                        166
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                149,
+                                                505,
+                                                166
+                                            ],
+                                            "type": "text",
+                                            "content": "2、如果没有Fixture定位工具，图像空间坐标系原点一定位于图像中心（ X",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        101,
+                                        185,
+                                        119,
+                                        203
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                101,
+                                                185,
+                                                119,
+                                                203
+                                            ],
+                                            "type": "text",
+                                            "content": "）",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                220,
+                                504,
+                                270
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        220,
+                                        505,
+                                        235
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                220,
+                                                505,
+                                                235
+                                            ],
+                                            "type": "text",
+                                            "content": "3、对于CogFindCircleTool，一般来说，要提高精确度，可以增加卡尺的的数",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        107,
+                                        253,
+                                        405,
+                                        273
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                256,
+                                                277,
+                                                270
+                                            ],
+                                            "type": "text",
+                                            "content": "量，也可以增加卡尺的搜索长度",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                371,
+                                                253,
+                                                405,
+                                                273
+                                            ],
+                                            "type": "text",
+                                            "content": "（ X ）",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                290,
+                                504,
+                                340
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        289,
+                                        506,
+                                        306
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                289,
+                                                506,
+                                                306
+                                            ],
+                                            "type": "text",
+                                            "content": "4、 Aspect / Skew 是可以通过视觉标定来进行矫正的，只要不太离谱，不会影",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        105,
+                                        323,
+                                        334,
+                                        343
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                105,
+                                                325,
+                                                170,
+                                                342
+                                            ],
+                                            "type": "text",
+                                            "content": "响贴装精度",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                301,
+                                                323,
+                                                334,
+                                                343
+                                            ],
+                                            "type": "text",
+                                            "content": "（ X ）",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                359,
+                                504,
+                                410
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        359,
+                                        506,
+                                        375
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                359,
+                                                506,
+                                                375
+                                            ],
+                                            "type": "text",
+                                            "content": "5、 CogImageConvertTool 工具可以进行图片格式转换，它默认是将彩色图像",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        114,
+                                        394,
+                                        430,
+                                        412
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                114,
+                                                395,
+                                                332,
+                                                411
+                                            ],
+                                            "type": "text",
+                                            "content": "（16bit、24bit）转换为 12bit 的灰色图像",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                370,
+                                                394,
+                                                430,
+                                                412
+                                            ],
+                                            "type": "text",
+                                            "content": "（ X ）8bit",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        428,
+                        277,
+                        444
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                428,
+                                277,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        428,
+                                        277,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "四．简答题（每题 10 分，共 50 分）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        462,
+                        494,
+                        513
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                462,
+                                493,
+                                478
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        462,
+                                        493,
+                                        478
+                                    ],
+                                    "type": "text",
+                                    "content": "1、阐述在自动标定过程中造成标定不成功的原因，并给出解决措施（至少三",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                497,
+                                172,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        497,
+                                        172,
+                                        515
+                                    ],
+                                    "type": "text",
+                                    "content": "个）。（10 分）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        540,
+                        120,
+                        554
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                539,
+                                123,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        539,
+                                        123,
+                                        557
+                                    ],
+                                    "type": "text",
+                                    "content": "参考：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        581,
+                        504,
+                        633
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                581,
+                                504,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        581,
+                                        504,
+                                        597
+                                    ],
+                                    "type": "text",
+                                    "content": "视觉：标定片尺寸不对(确认尺寸)，清晰度不够(确认焦距)、曝光不合适(优化曝",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                618,
+                                473,
+                                634
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        618,
+                                        473,
+                                        634
+                                    ],
+                                    "type": "text",
+                                    "content": "光)、标定片标定过程中滑动(防止机台抖动、吹气等导致标定片滑动)等等",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        659,
+                        503,
+                        710
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                660,
+                                502,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        660,
+                                        123,
+                                        675
+                                    ],
+                                    "type": "text",
+                                    "content": "机构：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        123,
+                                        660,
+                                        147,
+                                        674
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^ { 9 + 2 }",
+                                    "score": 0.8
+                                },
+                                {
+                                    "bbox": [
+                                        147,
+                                        660,
+                                        502,
+                                        675
+                                    ],
+                                    "type": "text",
+                                    "content": "标定旋转角度不对(按照要求的5 10 15等角度旋转。)，轴走位不准",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                695,
+                                446,
+                                711
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        695,
+                                        446,
+                                        711
+                                    ],
+                                    "type": "text",
+                                    "content": "确()，轴旋转角度不准确，拍照位置不固定(有偏差)、通讯失败等等。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        42,
+                        173,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                42,
+                                174,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        42,
+                                        174,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "Cognex GS FSE Test",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        422,
+                        746,
+                        483,
+                        758
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                421,
+                                746,
+                                484,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        421,
+                                        746,
+                                        484,
+                                        759
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        87,
+                        86,
+                        307,
+                        104
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                84,
+                                309,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        84,
+                                        127,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "姓名：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        179,
+                                        84,
+                                        220,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "考号：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        267,
+                                        84,
+                                        309,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "得分：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        116,
+                        473,
+                        132
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                116,
+                                473,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        116,
+                                        473,
+                                        133
+                                    ],
+                                    "type": "text",
+                                    "content": "2、简述 CogCaliperTool 抓取单个边缘的三种计分方式的含义。（10 分）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        158,
+                        441,
+                        174
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                157,
+                                441,
+                                174
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        157,
+                                        441,
+                                        174
+                                    ],
+                                    "type": "text",
+                                    "content": "对比度函数(contrast)、位置函数(Position)、PositionNeg 函数:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        190,
+                        504,
+                        205
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                189,
+                                505,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        189,
+                                        166,
+                                        205
+                                    ],
+                                    "type": "text",
+                                    "content": "对比度:默认当",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        167,
+                                        190,
+                                        205,
+                                        204
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\cdot",
+                                    "score": 0.65
+                                },
+                                {
+                                    "bbox": [
+                                        205,
+                                        189,
+                                        505,
+                                        205
+                                    ],
+                                    "type": "text",
+                                    "content": "时：对比度越高得分越高，达到设定的 X0的值时得分为",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        87,
+                        221,
+                        429,
+                        235
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                220,
+                                430,
+                                236
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        222,
+                                        96,
+                                        232
+                                    ],
+                                    "type": "text",
+                                    "content": "1",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        220,
+                                        430,
+                                        236
+                                    ],
+                                    "type": "text",
+                                    "content": "超出也为1.当XC>X0时：相反，对比度越高，得分越低。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        252,
+                        479,
+                        298
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                251,
+                                481,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        251,
+                                        481,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "位置函数(Position)：默认XC>X0越靠近卡尺中线位置得分越高， 勾选时",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                284,
+                                307,
+                                297
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        284,
+                                        307,
+                                        297
+                                    ],
+                                    "type": "text",
+                                    "content": "X0>XC离卡尺中线越远得分越高。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        314,
+                        504,
+                        361
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                314,
+                                506,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        314,
+                                        506,
+                                        329
+                                    ],
+                                    "type": "text",
+                                    "content": "PositionNeg: 默认 XC>X0 靠近卡尺起始位置得分高 勾选时 X0>XC 远离卡尺",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                345,
+                                217,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        345,
+                                        217,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "起始位置得分高",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        564,
+                        504,
+                        609
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                564,
+                                505,
+                                579
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        564,
+                                        505,
+                                        579
+                                    ],
+                                    "type": "text",
+                                    "content": "3、如下面代码中，投影图像和筛选算子已知，请写出筛选输出结果并画出其输",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                592,
+                                208,
+                                613
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        592,
+                                        208,
+                                        613
+                                    ],
+                                    "type": "text",
+                                    "content": "出曲线图像。（10 分）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        42,
+                        173,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                42,
+                                174,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        42,
+                                        174,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "Cognex GS FSE Test",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        422,
+                        747,
+                        482,
+                        756
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                423,
+                                748,
+                                483,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        423,
+                                        748,
+                                        483,
+                                        757
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        87,
+                        85,
+                        307,
+                        103
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                84,
+                                309,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        84,
+                                        130,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "姓名：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        179,
+                                        84,
+                                        221,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "考号：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        267,
+                                        84,
+                                        309,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "得分：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        105,
+                        478,
+                        370
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                105,
+                                478,
+                                370
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        105,
+                                        478,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                105,
+                                                478,
+                                                370
+                                            ],
+                                            "type": "image",
+                                            "image_path": "6b9c946198fd55da4e54319923bb4697754ca85e1043f7aac7dba3ff18c28c4d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        371,
+                        503,
+                        652
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                371,
+                                503,
+                                652
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        371,
+                                        503,
+                                        652
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                371,
+                                                503,
+                                                652
+                                            ],
+                                            "type": "image",
+                                            "image_path": "2321ce40ae350e8402e3890f8b761b8cdec791df1d0411a21b66a6944504a89b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        86,
+                        661,
+                        505,
+                        709
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                661,
+                                505,
+                                677
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        661,
+                                        505,
+                                        677
+                                    ],
+                                    "type": "text",
+                                    "content": "画线，体现出来数字变化就行。中间是0，线往上走是5 10，往下走对应的-5 -",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                694,
+                                265,
+                                708
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        694,
+                                        265,
+                                        708
+                                    ],
+                                    "type": "text",
+                                    "content": "10，横线反映了保持某个值不变。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        42,
+                        173,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                42,
+                                174,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        42,
+                                        174,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "Cognex GS FSE Test",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        422,
+                        746,
+                        483,
+                        758
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                421,
+                                746,
+                                484,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        421,
+                                        746,
+                                        484,
+                                        759
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        86,
+                        307,
+                        103
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                84,
+                                309,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        84,
+                                        129,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "姓名：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        178,
+                                        84,
+                                        220,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "考号：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        267,
+                                        84,
+                                        309,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "得分：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        116,
+                        507,
+                        194
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                116,
+                                506,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        116,
+                                        506,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "4、在实际应用中，我们经常使用 CogPMAlignTool 来建立模板，那么当我们",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                147,
+                                506,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        147,
+                                        506,
+                                        169
+                                    ],
+                                    "type": "text",
+                                    "content": "建好初步的模板后，可以通过调试哪些参数来减小模板匹配的时间？（至少五",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                85,
+                                175,
+                                164,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        175,
+                                        164,
+                                        207
+                                    ],
+                                    "type": "text",
+                                    "content": "个）（10 分）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        202,
+                        506,
+                        232
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                203,
+                                505,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        203,
+                                        505,
+                                        216
+                                    ],
+                                    "type": "text",
+                                    "content": "答：减小搜索区域、提高接受阈值、减小角度范围、减小缩放范围、减少查找概数、调高",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                219,
+                                226,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        219,
+                                        226,
+                                        232
+                                    ],
+                                    "type": "text",
+                                    "content": "对比度阈值、不勾选忽略极性",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        460,
+                        508,
+                        507
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                459,
+                                508,
+                                482
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        459,
+                                        508,
+                                        482
+                                    ],
+                                    "type": "text",
+                                    "content": "5、CogBlobTool 并不能适用于所有机器视觉应用，请列举 CogBlobTool 的适",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                486,
+                                402,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        486,
+                                        402,
+                                        515
+                                    ],
+                                    "type": "text",
+                                    "content": "用对象具有哪类特征？不适用对象具有哪类特征？（10 分）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        523,
+                        450,
+                        538
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                522,
+                                448,
+                                537
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        522,
+                                        448,
+                                        537
+                                    ],
+                                    "type": "text",
+                                    "content": "适用对象：对象在尺寸、形状、方向上有很大差异（很难或不可能训练模型）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        545,
+                        379,
+                        559
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                546,
+                                377,
+                                558
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        546,
+                                        377,
+                                        558
+                                    ],
+                                    "type": "text",
+                                    "content": "在背景中没有明显灰度阴影的对象（会影响我们对目标的分割）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        88,
+                        561,
+                        196,
+                        574
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                562,
+                                195,
+                                573
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        562,
+                                        195,
+                                        573
+                                    ],
+                                    "type": "text",
+                                    "content": "对象没有重叠或者连接",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        86,
+                        584,
+                        344,
+                        598
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                584,
+                                342,
+                                598
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        584,
+                                        342,
+                                        598
+                                    ],
+                                    "type": "text",
+                                    "content": "不适用对象：对比度不明显、图案有重叠部分等",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        42,
+                        173,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                42,
+                                174,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        42,
+                                        174,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "Cognex GS FSE Test",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        422,
+                        746,
+                        483,
+                        758
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                421,
+                                746,
+                                484,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        421,
+                                        746,
+                                        484,
+                                        759
+                                    ],
+                                    "type": "text",
+                                    "content": "COGNEX",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 6
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

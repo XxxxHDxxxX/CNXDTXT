@@ -1,0 +1,3241 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "扫码枪"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                100,
+                212,
+                185
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电源线：棕正蓝负"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                205,
+                307,
+                259
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "工作电压： 24V"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                281,
+                280,
+                333
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "扫码枪灯：电源指示灯(通电时绿色) 训练状态/触发状态指示灯(绿色/黄色) 读码成功/不成功指示灯(读取ok闪绿色，失败闪红色) 网络指示灯(接通为黄色) 错误指示灯(报警时为红色 )"
+                    }
+                ]
+            },
+            "bbox": [
+                69,
+                353,
+                904,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "扫码枪 IP ：参考相机"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                594,
+                350,
+                655
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "视觉调试流程："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                101,
+                369,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "确认硬件型号、数量及安装情况 "
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                244,
+                480,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "安装扫码枪、 visionpro 、 .Net Framework 软件 视觉软件"
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                322,
+                829,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "配置相机扫码枪能连接上正常使用"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                396,
+                507,
+                457
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "确认相机视野焦距 打光效果等"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                468,
+                456,
+                531
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "标定并确定标定结果，"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                546,
+                345,
+                607
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "粗调 VPP 调试扫码枪 试跑流程"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                618,
+                472,
+                677
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "做静动态 grr cpk "
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                694,
+                300,
+                762
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "调试 ok 备份视觉软件"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                768,
+                358,
+                827
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "标定注意事项"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                71,
+                100,
+                377,
+                188
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "① 确认相机的焦距，视野是否调整 OK ，镜头及相机是否松动；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{2}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "运动机构是否调整 OK ；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{3}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "软件和视觉软件是否正常，通信是否正常；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{4}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "标定所使用的工具是否准备 OK ，标定工具是否破损，翘曲；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "⑤ Configuration 中棋盘格的尺寸与实际是否匹配；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{6}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "机器人吸取或放下棋盘格时，棋盘格是否有滑动现象或者吸不起来；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{7}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "检查标定误差是否在正常范围；"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                264,
+                884,
+                848
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "相机无法连接触发："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                71,
+                100,
+                463,
+                188
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "① 确认相机是否连接正确"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{2}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "如果 VisionPro 可用，打开 Cognex GigE VisionConfiguration ，查看不拍照的相机是否在左侧的相机列表中。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{3}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "确认机构是否发送了正确的触发信号。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{4}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "可能由于主机卡顿，软件卡顿或 BUG 引起，将计算机关机，约十秒钟后，重新开启计算机"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{5}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "检查相机是否损坏，如坏的话更换相机。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{6}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "相机配置参数设置不正确，重新查看并配置好正确参数"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{7}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "权限位丢失，检查 8704E 板卡权限"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{8}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "磁盘已满或者图片删除设置参数不合理，重新设置图片保存参数"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                69,
+                205,
+                914,
+                951
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "相机蓝屏"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                100,
+                259,
+                187
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "① 主机 IP 或者相机 IP 有设置错误"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{2}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "巨帧数据包改为 9014 、防火墙关闭、 ebus 勾选"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{3}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "网口损坏 更换别的网口 硬件损坏需更换硬件（网线、相机、图像采集卡）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                264,
+                912,
+                531
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "康耐视相机铭牌信息介绍： "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                71,
+                100,
+                600,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CAM-CIC-5000R-24-G "
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                361,
+                459,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CIC ：康耐视工业相机"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                435,
+                377,
+                490
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5000 ： 500W 相机"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                500,
+                336,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "R ：卷帘快门相机 (G: 全局快门 )"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                559,
+                510,
+                614
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "24 ：帧率： 表示 24 帧 / 秒"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                622,
+                441,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "G ：黑白相机 (C: 彩色相机 )"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                685,
+                459,
+                740
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "通讯接口 GigE"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                748,
+                275,
+                803
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "精度计算"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                101,
+                259,
+                183
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f2b33e61ef730a8dcf6161f6a9a9ea3194d02ee6927e6a4b3a178c1150d4daa2.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "5” x 3” 元件 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                57,
+                225,
+                259,
+                459
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/62f2e753f14d258e6124d56592d41dcae2a45c9b4da1b28e0d1146544986c957.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "640 x 480 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "CCD 像素"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                348,
+                296,
+                421,
+                394
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.4” x 4.8” 视野 "
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                568,
+                214,
+                600
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "视野为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 4 \\mathsf { m m } ^ { * } 4 . 8 \\mathsf { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "分辨率为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 4 0 ^ { * } 4 8 0"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                259,
+                875,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "精确度视 觉工具 10 1 像素"
+                    }
+                ]
+            },
+            "bbox": [
+                545,
+                324,
+                796,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "视觉精度计算： 单方向视野范围 / 相机单方向分辨率"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                631,
+                758,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "相机精度： 6.4mm/640 像素 =0.01mm"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                757,
+                563,
+                814
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测量精度： 0.01mm* 视觉工具精度 =0.01mm*0.1=0.001mm"
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                820,
+                829,
+                881
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "精度计算"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                71,
+                100,
+                262,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.康耐视500w相机拍照，视野为50mm*40mm，所使用的视觉工具进度为 ¼ 个像素，求测量精度？（ 500w 相机分辨率为 2592*1944 ）相机精度 :( 即像素分辨率 )"
+                    }
+                ]
+            },
+            "bbox": [
+                19,
+                196,
+                937,
+                412
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "相机精度 =50mm/2592=0.0193mm"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                422,
+                494,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测量精度："
+                    }
+                ]
+            },
+            "bbox": [
+                22,
+                494,
+                155,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测量精度 = 相机精度 * 视觉工具精度 =0.0193mm*¼=0.004825mm"
+                    }
+                ]
+            },
+            "bbox": [
+                19,
+                568,
+                900,
+                637
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "精度计算"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                71,
+                100,
+                259,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "eg ： 视野 40mm*30mm 相机分辨率 600*480"
+                    }
+                ]
+            },
+            "bbox": [
+                19,
+                200,
+                612,
+                259
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "此时精度为： 40mm/640=0.0625mm"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                274,
+                562,
+                331
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "eg ：同样已知检测精度求分辨率时："
+                    }
+                ]
+            },
+            "bbox": [
+                19,
+                422,
+                482,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "精度 0.01mm ，视野 4mm*3mm"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                496,
+                509,
+                555
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "此时 4mm/0.01mm=400 像素 3mm/0.01mm=300 像素"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                570,
+                769,
+                631
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "理论上分辨率大于 400*300 就行"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                644,
+                509,
+                705
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "码 PMM 值 ( 码密度 )"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                71,
+                100,
+                501,
+                194
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "含义：码的每个 module( 模块 ) 的平均像素值 每个模块占了几个像素"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                255,
+                902,
+                375
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "意义：它是判断扫码稳定性的一个重要依据，它不是越大越好也不是越小越好，需要控制在一个合理的范围，二维码一般建议在5~8 ，一维码建议在 3 以上"
+                    }
+                ]
+            },
+            "bbox": [
+                69,
+                387,
+                922,
+                562
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "码 PMM 值计算"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                71,
+                100,
+                398,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 视野是 78mm*50mm 中间有个二维码尺寸为 5mm*5mm 二维码是 12*12Code"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                255,
+                913,
+                364
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（通俗来讲就是求此二维码每个模块包含几个像素）"
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                381,
+                685,
+                442
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "用扫码枪 DM50X(752*480) 的长边计算"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                451,
+                551,
+                509
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\textcircled{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "先算出视野里每个 mm 单位所包含的像素个数："
+                    }
+                ]
+            },
+            "bbox": [
+                71,
+                522,
+                677,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "752/78mm=9.6 表示每 mm 有 9.6 个像素"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                592,
+                667,
+                650
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{2}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "再算出每个模块尺寸为多少 mm ： 5/12=0.4166666667mm"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\textcircled{3}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "计算码密度： 9.6*0.0.4166666667mm=4"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                71,
+                662,
+                842,
+                790
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "另一种： 5mm/78mm*752 像素 /"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                805,
+                490,
+                859
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "1 2 = 4. 0 1 7 0 9 4 0 1 7 0 9 4 0 1 7 0 9 4 0 1 7 0 9 4 0 1 7 0 9 4",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3126c54975ac47cf728aab797942433ebe0f32cdcbb932c092ae2510e17344a0.jpg"
+                }
+            },
+            "bbox": [
+                75,
+                861,
+                612,
+                909
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DataMatrix 码的判定"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                100,
+                512,
+                188
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 激光镭雕 喷码等方式出来的 DataMatrix 码质量不一，需要专门的仪器检测"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Verifier ：等级测试仪 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 等级测试仪是根据 ISO15415 或 AIM DPM 等标准来制定的，达到标准就说明这个码"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 具有可读性的，达不到标准就是可能存在读取失败的风险"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 常见低等级码： L 边损坏，对比度不佳，模块化不佳，模块偏离，条码损坏，条码变形"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                255,
+                922,
+                787
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "加快工具运行速度"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                71,
+                100,
+                444,
+                188
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PMAlign ："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                205,
+                240,
+                277
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 算法由 PatMax 改为 Patquick 会加快运行速度"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 搜索区域越小搜索速度越快 ( 宽 )x( 高 )x( 角度范围 )x( 缩放范围 )"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "提高接受阈值搜索变快"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 减小搜素结果数量执行时间稍变快"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 精细颗粒度越高， 时间越短"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 粗糙颗粒度越高， 时间越短"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 考虑极性稍稍加快速度"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "提高对比度以便执行更快"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                71,
+                290,
+                919,
+                870
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PMAlign "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                76,
+                107,
+                252,
+                196
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/aaf570e4b55e06f96d17d78d2e131493fc2e5e419784a45a4756ea3d1b14132a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                21,
+                200,
+                46,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2PyAli4nT511 Topl1 11 "
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                203,
+                179,
+                262
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1db8a87089a6144ab476afb0fa7463dc97ca746a924b385c999ca46889d034f9.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                50,
+                262,
+                70,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "中："
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                262,
+                128,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                145,
+                207,
+                179,
+                235
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6ae13a7764fe7903f184ba7245b6ade2e023f13f839f145519d44062cb283402.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                145,
+                235,
+                166,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                167,
+                207,
+                180,
+                233
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                180,
+                200,
+                202,
+                233
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b6ecd1a1e4598d697924fc01d3f1337cfd051031a5741eaebc7d3abe31f4c575.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                180,
+                233,
+                201,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                202,
+                200,
+                232,
+                233
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2e1d3f6f69f92dda84343806e209548b7aa220080398f5b69d845291b0c1e051.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                202,
+                233,
+                232,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                233,
+                200,
+                262,
+                233
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/707600fa1ebe29d5f8c6ad8270c3da28459e63edc6afd4043525ceacdee992b2.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                233,
+                233,
+                262,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                263,
+                200,
+                291,
+                233
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6574fd558103c8752273d0d2a0857be0e028574db224241b50ddb400107dbac8.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                263,
+                233,
+                291,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                300,
+                200,
+                320,
+                233
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ec4ced20baa7778bc860ccdb828afaf29e697ed56dd2cf361f03ef3b8980f047.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                300,
+                233,
+                330,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                341,
+                200,
+                370,
+                233
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1b865f3230abe4d14229a4fb6dc54fd28aa2b73b07baf140cf71016f8228694f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                341,
+                233,
+                370,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                371,
+                200,
+                438,
+                233
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0ed1ddb77ed024804cc4a54f70662157f9792f5fc9aac52c5c6db2a508455f92.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                371,
+                233,
+                400,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                406,
+                200,
+                437,
+                233
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2ca656c8b253a9641fbee7880b33c968d71b7232d4449604548a886b6fd1400d.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                406,
+                233,
+                436,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                437,
+                200,
+                463,
+                233
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0108bfb20689f0219145472daa574ea366ce298e0d4d036feca8addec40cdae6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                437,
+                233,
+                456,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "训练参数"
+                    }
+                ]
+            },
+            "bbox": [
+                22,
+                316,
+                93,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "训练区域与原点"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                322,
+                204,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tune "
+                    }
+                ]
+            },
+            "bbox": [
+                221,
+                325,
+                253,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "运行参数"
+                    }
+                ]
+            },
+            "bbox": [
+                281,
+                322,
+                342,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "搜索区域"
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                322,
+                418,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图形"
+                    }
+                ]
+            },
+            "bbox": [
+                429,
+                322,
+                461,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "结果"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                322,
+                521,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "模式："
+                    }
+                ]
+            },
+            "bbox": [
+                44,
+                388,
+                81,
+                422
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ec37edd4de35556a8b6f2a6feb4356ddd0d3c9a4d434440f8767ce54eedc7333.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                42,
+                427,
+                257,
+                785
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "加载模式"
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                811,
+                125,
+                846
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "保存模式"
+                    }
+                ]
+            },
+            "bbox": [
+                172,
+                811,
+                235,
+                846
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "算法："
+                    }
+                ]
+            },
+            "bbox": [
+                269,
+                388,
+                307,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PatMax 与 PatQui ck"
+                    }
+                ]
+            },
+            "bbox": [
+                275,
+                431,
+                413,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "训练模式："
+                    }
+                ]
+            },
+            "bbox": [
+                269,
+                474,
+                336,
+                507
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图像"
+                    }
+                ]
+            },
+            "bbox": [
+                275,
+                516,
+                307,
+                550
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/814711af31c7b93ae81c99e5d17dd6a1e9dcad0840664608f18477a2803f35cf.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                271,
+                590,
+                291,
+                625
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "忽略极性"
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                590,
+                355,
+                625
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                331,
+                651,
+                364,
+                685
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/971de677034412dd53d0ed0269c43632b37b5f144e2b49fe226ca0125fd81a1e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                595,
+                368,
+                616,
+                412
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5897f259b7434f7e1ad5dc67c1469299a955e1beabe0f51a1968830a00101b9f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                271,
+                698,
+                600,
+                709
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "图上按钮功能分别表示："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                664,
+                209,
+                862,
+                248
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 运行"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.电子模式"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 本地显示"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 浮动显示 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. 打开"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. 保存"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. 另存"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. 复位"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. 图像掩膜编辑器"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. 建模器"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. 帮助"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                664,
+                253,
+                816,
+                687
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "白："
+                    }
+                ]
+            },
+            "bbox": [
+                44,
+                938,
+                80,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                127,
+                940,
+                233,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Histogram "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                109,
+                300,
+                196
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "统计信息"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                66,
+                233,
+                121,
+                262
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "最小值"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                272,
+                113,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "24 "
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                275,
+                250,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "最大值"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                320,
+                113,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "249 "
+                    }
+                ]
+            },
+            "bbox": [
+                228,
+                325,
+                250,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "中值"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                368,
+                101,
+                396
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "239 "
+                    }
+                ]
+            },
+            "bbox": [
+                228,
+                370,
+                250,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "模式"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                414,
+                102,
+                442
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "242 "
+                    }
+                ]
+            },
+            "bbox": [
+                228,
+                416,
+                250,
+                440
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "平均值"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                462,
+                113,
+                490
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "169.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                204,
+                464,
+                250,
+                487
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "标准差"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                509,
+                113,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "95.6033 "
+                    }
+                ]
+            },
+            "bbox": [
+                204,
+                512,
+                250,
+                533
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "方差"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                555,
+                101,
+                585
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9140 "
+                    }
+                ]
+            },
+            "bbox": [
+                222,
+                559,
+                250,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "示例"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                603,
+                102,
+                631
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "307200 "
+                    }
+                ]
+            },
+            "bbox": [
+                210,
+                605,
+                250,
+                627
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Statistics "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                282,
+                235,
+                348,
+                259
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Minimum "
+                    }
+                ]
+            },
+            "bbox": [
+                288,
+                275,
+                335,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 24 "
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                274,
+                465,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Maximum "
+                    }
+                ]
+            },
+            "bbox": [
+                288,
+                322,
+                335,
+                346
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "249 "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                324,
+                464,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Medi an "
+                    }
+                ]
+            },
+            "bbox": [
+                288,
+                370,
+                330,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "239 "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                370,
+                464,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mode "
+                    }
+                ]
+            },
+            "bbox": [
+                288,
+                414,
+                317,
+                440
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "242 "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                418,
+                464,
+                438
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mean "
+                    }
+                ]
+            },
+            "bbox": [
+                288,
+                464,
+                317,
+                487
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "169.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                420,
+                464,
+                464,
+                485
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Std. Dev. "
+                    }
+                ]
+            },
+            "bbox": [
+                289,
+                512,
+                344,
+                535
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "95.6033 "
+                    }
+                ]
+            },
+            "bbox": [
+                419,
+                512,
+                464,
+                533
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Variance "
+                    }
+                ]
+            },
+            "bbox": [
+                289,
+                559,
+                341,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9140 "
+                    }
+                ]
+            },
+            "bbox": [
+                437,
+                559,
+                464,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Samples "
+                    }
+                ]
+            },
+            "bbox": [
+                289,
+                605,
+                335,
+                631
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "307200 "
+                    }
+                ]
+            },
+            "bbox": [
+                425,
+                607,
+                464,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Minimum：最小值 灰度最大值"
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                253,
+                747,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Maximum：最大值 灰度最小值"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                288,
+                745,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Median ：中值"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                325,
+                622,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "比例刚过50%对应的灰度值 "
+                    }
+                ]
+            },
+            "bbox": [
+                654,
+                325,
+                858,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mode ：模式"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                361,
+                610,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "灰度值占比最高的像素的灰度值"
+                    }
+                ]
+            },
+            "bbox": [
+                654,
+                361,
+                887,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mean ：平均值"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                396,
+                626,
+                427
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "灰度平均值"
+                    }
+                ]
+            },
+            "bbox": [
+                654,
+                396,
+                738,
+                427
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Std. Dev.: 标准差 "
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                433,
+                633,
+                462
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "灰度标准差"
+                    }
+                ]
+            },
+            "bbox": [
+                650,
+                433,
+                734,
+                462
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Variance: 方差"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                468,
+                616,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "灰度方差 "
+                    }
+                ]
+            },
+            "bbox": [
+                650,
+                468,
+                716,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Samples: 示例"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                503,
+                614,
+                535
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "区域内总像素数"
+                    }
+                ]
+            },
+            "bbox": [
+                647,
+                503,
+                764,
+                535
+            ]
+        }
+    ]
+]

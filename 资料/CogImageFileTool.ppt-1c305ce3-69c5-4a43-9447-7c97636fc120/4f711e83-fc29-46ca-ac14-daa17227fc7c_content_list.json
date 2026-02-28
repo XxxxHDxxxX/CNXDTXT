@@ -1,0 +1,1368 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/3cf3dfc4a6788598c59a4c694761371c11c1618d41d60cb8f3008729ff7a63aa.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            0,
+            0,
+            1000,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CogImageFileTool ",
+        "text_level": 1,
+        "bbox": [
+            241,
+            633,
+            670,
+            712
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2019/12/19 ",
+        "bbox": [
+            36,
+            792,
+            165,
+            825
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Juan ",
+        "bbox": [
+            731,
+            787,
+            869,
+            825
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学习目标",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            212,
+            112
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "学员将学会正确地：",
+        "text_level": 1,
+        "bbox": [
+            62,
+            174,
+            315,
+            212
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "利用图像文件工具加载和保存图像文件",
+            "利用终端传送工具间的数据",
+            "保存并且加载 VisionPro 项目到 QuickBuild 中"
+        ],
+        "bbox": [
+            112,
+            220,
+            580,
+            466
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图像文件工具",
+        "text_level": 1,
+        "bbox": [
+            84,
+            62,
+            272,
+            112
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- 用来将图像写入到文件中或者从文件中读出",
+            "支持的文件类型有:"
+        ],
+        "bbox": [
+            62,
+            174,
+            625,
+            364
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图像数据库文件：.idf 和 .cdb",
+        "bbox": [
+            91,
+            377,
+            426,
+            418
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "位图：.bmp",
+        "bbox": [
+            91,
+            438,
+            234,
+            479
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标记图像文件格式：.tif ",
+        "bbox": [
+            91,
+            500,
+            356,
+            538
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "例子：",
+        "bbox": [
+            62,
+            638,
+            163,
+            679
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "要保存并且读回测试图像进行原型构建、开发和制档要从生产运行中保存并且读回图像",
+        "bbox": [
+            90,
+            692,
+            670,
+            792
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "- 即所有失败的元件",
+        "bbox": [
+            138,
+            805,
+            338,
+            840
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图像文件模式",
+        "text_level": 1,
+        "bbox": [
+            84,
+            62,
+            272,
+            107
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- 使用录制按钮在读取和书写模式之间切换",
+            "在读取模式中您可以从图像文件中读取图像",
+            "在写模式中您可以向图像文件中追加图像",
+            "首先，我们会讲解如何从现有的图像文件中读取图像"
+        ],
+        "bbox": [
+            70,
+            233,
+            456,
+            662
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/84f45271cb8cf8c1d0a82d1c660e5d3595cbb8ad73c92d3460d4e9d6b1b6e4e7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            483,
+            166,
+            963,
+            718
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            968
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            166,
+            972
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "读取图像",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            212,
+            112
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "例子：您需要在固定的一套已保存图像上构建原型并且测试视觉工具",
+            "- 使用 OpenImageFile 按钮加载一个文件\n浏览查找图像文件"
+        ],
+        "bbox": [
+            70,
+            231,
+            452,
+            516
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8e3cdbae4124c42128a90c002228aa0a8c3fcdec83e908d0ef299bc244713cf.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            458,
+            185,
+            963,
+            685
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            116
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "读取图像",
+        "text_level": 1,
+        "bbox": [
+            84,
+            62,
+            212,
+            109
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d537b088ff459bec4b3627cc651720423b2f13a09c07d62aaf992da6ddee7396.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            36,
+            170,
+            956,
+            875
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            34,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "三种图像",
+        "text_level": 1,
+        "bbox": [
+            83,
+            64,
+            212,
+            109
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "- 多数工具使用几种图像进行工作",
+            "图像文件工具有三种图像",
+            "从显示区的下拉菜单中选择要浏览的图像"
+        ],
+        "bbox": [
+            70,
+            231,
+            411,
+            496
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb82a39849bed13b1365faec92fd10321ab28b4eacf88c7792ff09b661b7d6e0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            413,
+            183,
+            963,
+            633
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            968
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "选中的图像",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            241,
+            111
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "当您第一次打开某图像文件时，默认状态下第一个图像为选中的图像",
+        "bbox": [
+            72,
+            233,
+            381,
+            424
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "选中的图像的缩略图以蓝色高亮显示",
+        "bbox": [
+            101,
+            435,
+            381,
+            527
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "选中的图像显示在显示区中",
+        "bbox": [
+            101,
+            548,
+            381,
+            638
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a463bb709ced9fd2c690bbe1d2b887d87fa48696f09b5f848ac2e077f275b265.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            388,
+            194,
+            970,
+            572
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            120
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LastRun.OutputImage ",
+        "text_level": 1,
+        "bbox": [
+            83,
+            64,
+            452,
+            112
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当我们从图像文件中抓取某图像时，它成为LastRun.OutputImage",
+        "bbox": [
+            70,
+            231,
+            534,
+            318
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/eea57ea38191db567fa8073b53192776488f75c278e3ac38bbd257d777adf9ba.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            577,
+            177,
+            963,
+            785
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            122
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 ",
+        "bbox": [
+            34,
+            957,
+            43,
+            970
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将图像写入到文件",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            334,
+            112
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "范例：您的质保部门想得到已保存的在生产过程中失败的所有元件的图像",
+            "- 当处于书写模式时，运行图像文件添加当前输入图像（Current.InputImage）到图像文件中"
+        ],
+        "bbox": [
+            70,
+            233,
+            563,
+            507
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "取出当前输入图像并将其放入上次运行输出图像（LastRun.OutputImage）",
+        "bbox": [
+            100,
+            522,
+            561,
+            620
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f35fa7ab6880b29ce56fe41204df9ff6d9ae2af4196ff9dbeb758f5d30cfad81.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            580,
+            170,
+            956,
+            718
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            122
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Current.InputImage ",
+        "text_level": 1,
+        "bbox": [
+            83,
+            68,
+            355,
+            116
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Current.InputImage 是要写入到下一次以录制模式运行的图像文件中的图像",
+        "bbox": [
+            72,
+            233,
+            490,
+            359
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/080d9e3a949d11e5e3034f73ea5adbfd675ce28fd0128f3fba08e875477bb4f4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            536,
+            183,
+            963,
+            712
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            122
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "11 ",
+        "bbox": [
+            30,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "添加图像到图像文件中",
+        "text_level": 1,
+        "bbox": [
+            81,
+            62,
+            395,
+            112
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "通过创建一个新文件或者打开一个现有文件来添加",
+        "bbox": [
+            62,
+            172,
+            650,
+            214
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/225cfa1e780bec31f9502f46db93f59f4e6f7b91237a94bb8b41a3b074b16b49.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            116,
+            381,
+            888,
+            740
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            122
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12 ",
+        "bbox": [
+            29,
+            955,
+            41,
+            970
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            988
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "链接图像",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            212,
+            112
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "从像源的输出图像（OutputImage）拖放到图像文件（ImageFile）工具的输入图像（InputImage）现在每次运行工作时，所采集的图像会追加到图像文件中",
+        "bbox": [
+            70,
+            231,
+            586,
+            405
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Tools ",
+        "bbox": [
+            633,
+            200,
+            683,
+            229
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f2f35ba94914137000b9bc4da8f034393b4dcf78a8bc306f30f16de52484000.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            633,
+            251,
+            694,
+            283
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "<ToolGroup Inputs> ",
+        "bbox": [
+            700,
+            251,
+            870,
+            285
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca2d696f26f645d65739a3fb9735dd9924b21fda31d7abad6cac93217fba1bcd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            634,
+            290,
+            693,
+            320
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Image Source ",
+        "bbox": [
+            701,
+            290,
+            822,
+            322
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e66cb6ebf5f0921534428e162f81045064eab32bb8a8969edc107725172948e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            634,
+            329,
+            694,
+            357
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "OutputImage ",
+        "bbox": [
+            708,
+            329,
+            845,
+            361
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/754863990580fb8797b860cc4b899cf3ffadaa2a0726e3be8b164d801e4018fb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            634,
+            364,
+            694,
+            403
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CogImageFileTool1 ",
+        "bbox": [
+            701,
+            366,
+            863,
+            398
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/d19d76310248b54db0cbbd8bfafef26e5dac5587b3ac17cf33820ef27ee51a09.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            634,
+            407,
+            694,
+            438
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "InputImage ",
+        "bbox": [
+            708,
+            407,
+            845,
+            438
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4a0f7fc08e9e41e4438bbc55e36821ccfaf24b33f40e002214df1081cb70278.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            634,
+            444,
+            694,
+            472
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "OutputImage ",
+        "bbox": [
+            708,
+            444,
+            845,
+            475
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/7998b724f260ad92922a75f6a3b61259b25cca407494ebd0cb7a6d0c3bbe6c56.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            634,
+            479,
+            694,
+            511
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "<ToolGroup Outputs> ",
+        "bbox": [
+            701,
+            481,
+            884,
+            512
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "# ",
+        "bbox": [
+            0,
+            40,
+            72,
+            116
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "13 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            168,
+            972
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "加载/保存",
+        "text_level": 1,
+        "bbox": [
+            83,
+            62,
+            227,
+            112
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在图像文件控件中，有两个保存按钮",
+        "bbox": [
+            62,
+            174,
+            500,
+            212
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "一个保存整个工具和其所有的设置到.vpp文件中",
+        "bbox": [
+            91,
+            222,
+            538,
+            259
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "另一个将当前打开的文件中的图像保存到一个图像文件",
+        "bbox": [
+            91,
+            272,
+            597,
+            309
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ .bmp、.cdb、.idf或者.tif ",
+        "bbox": [
+            137,
+            320,
+            459,
+            362
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc85801f68c14967b09c61e01a12763cd9f6d9a635c5cf46512c3b93a42c67f0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            116,
+            618,
+            886,
+            888
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "14 ",
+        "bbox": [
+            29,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            979,
+            987
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Thank you. ",
+        "bbox": [
+            280,
+            329,
+            576,
+            407
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "15 ",
+        "bbox": [
+            30,
+            957,
+            41,
+            970
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "© 2019 Cognex Confidential ",
+        "bbox": [
+            54,
+            955,
+            169,
+            972
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "COGNEX ",
+        "bbox": [
+            855,
+            953,
+            977,
+            987
+        ],
+        "page_idx": 14
+    }
+]

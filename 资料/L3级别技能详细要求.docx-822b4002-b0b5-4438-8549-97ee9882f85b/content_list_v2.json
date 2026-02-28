@@ -1,0 +1,170 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "L3 考试大纲"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                426,
+                32,
+                569,
+                54
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/262e2c478170767e48fd9e5eb53ebf37cf40dce1eb782a0b4a60e1ebe11380b8.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Level 3 "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Categori\ny</td><td>Class</td><td>考纲要求</td></tr><tr><td rowspan=\"4\">Vision Basic</td><td>工业镜头选型</td><td>镜头选型的方法,镜头在选型过程中需要考量的参数</td></tr><tr><td>工业相机选型</td><td>相机选型的方法,相机在选型过程中需要考量的参数</td></tr><tr><td>机器视觉光源选型</td><td>光源选型的方法,光源在选型过程中需要考量的参数</td></tr><tr><td>视觉项目评估</td><td>整体视觉项目评估方案,相机,镜头,光源</td></tr><tr><td rowspan=\"6\">Vison Tools</td><td>1.CogPMAignTool高级参数\n&amp;PMAlignMulit&amp;Inspect&amp;CNLSearch&amp;Search Max</td><td>弹性、颗粒度、对比度阈值、自动边缘阈值、XY重叠、重复度等高级参数调整\nPMAlignMulit&amp;Inspect&amp;CNLSearch&amp;SearchMax基础应用</td></tr><tr><td>2.CogCaliperTool高级参数应用</td><td>计分函数对比度、位置、尺寸、跨立函数的应用</td></tr><tr><td>3.LineMaxTool</td><td>预期法线、边缘点提取参数</td></tr><tr><td>4.HistogramTool高级参数应用</td><td>灰度直方图读取、区域形状选择、区域模式、容器模式</td></tr><tr><td>5.CogBlobTool高级参数应用</td><td>图像分割、模式、连通性、形态调整操作、特性、过滤与排序</td></tr><tr><td>6.ImageProcessTool高级参数应用</td><td>运算符设置、灰度形态学调整</td></tr><tr><td rowspan=\"2\">Dataman</td><td>1.多个码的调试应用</td><td>多个码的调试应用</td></tr><tr><td>2.扫码枪的选型(根据码的特性,选择型号及安装方式)</td><td>遇到一个新的条码,该如何去选择合适的扫码枪型号</td></tr><tr><td></td><td>3.FA的书写</td><td>FA的书写</td></tr><tr><td rowspan=\"7\">Fixture\ndebug</td><td>关键参数设置</td><td>关键参数设置与调整</td></tr><tr><td>流程试跑</td><td>视觉流程试跑</td></tr><tr><td>数据收集</td><td>动静态数据测试与确认</td></tr><tr><td rowspan=\"4\">异常处理与分析</td><td>常见视觉异常处理方式介绍</td></tr><tr><td>特定设备异常处理方式介绍</td></tr><tr><td>设备深度异常分析</td></tr><tr><td>设备数据统计与分析</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                112,
+                924,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                4,
+                924,
+                312
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Level3：技能说明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                3,
+                323,
+                221,
+                344
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a9287241c7f352998e02b5851d92923964ec5fb009ad66c9a9d8be9e8d73ab40.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>1.对Cognex操作软件有深入的了解，并熟悉对应设备的计算逻辑。</td></tr><tr><td>2.了解Congex软件和SI、光源厂商软件的通讯模式。</td></tr><tr><td>3.理解Cogenx视觉工具重要参数的意义,并能熟练运用。</td></tr><tr><td>4.日常维护中能协助CM/SI进行全面的异常分析,并能给与改善建议。</td></tr><tr><td>5.可以协助工程师完成DOE验证,并能完成初步的数据分析。</td></tr><tr><td>1.对VisionTool的重用参数理解并应用</td></tr><tr><td>2.可以通过对图片参数的分析,进行工具的选择和参数调试,制定标准参数范围</td></tr><tr><td>3.了解机器视觉在这个设备中的意义。</td></tr><tr><td>4.充分理解机构、光源、运动部件以及产品材料和视觉系统之间的相互影响,可以与设备商或其他配件商合作分析异常,并可以给出相应的书面分析报告</td></tr><tr><td>5.可以设计简单的DOE过程,和给出验证结果</td></tr><tr><td>6.可以读懂常用工具或标模块化的脚本文件。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                344,
+                831,
+                781
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/24dbebfb5043a605ad559d86d94616799c359424f1066c0468fd341f4682db4a.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 3 机器视觉维护与应用技能等级要求（三级）"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>工作领域</td><td>工作任务</td><td>技能要求描述</td></tr><tr><td>1 3D 视觉系统图像处理</td><td>1.1 图像获取</td><td>1.1.1 能够根据工作环境要求正确设置Xscale、StepsPerLine、DistancePerCycle、MeasuringFiled 触发参数1.1.2 能够正确使用 3D 采图工具采集图像</td></tr><tr><td></td><td>1.2图像质量优化</td><td>1.2.1能够根据工作要求综合应用光源强度、曝光、增益等参数设置</td></tr><tr><td rowspan=\"2\">2数据分析和文档输出</td><td>2.1数据验证与分析</td><td>2.1.1能够根据工作任务分析DOE验证的数据结果2.1.2能够根据工作任务,借助图表工具进行数据分析</td></tr><tr><td>2.2文档输出</td><td>2.2.1能够根据异常分析结果编写异常分析报告2.2.2能够根据工作要求编写视觉常见异常分析表2.2.3能够根据调机点检步骤编写视觉调机步骤点检表2.3.4能够根据调机步骤编写视觉调机标准操作程序手册2.3.5能够根据调机步骤编写视觉调试标准步骤说明书</td></tr><tr><td rowspan=\"2\">3机器视觉系统高级维护</td><td>3.1视觉系统非常规异常分析</td><td>3.1.1能够根据视觉系统异常现象进行视觉标定异常分析3.1.2能够根据视觉系统异常现象进行视觉通讯协议异常分析(视觉系统与设备通讯,视觉系统与光源系统通讯)3.1.3能够根据License Bit升级流程,正确进行板卡、加密狗升级异常分析3.1.4能够根据视觉系统异常现象进行非常规异常分析</td></tr><tr><td>3.2视觉系统非常规异常处理</td><td>3.2.1能够根据视觉系统异常现象进行视觉标定异常处理3.2.2能够根据视觉系统异常现象进行视觉通讯协议异常处理(视觉系统与设备通讯,视觉系统与光源系统通讯)3.2.3能够根据License Bit升级流程进行板卡、加密狗升级异常处理3.2.4能够根据视觉系统异常现象进行其他非常规异常处理</td></tr><tr><td>4机器视觉工具高级应用</td><td>4.1 2D视觉工具高级参数应用</td><td>4.1.1能够熟练掌握CogPMAAlignTool高级参数并正确应用4.1.2能够掌握PMAlignMulitTool基础应用4.1.3能够掌握PatInspect和CNLSearch基础应用4.1.4能够掌握SearchMax基础应用4.1.5能够熟练掌握CogCaliperTool高级参数并正确应用4.1.6能够掌握LineMaxTool基础应用4.1.7能够熟练掌握HistogramTool高级参数并正确应用4.1.8能够熟练掌握CogBlobTool高级参数并正确应用</td></tr><tr><td rowspan=\"4\"></td><td></td><td>4.1.9能够熟练掌握ImageProcessTool高级参数并正确应用</td></tr><tr><td rowspan=\"3\">4.2 3D视觉工具应用</td><td>4.2.1能够掌握Cog3DRangeImagePlaneEstimatorTool应用</td></tr><tr><td>4.2.2能够掌握Cog3DRangeImageHeightCalculateTool应用</td></tr><tr><td>4.2.3能够掌握Cog3DRangeImageCrossSectionTool应用</td></tr><tr><td rowspan=\"17\">5机器视觉功能综合应用</td><td rowspan=\"5\">5.1多目标查找定位功能视觉程序搭建</td><td>5.1.1能够使用图像定位工具对多目标进行定位</td></tr><tr><td>5.1.2能够使用标准图像进行模板训练</td></tr><tr><td>5.1.3能够正确设置模板匹配工具的运行参数</td></tr><tr><td>5.1.4能够根据项目要求(视觉检测CT、误判率等指标)优化视觉工具参数</td></tr><tr><td>5.1.5能够正确使用模板匹配工具进行功能验证</td></tr><tr><td rowspan=\"5\">5.2复杂量测功能视觉程序搭建</td><td>5.2.1能够使用定位工具实现目标定位</td></tr><tr><td>5.2.2能够使用定位工具实现坐标系跟随</td></tr><tr><td>5.2.3能够正确设置尺寸测量工具运行参数</td></tr><tr><td>5.2.4能够根据项目要求(视觉检测CT、误判率等指标)优化视觉工具参数</td></tr><tr><td>5.2.5能够正确使用尺寸测量工具进行测试</td></tr><tr><td rowspan=\"3\">5.3缺陷与瑕疵检测功能视觉程序搭建</td><td>5.3.1能够根据工作任务要求综合使用图像处理工具搭建缺陷与瑕疵检测功能视觉程序</td></tr><tr><td>5.3.2能够根据工作任务要求进行缺陷与瑕疵检测应用高级参数设置</td></tr><tr><td>5.3.3能够根据工作任务要求对缺陷与瑕疵检测进行调试优化</td></tr><tr><td rowspan=\"4\">5.4视觉读码功能程序搭建</td><td>5.4.1能够根据工作任务要求正确获取图像</td></tr><tr><td>5.4.2能够按照Vision Pro解码过程使用CogIDTool进行读码</td></tr><tr><td>5.4.3能够熟练使用CogOCVTool、CogOCRTool进行字符识别</td></tr><tr><td>5.4.4能够使用CogResultAnalysisTool对解码结果进行判断输出</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                813,
+                996,
+                967
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                0,
+                1000,
+                980
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                0,
+                1000,
+                829
+            ]
+        }
+    ]
+]
