@@ -1,0 +1,124 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', 'Microsoft YaHei', 'Segoe UI', Tahoma, sans-serif;
+
+  /* Cognex Colors but keeping the reference gradient styles */
+  --color-cognex-blue: #005596;
+  --color-cognex-amber: #ffb81c;
+}
+
+:root {
+    /* 浅色主题变量 (From Reference) */
+    --bg-primary: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    --bg-card: rgba(255, 255, 255, 0.95);
+    --bg-card-secondary: #fafafa;
+    --bg-input: white;
+    --text-primary: #333;
+    --text-secondary: #555;
+    --text-muted: #666;
+    --border-color: #e0e0e0;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+    --accent-gradient: linear-gradient(135deg, #667eea, #764ba2);
+    --success-gradient: linear-gradient(135deg, #11998e, #38ef7d);
+    --error-gradient: linear-gradient(135deg, #ff6b6b, #ee5253);
+    --code-bg: #2d2d2d;
+    --code-text: #f8f8f2;
+}
+
+body {
+    font-family: var(--font-sans);
+    background: var(--bg-primary);
+    min-height: 100vh;
+    margin: 0;
+    color: var(--text-primary);
+}
+
+#root {
+    width: 100%;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--accent-gradient);
+    border-radius: 4px;
+}
+
+/* Transitions */
+.page-transition {
+    transition: all 0.3s ease;
+}
+
+/* Custom classes for the cards to use reference styles */
+.glass-card {
+    background: var(--bg-card);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    box-shadow: 0 10px 40px var(--shadow-color);
+}
+
+.option-item {
+    display: flex;
+    align-items: flex-start;
+    padding: 15px 20px;
+    background: var(--bg-input);
+    border: 2px solid var(--border-color);
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.option-item:hover {
+    border-color: #667eea;
+    background: var(--bg-card-secondary);
+}
+
+.option-item.selected {
+    border-color: #667eea;
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+}
+
+.option-item.correct {
+    border-color: #11998e;
+    background: linear-gradient(135deg, rgba(17, 153, 142, 0.1), rgba(56, 239, 125, 0.1));
+}
+
+.option-item.wrong {
+    border-color: #ff6b6b;
+    background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(255, 107, 107, 0.05));
+}
+
+.option-label {
+    width: 30px;
+    height: 30px;
+    background: var(--border-color);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: var(--text-muted);
+    margin-right: 15px;
+    flex-shrink: 0;
+}
+
+.option-item.selected .option-label {
+    background: var(--accent-gradient);
+    color: white;
+}
+
+.option-item.correct .option-label {
+    background: var(--success-gradient);
+    color: white;
+}
+
+.option-item.wrong .option-label {
+    background: #ff6b6b;
+    color: white;
+}
